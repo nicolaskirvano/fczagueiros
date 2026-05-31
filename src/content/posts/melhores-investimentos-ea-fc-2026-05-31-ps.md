@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:44:01.000Z
+pubDatetime: 2026-05-31T21:27:50.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,33 +32,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Rafael Márquez | 88 | LALIGA EA SPORTS | 38k coins | +7% | +51.5% | 5% |
-| Sol Campbell | 88 | — | 30k coins | +7.1% | +39.5% | 50% |
-| Jakub Kiwior | 94 | — | 30k coins | +6.2% | +37.9% | 5% |
-| Jacobo Ramón | 94 | — | 28k coins | +3.8% | +37.5% | 95% |
-| Willi Orban | 86 | Bundesliga | 22k coins | +17.3% | +37.5% | 43% |
-| Nathan Collins | 85 | Premier League | 26k coins | +2% | +32% | 68% |
-| Manuel Akanji | 91 | — | 28k coins | +19.6% | +31% | 18% |
-| Ingrid Syrstad Engen | 93 | — | 37k coins | +30.1% | +29% | 5% |
-| Steffi Jones | 89 | Icons | 38k coins | +9.3% | +28.6% | 58% |
-| Millie Bright | 88 | Barclays WSL | 26k coins | +32.5% | +26.2% | 50% |
-| Jonathan Tah | 88 | Bundesliga | 23k coins | +12.2% | +24.3% | 28% |
-| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +13.4% | +23.6% | 5% |
-| Shelina Zadorsky | 87 | Barclays WSL | 20k coins | +11.1% | +23.1% | 42% |
-| Matthias Ginter | 88 | Bundesliga | 28k coins | +22.6% | +22.6% | 95% |
-| Millie Bright | 94 | Barclays WSL | 109k coins | +9% | +21.8% | 57% |
+| Jacobo Ramón | 94 | — | 29k coins | +8.4% | +43.2% | 95% |
+| Jade Rose | 85 | Barclays WSL | 39k coins | +5.4% | +39.6% | 50% |
+| Jakub Kiwior | 94 | — | 33k coins | +12% | +39.4% | 5% |
+| Alessandro Nesta | 88 | — | 22k coins | +18.9% | +35.4% | 27% |
+| Loïc Badé | 88 | Bundesliga | 29k coins | +33% | +34.5% | 5% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 42k coins | +23.5% | +25.4% | 33% |
+| Marquinhos | 88 | Ligue 1 McDonald's | 81k coins | +24.6% | +24.6% | 95% |
+| Pubill | 92 | — | 28k coins | +14% | +23.9% | 23% |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 54k coins | +11.5% | +23.7% | 5% |
+| Marcel Desailly | 93 | — | 195k coins | +1% | +22.6% | 47% |
+| Ricardo Carvalho | 89 | Liga Portugal | 91k coins | +27.3% | +22.2% | 50% |
+| Pierre Kalulu | 91 | Serie A TIM | 86k coins | +14% | +22.1% | 5% |
+| Mapi León | 91 | — | 23k coins | +12.2% | +21% | 16% |
+| Laurent Blanc | 88 | Icons | 87k coins | +3.6% | +20.8% | 44% |
 
 
 ## 📈 Análise dos destaques
 
 - **Rafael Márquez (88)** — 38k coins, **+51.5% em 7 dias** (+7% em 24h). Preço +48% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Sol Campbell (88)** — 30k coins, **+39.5% em 7 dias** (+7.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jacobo Ramón (94)** — 29k coins, **+43.2% em 7 dias** (+8.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Jakub Kiwior (94)** — 30k coins, **+37.9% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Jade Rose (85)** — 39k coins, **+39.6% em 7 dias** (+5.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jacobo Ramón (94)** — 28k coins, **+37.5% em 7 dias** (+3.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Jakub Kiwior (94)** — 33k coins, **+39.4% em 7 dias** (+12% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Willi Orban (86)** — 22k coins, **+37.5% em 7 dias** (+17.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Alessandro Nesta (88)** — 22k coins, **+35.4% em 7 dias** (+18.9% em 24h). Preço em linha com a média de 7 dias (-2%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -84,6 +84,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

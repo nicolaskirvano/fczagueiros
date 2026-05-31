@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:44:03.000Z
+pubDatetime: 2026-05-31T21:27:51.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +4.2% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +3.2% |
 | Ingrid Syrstad Engen | 90 | CB | — | 14k coins | -24.7% |
-| Mapi León | 89 | CB | Liga F | 6k coins | -4.6% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | +10% |
-| Irene Paredes | 88 | CB | Liga F | 4k coins | +2.9% |
-| Gabriel | 88 | CB | Premier League | 4k coins | +2.8% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12k coins | +2% |
+| Mapi León | 89 | CB | Liga F | 7k coins | +4.6% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +4.4% |
+| Irene Paredes | 88 | CB | Liga F | 4k coins | +5.7% |
+| Gabriel | 88 | CB | Premier League | 4k coins | +5.6% |
 | Jess Carter | 88 | CB | NWSL | 14k coins | 0% |
-| Jonathan Tah | 87 | CB | Bundesliga | 3k coins | +107.7% |
-| Leah Williamson | 87 | CB | Barclays WSL | 3k coins | +16.7% |
-| Marquinhos | 87 | CB | Ligue 1 McDonald's | 3k coins | +12% |
-| William Saliba | 87 | CB | Premier League | 3k coins | +61.1% |
-| Millie Bright | 87 | CB | Barclays WSL | 6k coins | 0% |
+| Leah Williamson | 87 | CB | Barclays WSL | 2k coins | +4.2% |
+| William Saliba | 87 | CB | Premier League | 3k coins | +23.8% |
+| Marquinhos | 87 | CB | Ligue 1 McDonald's | 3k coins | +12.5% |
+| Millie Bright | 87 | CB | Barclays WSL | 6k coins | -6.2% |
 | Bremer | 87 | CB | Serie A TIM | 12k coins | -80.7% |
 | Ladislav Krejčí | 87 | CB | — | 12k coins | -4.2% |
+| Chibuike Nwaiwu | 87 | CB | — | 12k coins | -2% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +5.9% |
 
 
 ## 📈 Destaques
@@ -52,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Ingrid Syrstad Engen (90, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **6k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **7k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
 - **Irene Paredes (88, CB)** da Liga F, a apenas **4k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

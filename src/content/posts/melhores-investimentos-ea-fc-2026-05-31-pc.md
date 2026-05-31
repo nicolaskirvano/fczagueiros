@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:44:02.000Z
+pubDatetime: 2026-05-31T21:27:51.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -33,10 +33,10 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Jade Rose | 85 | Barclays WSL | 55k coins | +8.9% | +73.2% | 62% |
 | Ousmane Diomande | 85 | Liga Portugal | 55k coins | +23.6% | +69.2% | 56% |
-| Ricardo Carvalho | 88 | Liga Portugal | 20k coins | +16.4% | +47.2% | 56% |
 | Nicolás Otamendi | 86 | Liga Portugal | 65k coins | +8.3% | +40.5% | 50% |
 | Jakub Kiwior | 94 | — | 42k coins | +6.4% | +39.2% | 0% |
 | Gianluca Mancini | 85 | Serie A TIM | 31k coins | +11.7% | +36.3% | 46% |
+| Andrea Barzagli | 87 | Serie A TIM | 16k coins | +1.6% | +27.4% | 50% |
 | Jacobo Ramón | 94 | — | 25k coins | +1% | +25% | 74% |
 | Kalidou Koulibaly | 92 | — | 30k coins | +4.4% | +25% | 0% |
 | Willi Orban | 86 | Bundesliga | 36k coins | +36.4% | +24.8% | 18% |
@@ -45,7 +45,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Andrea Barzagli | 89 | — | 105k coins | +5.5% | +23.5% | 43% |
 | Davinson Sánchez | 92 | — | 40k coins | +16.1% | +20.4% | 0% |
 | Edmond Tapsoba | 86 | Bundesliga | 24k coins | +11.9% | +17.5% | 17% |
-| Rocío Gálvez | 88 | Liga F | 25k coins | +25% | +14.9% | 72% |
+| Iván Córdoba | 87 | Serie A TIM | 17k coins | +32.7% | +17% | 43% |
 
 
 ## 📈 Análise dos destaques
@@ -54,11 +54,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Ousmane Diomande (85)** — 55k coins, **+69.2% em 7 dias** (+23.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ricardo Carvalho (88)** — 20k coins, **+47.2% em 7 dias** (+16.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
 - **Nicolás Otamendi (86)** — 65k coins, **+40.5% em 7 dias** (+8.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Jakub Kiwior (94)** — 42k coins, **+39.2% em 7 dias** (+6.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Gianluca Mancini (85)** — 31k coins, **+36.3% em 7 dias** (+11.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -84,6 +84,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

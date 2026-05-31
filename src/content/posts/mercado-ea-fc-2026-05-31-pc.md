@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:44:02.000Z
+pubDatetime: 2026-05-31T21:27:51.000Z
 title: "Zagueiros no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Marwane Saadane (83), -48% em 24h, a 20k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 95 cartas em alta contra 116 em queda (média 1.5%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 96 cartas em alta contra 120 em queda (média 1.54%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **95 subiram** e **116 caíram**, com variação média de **1.5%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **96 subiram** e **120 caíram**, com variação média de **1.54%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Juan David Cabal (85) **+52.7%** · 🔴 **Maior baixa:** Marwane Saadane (83) **-48%**
 
@@ -59,6 +59,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | --- | --- | --- | --- | --- | --- |
 | Marwane Saadane | 83 | Brasileirão | 20k coins | -48% | -55.3% |
 | Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | -46.8% | +40% |
+| Giorgio Chiellini | 88 | Icons | 111k coins | -42.5% | -3.5% |
 | Ahmed Hegazi | 87 | Brasileirão | 22k coins | -37.8% | -1.1% |
 | Nathan Collins | 85 | Premier League | 20k coins | -35.5% | -14% |
 | Dan Burn | 86 | Premier League | 150k coins | -34.8% | -20.2% |
@@ -66,7 +67,6 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Santiago Sosa | 93 | — | 26k coins | -31.6% | -38% |
 | Ibañez | 93 | — | 130k coins | -31.6% | +9.2% |
 | Luke Shaw | 86 | Premier League | 28k coins | -29.9% | -34.9% |
-| Murillo | 87 | Premier League | 92k coins | -29.1% | -7.6% |
 
 
 ### Análise das baixas
@@ -75,7 +75,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 - **Marc Bartra (87)** caiu **-46.8%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -37% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Ahmed Hegazi (87)** caiu **-37.8%** em 24h, a **22k coins** (faixa do dia: 20k–36k). Está -22% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Giorgio Chiellini (88)** caiu **-42.5%** em 24h, a **111k coins** (faixa do dia: 106k–193k). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -92,11 +92,13 @@ Juan David Cabal (85, Serie A TIM), com +52.7% em 24h, a 28k coins no PC.
 Marwane Saadane (83), -48% em 24h, a 20k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 95 cartas em alta contra 116 em queda (média 1.5%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 96 cartas em alta contra 120 em queda (média 1.54%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 
