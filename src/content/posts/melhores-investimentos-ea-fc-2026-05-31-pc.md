@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:51.000Z
+pubDatetime: 2026-05-31T22:44:02.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Jade Rose (85, Barclays WSL) lidera, com +73.2% em 7 dias a 55k coins no PC, e o modelo dá 62% de chance de seguir subindo."
+    a: "Vanessa Gilles (94, sem liga) lidera, com +58.4% em 7 dias a 40k coins no PC."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Jade Rose (85) acumula **+73.2% em 7 dias** a 55k coins.
+> 🔝 **Destaque:** Vanessa Gilles (94) acumula **+58.4% em 7 dias** a 40k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jade Rose | 85 | Barclays WSL | 55k coins | +8.9% | +73.2% | 62% |
-| Ousmane Diomande | 85 | Liga Portugal | 55k coins | +23.6% | +69.2% | 56% |
-| Nicolás Otamendi | 86 | Liga Portugal | 65k coins | +8.3% | +40.5% | 50% |
-| Jakub Kiwior | 94 | — | 42k coins | +6.4% | +39.2% | 0% |
-| Gianluca Mancini | 85 | Serie A TIM | 31k coins | +11.7% | +36.3% | 46% |
+| Vanessa Gilles | 94 | — | 40k coins | +37.9% | +58.4% | 0% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 52k coins | +36.4% | +47.9% | 66% |
+| Sol Campbell | 88 | — | 60k coins | +3.4% | +33.3% | 26% |
+| Maxence Lacroix | 87 | Premier League | 120k coins | +12.2% | +33.3% | 55% |
 | Andrea Barzagli | 87 | Serie A TIM | 16k coins | +1.6% | +27.4% | 50% |
-| Jacobo Ramón | 94 | — | 25k coins | +1% | +25% | 74% |
-| Kalidou Koulibaly | 92 | — | 30k coins | +4.4% | +25% | 0% |
-| Willi Orban | 86 | Bundesliga | 36k coins | +36.4% | +24.8% | 18% |
-| Gustaf Lagerbielke | 91 | — | 20k coins | +2.6% | +23.8% | 0% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 62k coins | +33% | +23.6% | 72% |
-| Andrea Barzagli | 89 | — | 105k coins | +5.5% | +23.5% | 43% |
-| Davinson Sánchez | 92 | — | 40k coins | +16.1% | +20.4% | 0% |
-| Edmond Tapsoba | 86 | Bundesliga | 24k coins | +11.9% | +17.5% | 17% |
+| Jürgen Kohler | 91 | — | 34k coins | +36.4% | +25% | 57% |
+| Gianluca Mancini | 85 | Serie A TIM | 29k coins | +3.6% | +25% | 46% |
+| Maya Le Tissier | 95 | — | 27k coins | +8% | +22.7% | 0% |
+| Gustaf Lagerbielke | 91 | — | 20k coins | +6.7% | +17.6% | 0% |
 | Iván Córdoba | 87 | Serie A TIM | 17k coins | +32.7% | +17% | 43% |
+| Jawad El Yamiq | 87 | LaLiga Hypermotion | 21k coins | +6.3% | +16.7% | 37% |
+| Ingrid Syrstad Engen | 93 | — | 34k coins | +31.4% | +15% | 0% |
+| Ricardo Carvalho | 88 | Liga Portugal | 20k coins | +9.7% | +12.9% | 56% |
+| Steffi Jones | 89 | Icons | 34k coins | +30.2% | +11.3% | 56% |
+| Marcos Senesi | 88 | Premier League | 33k coins | +3.1% | +10.8% | 42% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jade Rose (85)** — 55k coins, **+73.2% em 7 dias** (+8.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Vanessa Gilles (94)** — 40k coins, **+58.4% em 7 dias** (+37.9% em 24h). Preço +45% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ousmane Diomande (85)** — 55k coins, **+69.2% em 7 dias** (+23.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Javier Mascherano (90)** — 52k coins, **+47.9% em 7 dias** (+36.4% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nicolás Otamendi (86)** — 65k coins, **+40.5% em 7 dias** (+8.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Sol Campbell (88)** — 60k coins, **+33.3% em 7 dias** (+3.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jakub Kiwior (94)** — 42k coins, **+39.2% em 7 dias** (+6.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maxence Lacroix (87)** — 120k coins, **+33.3% em 7 dias** (+12.2% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gianluca Mancini (85)** — 31k coins, **+36.3% em 7 dias** (+11.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andrea Barzagli (87)** — 16k coins, **+27.4% em 7 dias** (+1.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Jade Rose (85, Barclays WSL) lidera, com +73.2% em 7 dias a 55k coins no PC, e o modelo dá 62% de chance de seguir subindo.
+Vanessa Gilles (94, sem liga) lidera, com +58.4% em 7 dias a 40k coins no PC.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
