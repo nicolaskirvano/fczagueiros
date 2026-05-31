@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:34.000Z
+pubDatetime: 2026-05-31T19:44:02.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,16 +32,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Virgil van Dijk | 90 | CB | Premier League | 8k coins | -3.4% |
 | Alexandre Penetra | 90 | CB | — | 13k coins | 0% |
 | Ingrid Syrstad Engen | 90 | CB | — | 15k coins | +9.1% |
-| Mapi León | 89 | CB | Liga F | 6k coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -1.9% |
+| Mapi León | 89 | CB | Liga F | 6k coins | +5.4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +2% |
 | Sepp van den Berg | 89 | CB | Premier League | 15k coins | 0% |
-| Irene Paredes | 88 | CB | Liga F | 2k coins | +4.2% |
 | Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -12.5% |
 | Jess Carter | 88 | CB | NWSL | 14k coins | 0% |
-| William Saliba | 87 | CB | Premier League | 2k coins | +36.4% |
+| Leah Williamson | 87 | CB | Barclays WSL | 2k coins | +6.7% |
 | Jonathan Tah | 87 | CB | Bundesliga | 2k coins | -5.6% |
 | Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | -10.5% |
-| Millie Bright | 87 | CB | Barclays WSL | 5k coins | +2.1% |
+| William Saliba | 87 | CB | Premier League | 2k coins | +31.2% |
+| Millie Bright | 87 | CB | Barclays WSL | 5k coins | 0% |
 | Bremer | 87 | CB | Serie A TIM | 12k coins | -65.4% |
 | Ramy Bensebaini | 87 | CB | — | 12k coins | -60% |
 
