@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:44:02.000Z
+pubDatetime: 2026-06-01T13:44:01.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Jamie Carragher | 89 | — | 19k coins | +11.8% | +68.9% | 95% |
 | Samson Baidoo | 85 | Ligue 1 McDonald's | 64k coins | +19.8% | +61.8% | 5% |
+| Rafael Márquez | 88 | LALIGA EA SPORTS | 39k coins | +11.4% | +50% | 5% |
 | Sol Campbell | 91 | — | 27k coins | +13.5% | +47.3% | 23% |
 | Jonathan Tah | 88 | Bundesliga | 26k coins | +20.4% | +47.2% | 28% |
-| Ledley King | 86 | Premier League | 19k coins | +6.9% | +42.6% | 95% |
 | Millie Bright | 88 | Barclays WSL | 30k coins | +12.3% | +41.7% | 50% |
 | Luka Vušković | 94 | — | 28k coins | +17.7% | +37.8% | 53% |
 | Pierre Kalulu | 91 | Serie A TIM | 94k coins | +33.1% | +37% | 5% |
@@ -54,11 +54,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Samson Baidoo (85)** — 64k coins, **+61.8% em 7 dias** (+19.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
+- **Rafael Márquez (88)** — 39k coins, **+50% em 7 dias** (+11.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+
 - **Sol Campbell (91)** — 27k coins, **+47.3% em 7 dias** (+13.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Jonathan Tah (88)** — 26k coins, **+47.2% em 7 dias** (+20.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
-
-- **Ledley King (86)** — 19k coins, **+42.6% em 7 dias** (+6.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista

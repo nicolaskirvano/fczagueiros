@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:44:01.000Z
+pubDatetime: 2026-06-01T13:44:01.000Z
 title: "Zagueiros no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Matthias Ginter (88) — 95% de probabilidade de alta, a 29k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 131 cartas em alta contra 131 em queda (média 1.65%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 131 cartas em alta contra 131 em queda (média 1.55%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **131 subiram** e **131 caíram**, com variação média de **1.65%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **131 subiram** e **131 caíram**, com variação média de **1.55%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Mark McKenzie (89) **+57.9%** · 🔴 **Maior baixa:** Marc Bartra (87) **-43.5%**
 
@@ -35,7 +35,6 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Mark McKenzie | 89 | Ligue 1 McDonald's | 38k coins | +57.9% | +50% |
-| Iván Córdoba | 87 | Serie A TIM | 23k coins | +53.3% | +5.8% |
 | Wendie Renard | 91 | D1 Arkema | 30k coins | +50% | +15.4% |
 | Juan David Cabal | 85 | Serie A TIM | 34k coins | +47.8% | +3.8% |
 | Sherida Spitse | 85 | Nederland Vrouwen Liga | 20k coins | +40.4% | +9.6% |
@@ -43,6 +42,7 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | José María Giménez | 87 | LALIGA EA SPORTS | 32k coins | +33.3% | -7.2% |
 | Pierre Kalulu | 91 | Serie A TIM | 94k coins | +33.1% | +37% |
 | Ahmed Hegazi | 87 | Brasileirão | 24k coins | +29.3% | +34.7% |
+| Iván Córdoba | 87 | Serie A TIM | 24k coins | +29% | +12.6% |
 | José Fonte | 85 | Liga Portugal | 40k coins | +28.2% | +3.2% |
 
 
@@ -50,9 +50,9 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Mark McKenzie (89)** subiu **+57.9%** em 24h, a **38k coins** (faixa do dia: 20k–54k). Está +52% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Iván Córdoba (87)** subiu **+53.3%** em 24h, a **23k coins** (faixa do dia: 15k–25k). Está +11% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
-
 - **Wendie Renard (91)** subiu **+50%** em 24h, a **30k coins** (faixa do dia: 24k–32k). Está +21% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+
+- **Juan David Cabal (85)** subiu **+47.8%** em 24h, a **34k coins** (faixa do dia: 24k–36k). Está +42% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -87,7 +87,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Matthias Ginter | 88 | 29k coins | 36k coins | 95% |
-| Fabio Cannavaro | 89 | 85k coins | 98k coins | 95% |
+| Fabio Cannavaro | 89 | 89k coins | 102k coins | 95% |
 | Naomi Girma | 87 | 70k coins | 80k coins | 95% |
 | Dan Burn | 86 | 185k coins | 220k coins | 95% |
 | Jacobo Ramón | 94 | 28k coins | 32k coins | 95% |
@@ -105,7 +105,7 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Ingrid Syrstad Engen | 93 | 30k coins | -23.8% |
 | Jakub Kiwior | 94 | 33k coins | -23.8% |
 | Evan Ndicka | 92 | 45k coins | -21.4% |
-| Rafael Márquez | 88 | 40k coins | -29.2% |
+| Rafael Márquez | 88 | 39k coins | -29.2% |
 | Steph Catley | 90 | 29k coins | -21.3% |
 | Carles Puyol | 88 | 29k coins | -15.6% |
 | Milan Škriniar | 93 | 27k coins | -23.8% |
@@ -129,7 +129,7 @@ Marc Bartra (87), -43.5% em 24h, a 26k coins.
 Pelo modelo FutQuant, Matthias Ginter (88) — 95% de probabilidade de alta, a 29k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 131 cartas em alta contra 131 em queda (média 1.65%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 131 cartas em alta contra 131 em queda (média 1.55%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

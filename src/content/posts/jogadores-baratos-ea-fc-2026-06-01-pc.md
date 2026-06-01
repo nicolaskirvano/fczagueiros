@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:44:03.000Z
+pubDatetime: 2026-06-01T13:44:03.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Virgil van Dijk | 90 | CB | Premier League | 10k coins | -3.1% |
-| Mapi León | 89 | CB | Liga F | 6k coins | +34.8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +4.4% |
-| Tara McKeown | 89 | CB | NWSL | 14k coins | -1.7% |
-| Gabriel | 88 | CB | Premier League | 3k coins | -17.1% |
-| Irene Paredes | 88 | CB | Liga F | 3k coins | -14.3% |
+| Ingrid Syrstad Engen | 90 | CB | — | 15k coins | -23.1% |
+| Mapi León | 89 | CB | Liga F | 6k coins | +32.6% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -5.4% |
 | Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | +12.2% |
 | Jess Carter | 88 | CB | NWSL | 14k coins | 0% |
+| Alessandro Bastoni | 87 | CB | Serie A TIM | 2k coins | 0% |
+| Leah Williamson | 87 | CB | Barclays WSL | 2k coins | 0% |
 | Jonathan Tah | 87 | CB | Bundesliga | 2k coins | +4.4% |
-| William Saliba | 87 | CB | Premier League | 3k coins | +40% |
-| Millie Bright | 87 | CB | Barclays WSL | 6k coins | +10.2% |
-| Chibuike Nwaiwu | 87 | CB | — | 11k coins | -10.2% |
+| Millie Bright | 87 | CB | Barclays WSL | 6k coins | +5% |
 | Ladislav Krejčí | 87 | CB | — | 11k coins | -8.3% |
-| Nico Schlotterbeck | 87 | CB | Bundesliga | 11k coins | -13.7% |
-| Ramy Bensebaini | 87 | CB | — | 11k coins | -67.9% |
+| Chibuike Nwaiwu | 87 | CB | — | 11k coins | -10.2% |
+| Ramy Bensebaini | 87 | CB | — | 11k coins | -71.8% |
+| Nico Schlotterbeck | 87 | CB | Bundesliga | 12k coins | -9.8% |
+| Bremer | 87 | CB | Serie A TIM | 13k coins | -7.1% |
 
 
 ## 📈 Destaques
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
+- **Ingrid Syrstad Engen (90, CB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Mapi León (89, CB)** da Liga F, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
 
-- **Tara McKeown (89, CB)** da NWSL, a apenas **14k coins**
-
-- **Gabriel (88, CB)** da Premier League, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
 
 
 ## Por que estas cartas?

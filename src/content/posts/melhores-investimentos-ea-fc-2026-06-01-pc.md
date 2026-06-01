@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:44:02.000Z
+pubDatetime: 2026-06-01T13:44:02.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Santiago Sosa (93, sem liga) lidera, com +75% em 7 dias a 35k coins no PC."
+    a: "Loïc Badé (88, Bundesliga) lidera, com +80.5% em 7 dias a 35k coins no PC, e o modelo dá 63% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Santiago Sosa (93) acumula **+75% em 7 dias** a 35k coins.
+> 🔝 **Destaque:** Loïc Badé (88) acumula **+80.5% em 7 dias** a 35k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Santiago Sosa | 93 | — | 35k coins | +32.1% | +75% | 0% |
-| Manuel Akanji | 91 | — | 32k coins | +19.6% | +54.2% | 62% |
-| Vanessa Gilles | 94 | — | 32k coins | +7.7% | +34% | 0% |
-| Milan Škriniar | 93 | — | 35k coins | +16.8% | +33.6% | 0% |
-| Luka Vušković | 94 | — | 29k coins | +11.5% | +31.8% | 0% |
-| Sergi Domínguez | 92 | — | 25k coins | +4.1% | +26.2% | 46% |
-| Steph Catley | 90 | Barclays WSL | 30k coins | +20.2% | +25.3% | 23% |
-| Dara O'Shea | 91 | — | 25k coins | +8.7% | +25% | 0% |
-| Jakub Kiwior | 94 | — | 37k coins | +19.4% | +23.3% | 0% |
-| Pubill | 92 | — | 28k coins | +29.9% | +22.8% | 0% |
-| Arseniy Batagov | 94 | — | 87k coins | +16% | +22.5% | 0% |
-| Caleb Taylor | 92 | — | 25k coins | +7.6% | +17.9% | 0% |
-| Pau Cubarsí | 93 | — | 179k coins | +19.3% | +17.8% | 0% |
-| Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +7.7% | +16.7% | 50% |
-| Gabriel | 89 | Premier League | 173k coins | +1.8% | +14.6% | 53% |
+| Loïc Badé | 88 | Bundesliga | 35k coins | +29.9% | +80.5% | 63% |
+| Jade Rose | 85 | Barclays WSL | 49k coins | +3.7% | +78.9% | 62% |
+| Vanessa Gilles | 94 | — | 40k coins | +5.3% | +70.2% | 0% |
+| Manuel Akanji | 91 | — | 30k coins | +9.3% | +42.2% | 62% |
+| Vanessa Gilles | 87 | GPFBL | 23k coins | +22.4% | +40.9% | 59% |
+| Milan Škriniar | 93 | — | 35k coins | +19.7% | +34.6% | 0% |
+| Jan Bednarek | 94 | — | 60k coins | +1.7% | +34.1% | 0% |
+| Jamie Carragher | 89 | — | 19k coins | +24.2% | +32.8% | 46% |
+| Craig Halkett | 91 | — | 30k coins | +26.6% | +32.2% | 36% |
+| Sergi Domínguez | 92 | — | 26k coins | +19.3% | +31.2% | 46% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 23k coins | +33.8% | +30% | 66% |
+| Ben Davies | 84 | Premier League | 35k coins | +32.1% | +27.3% | 61% |
+| Willi Orban | 86 | Bundesliga | 36k coins | +36.4% | +23.7% | 18% |
+| Alexsandro | 86 | Ligue 1 McDonald's | 20k coins | +37.9% | +23.1% | 54% |
+| Josip Šutalo | 89 | Eredivisie | 19k coins | +7% | +22.6% | 48% |
 
 
 ## 📈 Análise dos destaques
 
-- **Santiago Sosa (93)** — 35k coins, **+75% em 7 dias** (+32.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Loïc Badé (88)** — 35k coins, **+80.5% em 7 dias** (+29.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Manuel Akanji (91)** — 32k coins, **+54.2% em 7 dias** (+19.6% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jade Rose (85)** — 49k coins, **+78.9% em 7 dias** (+3.7% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Vanessa Gilles (94)** — 32k coins, **+34% em 7 dias** (+7.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Vanessa Gilles (94)** — 40k coins, **+70.2% em 7 dias** (+5.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Milan Škriniar (93)** — 35k coins, **+33.6% em 7 dias** (+16.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Manuel Akanji (91)** — 30k coins, **+42.2% em 7 dias** (+9.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Luka Vušković (94)** — 29k coins, **+31.8% em 7 dias** (+11.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Vanessa Gilles (87)** — 23k coins, **+40.9% em 7 dias** (+22.4% em 24h). Preço +50% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Santiago Sosa (93, sem liga) lidera, com +75% em 7 dias a 35k coins no PC.
+Loïc Badé (88, Bundesliga) lidera, com +80.5% em 7 dias a 35k coins no PC, e o modelo dá 63% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
