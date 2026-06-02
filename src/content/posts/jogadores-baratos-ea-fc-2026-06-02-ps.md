@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:44:02.000Z
+pubDatetime: 2026-06-02T13:44:02.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (02/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -38,12 +38,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Gabriel | 88 | CB | Premier League | 3k coins | +35% |
 | Irene Paredes | 88 | CB | Liga F | 3k coins | +7.7% |
 | Jess Carter | 88 | CB | NWSL | 14k coins | 0% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | +3.6% |
 | Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -9.4% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | +3.6% |
 | Alessandro Bastoni | 87 | CB | Serie A TIM | 2k coins | 0% |
 | William Saliba | 87 | CB | Premier League | 2k coins | -17.4% |
 | Leah Williamson | 87 | CB | Barclays WSL | 2k coins | 0% |
-| Jonathan Tah | 87 | CB | Bundesliga | 2k coins | +35.7% |
+| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | +11.8% |
 
 
 ## 📈 Destaques
