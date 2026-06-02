@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T22:44:02.000Z
+pubDatetime: 2026-06-02T01:44:02.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
