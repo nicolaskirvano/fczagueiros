@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:44:17.000Z
+pubDatetime: 2026-06-18T22:45:59.000Z
 title: "Zagueiros no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,89 +13,80 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Dávid Hancko (89, LALIGA EA SPORTS), com +55.3% em 24h, a 66k coins no PC."
+    a: "Éder Militão (88, LALIGA EA SPORTS), com +58.1% em 24h, a 246k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nico Schlotterbeck (87), -47% em 24h, a 22k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado de lado - altas e quedas se equilibram, com 89 cartas em alta contra 124 em queda (média -0.76%)."
+    a: "Adil Demirbağ (84), -43.9% em 24h, a 30k coins."
+  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 86 cartas em alta contra 140 em queda (média -1.26%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
-## 📊 Resumo do mercado hoje
+## 📈 O mercado hoje, em resumo
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **de lado** - altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **89 subiram** e **124 caíram**, com variação média de **-0.76%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+O mercado de zagueiros está em claro clima vendedor, com a maioria das cartas recuando, registrando 86 altas contra 140 quedas e uma média negativa de -1.26% nas últimas 24 horas. Essa volatilidade sugere que investidores estão priorizando liquidez rápida, aproveitando a desvalorização generalizada para ajustar carteiras.
 
-> 🟢 **Maior alta:** Dávid Hancko (89) **+55.3%** · 🔴 **Maior baixa:** Nico Schlotterbeck (87) **-47%**
+> 🟢 **Maior alta:** Éder Militão (88) **+58.1%** · 🔴 **Maior baixa:** Adil Demirbağ (84) **-43.9%**
 
-## 🟢 Maiores altas (24h)
+## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dávid Hancko | 89 | LALIGA EA SPORTS | 66k coins | +55.3% | 0% |
-| Nikola Katić | 90 | — | 95k coins | +46.2% | +11.8% |
-| Andrea Barzagli | 87 | Serie A TIM | 30k coins | +40.6% | +21.2% |
-| Matthias Ginter | 88 | Bundesliga | 85k coins | +36% | +70.9% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 170k coins | +34.5% | +33.3% |
-| Sol Campbell | 88 | — | 45k coins | +33.3% | +48.6% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 38k coins | +33.3% | +49% |
-| Iván Córdoba | 87 | Serie A TIM | 27k coins | +31% | +25% |
-| Tyrone Mings | 96 | — | 499k coins | +27.6% | +20.2% |
-| Vincent Kompany | 88 | Premier League | 38k coins | +27.1% | +12.8% |
+| Éder Militão | 88 | LALIGA EA SPORTS | 246k coins | +58.1% | +16.7% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 30k coins | +55.4% | +76.9% |
+| Ousmane Diomande | 85 | Liga Portugal | 49k coins | +44.5% | +39.4% |
+| Arseniy Batagov | 94 | — | 118k coins | +43.9% | +39% |
+| Franz Beckenbauer | 92 | Icons | 198k coins | +43.5% | +10% |
+| Steffi Jones | 89 | Icons | 35k coins | +38.1% | +21.8% |
+| Carl Starfelt | 88 | — | 38k coins | +37.5% | +69.2% |
+| Andrea Barzagli | 87 | Serie A TIM | 29k coins | +36.2% | +9.3% |
+| Andrea Barzagli | 88 | Serie A TIM | 46k coins | +28.7% | +41.5% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 55k coins | +28.7% | +71.9% |
 
 
-### Análise das altas
-
-- **Dávid Hancko (89)** subiu **+55.3%** em 24h, a **66k coins** (faixa do dia: 42k–85k). Está +23% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Nikola Katić (90)** subiu **+46.2%** em 24h, a **95k coins** (faixa do dia: 65k–100k). Está em linha com a média de 7 dias (+7%). O modelo vê **estabilização** no curto prazo.
-
-- **Andrea Barzagli (87)** subiu **+40.6%** em 24h, a **30k coins** (faixa do dia: 16k–28k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+Éder Militão lidera as altas com um impressionante ganho de 58.1%, atingindo 246k coins, seguido de perto por Eric Dier, que subiu 55.4% e custou 30k coins. Ousmane Diomande e Arseniy Batagov também se destacaram com saltos de 44.5% e 43.9% respectivamente, mostrando demanda pontual em ativos específicos.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nico Schlotterbeck | 87 | Bundesliga | 22k coins | -47% | -56.5% |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 34k coins | -42.5% | -15.3% |
-| Jonathan Tah | 88 | Bundesliga | 56k coins | -37.3% | -21.5% |
-| Leah Williamson | 95 | Barclays WSL | 189k coins | -35% | -22% |
-| Aldana Cometti | 85 | D1 Arkema | 46k coins | -33.2% | +61.2% |
-| Elba Vergés | 84 | Liga F | 30k coins | -26.8% | -13% |
-| Jamie Carragher | 89 | — | 23k coins | -26.7% | -4.3% |
-| Fabio Cannavaro | 89 | Icons | 99k coins | -26.3% | -15.2% |
-| Steph Catley | 90 | Barclays WSL | 41k coins | -25% | +4.4% |
-| Adil Demirbağ | 84 | EFL League One | 30k coins | -24.7% | -33.5% |
+| Adil Demirbağ | 84 | EFL League One | 30k coins | -43.9% | -31.8% |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 22k coins | -42.2% | -25.6% |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 37k coins | -38.8% | -9.8% |
+| Jonathan Tah | 88 | Bundesliga | 56k coins | -35.3% | -22.5% |
+| Harry Maguire | 83 | Premier League | 65k coins | -35% | +9.2% |
+| Leah Williamson | 95 | Barclays WSL | 197k coins | -34.3% | -20.9% |
+| Youri Baas | 84 | Eredivisie | 32k coins | -34.1% | -22.7% |
+| Aldana Cometti | 85 | D1 Arkema | 48k coins | -30.7% | +63.8% |
+| Juan David Cabal | 85 | Serie A TIM | 30k coins | -29.4% | +8.1% |
+| Jade Rose | 85 | Barclays WSL | 60k coins | -28.3% | -40.5% |
 
 
-### Análise das baixas
-
-- **Nico Schlotterbeck (87)** caiu **-47%** em 24h, a **22k coins** (faixa do dia: 22k–50k). Está -47% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Ismaëlo Ganiou (84)** caiu **-42.5%** em 24h, a **34k coins** (faixa do dia: 34k–34k). Está em linha com a média de 7 dias (-7%). O modelo vê **estabilização** no curto prazo.
-
-- **Jonathan Tah (88)** caiu **-37.3%** em 24h, a **56k coins** (faixa do dia: 50k–90k). Está -25% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+Adil Demirbağ sofreu a maior queda de 43.9%, caindo para 30k coins, enquanto Lotte Wubben-Moy despencou 42.2% e agora vale 22k coins. Ismaëlo Ganiou e Jonathan Tah também tiveram perdas significativas de 38.8% e 35.3%, indicando forte pressão de venda em cartas de ligas menores e opções de baixo custo.
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 Conclusão do dia
+A recomendação para hoje é evitar compras impulsivas em cartas em livre queda e focar na compra estratégica de ativos como Maguire e Baas, que mostram sinais de reversão. Para quem possui Militão ou Diomande, segurar o ativo pode ser a melhor estratégia enquanto o sentimento vendedor prevalece.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 🔍 Como apuramos os preços
+Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Dávid Hancko (89, LALIGA EA SPORTS), com +55.3% em 24h, a 66k coins no PC.
+Éder Militão (88, LALIGA EA SPORTS), com +58.1% em 24h, a 246k coins no PC.
 
 **E a maior queda do dia?**  
-Nico Schlotterbeck (87), -47% em 24h, a 22k coins.
+Adil Demirbağ (84), -43.9% em 24h, a 30k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado de lado - altas e quedas se equilibram, com 89 cartas em alta contra 124 em queda (média -0.76%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**  
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 86 cartas em alta contra 140 em queda (média -1.26%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
-Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
+Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
 > 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
