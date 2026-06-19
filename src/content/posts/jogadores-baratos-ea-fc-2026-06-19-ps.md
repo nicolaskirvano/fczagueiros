@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:45:43.000Z
+pubDatetime: 2026-06-19T19:45:19.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (19/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,29 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arthur Theate | 92 | CB | — | 14k coins | +7.8% |
-| Michael Boxall | 91 | CB | — | 15k coins | +14% |
-| Olwethu Makhanya | 91 | CB | — | 15k coins | +16% |
-| Virgil van Dijk | 90 | CB | Premier League | 11k coins | +10% |
-| Marquinhos | 87 | CB | Ligue 1 McDonald's | 3k coins | +68.4% |
-| Millie Bright | 87 | CB | Barclays WSL | 6k coins | +25.5% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +2.1% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -6.4% |
-| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -31% |
-| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
+| Arthur Theate | 92 | CB | — | 14k coins | +15.4% |
+| Olwethu Makhanya | 91 | CB | — | 14k coins | +20% |
+| Michael Boxall | 91 | CB | — | 15k coins | +20% |
+| Laura Georges | 87 | CB | D1 Arkema | 15k coins | +17% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | +4.3% |
+| Luka Vušković | 86 | CB | Bundesliga | 15k coins | +9.3% |
+| Millie Bright | 85 | CB | Barclays WSL | 7k coins | +22.6% |
+| Aymeric Laporte | 83 | CB | ROSHN Saudi League | 4k coins | +37% |
 
 
 ## 📈 Destaques
 
-- **Arthur Theate (92, CB)** da —, a apenas **14k coins**
+- **Arthur Theate (92, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Michael Boxall (91, CB)** da —, a apenas **15k coins**
+- **Olwethu Makhanya (91, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Olwethu Makhanya (91, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Michael Boxall (91, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **11k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **11k coins**
 
 
 ## Por que estas cartas?
