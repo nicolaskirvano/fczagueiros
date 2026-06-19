@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:45:29.000Z
+pubDatetime: 2026-06-19T01:45:21.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 47k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
+    a: "Ingrid Syrstad Engen (90, sem liga) lidera, com +86.2% em 7 dias a 37k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,17 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Maya Le Tissier (88) acumula **+89.3% em 7 dias** a 47k coins.
+> 🔝 **Destaque:** Ingrid Syrstad Engen (90) acumula **+86.2% em 7 dias** a 37k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No mercado de Zagueiros para consoles PS em 18/06/2026, a análise das tendências de valorização dos últimos sete dias aponta oportunidades claras para investidores cautelosos. Destaca-se imediatamente Maya Le Tissier (88, Barclays WSL), que registrou uma alta impressionante de 19,5% em apenas 24 horas, cotada a 47k coins. Com uma probabilidade de alta de 95%, esta carta apresenta o perfil mais robusto para entrada, combinando um impulso recente significativo com alta previsibilidade de continuidade na valorização.
+No cenário atual do EA FC Ultimate Team para consoles PlayStation, datado de 18 de junho de 2026, o mercado de zagueiros apresenta oportunidades interessantes para investidores que buscam lucros de curto prazo baseados em tendências recentes. Ao analisar as variações de preço das últimas 24 horas, destaca-se a performance de cartas com probabilidade de alta significativamente elevada, indicando uma forte pressão de compra no mercado. Entre as opções mais promissoras, o zagueiro do Porto, José Fonte, se mostra como uma das entradas mais seguras. Com uma valorização de 16,4% em apenas um dia e uma probabilidade de alta de 56%, a carta de rating 85 está cotada a 42.000 coins. Este perfil sugere que a tendência de alta já está consolidada, tornando-o um ativo de risco moderado com retorno potencial consistente para carteiras de investimento médio.
 
-Outra opção de altíssima confiança é Ledley King (86, Premier League). Embora tenha subido apenas 2,6% nas últimas 24 horas, sua cotação atual de 23k coins e a probabilidade de alta de 95% indicam uma tendência de crescimento sustentável. Para investidores que buscam segurança e menor risco de volatilidade negativa, King oferece uma entrada sólida, aproveitando a estabilidade do mercado da Premier League e a alta probabilidade estatística de apreciação futura.
+Outro nome que merece atenção imediata é Marcos Senesi, zagueiro da Premier League. Sua carta de rating 88 registrou um aumento de 10,3% nas últimas 24 horas e possui uma impressionante probabilidade de alta de 80%. Atualmente negociada na faixa de 40.000 coins, a alta probabilidade de continuação da tendência de valorização torna Senesi uma das apostas mais robustas do dia. Para investidores que preferem evitar riscos, a combinação de um aumento percentual já visível com uma chance tão elevada de continuidade oferece um cenário ideal para entrada, especialmente considerando a popularidade constante de jogadores da liga inglesa no meta do Ultimate Team.
 
-Por outro lado, cartas como Keven Schlotterbeck (89, Bundesliga) exigem cautela. Apesar de um pico de 22% em 24h a 21k coins, a probabilidade de alta é de apenas 5%, sugerindo que o movimento recente pode ser insustentável ou uma correção de curto prazo. Da mesma forma, jogadores como Alidu Seidu (89, Ligue 1 McDonald's) e Ingrid Syrstad Engen (90, s/liga), com altas de 11,1% e 11,7% respectivamente, possuem probabilidades de alta de apenas 5%, tornando-os arriscados para investimento a longo prazo.
+Para aqueles dispostos a arriscar em ativos de maior valor, Ousmane Diomande oferece um perfil interessante. O zagueiro de rating 85, também do Porto, subiu 4,7% em 24 horas e possui uma probabilidade de alta de 46%. Embora o percentual de crescimento diário seja menor que o de outros candidatos, a probabilidade de alta superior a 40% indica uma sustentabilidade na tendência. Cotada a 50.000 coins, a entrada em Diomande pode ser estratégica para quem busca diversificar em zagueiros de ligas menores que frequentemente sofrem com a volatilidade de eventos sazonais, mas que agora mostram sinais de estabilização e crescimento.
 
-Em resumo, as únicas cartas que realmente valem a entrada neste momento, baseadas estritamente na probabilidade de alta superior a 50%, são Maya Le Tissier e Ledley King. Foyth (85, LALIGA EA SPORTS) também merece atenção marginal com 50% de probabilidade a 46k coins. Todas as demais opções listadas, incluindo Hiroki Ito (0% de probabilidade), apresentam riscos elevados de desvalorização ou estagnação, devendo ser evitadas por investidores que priorizam a segurança dos seus coins.
+Além desses, vale considerar Aymeric Laporte, cuja carta de rating 90 da La Liga EA Sports está a 31.000 coins. Apesar de um crescimento modesto de apenas 1,5% nas últimas 24 horas, a probabilidade de alta de 33% sugere que a carta pode estar em uma fase de acumulação antes de um movimento mais expressivo. Para investidores com paciência, Laporte representa uma oportunidade de entrada em um jogador de elite a um preço acessível, com chances razoáveis de valorização futura, especialmente se eventos do jogo ou atualizações de meta favorecem defensores de alta estatura ou velocidade.
+
+Por outro lado, cartas como Ingrid Syrstad Engen (90, s/liga) e Leah Williamson (88, Barclays WSL) apresentam aumentos de 20,2% e 16,3% respectivamente, mas com probabilidades de alta muito baixas de apenas 5%. Isso indica que os picos de preço podem ser passageiros e que o risco de correção é elevado. Da mesma forma, Ricardo Carvalho (88, Liga Portugal) e Rocío Gálvez (88, Liga F) mostram alta volatilidade com baixas probabilidades de continuidade, sendo menos recomendadas para novos investimentos.
+
+Finalmente, Gonçalo Inácio (89, Liga Portugal) e Andrea Barzagli (89, s/liga) ocupam posições intermediárias. Inácio, a 190.000 coins, tem 15,9% de alta e 23% de probabilidade, enquanto Barzagli, a 97.000 coins, tem 13% de alta e 27% de probabilidade. Ambos são ativos de alto valor com riscos moderados, adequados apenas para carteiras robustas. Em resumo, para maximizar retornos com menor risco, a recomendação principal recai sobre José Fonte e Marcos Senesi, devido às suas altas probabilidades de continuação da tendência de alta e preços acessíveis.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -41,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Maya Le Tissier | 88 | Barclays WSL | 47k coins | +19.5% | +89.3% | 95% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 46k coins | +2.8% | +79.4% | 50% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 40k coins | +11.1% | +70.2% | 5% |
-| Ingrid Syrstad Engen | 90 | — | 34k coins | +11.7% | +67.5% | 5% |
-| Juan David Cabal | 85 | Serie A TIM | 34k coins | +8.3% | +67% | 5% |
-| Jawad El Yamiq | 87 | LaLiga Hypermotion | 38k coins | +10.8% | +63.6% | 5% |
-| Hiroki Ito | 93 | — | 22k coins | +1.1% | +60.7% | 0% |
-| Ledley King | 86 | Premier League | 23k coins | +2.6% | +56% | 95% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 38k coins | +8.5% | +54% | 5% |
-| Keven Schlotterbeck | 89 | Bundesliga | 21k coins | +22% | +47.1% | 5% |
-| Jamie Carragher | 89 | — | 22k coins | +20.3% | +46.2% | 95% |
-| Nicolás Otamendi | 86 | Liga Portugal | 72k coins | +6.9% | +42.1% | 33% |
-| Andrea Barzagli | 88 | Serie A TIM | 45k coins | +6.5% | +40.9% | 93% |
-| Bobby Moore | 90 | Icons | 90k coins | +24.2% | +39.7% | 8% |
-| Sol Campbell | 88 | — | 27k coins | +16.4% | +39.1% | 50% |
+| Ingrid Syrstad Engen | 90 | — | 37k coins | +20.2% | +86.2% | 5% |
+| Marcos Senesi | 88 | Premier League | 40k coins | +10.3% | +48.1% | 80% |
+| Leah Williamson | 88 | Barclays WSL | 34k coins | +16.3% | +48.1% | 5% |
+| Andrea Barzagli | 89 | — | 97k coins | +13% | +46% | 27% |
+| Ricardo Carvalho | 88 | Liga Portugal | 20k coins | +16.9% | +45.2% | 5% |
+| Ousmane Diomande | 85 | Liga Portugal | 50k coins | +4.7% | +42.1% | 46% |
+| Gonçalo Inácio | 89 | Liga Portugal | 190k coins | +15.9% | +39.7% | 23% |
+| Rocío Gálvez | 88 | Liga F | 26k coins | +11.6% | +35.9% | 5% |
+| José Fonte | 85 | Liga Portugal | 42k coins | +16.4% | +34.9% | 56% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 31k coins | +1.5% | +33.7% | 33% |
+| Ricardo Carvalho | 89 | Liga Portugal | 88k coins | +3.5% | +32.3% | 50% |
+| Iván Córdoba | 87 | Serie A TIM | 29k coins | +11.5% | +31.8% | 27% |
+| Dan Burn | 86 | Premier League | 137k coins | +9.1% | +30.7% | 95% |
+| Sol Campbell | 88 | — | 29k coins | +15.4% | +30.4% | 50% |
+| Wendie Renard | 86 | D1 Arkema | 21k coins | +9.2% | +29.7% | 95% |
 
 
 ## 📈 Análise dos destaques
 
-- **Maya Le Tissier (88)** — 47k coins, **+89.3% em 7 dias** (+19.5% em 24h). Preço +58% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ingrid Syrstad Engen (90)** — 37k coins, **+86.2% em 7 dias** (+20.2% em 24h). Preço +49% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Juan Foyth (85)** — 46k coins, **+79.4% em 7 dias** (+2.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marcos Senesi (88)** — 40k coins, **+48.1% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (+3%). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
 
-- **Alidu Seidu (89)** — 40k coins, **+70.2% em 7 dias** (+11.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Leah Williamson (88)** — 34k coins, **+48.1% em 7 dias** (+16.3% em 24h). Preço em linha com a média de 7 dias (-1%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ingrid Syrstad Engen (90)** — 34k coins, **+67.5% em 7 dias** (+11.7% em 24h). Preço +37% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Andrea Barzagli (89)** — 97k coins, **+46% em 7 dias** (+13% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Juan David Cabal (85)** — 34k coins, **+67% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (+4%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Ricardo Carvalho (88)** — 20k coins, **+45.2% em 7 dias** (+16.9% em 24h). Preço em linha com a média de 7 dias (+1%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -86,7 +90,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 47k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
+Ingrid Syrstad Engen (90, sem liga) lidera, com +86.2% em 7 dias a 37k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
