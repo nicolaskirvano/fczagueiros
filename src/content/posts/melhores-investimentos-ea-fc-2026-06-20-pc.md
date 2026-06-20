@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:46:15.000Z
+pubDatetime: 2026-06-20T22:46:26.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Tim Ream (85, MLS) lidera, com +89.5% em 7 dias a 90k coins no PC, e o modelo dá 28% de chance de seguir subindo."
+    a: "Pierre Kalulu (91, Serie A TIM) lidera, com +79% em 7 dias a 89k coins no PC, e o modelo dá 31% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Tim Ream (85) acumula **+89.5% em 7 dias** a 90k coins.
+> 🔝 **Destaque:** Pierre Kalulu (91) acumula **+79% em 7 dias** a 89k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário atual do mercado de EA FC Ultimate Team em PC, datado de 20 de junho de 2026, a análise da volatilidade dos zagueiros revela oportunidades distintas para investidores de diferentes perfis de risco. O foco principal recai sobre a tendência de valorização dos últimos sete dias, onde os indicadores de curto prazo, especificamente as variações nas últimas 24 horas, apontam para movimentos significativos. Entre as opções disponíveis, a carta de Éder Militão (86, LALIGA EA SPORTS) destaca-se como a mais agressiva, com um aumento impressionante de 39,1% em apenas um dia. Com uma probabilidade de alta futura estimada em 67% e um preço de entrada de 160k coins, esta carta oferece o maior potencial de retorno imediato, embora exija um capital inicial mais robusto para a compra.
+No cenário atual do mercado de EA FC Ultimate Team para PC, datado de 20 de junho de 2026, a posição de zagueiro apresenta oportunidades distintas para investidores que buscam valorização de curto prazo. Ao analisar as tendências dos últimos sete dias, observa-se que a volatilidade do mercado favorece cartas com probabilidade estatística significativa de alta, independentemente do seu preço de entrada. A estratégia ideal foca em identificar ativos onde a variação recente dos 24 horas precedentes já indica um movimento comprador forte, combinado com uma probabilidade calculada de continuidade dessa tendência. Entre os zagueiros listados, destaca-se a necessidade de equilibrar o custo inicial com o potencial de retorno, evitando especulação baseada apenas em números absolutos de crescimento percentual, sem considerar a probabilidade associada.
 
-Para investidores que buscam um equilíbrio entre risco e recompensa, Leny Yoro (86, Premier League) apresenta-se como uma escolha sólida. A carta registrou uma alta de 18,8% nas últimas 24 horas e possui uma probabilidade de alta de 65%, o que a torna extremamente atraente. Com um preço de 120k coins, Yoro oferece uma liquidez superior à de Militão, permitindo uma saída mais rápida do investimento caso o mercado se estabilize. A combinação de um rating de 86 e a popularidade da Premier League contribui para a consistência da demanda, justificando a confiança nos dados de probabilidade apresentados.
+Um dos ativos mais promissores para entrada imediata é Ledley King, uma carta de 86 rating da Premier League. Com um preço acessível de 24k coins, ele registrou uma alta impressionante de 13,6% nas últimas 24 horas. O fator decisivo aqui é a probabilidade de alta, que se encontra em 57%, o maior índice entre todos os zagueiros analisados. Essa combinação de baixo custo de entrada e alta probabilidade estatística de valorização torna King uma escolha de baixo risco, ideal para investidores que preferem segurança antes de buscar lucros exorbitantes em ativos mais caros.
 
-Outra opção relevante nessa faixa intermediária é Willian Pacho (90, Ligue 1 McDonald's). Embora tenha um rating mais alto, o preço de 155k coins pode intimidar alguns, mas a alta de 21,1% em 24 horas e a probabilidade de alta de 42% indicam uma tendência ascendente sustentável. Pacho é ideal para quem prefere cartas de elite com ratings superiores a 89, mas deve estar atento à menor probabilidade de alta contínua em comparação com Yoro e Militão, sugerindo um horizonte de investimento ligeiramente mais longo ou mais sensível a eventos do jogo.
+Outro candidato sólido é Adil Demirbağ, zagueiro de 84 rating da EFL League One. Apesar de estar em uma liga de menor visibilidade, sua carta disparou 35,8% em apenas 24 horas, atingindo um preço de 55k coins. A probabilidade de alta permanece em 28%, o que pode parecer moderado, mas o momentum atual é extremamente forte. Para investidores dispostos a assumir um risco ligeiramente maior em troca de uma valorização percentual agressiva, Demirbağ oferece uma oportunidade de capitalizar sobre o entusiasmo recente do mercado por jogadores de ligas inferiores que estão sendo descobertos ou utilizados em squads específicos.
 
-No segmento de baixo custo, Tara McKeown (89, NWSL) surge como a oportunidade mais promissora em termos de percentual de probabilidade. Com apenas 28k coins de entrada, a carta já acumulou 3,6% em 24 horas e possui uma probabilidade de alta de 58%. Essa alta probabilidade associada a um investimento mínimo reduz drasticamente o risco financeiro, tornando-a excelente para traders iniciantes ou para diversificação de portfólio. A estabilidade do mercado feminino e a escassez relativa de opções de baixo custo com alta probabilidade de valorização sustentam essa recomendação.
+Para quem possui um orçamento mais robusto, Willian Pacho se destaca como uma aposta de alto valor. Com 90 rating e jogando na Ligue 1 McDonald's, sua carta custa 155k coins e subiu 10,7% em 24 horas. A probabilidade de alta é de 42%, indicando uma tendência consistente. Pacho representa a estabilidade do mercado de elite, onde as flutuações são menos erráticas, mas o volume de negociação é maior. Investir em Pacho é uma estratégia de preservação de capital com expectativa de crescimento moderado e constante, aproveitando a demanda por zagueiros de alto rating para times competitivos.
 
-Por fim, para quem deseja exposição a ícones históricos ou ligas específicas, Steffi Jones (91, Icons) e Josip Šutalo (90, Eredivisie) merecem atenção. Jones, a 69k coins, subiu 16,9% em 24h com 15% de probabilidade de alta, indicando um movimento mais especulativo e de menor confiança estatística. Já Šutalo, a 38k coins, com alta de 7,1% e probabilidade de 48%, oferece um perfil mais conservador dentro da categoria de baixo custo. Em contrapartida, cartas como Murillo (87, Premier League) a 130k coins, com apenas 5% de probabilidade de alta e crescimento modesto de 1,6%, devem ser evitadas neste momento, pois não apresentam indicadores favoráveis para investimento de curto prazo.
+Franz Beckenbauer, o ícone com 92 rating, também merece atenção. Pricificado em 170k coins, ele teve uma alta de 8,1% em 24 horas, com uma probabilidade de alta de 41%. Embora seja o ativo mais caro da lista, a consistência do seu desempenho sugere que ele serve como reserva de valor. A alta probabilidade de manutenção ou crescimento do preço o torna seguro para portfólios diversificados, atuando como um balastro contra a volatilidade de cartas mais baratas e menos estáveis.
+
+Finalmente, vale considerar Josip Šutalo (90, Eredivisie) e Wendie Renard (91, D1 Arkema). Šutalo, a 36k coins, teve alta de 10,3% e probabilidade de 48%, oferecendo um equilíbrio excelente entre risco e recompensa. Já Renard, a 28k coins, subiu 5,6% com probabilidade de 48%, sendo uma opção de entrada muito acessível com boa chance de valorização. Em contraste, cartas como Leah Williamson, apesar de alta recente de 20,3%, têm probabilidade de alta de apenas 18%, o que sugere cautela. Portanto, a recomendação principal recai sobre Ledley King e Josip Šutalo pelo equilíbrio de probabilidade e preço, enquanto Adil Demirbağ é a escolha para quem busca ganho rápido baseado no momentum atual.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tim Ream | 85 | MLS | 90k coins | +1.1% | +89.5% | 28% |
-| Steffi Jones | 91 | Icons | 69k coins | +16.9% | +61.4% | 15% |
-| Maximiliano Caufriez | 86 | Ligue 2 BKT | 34k coins | +2.3% | +26.4% | 22% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 155k coins | +21.1% | +25% | 42% |
-| Tara McKeown | 89 | NWSL | 28k coins | +3.6% | +22.6% | 58% |
-| Leny Yoro | 86 | Premier League | 120k coins | +18.8% | +18.8% | 65% |
-| Andrea Barzagli | 87 | Serie A TIM | 27k coins | +10% | +18.3% | 50% |
-| Murillo | 87 | Premier League | 130k coins | +1.6% | +18.2% | 5% |
-| Josip Šutalo | 90 | Eredivisie | 38k coins | +7.1% | +17.2% | 48% |
-| Éder Militão | 86 | LALIGA EA SPORTS | 160k coins | +39.1% | +15.9% | 67% |
-| Alexsandro | 86 | Ligue 1 McDonald's | 30k coins | +18.8% | +13.2% | 54% |
-| Vitor Reis | 86 | LALIGA EA SPORTS | 25k coins | +3.1% | +12.4% | 56% |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 37k coins | +14% | +9.7% | 23% |
-| Samson Baidoo | 85 | Ligue 1 McDonald's | 70k coins | +7.7% | +7.7% | 22% |
-| Ahmetcan Kaplan | 88 | Eredivisie | 40k coins | +31.5% | +6.9% | 66% |
+| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +2.9% | +79% | 31% |
+| Marcos Senesi | 88 | Premier League | 40k coins | +3.6% | +77.6% | 42% |
+| Leah Williamson | 88 | Barclays WSL | 34k coins | +20.3% | +41.6% | 18% |
+| Ledley King | 86 | Premier League | 24k coins | +13.6% | +33.3% | 57% |
+| Adil Demirbağ | 84 | EFL League One | 55k coins | +35.8% | +33.3% | 28% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 155k coins | +10.7% | +25% | 42% |
+| Wendie Renard | 91 | D1 Arkema | 28k coins | +5.6% | +23.9% | 48% |
+| Franz Beckenbauer | 92 | Icons | 170k coins | +8.1% | +17.6% | 41% |
+| Nico Schlotterbeck | 87 | Bundesliga | 45k coins | +2.3% | +17.2% | 30% |
+| Josip Šutalo | 90 | Eredivisie | 36k coins | +10.3% | +17.2% | 48% |
+| Steffi Jones | 91 | Icons | 49k coins | +10.6% | +16.4% | 15% |
+| Jürgen Kohler | 89 | Bundesliga | 18k coins | +30.5% | +13.2% | 48% |
+| Nathan Ngoy | 84 | Ligue 1 McDonald's | 41k coins | +11.9% | +10.3% | 46% |
+| Andrea Barzagli | 87 | Serie A TIM | 25k coins | +1% | +8.6% | 50% |
+| Gabriel | 89 | Premier League | 160k coins | +36.8% | +6% | 53% |
 
 
 ## 📈 Análise dos destaques
 
-- **Tim Ream (85)** — 90k coins, **+89.5% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pierre Kalulu (91)** — 89k coins, **+79% em 7 dias** (+2.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Steffi Jones (91)** — 69k coins, **+61.4% em 7 dias** (+16.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Marcos Senesi (88)** — 40k coins, **+77.6% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Maximiliano Caufriez (86)** — 34k coins, **+26.4% em 7 dias** (+2.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Leah Williamson (88)** — 34k coins, **+41.6% em 7 dias** (+20.3% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Willian Pacho (90)** — 155k coins, **+25% em 7 dias** (+21.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ledley King (86)** — 24k coins, **+33.3% em 7 dias** (+13.6% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Tara McKeown (89)** — 28k coins, **+22.6% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Adil Demirbağ (84)** — 55k coins, **+33.3% em 7 dias** (+35.8% em 24h). Preço +44% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +90,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Tim Ream (85, MLS) lidera, com +89.5% em 7 dias a 90k coins no PC, e o modelo dá 28% de chance de seguir subindo.
+Pierre Kalulu (91, Serie A TIM) lidera, com +79% em 7 dias a 89k coins no PC, e o modelo dá 31% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
