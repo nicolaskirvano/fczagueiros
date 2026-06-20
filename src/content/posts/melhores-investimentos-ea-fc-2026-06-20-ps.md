@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:45:03.000Z
+pubDatetime: 2026-06-20T13:45:14.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (20/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Eduardo Quaresma (88, Liga Portugal) lidera, com +81.8% em 7 dias a 55k coins no Console (PS), e o modelo dá 35% de chance de seguir subindo."
+    a: "Keven Schlotterbeck (89, Bundesliga) lidera, com +67.7% em 7 dias a 27k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Eduardo Quaresma (88) acumula **+81.8% em 7 dias** a 55k coins.
+> 🔝 **Destaque:** Keven Schlotterbeck (89) acumula **+67.7% em 7 dias** a 27k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário atual do EA FC Ultimate Team para console PlayStation, datado de 20 de junho de 2026, o mercado de zagueiros apresenta uma dinâmica interessante para investidores cautelosos. Ao analisar as tendências de valorização dos últimos sete dias, destaca-se claramente o potencial de retorno em ativos específicos, onde a combinação de percentual de alta recente e probabilidade estatística de continuidade define as melhores oportunidades. Entre as opções, o zagueiro português Eduardo Quaresma emerge como um destaque imediato. Com uma classificação de 88 na Liga Portugal, sua carta sofreu uma impressionante alta de 11.7% nas últimas 24 horas, atingindo o valor de 55 mil coins. O que torna essa entrada atraente não é apenas o salto recente, mas a probabilidade de alta estimada em 35%, sugerindo que o ativo ainda tem espaço para apreciação antes de estabilizar ou corrigir.
+O mercado de zagueiros no EA FC Ultimate Team para consoles PlayStation apresenta um cenário dinâmico em 20 de junho de 2026, marcado por oportunidades de investimento diversificadas entre categorias de preço baixo e alto. A análise da tendência de valorização nos últimos sete dias revela que a volatilidade tem favorecido cartas específicas, exigindo uma estratégia cuidadosa para maximizar lucros. Entre as opções mais acessíveis, destaca-se a carta de Keven Schlotterbeck, um zagueiro de 89 rating da Bundesliga, que registrou um impressionante aumento de 21,1% em apenas 24 horas. Apesar de sua alta performance recente, a probabilidade de continuidade dessa alta é avaliada em apenas 5%, sugerindo que o momento ideal para entrada pode ser próximo, com o ativo cotado a 27 mil coins. Essa discrepância entre o ganho imediato e a baixa probabilidade futura indica um possível pico temporário, ideal para traders de curto prazo.
 
-Outro candidato sólido para a carteira de investimento é Griedge Mbock. Apesar de possuir uma classificação mais modesta de 86 na D1 Arkema, a carta está cotada a 41 mil coins e registrou um aumento de 4.5% em 24 horas. O dado mais crucial aqui é a probabilidade de alta de 95%, o que indica uma tendência extremamente robusta e consistente. Para investidores que priorizam segurança sobre ganhos explosivos imediatos, Mbock representa uma entrada de baixo risco com alta probabilidade de retorno contínuo, aproveitando a liquidez estável do mercado de defensores de ligas secundárias europeias.
+No segmento de médio valor, a carta de Juan Foyth, defensor de 85 rating da LaLiga EA Sports, oferece um perfil de risco mais equilibrado. Com um aumento de 2,6% nas últimas 24 horas e cotada a 40 mil coins, sua probabilidade de alta futura é de 50%. Esse cenário sugere uma estabilidade que pode evoluir para valorização consistente, tornando-a uma opção interessante para quem busca segurança moderada. Paralelamente, Thiago, outro zagueiro de 85 rating, desta vez da MLS, apresenta um comportamento mais agressivo. Com um salto de 31,2% em 24 horas e uma alta probabilidade de continuação de 68%, sua cotação de 30 mil coins representa uma das oportunidades mais promissoras do dia. A combinação de alto desempenho recente e forte expectativa de crescimento posiciona Thiago como um ativo de alto potencial para investidores dispostos a assumir riscos calculados.
 
-No campo feminino, Naomi Girma se apresenta como uma das apostas mais promissoras do momento. A zagueira da Barclays WSL, com uma classificação de 87, viu seu valor subir 13.8% em apenas um dia, cotada atualmente a 46 mil coins. Similar a Mbock, Girma possui uma probabilidade de alta de 95%, o que reforça a confiança na sustentabilidade dessa tendência. A combinação de um percentual de crescimento significativo e uma probabilidade quase certa de continuidade faz de Girma uma peça essencial para estratégias de curto a médio prazo, especialmente considerando a rotatividade constante de eventos no Ultimate Team que frequentemente valoriza defensoras de alto nível.
+As categorias de futebol feminino também merecem atenção, especialmente com a carta de Maya Le Tissier, uma defensora de 88 rating da Barclays WSL. Ela registrou um aumento de 9% em 24 horas e possui uma probabilidade de alta de 95%, o que é excepcionalmente alto para o mercado. Cotada a 40 mil coins, essa alta probabilidade de valorização futura sugere que a carta pode ser um dos investimentos mais seguros do dia. Da mesma forma, Griedge Mbock, zagueira de 86 rating da D1 Arkema, também apresenta uma probabilidade de alta de 95%, embora seu aumento recente seja menor, de apenas 2,6%. Sua cotação de 40 mil coins e a forte expectativa de crescimento a tornam uma alternativa sólida para carteiras focadas em consistência.
 
-Ismaëlo Ganiou, da Ligue 1 McDonald's, oferece uma oportunidade de alto risco e alto retorno. Com 84 de classificação e um preço atual de 54 mil coins, a carta apresentou um vigoroso aumento de 21.6% nas últimas 24 horas. Embora a probabilidade de alta seja de apenas 23%, o momentum atual sugere que o ativo pode estar em uma fase especulativa intensa. Investidores agressivos podem considerar essa entrada, buscando lucrar com a inércia do preço antes de uma possível correção, mas devem estar atentos aos sinais de saturação do mercado.
+Em termos de valorização significativa em curto prazo, Charlie Cresswell, zagueiro de 85 rating da Ligue 1 McDonald's, saltou 25,3% em 24 horas, com uma probabilidade de alta de 16%. Cotado a 27 mil coins, seu comportamento indica um pico que pode não se sustentar, mas ainda assim oferece oportunidades para traders ágeis. Já Alidu Seidu, defensor de 89 rating da Ligue 1 McDonald's, teve um aumento de 13,9% em 24 horas, mas com uma probabilidade de alta de apenas 5%. Sua cotação de 45 mil coins sugere que o mercado pode estar saturado, tornando-o menos atraente para novos investimentos. Marina Hegering, zagueira de 87 rating da GPFBL, registrou um aumento de 10,8% em 24 horas, com uma probabilidade de alta de 27%. Cotada a 26 mil coins, ela oferece um equilíbrio entre risco e retorno, sendo uma opção interessante para diversificação.
 
-Por outro lado, cartas como Keven Schlotterbeck (89, Bundesliga) e Alidu Seidu (89, Ligue 1 McDonald's) mostram movimentos positivos, com altas de 16.3% e 27.7% respectivamente, mas apresentam probabilidades de alta muito baixas, ambas em 5%. Isso indica que os preços atuais de 28 mil e 45 mil coins, respectivamente, podem ter atingido um pico temporário, tornando-as menos atraentes para novas entradas neste exato momento. Da mesma forma, Sol Campbell, o ícone com 86 de classificação, está a 74 mil coins com apenas 2% de alta e probabilidade de 52%, sugerindo um mercado lateralizado ou em fase de consolidação, onde a espera por melhores condições pode ser mais sábia do que a compra imediata.
-
-Em resumo, a estratégia para hoje deve focar na convergência entre volume de negociação e probabilidade estatística. Eduardo Quaresma, Griedge Mbock e Naomi Girma oferecem o equilíbrio ideal entre crescimento recente e sustentabilidade projetada. Enquanto isso, ativos com altas percentuais elevadas mas probabilidades baixas, como Schlotterbeck e Seidu, devem ser observados com cautela, pois o risco de reversão imediata do preço é considerável. O mercado de zagueiros em 2026 continua recompensando a análise fria dos dados, onde a probabilidade de alta é o filtro mais eficaz para separar oportunidades reais de ilusões de momento.
+Por fim, a carta de Bobby Moore, um ícone de 91 rating, registrou um aumento de 30,2% em 24 horas, com uma probabilidade de alta de 23%. Sua cotação de 211 mil coins a posiciona como um ativo de alto valor, ideal para investidores com maior capital. A combinação de alta performance recente e probabilidade moderada de continuação sugere que Moore pode ser uma boa opção para quem busca lucros significativos em um mercado de alto risco. Em resumo, o mercado de zagueiros em 20 de junho de 2026 oferece oportunidades variadas, desde investimentos de baixo risco com alta probabilidade de valorização, como Maya Le Tissier e Griedge Mbock, até ativos de maior risco e retorno, como Keven Schlotterbeck e Bobby Moore. A escolha final depende da estratégia individual de cada investidor, seja ela focada em segurança ou em maximização de lucros em curto prazo.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +43,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Eduardo Quaresma | 88 | Liga Portugal | 55k coins | +11.7% | +81.8% | 35% |
-| Keven Schlotterbeck | 89 | Bundesliga | 28k coins | +16.3% | +67.2% | 5% |
-| Rocío Gálvez | 88 | Liga F | 25k coins | +2.2% | +31.9% | 5% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 45k coins | +27.7% | +29.5% | 5% |
-| Griedge Mbock | 86 | D1 Arkema | 41k coins | +4.5% | +29.1% | 95% |
-| Marina Hegering | 87 | GPFBL | 26k coins | +4.5% | +15% | 27% |
-| Naomi Girma | 87 | Barclays WSL | 46k coins | +13.8% | +13.8% | 95% |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 54k coins | +21.6% | +13.2% | 23% |
-| Sol Campbell | 86 | Icons | 74k coins | +2% | +12.8% | 52% |
-| Kevin Diks | 84 | Bundesliga | 54k coins | +5.9% | +12.6% | 38% |
-| Luka Vušković | 86 | Bundesliga | 17k coins | +1.6% | +12.3% | 95% |
-| Ilario Monterisi | 84 | Serie BKT | 46k coins | +18.5% | +11.4% | 53% |
-| Carles Puyol | 89 | Icons | 72k coins | +7.1% | +7.1% | 28% |
-| Fernando Hierro | 88 | Icons | 70k coins | +1.4% | +6.8% | 74% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 65k coins | +7.9% | +6.2% | 95% |
+| Keven Schlotterbeck | 89 | Bundesliga | 27k coins | +21.1% | +67.7% | 5% |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 40k coins | +2.6% | +58% | 50% |
+| Thiago | 85 | MLS | 30k coins | +31.2% | +32.9% | 68% |
+| Maya Le Tissier | 88 | Barclays WSL | 40k coins | +9% | +32.8% | 95% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 27k coins | +25.3% | +31.3% | 16% |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 45k coins | +13.9% | +30.4% | 5% |
+| Marina Hegering | 87 | GPFBL | 26k coins | +10.8% | +28.7% | 27% |
+| Griedge Mbock | 86 | D1 Arkema | 40k coins | +2.6% | +26.2% | 95% |
+| Nobel Mendy | 84 | LALIGA EA SPORTS | 50k coins | +24.4% | +24.4% | 50% |
+| Bobby Moore | 91 | Icons | 211k coins | +30.2% | +24.1% | 23% |
+| Bobby Moore | 90 | Icons | 84k coins | +20.6% | +20.6% | 8% |
+| Fernando Hierro | 88 | Icons | 74k coins | +12.7% | +13.5% | 74% |
+| Alessandro Nesta | 89 | Icons | 75k coins | +11.7% | +13.3% | 59% |
+| Nico Schlotterbeck | 87 | Bundesliga | 40k coins | +13.6% | +11.2% | 68% |
+| Jade Rose | 85 | Barclays WSL | 88k coins | +1.2% | +6.7% | 50% |
 
 
 ## 📈 Análise dos destaques
 
-- **Eduardo Quaresma (88)** — 55k coins, **+81.8% em 7 dias** (+11.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Keven Schlotterbeck (89)** — 27k coins, **+67.7% em 7 dias** (+21.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Keven Schlotterbeck (89)** — 28k coins, **+67.2% em 7 dias** (+16.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Juan Foyth (85)** — 40k coins, **+58% em 7 dias** (+2.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Rocío Gálvez (88)** — 25k coins, **+31.9% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Thiago (85)** — 30k coins, **+32.9% em 7 dias** (+31.2% em 24h). Preço +54% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
-- **Alidu Seidu (89)** — 45k coins, **+29.5% em 7 dias** (+27.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Maya Le Tissier (88)** — 40k coins, **+32.8% em 7 dias** (+9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Griedge Mbock (86)** — 41k coins, **+29.1% em 7 dias** (+4.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Charlie Cresswell (85)** — 27k coins, **+31.3% em 7 dias** (+25.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -90,7 +88,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Eduardo Quaresma (88, Liga Portugal) lidera, com +81.8% em 7 dias a 55k coins no Console (PS), e o modelo dá 35% de chance de seguir subindo.
+Keven Schlotterbeck (89, Bundesliga) lidera, com +67.7% em 7 dias a 27k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

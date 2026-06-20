@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:44:39.000Z
+pubDatetime: 2026-06-20T13:44:47.000Z
 title: "Zagueiros no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Marc Bartra (87, LALIGA EA SPORTS), com +37.9% em 24h, a 44k coins no Console (PS)."
+    a: "Ricardo Carvalho (88, Liga Portugal), com +54.8% em 24h, a 32k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Paolo Maldini (89), -46.1% em 24h, a 60k coins."
+    a: "Leny Yoro (86), -50% em 24h, a 45k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Malick Thiaw (86) — 95% de probabilidade de alta, a 37k coins."
+    a: "Pelo modelo FutQuant, Jacobo Ramón (94) — 95% de probabilidade de alta, a 18k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 34 cartas em alta contra 151 em queda (média -14.28%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 174 em queda (média -19.93%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de zagueiros em Console apresenta um cenário de extrema volatilidade e predomínio de vendas hoje, 20 de junho de 2026, com um sentimento claramente negativo que impacta a confiança dos traders. Os dados indicam uma assimetria brutal, onde apenas 34 ativos registraram altas contra um impressionante total de 151 quedas, resultando em uma média de desvalorização de -14.28% nas últimas 24 horas. Esse fluxo de capitais para fora do segmento sugere uma correção técnica ampla, possivelmente impulsionada pelo fim de um evento ou pela antecipação de novidades futuras que estão drenando a liquidez dos jogadores mais comuns. Para o trader experiente, este é o momento de manter a disciplina, evitando compras impulsivas em ativos em queda livre e focando apenas nas oportunidades de valor real que surgem nesse ambiente de pânico. A análise detalhada revela que, embora a maioria dos preços caia, existem bolsões de resistência interessante que merecem atenção cirúrgica.
+O mercado de zagueiros no EA FC Ultimate Team apresenta uma dinâmica extremamente hostil para os traders conservadores, com um sentimento claramente bearish que domina as últimas 24 horas, evidenciado por uma proporção alarmante de 174 quedas contra apenas 42 altas. A média de variação negativa atingiu um impressionante -19.93% no período, indicando que a maioria dos ativos está sofrendo uma correção acentuada, possivelmente devido à falta de eventos imediatos que justifiquem a manutenção de preços elevados ou a uma liquidificação de carteiras em preparação para futuras atualizações. Neste contexto de PS, a volatilidade é a regra, e os traders precisam estar atentos não apenas aos preços absolutos, mas à probabilidade de alta associada a cada movimento, pois muitas das altas observadas parecem ser correções técnicas isoladas em meio a um oceano de vendas. A predominância das quedas sugere que o mercado está em fase de descompressão de valores inflacionados em semanas anteriores, forçando uma reavaliação estratégica de quais ativos valem a pena ser segurados e quais devem ser liquidados imediatamente para evitar perdas maiores. É crucial entender que, apesar do pessimismo geral, existem oportunidades de compra de alta convicção em ativos que o modelo identifica com probabilidade extrema de valorização, criando um cenário de divergência interessante entre o fluxo imediato e as projeções de longo prazo.
 
-> 🟢 **Maior alta:** Marc Bartra (87) **+37.9%** · 🔴 **Maior baixa:** Paolo Maldini (89) **-46.1%**
+> 🟢 **Maior alta:** Ricardo Carvalho (88) **+54.8%** · 🔴 **Maior baixa:** Leny Yoro (86) **-50%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 44k coins | +37.9% | +4.9% |
-| Elba Vergés | 84 | Liga F | 42k coins | +28.6% | -2.7% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 45k coins | +27.7% | +29.5% |
-| Anton Krivotsyuk | 83 | K League 1 | 62k coins | +27.6% | -6% |
-| Jhon Lucumí | 81 | Serie A TIM | 46k coins | +23.8% | +3.1% |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 54k coins | +21.6% | +13.2% |
-| Ilario Monterisi | 84 | Serie BKT | 46k coins | +18.5% | +11.4% |
-| Marwane Saadane | 83 | Brasileirão | 35k coins | +17.9% | +5.3% |
-| Keven Schlotterbeck | 89 | Bundesliga | 28k coins | +16.3% | +67.2% |
-| Naomi Girma | 87 | Barclays WSL | 46k coins | +13.8% | +13.8% |
+| Ricardo Carvalho | 88 | Liga Portugal | 32k coins | +54.8% | +71.1% |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 56k coins | +53.4% | +15.5% |
+| Thiago | 85 | MLS | 30k coins | +31.2% | +32.9% |
+| Bobby Moore | 91 | Icons | 211k coins | +30.2% | +24.1% |
+| Pierre Kalulu | 91 | Serie A TIM | 75k coins | +30.1% | -3.3% |
+| Anton Krivotsyuk | 83 | K League 1 | 60k coins | +29.5% | -6% |
+| Caleb Taylor | 84 | EFL Championship | 30k coins | +25.9% | -10.7% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 27k coins | +25.3% | +31.3% |
+| Nobel Mendy | 84 | LALIGA EA SPORTS | 50k coins | +24.4% | +24.4% |
+| Dejan Lovren | 86 | Hellas Liga | 64k coins | +22.9% | -3.7% |
 
 
-Entre os poucos que resistem à gravidade do mercado, Marc Bartra se destaca com uma alta de 37.9% em 24 horas, atingindo os 44k coins, apesar de ter apenas 33% de probabilidade de continuar subindo, o que indica um movimento possivelmente especulativo de curto prazo. Elba Vergés apresenta um perfil mais robusto com 28.6% de alta e uma probabilidade de continuação de 65%, valendo 42k coins, sugerindo que há demanda orgânica por sua carta da Liga F que pode ser explorada com cautela. Alidu Seidu subiu 27.7% para 45k coins, mas a probabilidade de alta de apenas 5% alerta para um possível topo local, tornando-o um candidato a venda rápida para lucros. Anton Krivotsyuk, da K League 1, apreciou 27.6% chegando a 62k coins, mas igualmente possui apenas 5% de chance de continuar subindo, caracterizando um movimento isolado sem suporte técnico forte. Jhon Lucumí, com 23.8% de alta e 50% de probabilidade de continuação, estabiliza-se em 46k coins, oferecendo um equilíbrio razoável entre risco e recompensa para traders que buscam exposição em ligas menores.
+Entre os poucos ativos que conseguiram se destacar positivamente, Ricardo Carvalho lidera o ranking com uma alta de 54.8% em 24 horas, atingindo os 32k coins, embora a probabilidade de alta futura seja baixa, de apenas 5%, o que sugere que este movimento pode ser um pico isolado sem sustentação imediata. Ismaëlo Ganiou também apresenta uma performance robusta com 53.4% de alta, valorizando-se para 56k coins, e conta com uma probabilidade de alta de 23%, indicando que há um interesse moderado sustentado por usuários que buscam alternativas baratas para squads específicos da Ligue 1 McDonald's. Thiago, da MLS, surge como uma das oportunidades mais interessantes desta lista, com uma alta de 31.2% para 30k coins e, crucialmente, uma probabilidade de alta de 68%, o que sinaliza forte momentum comprador que pode se estender nos próximos dias, tornando-o um candidato sólido para swing trade. Bobby Moore, o ícone com rating 91, valorizou 30.2% para 211k coins, mantendo uma probabilidade de alta de 23%, o que reflete a estabilidade relativa dos ícones de alta qualidade mesmo em mercados voláteis, atraindo colecionadores que não têm pressa em vender. Pierre Kalulu, da Serie A TIM, completou o top 5 com 30.1% de alta para 75k coins, mas com apenas 5% de probabilidade de alta, sugerindo que seu preço está próximo de um teto temporário e que a correção pode ser rápida se a demanda inicial se esgotar, exigindo cautela na entrada de novas posições.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paolo Maldini | 89 | — | 60k coins | -46.1% | -50.4% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 41k coins | -42.5% | -49.2% |
-| Franz Beckenbauer | 94 | — | 275k coins | -41.5% | -42.3% |
-| Jonathan Tah | 95 | — | 249k coins | -39.2% | -39.8% |
-| Andrea Barzagli | 88 | Serie A TIM | 26k coins | -38.4% | -27.4% |
-| Lukas Klostermann | 88 | Bundesliga | 152k coins | -38% | +17.8% |
-| Irene Paredes | 96 | — | 144k coins | -37.3% | -33.2% |
-| Ingrid Syrstad Engen | 90 | — | 21k coins | -36.8% | -26.8% |
-| Lucas Beraldo | 96 | — | 157k coins | -35.8% | -33.3% |
-| Andrea Barzagli | 89 | — | 62k coins | -34.7% | -25.3% |
+| Leny Yoro | 86 | Premier League | 45k coins | -50% | -51.1% |
+| Rúben Dias | 94 | — | 94k coins | -48.7% | -64.3% |
+| Mohamed Simakan | 93 | — | 32k coins | -47.7% | -58.3% |
+| Dayot Upamecano | 93 | — | 72k coins | -46.5% | -47.7% |
+| Malang Sarr | 96 | — | 225k coins | -46.5% | -48.8% |
+| Giorgio Chiellini | 88 | Icons | 70k coins | -46.2% | -35% |
+| Paolo Maldini | 89 | — | 62k coins | -44.7% | -47.5% |
+| Bremer | 95 | — | 128k coins | -44.4% | -50.3% |
+| Steph Catley | 90 | Barclays WSL | 49k coins | -44.3% | -43.7% |
+| Irene Paredes | 96 | — | 130k coins | -43.5% | -38.1% |
 
 
-O lado negativo do mercado é dominado por quedas severas, lideradas por Paolo Maldini, que desvalorizou 46.1% em 24 horas para 60k coins, com uma probabilidade de alta de apenas 16%, indicando que a queda pode se aprofundar a curto prazo. Willian Pacho sofreu uma queda de 42.5%, caindo para 41k coins, e embora tenha 28% de probabilidade de alta, o momentum atual é extremamente hostil para compradores, sugerindo que o fundo ainda não foi encontrado. Franz Beckenbauer, um ativo de alto valor, perdeu 41.5% sua valoração para 275k coins, mas surpreendentemente mantém uma alta probabilidade de alta de 68%, o que pode indicar uma oportunidade de compra agressiva para quem tem capital suficiente para suportar a volatilidade. Jonathan Tah caiu 39.2% para 249k coins com apenas 5% de probabilidade de alta, sinalizando uma tendência de baixa prolongada que deve ser evitada a todo custo. Andrea Barzagli despencou 38.4% para 26k coins, mas a probabilidade de alta de 93% sugere fortemente que este é um ponto de reversão iminente, tornando-o um dos alvos mais atraentes para compra de contra-tendência no dia.
+O lado das baixas é devastador, com Leny Yoro sofrendo uma queda brutal de 50% em 24 horas, caindo para 45k coins, apesar de manter uma alta probabilidade de alta de 55%, o que indica que este pode ser o ponto de inflexão ideal para compra de rebote a médio prazo. Rúben Dias, com rating 94, despencou 48.7% para 94k coins, mas com probabilidade de alta de 0%, o que alerta para um possível colapso de valor mais profundo ou uma desvalorização estrutural do ativo, tornando-o um ativo de risco extremo para qualquer trader que não esteja disposto a segurar por semanas. Mohamed Simakan caiu 47.7% para 32k coins, com apenas 5% de chance de alta, sugerindo que o mercado perdeu completamente o interesse neste ativo, possivelmente devido à disponibilidade de alternativas mais eficientes no mesmo faixa de preço. Dayot Upamecano, por outro lado, caiu 46.5% para 72k coins mas carrega uma probabilidade de alta de 68%, o que é um sinal clássico de oportunidade de compra em pânico, onde a venda excessiva criou uma base de preço artificialmente baixa pronta para ser corrigida. Malang Sarr, o ativo mais caro desta lista de quedas, caiu 46.5% para 225k coins, mas com apenas 8% de probabilidade de alta, indicando que a liquidez neste nível de preço é extremamente fraca e que o ativo pode continuar a desvalorizar até encontrar um suporte mais sólido em faixas de preço inferiores.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Malick Thiaw | 86 | 37k coins | 50k coins | 95% |
+| Jacobo Ramón | 94 | 18k coins | 21k coins | 95% |
+| Tyrone Mings | 96 | 295k coins | 344k coins | 95% |
 | Fabio Cannavaro | 89 | 110k coins | 127k coins | 95% |
-| Dan Burn | 86 | 115k coins | 137k coins | 95% |
-| Iván Córdoba | 88 | 74k coins | 84k coins | 95% |
+| Murillo | 87 | 100k coins | 128k coins | 95% |
 | Ibañez | 86 | 61k coins | 70k coins | 95% |
+| Dan Burn | 86 | 99k coins | 118k coins | 95% |
 | Naomi Girma | 87 | 46k coins | 52k coins | 95% |
-| Ahmed Hegazi | 87 | 45k coins | 53k coins | 95% |
-| Ingrid Syrstad Engen | 86 | 30k coins | 37k coins | 95% |
+| Ahmed Hegazi | 87 | 44k coins | 53k coins | 95% |
 
 
-O modelo de previsão identifica oito ativos com probabilidade de alta de 95%, destacando Malick Thiaw a 37k coins, Fabio Cannavaro a 110k coins e Dan Burn a 115k coins como compras de alta convicção para acumulação de longo prazo. Iván Córdoba, avaliado em 74k coins, e Ibañez, a 61k coins, também apresentam essa mesma probabilidade extrema de alta, sugerindo uma demanda reprimida que deve ser satisfeita nas próximas horas. No segmento feminino e de ligas emergentes, Naomi Girma a 46k coins, Ahmed Hegazi a 45k coins e Ingrid Syrstad Engen a 30k coins completam a lista de ativos com 95% de chance de valorização, oferecendo oportunidades diversificadas para traders que desejam mitigar riscos através da alocação em diferentes ligas e categorias. Estes dados indicam que, apesar da queda generalizada, há fluxos específicos de capital entrando nestas cartas, possivelmente devido a promoções de squad ou necessidades de metas de liga que estão sendo subestimadas pelo mercado em pânico.
+O modelo preditivo identifica uma oportunidade extrema em Jacobo Ramón, com 95% de probabilidade de alta a 18k coins, sugerindo uma valorização quase certa devido a uma possível mudança de meta ou evento futuro não anunciado. Tyrone Mings é projetado para alta com 95% de probabilidade a 295k coins, representando um ativo de alto valor com expectativa de apreciação significativa, ideal para traders com capital robusto e apetite por ativos de elite. Fabio Cannavaro, com 95% de chance de alta a 110k coins, consolida-se como uma aposta segura no segmento de ícones, aproveitando a escassez natural de cartas de alta qualidade nesta faixa de preço. Murillo da Premier League também entra na lista com 95% de probabilidade a 100k coins, indicando uma forte demanda esperada por zagueiros modernos de ligas principais, o que pode impulsionar seu preço rapidamente nos próximos ciclos de mercado. Ibañez, da ROSHN Saudi League, com 95% de chance de alta a 61k coins, surge como uma opção de médio porte com potencial de retorno acelerado, aproveitando o crescimento da liga saudita no meta do jogo.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Tim Ream | 85 | 60k coins | -34.1% |
-| Irene Paredes | 88 | 31k coins | -34.2% |
-| Anton Krivotsyuk | 83 | 62k coins | -21.4% |
-| Josip Šutalo | 90 | 36k coins | -29.2% |
+| Anton Krivotsyuk | 83 | 60k coins | -21.4% |
+| Marc Guéhi | 88 | 37k coins | -15.6% |
+| Josip Šutalo | 90 | 31k coins | -29.2% |
 | Mark McKenzie | 90 | 27k coins | -16.7% |
-| Dejan Lovren | 86 | 62k coins | -29.1% |
-| Bremer | 87 | 32k coins | -17.5% |
-| Keven Schlotterbeck | 89 | 28k coins | -16.7% |
+| Steph Catley | 90 | 49k coins | -21.3% |
+| Mohamed Simakan | 93 | 32k coins | -15.7% |
+| Nico Schlotterbeck | 87 | 32k coins | -17.3% |
+| António Silva | 87 | 46k coins | -17.5% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia para hoje deve ser focada em acumular os ativos com probabilidade de alta de 95%, especialmente Andrea Barzagli e Fabio Cannavaro, que combinam quedas recentes com forte expectativa de recuperação, oferecendo o melhor risco-retorno. Recomenda-se evitar a compra de ativos em queda livre com baixa probabilidade de alta, como Jonathan Tah e Alidu Seidu, pois o momentum ainda é contra eles e a correção pode ser mais profunda. Traders com capital limitado devem priorizar compras em Ingrid Syrstad Engen e Ahmed Hegazi, que oferecem exposição a mercados menos líquidos mas com alta probabilidade de valorização imediata. Para os que buscam lucros rápidos, considerar a venda de Marc Bartra e Anton Krivotsyuk, já que suas probabilidades de continuação de alta são baixas, permitindo fixar lucros antes de uma possível correção. O timing é crucial: compre nos fundos das quedas dos ativos previstos para alta e venda nos topos dos ativos com baixa probabilidade de continuação, mantendo sempre uma reserva de moedas para oportunidades inesperadas que surjam no final do dia.
+A estratégia do dia deve focar agressivamente na compra dos ativos com previsões de 95% de alta, especialmente Jacobo Ramón e Murillo, que oferecem um risco ajustado extremamente favorável em um mercado de baixa geral. É imperativo evitar a compra de ativos que já sofreram quedas mas possuem probabilidade de alta próxima de zero, como Rúben Dias e Malang Sarr, pois o risco de continuação da queda é elevado e o capital fica preso sem perspectiva de retorno imediato. Traders devem considerar a venda de ativos como Ricardo Carvalho e Pierre Kalulu, que já apresentaram altas significativas mas com baixa probabilidade de continuidade, realizando lucros rápidos antes que o mercado reverta a tendência. Para quem busca equilíbrio, Dayot Upamecano e Leny Yoro representam oportunidades de compra de rebote, pois suas quedas acentuadas combinadas com altas probabilidades de alta futura sugerem que o preço atual é uma anomalia temporária de venda excessiva. O timing é crucial: compre as previsões de alta no início do dia e liquide as altas passadas no final, aproveitando a volatilidade residual para maximizar os ganhos em um ambiente onde a paciência e a disciplina são mais valiosas do que a especulação impulsiva.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -114,16 +114,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Marc Bartra (87, LALIGA EA SPORTS), com +37.9% em 24h, a 44k coins no Console (PS).
+Ricardo Carvalho (88, Liga Portugal), com +54.8% em 24h, a 32k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Paolo Maldini (89), -46.1% em 24h, a 60k coins.
+Leny Yoro (86), -50% em 24h, a 45k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Malick Thiaw (86) — 95% de probabilidade de alta, a 37k coins.
+Pelo modelo FutQuant, Jacobo Ramón (94) — 95% de probabilidade de alta, a 18k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 34 cartas em alta contra 151 em queda (média -14.28%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 174 em queda (média -19.93%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

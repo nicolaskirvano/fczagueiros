@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:45:04.000Z
+pubDatetime: 2026-06-20T13:45:15.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,31 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arthur Theate | 92 | CB | — | 13k coins | -5.6% |
-| Olwethu Makhanya | 91 | CB | — | 12k coins | 0% |
-| Michael Boxall | 91 | CB | — | 13k coins | -5.6% |
-| Virgil van Dijk | 90 | CB | Premier League | 9k coins | -12.6% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +6.1% |
-| Millie Bright | 87 | CB | Barclays WSL | 7k coins | +15.5% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +15.4% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.1% |
-| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +16.4% |
-| Bremer | 85 | CB | Serie A Enilive | 2k coins | 0% |
-| Sara Doorsoun | 84 | CB | GPFBL | 3k coins | +21.4% |
-| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
+| Arthur Theate | 92 | CB | — | 13k coins | -1.9% |
+| Michael Boxall | 91 | CB | — | 13k coins | -1.9% |
+| Olwethu Makhanya | 91 | CB | — | 14k coins | +1.9% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 15k coins | 0% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | 0% |
+| Luka Vušković | 86 | CB | Bundesliga | 12k coins | +1.7% |
+| Millie Bright | 85 | CB | Barclays WSL | 6k coins | +17.2% |
+| Glódís Perla Viggósdóttir | 85 | CB | GPFBL | 12k coins | +71.7% |
 
 
 ## 📈 Destaques
 
 - **Arthur Theate (92, CB)** da —, a apenas **13k coins**
 
-- **Olwethu Makhanya (91, CB)** da —, a apenas **12k coins**
-
 - **Michael Boxall (91, CB)** da —, a apenas **13k coins**
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Olwethu Makhanya (91, CB)** da —, a apenas **14k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **15k coins**
+
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?

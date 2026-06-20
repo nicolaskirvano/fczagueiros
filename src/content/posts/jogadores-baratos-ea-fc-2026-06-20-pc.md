@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:46:03.000Z
+pubDatetime: 2026-06-20T13:46:17.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,23 +30,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Arthur Theate | 92 | CB | — | 13k coins | -1.9% |
-| Michael Boxall | 91 | CB | — | 14k coins | 0% |
-| Olwethu Makhanya | 91 | CB | — | 14k coins | +9.6% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12k coins | -37.5% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -2.1% |
+| Olwethu Makhanya | 91 | CB | — | 13k coins | -1.9% |
+| Michael Boxall | 91 | CB | — | 13k coins | -1.9% |
+| Jamie Carragher | 86 | CB | Premier League | 13k coins | +10.6% |
+| Millie Bright | 85 | CB | Barclays WSL | 4k coins | +42.4% |
+| Sara Doorsoun | 84 | CB | GPFBL | 3k coins | -4.9% |
 
 
 ## 📈 Destaques
 
 - **Arthur Theate (92, CB)** da —, a apenas **13k coins**
 
-- **Michael Boxall (91, CB)** da —, a apenas **14k coins**
+- **Olwethu Makhanya (91, CB)** da —, a apenas **13k coins**
 
-- **Olwethu Makhanya (91, CB)** da —, a apenas **14k coins**
+- **Michael Boxall (91, CB)** da —, a apenas **13k coins**
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **13k coins**
 
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
+- **Millie Bright (85, CB)** da Barclays WSL, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
