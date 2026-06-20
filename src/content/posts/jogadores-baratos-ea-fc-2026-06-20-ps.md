@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:45:15.000Z
+pubDatetime: 2026-06-20T16:45:03.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Arthur Theate (92, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Hiroki Ito (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Arthur Theate (92) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Hiroki Ito (93) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arthur Theate | 92 | CB | — | 13k coins | -1.9% |
-| Michael Boxall | 91 | CB | — | 13k coins | -1.9% |
-| Olwethu Makhanya | 91 | CB | — | 14k coins | +1.9% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 15k coins | 0% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | 0% |
-| Luka Vušković | 86 | CB | Bundesliga | 12k coins | +1.7% |
-| Millie Bright | 85 | CB | Barclays WSL | 6k coins | +17.2% |
-| Glódís Perla Viggósdóttir | 85 | CB | GPFBL | 12k coins | +71.7% |
+| Hiroki Ito | 93 | CB | — | 13k coins | -33.8% |
+| Arthur Theate | 92 | CB | — | 13k coins | -3.7% |
+| Olwethu Makhanya | 91 | CB | — | 13k coins | -1.9% |
+| Michael Boxall | 91 | CB | — | 13k coins | -3.7% |
+| Virgil van Dijk | 89 | CB | Premier League | 9k coins | -22.7% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | +5.4% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | +4.3% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | -3.4% |
+| Ronald Araujo | 85 | CB | LALIGA EA SPORTS | 2k coins | +18.2% |
+| Glódís Perla Viggósdóttir | 84 | CB | GPFBL | 2k coins | +26.3% |
+| Dominique Janssen | 84 | CB | Barclays WSL | 2k coins | -5% |
 
 
 ## 📈 Destaques
 
+- **Hiroki Ito (93, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Arthur Theate (92, CB)** da —, a apenas **13k coins**
+
+- **Olwethu Makhanya (91, CB)** da —, a apenas **13k coins**
 
 - **Michael Boxall (91, CB)** da —, a apenas **13k coins**
 
-- **Olwethu Makhanya (91, CB)** da —, a apenas **14k coins**
-
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **15k coins**
-
-- **Jamie Carragher (86, CB)** da Premier League, a apenas **12k coins**
+- **Virgil van Dijk (89, CB)** da Premier League, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -66,7 +69,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Arthur Theate (92, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Hiroki Ito (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
