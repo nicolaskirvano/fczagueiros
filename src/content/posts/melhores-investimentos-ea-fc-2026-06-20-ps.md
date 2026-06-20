@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:45:02.000Z
+pubDatetime: 2026-06-20T19:45:14.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (20/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Glódís Perla Viggósdóttir (86, GPFBL) lidera, com +83.8% em 7 dias a 68k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "Vitor Reis (86, LALIGA EA SPORTS) lidera, com +69.7% em 7 dias a 28k coins no Console (PS), e o modelo dá 33% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Glódís Perla Viggósdóttir (86) acumula **+83.8% em 7 dias** a 68k coins.
+> 🔝 **Destaque:** Vitor Reis (86) acumula **+69.7% em 7 dias** a 28k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário do EA FC Ultimate Team para consoles PlayStation, datado de 20 de junho de 2026, o mercado de zagueiros apresenta uma volatilidade interessante, com oportunidades claras para investidores que buscam lucros de curto prazo baseados na tendência de valorização dos últimos sete dias. A análise foca em cartas que não apenas registraram altas expressivas nas últimas 24 horas, mas que também possuem uma probabilidade estatística favorável para continuidade dessa alta, permitindo aos usuários do mercado identificar onde a liquidez e a demanda estão se concentrando.
+A análise do mercado de zagueiros no EA FC Ultimate Team para consoles PlayStation, datada de 20 de junho de 2026, revela um cenário volátil onde a volatilidade recente se tornou a principal bússola para investidores. Ao examinar as tendências de valorização dos últimos sete dias, observa-se que a decisão de entrada em uma carta não deve ser baseada apenas no rating ou na liga de origem, mas sim na interseção entre o percentual de alta nas últimas 24 horas e a probabilidade calculada de continuação dessa tendência. Neste contexto, o mercado apresenta oportunidades distintas, variando desde ativos de baixo custo com alta expectativa de retorno até peças premium com probabilidade de alta quase garantida, exigindo uma gestão de portfólio criteriosa para maximizar os lucros em coins.
 
-Dentre as opções mais acessíveis e promissoras, destaca-se Alexsandro, zagueiro do Ligue 1 McDonald's com 86 de rating. Sua carta registrou um impressionante aumento de 32,3% em apenas 24 horas, chegando a valer 26 mil coins. O que torna essa entrada particularmente atrativa é a probabilidade de alta de 68%, um indicador robusto que sugere forte interesse da comunidade. Da mesma forma, Thiago, da MLS com 85 de rating, apresenta uma performance ainda mais agressiva na subida de preço, com 38,8% de alta em 24 horas. Pricado em 24 mil coins e com a mesma probabilidade de alta de 68%, Thiago se consolida como uma das apostas mais seguras para quem busca retorno rápido em investimentos de baixo capital.
+Entre as opções de menor risco e maior probabilidade estatística, destacam-se Maya Le Tissier e Naomi Girma. Maya Le Tissier, com rating 88 da Barclays WSL, registrou uma alta de 12,9% em 24 horas, atingindo os 40k coins. O fator determinante para a entrada nesta carta é a sua probabilidade de alta de 95%, o que a torna uma aposta extremamente segura no curto prazo. Da mesma forma, Naomi Girma, também da Barclays WSL com rating 87, subiu 8,3% em um dia, custando 46k coins, e compartilha a mesma probabilidade de alta de 95%. Essas duas atletas se consolidam como os pilares de estabilidade para investidores que priorizam a certeza do retorno sobre margens de lucro exponenciais, sendo ideais para quem busca proteger o capital enquanto aguarda oportunidades de maior risco.
 
-Para investidores dispostos a um risco moderado com potencial de ganho sólido, Maya Le Tissier se posiciona como a carta mais quente do momento. A zagueira do Barclays WSL, com 88 de rating, subiu 9% em 24 horas e está negociada a 35 mil coins. O dado mais relevante aqui é a probabilidade de alta de 95%, o que indica uma tendência de valorização quase garantida no curto prazo, tornando-a uma escolha quase obrigatória para portfólios focados em segurança e crescimento constante.
+Para aqueles dispostos a assumir riscos moderados em busca de retornos mais agressivos, Vitor Reis e Nicolás Otamendi apresentam perfis interessantes. Vitor Reis, zagueiro da LaLiga EA Sports com rating 86, disparou 24,4% em 24 horas, valendo 28k coins, com uma probabilidade de alta de 33%. Já Nicolás Otamendi, da Liga Portugal (rating 86), exibiu um crescimento robusto de 23,3% em um dia, posicionando-se na faixa de 65k coins, também com 33% de chance de continuar subindo. Embora Otamendi tenha um preço de entrada significativamente maior, a magnitude da sua valorização recente sugere forte demanda de mercado, enquanto Vitor Reis oferece uma entrada mais acessível com potencial de ganho percentual similar.
 
-Na faixa de preço médio, José María Giménez oferece um equilíbrio interessante. O zagueiro da LALIGA EA SPORTS, com 87 de rating, valorizou 29,1% em um dia e custa 36 mil coins. Com uma probabilidade de alta de 27%, ele representa uma oportunidade de diversificação, atraindo jogadores que buscam reforçar suas defesas em squads de torneios específicos, o que pode sustentar sua cotação. Já Juan Foyth, da LALIGA EA SPORTS com 85 de rating, apesar de ter uma probabilidade de alta de apenas 50%, subiu 13,6% em 24 horas e custa apenas 40 mil coins, oferecendo um ponto de entrada acessível com chance equilibrada de retorno.
+Outras cartas merecem atenção específica devido a movimentos atípicos ou de nicho. Guéla Doué, da Ligue 1 McDonald's (rating 84), saltou 18,5% em 24 horas para 52k coins, com uma probabilidade de alta de 50%, equilibrando risco e recompensa. Thiago, da MLS (rating 85), é outro destaque, com alta de 22,5% em 24h para 28k coins e uma impressionante probabilidade de alta de 68%, tornando-o talvez a melhor relação custo-probabilidade do grupo. Marina Hegering (GPFBL, 87 rating) subiu 22,1% para 26k coins, com 27% de probabilidade de alta, oferecendo uma alternativa de preço baixo para especulação rápida.
 
-Para os investidores com maior capital, Gonçalo Inácio se destaca como a opção premium. O zagueiro da Liga Portugal, com 89 de rating, valorizou 15% em 24 horas e está cotado a 161 mil coins. Com uma probabilidade de alta de 23%, ele atrai quem busca estabilidade em ativos de alto valor, frequentemente usados em squads competitivos de alto nível. Por fim, Alidu Seidu (89, Ligue 1 McDonald's) e Keven Schlotterbeck (89, Bundesliga), apesar de terem probabilidade de alta baixa (5%), apresentam movimentos de preço significativos (12,5% e 11,2%, respectivamente), merecendo monitoramento constante para possíveis reviravoltas no mercado.
+Por outro lado, investidores devem ser cautelosos com cartas que apresentam alta volatilidade sem suporte de probabilidade forte. Maximiliano Caufriez (Ligue 2 BKT, 86 rating) teve a maior alta percentual em 24h, com 38,2% para 27k coins, mas sua probabilidade de alta é de apenas 8%, sugerindo que o movimento pode ser uma correção de curto prazo ou uma "pump" isolada. Keven Schlotterbeck (Bundesliga, 89 rating) e Glódís Perla Viggósdóttir (GPFBL, 85 rating) tiveram aumentos modestos de 6,7% e 3,4% respectivamente, com probabilidades de alta de 5%, indicando que seus preços atuais (26k e 22k coins) podem estar em platôs ou próximos de correções, devendo ser evitados para novas entradas neste momento.
+
+Em suma, a estratégia ideal para 20/06/2026 foca em acumular Maya Le Tissier e Naomi Girma pela segurança de 95% de probabilidade de alta, enquanto usa Thiago e Guéla Doué para diversificar com probabilidades de 68% e 50%. Vitor Reis e Otamendi servem para apostas de médio risco, enquanto Caufriez, Schlotterbeck e Viggósdóttir devem ser observados, mas não comprados, devido à baixa probabilidade de continuação da tendência. O mercado recompensa a disciplina: entrar onde a probabilidade favorece o investidor é a chave para a valorização sustentável de zagueiros neste ciclo.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Glódís Perla Viggósdóttir | 86 | GPFBL | 68k coins | +8.8% | +83.8% | 5% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 40k coins | +13.6% | +59% | 50% |
-| Maximiliano Caufriez | 86 | Ligue 2 BKT | 22k coins | +19% | +49.3% | 8% |
-| Keven Schlotterbeck | 89 | Bundesliga | 25k coins | +11.2% | +47.8% | 5% |
-| Alexsandro | 86 | Ligue 1 McDonald's | 26k coins | +32.3% | +42.4% | 68% |
-| Thiago | 85 | MLS | 24k coins | +38.8% | +40.5% | 68% |
-| Maya Le Tissier | 88 | Barclays WSL | 35k coins | +9% | +35% | 95% |
-| José María Giménez | 87 | LALIGA EA SPORTS | 36k coins | +29.1% | +33% | 27% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 45k coins | +12.5% | +32.4% | 5% |
-| Gonçalo Inácio | 89 | Liga Portugal | 161k coins | +15% | +29.8% | 23% |
-| Jürgen Kohler | 89 | Bundesliga | 18k coins | +12.5% | +28.6% | 95% |
-| Griedge Mbock | 86 | D1 Arkema | 40k coins | +1.9% | +24.4% | 95% |
-| Leah Williamson | 88 | Barclays WSL | 39k coins | +10.4% | +21.4% | 5% |
-| Marina Hegering | 87 | GPFBL | 23k coins | +20% | +20% | 27% |
-| Marcos Senesi | 88 | Premier League | 30k coins | +5.6% | +16.8% | 80% |
+| Vitor Reis | 86 | LALIGA EA SPORTS | 28k coins | +24.4% | +69.7% | 33% |
+| Guéla Doué | 84 | Ligue 1 McDonald's | 52k coins | +18.5% | +65.8% | 50% |
+| Glódís Perla Viggósdóttir | 85 | GPFBL | 22k coins | +3.4% | +50% | 5% |
+| Maximiliano Caufriez | 86 | Ligue 2 BKT | 27k coins | +38.2% | +40.3% | 8% |
+| Keven Schlotterbeck | 89 | Bundesliga | 26k coins | +6.7% | +39.7% | 5% |
+| Maya Le Tissier | 88 | Barclays WSL | 40k coins | +12.9% | +32.8% | 95% |
+| Marina Hegering | 87 | GPFBL | 26k coins | +22.1% | +31.2% | 27% |
+| Nicolás Otamendi | 86 | Liga Portugal | 65k coins | +23.3% | +27.6% | 33% |
+| Naomi Girma | 87 | Barclays WSL | 46k coins | +8.3% | +24.7% | 95% |
+| Thiago | 85 | MLS | 28k coins | +22.5% | +24.1% | 68% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 24k coins | +1% | +23.2% | 16% |
+| Gonçalo Inácio | 89 | Liga Portugal | 169k coins | +23.8% | +21.1% | 23% |
+| Leah Williamson | 88 | Barclays WSL | 40k coins | +12.5% | +20.9% | 5% |
+| Marcos Senesi | 88 | Premier League | 34k coins | +12.6% | +20.7% | 80% |
+| Josip Šutalo | 90 | Eredivisie | 38k coins | +9.7% | +11.5% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Glódís Perla Viggósdóttir (86)** — 68k coins, **+83.8% em 7 dias** (+8.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Vitor Reis (86)** — 28k coins, **+69.7% em 7 dias** (+24.4% em 24h). Preço +53% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Juan Foyth (85)** — 40k coins, **+59% em 7 dias** (+13.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Guéla Doué (84)** — 52k coins, **+65.8% em 7 dias** (+18.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Maximiliano Caufriez (86)** — 22k coins, **+49.3% em 7 dias** (+19% em 24h). Preço em linha com a média de 7 dias (+6%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Glódís Perla Viggósdóttir (85)** — 22k coins, **+50% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Keven Schlotterbeck (89)** — 25k coins, **+47.8% em 7 dias** (+11.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Maximiliano Caufriez (86)** — 27k coins, **+40.3% em 7 dias** (+38.2% em 24h). Preço +44% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Alexsandro (86)** — 26k coins, **+42.4% em 7 dias** (+32.3% em 24h). Preço em linha com a média de 7 dias (-1%). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Keven Schlotterbeck (89)** — 26k coins, **+39.7% em 7 dias** (+6.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -88,7 +90,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Glódís Perla Viggósdóttir (86, GPFBL) lidera, com +83.8% em 7 dias a 68k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+Vitor Reis (86, LALIGA EA SPORTS) lidera, com +69.7% em 7 dias a 28k coins no Console (PS), e o modelo dá 33% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:46:17.000Z
+pubDatetime: 2026-06-20T19:46:16.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Hiroki Ito (93, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Hiroki Ito (93, sem liga) aparece como melhor custo-benefício, a 15k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Hiroki Ito (93) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Hiroki Ito (93) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hiroki Ito | 93 | CB | — | 14k coins | -31.7% |
-| Arthur Theate | 92 | CB | — | 15k coins | -1.9% |
-| Olwethu Makhanya | 91 | CB | — | 13k coins | 0% |
-| Michael Boxall | 91 | CB | — | 13k coins | -1.9% |
-| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | +5% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | -2.1% |
-| Millie Bright | 85 | CB | Barclays WSL | 5k coins | +43.8% |
-| Aymeric Laporte | 83 | CB | ROSHN Saudi League | 7k coins | -10.7% |
+| Hiroki Ito | 93 | CB | — | 15k coins | -33.3% |
+| Sergi Domínguez | 92 | CB | — | 12k coins | -65% |
+| Arthur Theate | 92 | CB | — | 14k coins | +3.7% |
+| Gustaf Lagerbielke | 91 | CB | — | 12k coins | -62.5% |
+| Olwethu Makhanya | 91 | CB | — | 14k coins | +7.5% |
+| Michael Boxall | 91 | CB | — | 15k coins | +3.7% |
+| Chibuike Nwaiwu | 90 | CB | — | 12k coins | -64.2% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -39.5% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | 0% |
+| Sara Doorsoun | 84 | CB | GPFBL | 4k coins | +5.3% |
 
 
 ## 📈 Destaques
 
-- **Hiroki Ito (93, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Hiroki Ito (93, CB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Arthur Theate (92, CB)** da —, a apenas **15k coins**
+- **Sergi Domínguez (92, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Olwethu Makhanya (91, CB)** da —, a apenas **13k coins**
+- **Arthur Theate (92, CB)** da —, a apenas **14k coins**
 
-- **Michael Boxall (91, CB)** da —, a apenas **13k coins**
+- **Gustaf Lagerbielke (91, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **2k coins**
+- **Olwethu Makhanya (91, CB)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -66,7 +68,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Hiroki Ito (93, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Hiroki Ito (93, sem liga) aparece como melhor custo-benefício, a 15k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
