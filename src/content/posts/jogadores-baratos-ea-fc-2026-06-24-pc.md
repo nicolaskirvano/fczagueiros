@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T16:44:09.000Z
+pubDatetime: 2026-06-24T19:44:09.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (24/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Luka Vušković | 94 | CB | — | 15k coins | -56.5% |
-| Jakob Glesnes | 93 | CB | — | 12k coins | -67.1% |
-| Maria Méndez | 93 | CB | — | 12k coins | -64% |
-| Stine Ballisager | 93 | CB | — | 13k coins | -66.7% |
-| Omar Sowunmi | 93 | CB | — | 13k coins | -69.4% |
-| Ingrid Syrstad Engen | 93 | CB | — | 13k coins | -73.8% |
-| Milan Škriniar | 93 | CB | — | 13k coins | -66.9% |
-| Santiago Sosa | 93 | CB | — | 13k coins | -71.4% |
-| Tōko Koga | 93 | CB | — | 13k coins | -64.3% |
-| Hiroki Ito | 93 | CB | — | 14k coins | -44% |
+| Luka Vušković | 94 | CB | — | 15k coins | -60.9% |
+| Milan Škriniar | 93 | CB | — | 12k coins | -71.1% |
+| Jakob Glesnes | 93 | CB | — | 12k coins | -70.3% |
+| Stine Ballisager | 93 | CB | — | 12k coins | -67.1% |
+| Maria Méndez | 93 | CB | — | 12k coins | -64.7% |
+| Santiago Sosa | 93 | CB | — | 12k coins | -70.2% |
+| Ingrid Syrstad Engen | 93 | CB | — | 12k coins | -74.1% |
+| Tōko Koga | 93 | CB | — | 13k coins | -65.7% |
+| Omar Sowunmi | 93 | CB | — | 13k coins | -66.2% |
 | Sergi Domínguez | 92 | CB | — | 12k coins | -72.5% |
+| Kalidou Koulibaly | 92 | CB | — | 12k coins | -76.3% |
 | Caleb Taylor | 92 | CB | — | 12k coins | -70.5% |
-| Evan Ndicka | 92 | CB | — | 12k coins | -76% |
 | Tristan Blackmon | 92 | CB | — | 12k coins | -71.3% |
-| Deja Davis | 92 | CB | — | 12k coins | -66.7% |
+| Evan Ndicka | 92 | CB | — | 12k coins | -76% |
+| Kayla Sharples | 92 | CB | — | 12k coins | -68.5% |
 
 
 ## 📈 Destaques
 
 - **Luka Vušković (94, CB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Milan Škriniar (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Jakob Glesnes (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Stine Ballisager (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Maria Méndez (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Stine Ballisager (93, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Omar Sowunmi (93, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
