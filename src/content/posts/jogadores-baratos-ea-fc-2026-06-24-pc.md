@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T22:44:09.000Z
+pubDatetime: 2026-06-25T01:44:10.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (24/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 24/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/06/2026)?"
-    a: "Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Jerdy Schouten (94, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Luka Vušković (94) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Jerdy Schouten (94) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Luka Vušković | 94 | CB | — | 13k coins | -66.1% |
-| Jacobo Ramón | 94 | CB | — | 14k coins | -62.5% |
-| Maria Méndez | 93 | CB | — | 12k coins | -65.9% |
-| Jakob Glesnes | 93 | CB | — | 12k coins | -70.1% |
-| Stine Ballisager | 93 | CB | — | 12k coins | -68.7% |
-| Santiago Sosa | 93 | CB | — | 12k coins | -75% |
-| Tōko Koga | 93 | CB | — | 12k coins | -66.4% |
+| Jerdy Schouten | 94 | CB | — | 13k coins | -80.8% |
+| Jacobo Ramón | 94 | CB | — | 14k coins | -66.2% |
+| Jan Bednarek | 94 | CB | — | 14k coins | -75% |
+| Arseniy Batagov | 94 | CB | — | 15k coins | -76.2% |
 | Milan Škriniar | 93 | CB | — | 12k coins | -73.7% |
-| Ingrid Syrstad Engen | 93 | CB | — | 12k coins | -75.1% |
-| Omar Sowunmi | 93 | CB | — | 12k coins | -70% |
-| Sergi Domínguez | 92 | CB | — | 12k coins | -72.6% |
-| Kalidou Koulibaly | 92 | CB | — | 12k coins | -77.5% |
-| Davinson Sánchez | 92 | CB | — | 12k coins | -74.4% |
-| Caleb Taylor | 92 | CB | — | 12k coins | -70.5% |
-| Pubill | 92 | CB | — | 12k coins | -72.9% |
+| Maria Méndez | 93 | CB | — | 12k coins | -65.7% |
+| Ingrid Syrstad Engen | 93 | CB | — | 12k coins | -76.4% |
+| Omar Sowunmi | 93 | CB | — | 12k coins | -70.6% |
+| Jakob Glesnes | 93 | CB | — | 12k coins | -70.6% |
+| Stine Ballisager | 93 | CB | — | 12k coins | -68.7% |
+| Santiago Sosa | 93 | CB | — | 12k coins | -73.7% |
+| Tōko Koga | 93 | CB | — | 12k coins | -66.4% |
+| Hiroki Ito | 93 | CB | — | 14k coins | -45% |
+| Sergi Domínguez | 92 | CB | — | 12k coins | -74.4% |
+| Kalidou Koulibaly | 92 | CB | — | 12k coins | -77.9% |
 
 
 ## 📈 Destaques
 
-- **Luka Vušković (94, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jerdy Schouten (94, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jacobo Ramón (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maria Méndez (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jan Bednarek (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jakob Glesnes (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Arseniy Batagov (94, CB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Stine Ballisager (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Milan Škriniar (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/06/2026)?**  
-Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
+Jerdy Schouten (94, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
