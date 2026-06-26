@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T16:44:05.000Z
+pubDatetime: 2026-06-26T19:44:05.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Kevin Mac Allister (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Vincent Kompany (92, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Kevin Mac Allister (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Vincent Kompany (92) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kevin Mac Allister | 94 | CB | — | 14k coins | -14.3% |
-| Omar Sowunmi | 93 | CB | — | 13k coins | -27.1% |
-| Tōko Koga | 93 | CB | — | 13k coins | -26.1% |
-| Ingrid Syrstad Engen | 93 | CB | — | 13k coins | -20.9% |
-| Stine Ballisager | 93 | CB | — | 14k coins | -27.5% |
-| Maria Méndez | 93 | CB | — | 14k coins | -13.6% |
-| Milan Škriniar | 93 | CB | — | 14k coins | -33.3% |
-| Santiago Sosa | 93 | CB | — | 14k coins | -9.1% |
-| Jakob Glesnes | 93 | CB | — | 14k coins | -6.8% |
-| Caleb Taylor | 92 | CB | — | 12k coins | -13% |
-| Davinson Sánchez | 92 | CB | — | 12k coins | -23.4% |
-| Kalidou Koulibaly | 92 | CB | — | 12k coins | -27.9% |
-| Deja Davis | 92 | CB | — | 12k coins | -27.9% |
-| Sergi Domínguez | 92 | CB | — | 12k coins | -14.3% |
-| Kayla Sharples | 92 | CB | — | 12k coins | -34.7% |
+| Vincent Kompany | 92 | CB | — | 13k coins | -14.8% |
+| Jamie Carragher | 92 | CB | — | 14k coins | -11.1% |
+| Jamie Carragher | 89 | CB | — | 12k coins | -5.4% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -13.3% |
+| Tara McKeown | 89 | CB | NWSL | 14k coins | -12.9% |
+| Carles Puyol | 88 | CB | — | 12k coins | -23.1% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | -10.9% |
+| Jawad El Yamiq | 87 | CB | LaLiga Hypermotion | 13k coins | -15.7% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | -2.1% |
+| Ledley King | 86 | CB | Premier League | 14k coins | +5.7% |
+| Nicolas Seiwald | 85 | CB | Bundesliga | 13k coins | -17.1% |
+| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -40% |
+| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Kevin Mac Allister (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vincent Kompany (92, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Omar Sowunmi (93, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamie Carragher (92, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tōko Koga (93, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamie Carragher (89, CB)** da —, a apenas **12k coins**
 
-- **Ingrid Syrstad Engen (93, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Stine Ballisager (93, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tara McKeown (89, CB)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +71,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Kevin Mac Allister (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Vincent Kompany (92, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
