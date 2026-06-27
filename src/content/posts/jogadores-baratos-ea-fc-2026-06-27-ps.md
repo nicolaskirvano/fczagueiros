@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:44:05.000Z
+pubDatetime: 2026-06-27T13:44:05.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vincent Kompany | 92 | CB | — | 12k coins | -18% |
-| Olwethu Makhanya | 92 | CB | — | 14k coins | +7.7% |
-| Arthur Theate | 92 | CB | — | 14k coins | +9.8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -9.3% |
-| Rocío Gálvez | 88 | CB | Liga F | 14k coins | -33.3% |
-| Sol Campbell | 88 | CB | — | 14k coins | +1.8% |
-| Carl Starfelt | 88 | CB | — | 14k coins | -29.4% |
-| Carles Puyol | 88 | CB | — | 15k coins | -10.3% |
-| Millie Bright | 87 | CB | Barclays WSL | 7k coins | +12.5% |
-| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -15.1% |
+| Olwethu Makhanya | 92 | CB | — | 14k coins | +9.6% |
+| Arthur Theate | 92 | CB | — | 14k coins | +11.5% |
+| Jamie Carragher | 92 | CB | — | 15k coins | -1.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -16.4% |
+| Jamie Carragher | 89 | CB | — | 13k coins | +3.9% |
+| Marcel Desailly | 88 | CB | — | 14k coins | -12.5% |
+| Carles Puyol | 88 | CB | — | 14k coins | 0% |
+| Millie Bright | 87 | CB | Barclays WSL | 6k coins | +1.5% |
+| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -15.4% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | -8.5% |
-| Ledley King | 86 | CB | Premier League | 13k coins | 0% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | -16.2% |
-| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 14k coins | -44.6% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | -16.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 11k coins | -32.8% |
+| Ledley King | 86 | CB | Premier League | 12k coins | -2% |
+| Eric Dier | 86 | CB | Ligue 1 McDonald's | 14k coins | -23% |
+| Wendie Renard | 86 | CB | D1 Arkema | 15k coins | +6.9% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Arthur Theate (92, CB)** da —, a apenas **14k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamie Carragher (92, CB)** da —, a apenas **15k coins**
 
-- **Rocío Gálvez (88, CB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
