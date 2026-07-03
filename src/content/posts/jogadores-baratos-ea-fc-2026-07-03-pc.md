@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:44:09.000Z
+pubDatetime: 2026-07-03T13:44:09.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Kalidou Koulibaly (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Tsuyoshi Watanabe (94, sem liga) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Kalidou Koulibaly (95) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Tsuyoshi Watanabe (94) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,33 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kalidou Koulibaly | 95 | CB | — | 14k coins | -72.3% |
 | Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -23% |
+| Hiroki Ito | 94 | CB | — | 15k coins | -6.3% |
 | Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
 | Kevin Danso | 93 | CB | — | 12k coins | -23% |
-| Olwethu Makhanya | 92 | CB | — | 14k coins | +7.1% |
-| Vincent Kompany | 92 | CB | — | 15k coins | +23.4% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -57.1% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -14.8% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 15k coins | +1.7% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -17% |
-| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -4.3% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -20.3% |
+| Vincent Kompany | 92 | CB | — | 14k coins | +18.8% |
+| Olwethu Makhanya | 92 | CB | — | 14k coins | +3.6% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -43.8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -10.5% |
+| Laura Georges | 89 | CB | D1 Arkema | 14k coins | -59.2% |
+| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -8.3% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -8.6% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | 0% |
-| Ledley King | 86 | CB | Premier League | 12k coins | -28.1% |
+| Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +4.5% |
 
 
 ## 📈 Destaques
 
-- **Kalidou Koulibaly (95, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Tsuyoshi Watanabe (94, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Hiroki Ito (94, CB)** da —, a apenas **15k coins**
 
 - **Çağlar Söyüncü (93, CB)** da —, a apenas **12k coins**
 
 - **Kevin Danso (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Olwethu Makhanya (92, CB)** da —, a apenas **14k coins**
+- **Vincent Kompany (92, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -72,7 +71,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Kalidou Koulibaly (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Tsuyoshi Watanabe (94, sem liga) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:44:05.000Z
+pubDatetime: 2026-07-03T13:44:05.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -23% |
-| Hiroki Ito | 94 | CB | — | 14k coins | +3.5% |
+| Hiroki Ito | 94 | CB | — | 14k coins | +1.8% |
 | Kevin Danso | 93 | CB | — | 12k coins | -23% |
 | Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
-| Vincent Kompany | 92 | CB | — | 14k coins | +14.6% |
-| Olwethu Makhanya | 92 | CB | — | 14k coins | +3.6% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -8% |
-| Jamie Carragher | 89 | CB | — | 14k coins | +3.7% |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | +1.8% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -49.5% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | -1.9% |
-| Loïc Badé | 88 | CB | Bundesliga | 13k coins | -25% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -11.7% |
-| Sol Campbell | 88 | CB | — | 14k coins | -9.1% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +3.4% |
+| Arthur Theate | 93 | CB | — | 15k coins | +5.4% |
+| Vincent Kompany | 92 | CB | — | 13k coins | +12.2% |
+| Olwethu Makhanya | 92 | CB | — | 14k coins | +5.5% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4% |
+| Jamie Carragher | 89 | CB | — | 14k coins | +1.8% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | -3.7% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 14k coins | -50.9% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +7.1% |
+| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -35.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 11k coins | +6.5% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -5.3% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Çağlar Söyüncü (93, CB)** da —, a apenas **12k coins**
 
-- **Vincent Kompany (92, CB)** da —, a apenas **14k coins**
+- **Arthur Theate (93, CB)** da —, a apenas **15k coins**
 
 
 ## Por que estas cartas?
