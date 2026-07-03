@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:44:09.000Z
+pubDatetime: 2026-07-03T16:44:09.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,16 +30,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -23% |
-| Hiroki Ito | 94 | CB | — | 15k coins | -6.3% |
 | Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
 | Kevin Danso | 93 | CB | — | 12k coins | -23% |
-| Vincent Kompany | 92 | CB | — | 14k coins | +18.8% |
-| Olwethu Makhanya | 92 | CB | — | 14k coins | +3.6% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -43.8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -10.5% |
-| Laura Georges | 89 | CB | D1 Arkema | 14k coins | -59.2% |
-| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -8.3% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -8.6% |
+| Olwethu Makhanya | 92 | CB | — | 14k coins | +1.8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -8.9% |
+| Rocío Gálvez | 88 | CB | Liga F | 14k coins | -41.2% |
+| Sol Campbell | 88 | CB | — | 14k coins | -33.3% |
+| Loïc Badé | 88 | CB | Bundesliga | 15k coins | -34.4% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -4.3% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -16.9% |
 | Jamie Carragher | 86 | CB | Premier League | 11k coins | 0% |
 | Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +4.5% |
 
@@ -48,13 +47,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Tsuyoshi Watanabe (94, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Hiroki Ito (94, CB)** da —, a apenas **15k coins**
-
 - **Çağlar Söyüncü (93, CB)** da —, a apenas **12k coins**
 
 - **Kevin Danso (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vincent Kompany (92, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Olwethu Makhanya (92, CB)** da —, a apenas **14k coins**
+
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
