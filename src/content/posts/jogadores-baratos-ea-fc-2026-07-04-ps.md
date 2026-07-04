@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T10:44:05.000Z
+pubDatetime: 2026-07-04T13:44:05.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tsuyoshi Watanabe | 94 | CB | — | 13k coins | -16.4% |
-| Hiroki Ito | 94 | CB | — | 14k coins | -5.1% |
+| Tsuyoshi Watanabe | 94 | CB | — | 13k coins | -19.7% |
+| Hiroki Ito | 94 | CB | — | 14k coins | -3.4% |
+| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
 | Kevin Danso | 93 | CB | — | 12k coins | -21.3% |
-| Vincent Kompany | 92 | CB | — | 14k coins | +8% |
+| Vincent Kompany | 92 | CB | — | 12k coins | +12% |
 | Olwethu Makhanya | 92 | CB | — | 14k coins | -1.8% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -8.7% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | 0% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | +6.7% |
+| Mapi León | 89 | CB | Liga F | 2k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +2.1% |
+| Jamie Carragher | 89 | CB | — | 13k coins | 0% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -1.7% |
 | Vincent Kompany | 88 | CB | Premier League | 12k coins | -10.7% |
-| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -3.2% |
-| Alessandro Nesta | 88 | CB | — | 14k coins | +3.6% |
-| Ko Itakura | 88 | CB | Eredivisie | 14k coins | -25% |
-| Ahmetcan Kaplan | 88 | CB | Eredivisie | 15k coins | -39.8% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -31.8% |
-| Laura Georges | 87 | CB | D1 Arkema | 13k coins | +17.8% |
+| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -8.5% |
+| Carles Puyol | 88 | CB | — | 15k coins | +17.6% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | -41.3% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +2.2% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Hiroki Ito (94, CB)** da —, a apenas **14k coins**
 
+- **Çağlar Söyüncü (93, CB)** da —, a apenas **12k coins**
+
 - **Kevin Danso (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vincent Kompany (92, CB)** da —, a apenas **14k coins**
-
-- **Olwethu Makhanya (92, CB)** da —, a apenas **14k coins**
+- **Vincent Kompany (92, CB)** da —, a apenas **12k coins**
 
 
 ## Por que estas cartas?

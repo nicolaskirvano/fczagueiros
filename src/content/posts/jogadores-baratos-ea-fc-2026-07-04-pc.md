@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T10:44:09.000Z
+pubDatetime: 2026-07-04T13:44:09.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,15 +32,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Tsuyoshi Watanabe | 94 | CB | — | 13k coins | -14.8% |
 | Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
 | Kevin Danso | 93 | CB | — | 12k coins | -23% |
-| Olwethu Makhanya | 92 | CB | — | 13k coins | +7.4% |
-| Vincent Kompany | 92 | CB | — | 15k coins | +18% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -15.4% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +2.2% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12k coins | -42% |
-| Vincent Kompany | 88 | CB | Premier League | 14k coins | -41% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -13.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +11.1% |
-| Ledley King | 86 | CB | Premier League | 12k coins | -36% |
+| Olwethu Makhanya | 92 | CB | — | 14k coins | +5.6% |
+| Vincent Kompany | 92 | CB | — | 15k coins | +13.7% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -22.4% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12k coins | -39.5% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +20% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -1.9% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | -4.4% |
+| Ledley King | 86 | CB | Premier League | 12k coins | -38.7% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | 0% |
 
 
 ## 📈 Destaques
@@ -51,9 +53,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Kevin Danso (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Olwethu Makhanya (92, CB)** da —, a apenas **13k coins**
+- **Olwethu Makhanya (92, CB)** da —, a apenas **14k coins**
 
-- **Vincent Kompany (92, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Vincent Kompany (92, CB)** da —, a apenas **15k coins**
 
 
 ## Por que estas cartas?
