@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T22:44:09.000Z
+pubDatetime: 2026-07-04T01:44:12.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,32 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tsuyoshi Watanabe | 94 | CB | — | 13k coins | -13.1% |
+| Tsuyoshi Watanabe | 94 | CB | — | 13k coins | -16.4% |
+| Hiroki Ito | 94 | CB | — | 15k coins | -1.7% |
 | Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
 | Kevin Danso | 93 | CB | — | 12k coins | -23% |
-| Olwethu Makhanya | 92 | CB | — | 14k coins | +9.3% |
-| Vincent Kompany | 92 | CB | — | 14k coins | +16% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -11.5% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | -27.4% |
-| Rocío Gálvez | 88 | CB | Liga F | 15k coins | -37.6% |
-| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -17.1% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +2.2% |
-| Jamie Carragher | 86 | CB | Premier League | 11k coins | 0% |
-| Ledley King | 86 | CB | Premier League | 12k coins | -32.4% |
-| Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +4.5% |
+| Olwethu Makhanya | 92 | CB | — | 14k coins | +7.4% |
+| Vincent Kompany | 92 | CB | — | 15k coins | +18% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -15.4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -1.9% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 11k coins | -39.5% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | -20.3% |
+| Sol Campbell | 88 | CB | — | 15k coins | -35.5% |
+| Loïc Badé | 88 | CB | Bundesliga | 15k coins | -42.1% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +4.4% |
+| Jamie Carragher | 86 | CB | Premier League | 11k coins | +4.7% |
+| Ledley King | 86 | CB | Premier League | 14k coins | -20.8% |
 
 
 ## 📈 Destaques
 
 - **Tsuyoshi Watanabe (94, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Hiroki Ito (94, CB)** da —, a apenas **15k coins**
+
 - **Çağlar Söyüncü (93, CB)** da —, a apenas **12k coins**
 
 - **Kevin Danso (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Olwethu Makhanya (92, CB)** da —, a apenas **14k coins**
-
-- **Vincent Kompany (92, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

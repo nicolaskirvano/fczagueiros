@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T22:44:05.000Z
+pubDatetime: 2026-07-04T01:44:06.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -16.4% |
-| Hiroki Ito | 94 | CB | — | 14k coins | -5.1% |
-| Kevin Danso | 93 | CB | — | 12k coins | -19.7% |
-| Vincent Kompany | 92 | CB | — | 13k coins | +4% |
-| Olwethu Makhanya | 92 | CB | — | 14k coins | 0% |
-| Mapi León | 89 | CB | Liga F | 2k coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -2% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -33.7% |
-| Jamie Carragher | 89 | CB | — | 15k coins | +9.1% |
-| Dante | 88 | CB | Ligue 1 McDonald's | 14k coins | -52.1% |
-| Marcel Desailly | 88 | CB | — | 14k coins | +9.1% |
-| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -17.6% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +11.1% |
-| Laura Georges | 87 | CB | D1 Arkema | 13k coins | +10.9% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | 0% |
+| Hiroki Ito | 94 | CB | — | 14k coins | -6.7% |
+| Kevin Danso | 93 | CB | — | 12k coins | -23% |
+| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
+| Arthur Theate | 93 | CB | — | 15k coins | 0% |
+| Vincent Kompany | 92 | CB | — | 13k coins | +6% |
+| Olwethu Makhanya | 92 | CB | — | 14k coins | -3.5% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -10% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -8.2% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -27.6% |
+| Alessandro Nesta | 88 | CB | — | 14k coins | -3.4% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | +11.3% |
+| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -11.1% |
+| Marcel Desailly | 88 | CB | — | 14k coins | +9.4% |
+| Millie Bright | 87 | CB | Barclays WSL | 5k coins | -24.2% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Kevin Danso (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vincent Kompany (92, CB)** da —, a apenas **13k coins**
+- **Çağlar Söyüncü (93, CB)** da —, a apenas **12k coins**
 
-- **Olwethu Makhanya (92, CB)** da —, a apenas **14k coins**
+- **Arthur Theate (93, CB)** da —, a apenas **15k coins**
 
 
 ## Por que estas cartas?
