@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T19:44:05.000Z
+pubDatetime: 2026-07-10T22:44:05.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,33 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +25% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +6.4% |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -1.9% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | -7.4% |
-| Dante | 88 | CB | Ligue 1 McDonald's | 14k coins | -12.5% |
-| Ahmetcan Kaplan | 88 | CB | Eredivisie | 14k coins | +5.5% |
-| Iván Córdoba | 87 | CB | Serie A TIM | 12k coins | -39.3% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -7.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +7.8% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -25% |
-| Luka Vušković | 86 | CB | Bundesliga | 14k coins | +1.8% |
-| Wendie Renard | 86 | CB | D1 Arkema | 14k coins | -11.1% |
-| Rocío Gálvez | 85 | CB | Liga F | 15k coins | +12.3% |
-| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
+| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +20% |
+| Vincent Kompany | 92 | CB | — | 15k coins | +15.1% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 13k coins | +1.7% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +6.1% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +6.2% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | -5.3% |
+| Loïc Badé | 88 | CB | Bundesliga | 13k coins | +7.1% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -1.8% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | -1.7% |
+| Vincent Kompany | 88 | CB | Premier League | 14k coins | +17.3% |
+| Ahmetcan Kaplan | 88 | CB | Eredivisie | 15k coins | -5.1% |
+| Laura Georges | 87 | CB | D1 Arkema | 13k coins | +2% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -3.4% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +78.9% |
+| Luka Vušković | 86 | CB | Bundesliga | 13k coins | -1.9% |
 
 
 ## 📈 Destaques
 
 - **Tsuyoshi Watanabe (94, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
+- **Vincent Kompany (92, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins**
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **13k coins**
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins**
 
-- **Dante (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
 
 
 ## Por que estas cartas?
