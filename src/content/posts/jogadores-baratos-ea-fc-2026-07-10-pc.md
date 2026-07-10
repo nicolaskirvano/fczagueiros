@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T13:44:09.000Z
+pubDatetime: 2026-07-10T16:44:09.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "Odilon Kossounou (93, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "José María Giménez (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Odilon Kossounou (93) por apenas 13k coins.
+> 💰 **Melhor pechincha:** José María Giménez (94) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Odilon Kossounou | 93 | CB | — | 13k coins | +8.5% |
-| Çağlar Söyüncü | 93 | CB | — | 14k coins | +14.9% |
-| Kevin Danso | 93 | CB | — | 14k coins | +19.1% |
-| Olwethu Makhanya | 92 | CB | — | 14k coins | +3.4% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +33.3% |
-| Gabriel | 88 | CB | Premier League | 2k coins | +125% |
-| Millie Bright | 87 | CB | Barclays WSL | 5k coins | +48.5% |
-| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -4.3% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +166.7% |
+| José María Giménez | 94 | CB | — | 14k coins | +10% |
+| Odilon Kossounou | 93 | CB | — | 12k coins | +10.6% |
+| Çağlar Söyüncü | 93 | CB | — | 14k coins | +21.3% |
+| Kevin Danso | 93 | CB | — | 14k coins | +21.3% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +26.3% |
+| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -47.8% |
 
 
 ## 📈 Destaques
 
-- **Odilon Kossounou (93, CB)** da —, a apenas **13k coins**
+- **José María Giménez (94, CB)** da —, a apenas **14k coins**
 
-- **Çağlar Söyüncü (93, CB)** da —, a apenas **14k coins**
+- **Odilon Kossounou (93, CB)** da —, a apenas **12k coins**
+
+- **Çağlar Söyüncü (93, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Kevin Danso (93, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Olwethu Makhanya (92, CB)** da —, a apenas **14k coins**
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
@@ -67,7 +64,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
-Odilon Kossounou (93, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
+José María Giménez (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
