@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T16:44:05.000Z
+pubDatetime: 2026-07-10T19:44:05.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "José María Giménez (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Tsuyoshi Watanabe (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** José María Giménez (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Tsuyoshi Watanabe (94) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| José María Giménez | 94 | CB | — | 14k coins | +12.2% |
-| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +23.4% |
-| Odilon Kossounou | 93 | CB | — | 13k coins | +10.6% |
-| Kevin Danso | 93 | CB | — | 13k coins | +10.6% |
-| Çağlar Söyüncü | 93 | CB | — | 13k coins | +10.6% |
-| Vincent Kompany | 92 | CB | — | 14k coins | +13% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -11.1% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -3.6% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | +1.8% |
-| Vincent Kompany | 88 | CB | Premier League | 13k coins | -1.9% |
-| Dante | 88 | CB | Ligue 1 McDonald's | 14k coins | -14.7% |
-| Alessandro Nesta | 88 | CB | — | 15k coins | 0% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +3.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +4.2% |
+| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +25% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +6.4% |
+| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -1.9% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | -7.4% |
+| Dante | 88 | CB | Ligue 1 McDonald's | 14k coins | -12.5% |
+| Ahmetcan Kaplan | 88 | CB | Eredivisie | 14k coins | +5.5% |
+| Iván Córdoba | 87 | CB | Serie A TIM | 12k coins | -39.3% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -7.3% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +7.8% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -25% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | +1.8% |
+| Wendie Renard | 86 | CB | D1 Arkema | 14k coins | -11.1% |
+| Rocío Gálvez | 85 | CB | Liga F | 15k coins | +12.3% |
+| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **José María Giménez (94, CB)** da —, a apenas **14k coins**
-
 - **Tsuyoshi Watanabe (94, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Odilon Kossounou (93, CB)** da —, a apenas **13k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
-- **Kevin Danso (93, CB)** da —, a apenas **13k coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins**
 
-- **Çağlar Söyüncü (93, CB)** da —, a apenas **13k coins**
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
+
+- **Dante (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +72,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
-José María Giménez (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Tsuyoshi Watanabe (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
