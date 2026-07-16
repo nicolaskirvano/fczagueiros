@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fczagueiros.pages.dev/",
     title: "Zagueiro Market",
     description:
-      "Os melhores zagueiros do EA FC Ultimate Team: precos, em alta e custo-beneficio, todos os dias.",
+      "Os melhores zagueiros do EA FC Ultimate Team: preços, em alta e custo-beneficio, todos os dias.",
     author: "Zagueiro Market",
-    profile: "https://fczagueiros.pages.dev/",
+    profile: "https://fczagueiros.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Zagueiro Market",
