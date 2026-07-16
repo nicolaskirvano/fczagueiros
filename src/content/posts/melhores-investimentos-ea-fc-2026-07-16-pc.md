@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:47:11.000Z
+pubDatetime: 2026-07-16T22:44:18.000Z
 title: "Melhores investimentos em Zagueiros no EA FC (16/07/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Fernando Hierro (93, sem liga) lidera, com +84% em 7 dias a 74k coins no PC."
+    a: "Jürgen Kohler (91, sem liga) lidera, com +78.1% em 7 dias a 65k coins no PC."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
 
-> 🔝 **Destaque:** Fernando Hierro (93) acumula **+84% em 7 dias** a 74k coins.
+> 🔝 **Destaque:** Jürgen Kohler (91) acumula **+78.1% em 7 dias** a 65k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fernando Hierro | 93 | — | 74k coins | +5.7% | +84% | 0% |
-| Vanessa Gilles | 87 | GPFBL | 36k coins | +19.2% | +79.5% | 0% |
-| Dayot Upamecano | 95 | — | 95k coins | +6.1% | +74.3% | 0% |
-| Gabriel | 96 | — | 178k coins | +23.1% | +64.5% | 0% |
-| Kevin Mac Allister | 94 | — | 55k coins | +15.2% | +61.8% | 0% |
-| Alessandro Nesta | 92 | — | 78k coins | +15.7% | +55% | 0% |
-| Odilon Kossounou | 93 | — | 18k coins | +1.4% | +53.1% | 0% |
-| Marcel Desailly | 88 | — | 26k coins | +8.3% | +52.9% | 0% |
-| Hiroki Ito | 94 | — | 25k coins | +20.5% | +51.5% | 0% |
-| Chibuike Nwaiwu | 90 | — | 40k coins | +13.5% | +50% | 0% |
+| Jürgen Kohler | 91 | — | 65k coins | +8.3% | +78.1% | 0% |
+| Ibañez | 93 | — | 58k coins | +33.3% | +76.5% | 0% |
+| Vanessa Gilles | 87 | GPFBL | 32k coins | +27.6% | +67.5% | 0% |
+| Dayot Upamecano | 95 | — | 94k coins | +2.2% | +65.5% | 0% |
+| Rocío Gálvez | 88 | Liga F | 30k coins | +14% | +62.5% | 0% |
+| Alessandro Nesta | 92 | — | 80k coins | +18.3% | +53.5% | 0% |
+| Arseniy Batagov | 94 | — | 34k coins | +28.3% | +51.1% | 0% |
+| Odilon Kossounou | 93 | — | 18k coins | +1.4% | +51% | 0% |
+| José María Giménez | 94 | — | 19k coins | +4.1% | +51% | 0% |
 | Elba Vergés | 84 | Liga F | 44k coins | +1.7% | +48.7% | 40% |
-| Thiago | 85 | MLS | 28k coins | +38.3% | +47.4% | 27% |
-| Nobel Mendy | 84 | LALIGA EA SPORTS | 50k coins | +7.5% | +46% | 0% |
-| Vincent Kompany | 91 | Premier League | 69k coins | +18.2% | +45.3% | 49% |
-| José Fonte | 85 | Liga Portugal | 70k coins | +33.7% | +44.8% | 0% |
+| Giorgio Chiellini | 92 | — | 35k coins | +6.4% | +47.1% | 0% |
+| Çağlar Söyüncü | 93 | — | 19k coins | +2.7% | +46.2% | 0% |
+| Kevin Danso | 93 | — | 19k coins | +2.7% | +46.2% | 0% |
+| Vincent Kompany | 91 | Premier League | 66k coins | +7.3% | +40% | 49% |
+| Sherida Spitse | 85 | Nederland Vrouwen Liga | 80k coins | +11.1% | +39.1% | 0% |
 
 
 ## 📈 Análise dos destaques
 
-- **Fernando Hierro (93)** — 74k coins, **+84% em 7 dias** (+5.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jürgen Kohler (91)** — 65k coins, **+78.1% em 7 dias** (+8.3% em 24h). Preço +56% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Vanessa Gilles (87)** — 36k coins, **+79.5% em 7 dias** (+19.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ibañez (93)** — 58k coins, **+76.5% em 7 dias** (+33.3% em 24h). Preço +54% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Dayot Upamecano (95)** — 95k coins, **+74.3% em 7 dias** (+6.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Vanessa Gilles (87)** — 32k coins, **+67.5% em 7 dias** (+27.6% em 24h). Preço em linha com a média de 7 dias (-0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gabriel (96)** — 178k coins, **+64.5% em 7 dias** (+23.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Dayot Upamecano (95)** — 94k coins, **+65.5% em 7 dias** (+2.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Kevin Mac Allister (94)** — 55k coins, **+61.8% em 7 dias** (+15.2% em 24h). Preço +39% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Rocío Gálvez (88)** — 30k coins, **+62.5% em 7 dias** (+14% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Fernando Hierro (93, sem liga) lidera, com +84% em 7 dias a 74k coins no PC.
+Jürgen Kohler (91, sem liga) lidera, com +78.1% em 7 dias a 65k coins no PC.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

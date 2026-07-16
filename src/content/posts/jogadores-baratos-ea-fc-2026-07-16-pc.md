@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:47:13.000Z
+pubDatetime: 2026-07-16T22:44:19.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (16/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,14 +31,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Renato Veiga | 94 | CB | — | 12k coins | — |
 | Luka Vušković | 94 | CB | — | 12k coins | — |
-| Kojo Peprah Oppong | 93 | CB | — | 12k coins | — |
 | Luc De Fougerolles | 93 | CB | — | 12k coins | — |
 | Lucas Herrington | 93 | CB | — | 12k coins | — |
-| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -12.3% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -11.7% |
-| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -33.3% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3k coins | +114.3% |
-| Jamie Carragher | 86 | CB | Premier League | 14k coins | -20% |
+| Kojo Peprah Oppong | 93 | CB | — | 12k coins | — |
+| Mapi León | 89 | CB | Liga F | 3k coins | +30% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -10% |
+| Millie Bright | 87 | CB | Barclays WSL | 3k coins | -42.2% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -22.2% |
 | Luka Vušković | 86 | CB | Bundesliga | 15k coins | -47.8% |
 
 
@@ -48,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Luka Vušković (94, CB)** da —, a apenas **12k coins**
 
-- **Kojo Peprah Oppong (93, CB)** da —, a apenas **12k coins**
-
 - **Luc De Fougerolles (93, CB)** da —, a apenas **12k coins**
 
 - **Lucas Herrington (93, CB)** da —, a apenas **12k coins**
+
+- **Kojo Peprah Oppong (93, CB)** da —, a apenas **12k coins**
 
 
 ## Por que estas cartas?

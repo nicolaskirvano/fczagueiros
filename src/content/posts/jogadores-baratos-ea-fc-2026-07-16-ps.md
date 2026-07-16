@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:47:03.000Z
+pubDatetime: 2026-07-16T22:44:10.000Z
 title: "Jogadores baratos de Zagueiros no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Renato Veiga (94) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Luka Vušković (94) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Renato Veiga | 94 | CB | — | 12k coins | — |
 | Luka Vušković | 94 | CB | — | 12k coins | — |
+| Renato Veiga | 94 | CB | — | 12k coins | — |
+| Lucas Herrington | 93 | CB | — | 12k coins | — |
 | Kojo Peprah Oppong | 93 | CB | — | 12k coins | — |
 | Luc De Fougerolles | 93 | CB | — | 12k coins | — |
-| Lucas Herrington | 93 | CB | — | 12k coins | — |
-| Mapi León | 89 | CB | Liga F | 2k coins | +53.3% |
 | Sepp van den Berg | 89 | CB | Premier League | 12k coins | -5.9% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +6.2% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 15k coins | +1.7% |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 12k coins | -43.2% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +16.2% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -8.3% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | -5.8% |
-| Luka Vušković | 86 | CB | Bundesliga | 15k coins | -1.7% |
-| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +8.5% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 15k coins | -7.7% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 12k coins | -48.9% |
+| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +8.3% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +2% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -10% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3k coins | +42.1% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -7.7% |
+| Jamie Carragher | 86 | CB | Premier League | 12k coins | -35.4% |
 
 
 ## 📈 Destaques
 
+- **Luka Vušković (94, CB)** da —, a apenas **12k coins**
+
 - **Renato Veiga (94, CB)** da —, a apenas **12k coins**
 
-- **Luka Vušković (94, CB)** da —, a apenas **12k coins**
+- **Lucas Herrington (93, CB)** da —, a apenas **12k coins**
 
 - **Kojo Peprah Oppong (93, CB)** da —, a apenas **12k coins**
 
 - **Luc De Fougerolles (93, CB)** da —, a apenas **12k coins**
-
-- **Lucas Herrington (93, CB)** da —, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
