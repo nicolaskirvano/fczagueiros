@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Zagueiro Market"
 pubDatetime: 2026-06-20T19:44:47.000Z
-title: "Zagueiros no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Zagueiros no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Tara McKeown (89, NWSL), com +54.4% em 24h, a 26k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Willian Pacho (90), -47.5% em 24h, a 70k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Naomi Girma (87) — 95% de probabilidade de alta, a 46k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 81 cartas em alta contra 149 em queda (média -4.92%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Tara McKeown liderou as altas e Willian Pacho as baixas em Zagueiros. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Tara McKeown** registrou o maior movimento de 24h (+54,4%), enquanto **Willian Pacho** marcou o menor (-47,5%). A distância entre os extremos foi de **101,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Zagueiros no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de zagueiros em Console PS para 20/06/2026 apresenta um cenário de extrema volatilidade e predomínio de quedas, com um saldo negativo expressivo que reflete a cautela dos traders diante da falta de gatilhos imediatos de demanda. Entre os dados coletados, observamos 81 altas contra 149 quedas no período de 24 horas, resultando em uma média de variação de -4.92%, o que indica uma pressão vendedora significativa sobre a maioria dos ativos da posição. Este contexto de desequilíbrio sugere que apenas jogadores com narrativas muito específicas ou escassez crítica estão conseguindo reter valor ou subir, enquanto a massa do mercado está sendo liquidada por traders buscando proteção de capital ou realocação para outros segmentos mais aquecidos. A análise do sentimento revela que, apesar de alguns isolados apresentarem picos de alta, a tendência geral é de desvalorização, exigindo uma leitura mais fina para identificar oportunidades de compra em pontos de fundo ou vendas rápidas em sobrecomprados. Traders experientes devem estar atentos à divergência entre a probabilidade de alta projetada pelo modelo e a realidade do preço atual, pois é nessa dissonância que residem as maiores oportunidades de arbitragem e lucro no curto prazo.
 
@@ -68,7 +71,7 @@ Entre as poucas exceções à regra de queda, Tara McKeown se destaca com uma al
 Do lado das quedas, Willian Pacho lidera a lista com uma queda brutal de 47.5%, caindo para 70k coins, onde sua probabilidade de alta de apenas 33% sugere que o mercado está rapidamente desistindo de buscar fundos, indicando uma possível sobreoferta ou perda de interesse da comunidade. Marcel Desailly, um ativo de elite, despencou 42.2% para 70k coins, com probabilidade de alta de 47%, o que pode refletir uma liquidação de carteiras grandes ou um ajuste de preço após uma sobrevalorização em dias anteriores, criando um risco significativo para quem segurar sem stop loss. Marc Bartra caiu 41.2% para 26k coins, com probabilidade de alta de 33%, mostrando que mesmo zagueiros de preço acessível não estão imunes à pressão vendedora generalizada, o que torna perigosa a estratégia de acumulação em massa nesse momento. Gianluca Mancini despencou 40.9% para 25k coins, com uma probabilidade de alta mínima de 5%, o que praticamente confirma que não há suporte imediato e que o ativo pode continuar caindo até encontrar um novo ponto de equilíbrio muito mais baixo. Fabio Cannavaro na versão 90 caiu 38.5% para 212k coins, com probabilidade de alta de 35%, demonstrando que até mesmo ídolos de alto nível estão sujeitos a correções acentuadas quando a demanda de times de elite ou pacotes específicos diminui, alertando traders contra compras impulsivas em ativos de alto valor.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Tara McKeown (89, NWSL), com +54.4% em 24h, a 26k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Willian Pacho (90), -47.5% em 24h, a 70k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Naomi Girma (87) — 95% de probabilidade de alta, a 46k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Naomi Girma (87) — 95% de probabilidade de alta, a 46k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 81 cartas em alta contra 149 em queda (média -4.92%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 81 cartas em alta contra 149 em queda (média -4.92%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Zagueiros baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Zagueiros no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

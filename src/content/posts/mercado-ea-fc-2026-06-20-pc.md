@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Zagueiro Market"
 pubDatetime: 2026-06-20T22:46:02.000Z
-title: "Zagueiros no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Zagueiros no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Ibañez (86, ROSHN Saudi League), com +60% em 24h, a 95k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Vanessa Gilles (94), -44.1% em 24h, a 26k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 71 cartas em alta contra 136 em queda (média -2.83%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Ibañez liderou as altas e Vanessa Gilles as baixas em Zagueiros. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Ibañez** registrou o maior movimento de 24h (+60,0%), enquanto **Vanessa Gilles** marcou o menor (-44,1%). A distância entre os extremos foi de **104,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Zagueiros no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de zagueiros em PC apresenta um cenário extremamente hostil para os traders no dia 20 de junho de 2026, marcado por uma depressão generalizada nos preços que reflete a falta de demanda orgânica ou eventos de incentivo específicos para esta posição. A estatística é contundente e serve como um alerta vermelho para qualquer investidor de curto prazo, já que das 207 movimentações registradas, 136 resultaram em quedas enquanto apenas 71 conseguiram registrar altas, consolidando um viés claramente baixista. A média de variação negativa de -2.83% nas últimas 24 horas indica que a maioria dos ativos está sofendo erosão de valor, o que exige uma leitura fina para identificar quem está apenas ajustando ruído versus quem está em colapso estrutural. Neste ambiente de incerteza, a liquidez parece estar concentrada em operações de venda em massa, possivelmente motivadas por fechamento de squads ou ajustes de SBCs que não necessitam de defensores de elite, deixando o mercado com excesso de oferta. O tom do dia é de cautela extrema, onde a regra número um é não tentar parar uma serra elétrica, evitando compras impulsivas de ativos que parecem baratos apenas porque estão caindo sem suporte técnico ou fundamental claro.
 
@@ -76,16 +81,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Ibañez (86, ROSHN Saudi League), com +60% em 24h, a 95k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Vanessa Gilles (94), -44.1% em 24h, a 26k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 71 cartas em alta contra 136 em queda (média -2.83%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 71 cartas em alta contra 136 em queda (média -2.83%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Zagueiros baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Zagueiros no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

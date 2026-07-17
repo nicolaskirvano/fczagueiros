@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Zagueiro Market"
 pubDatetime: 2026-06-02T01:44:02.000Z
-title: "Zagueiros no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Zagueiros no EA FC em 01/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Virgil van Dijk (91, Premier League), com +39.1% em 24h, a 487k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Cameron Burgess (80), -44.4% em 24h, a 24k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 86 cartas em alta contra 144 em queda (média 2.12%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 01/06/2026 no PC: Virgil van Dijk liderou as altas e Cameron Burgess as baixas em Zagueiros. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 01/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **86 subiram** e **144 caíram**, com variação média de **2.12%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Virgil van Dijk** registrou o maior movimento de 24h (+39,1%), enquanto **Cameron Burgess** marcou o menor (-44,4%). A distância entre os extremos foi de **83,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,6%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Zagueiros no EA FC em 01/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-01-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** teve um recorte **misto** — as quedas foram mais numerosas, embora as altas tenham sido mais intensas: das cartas relevantes (80+ acima de 5k coins), **86 subiram** e **144 caíram**, com variação média de **2.12%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Virgil van Dijk (91) **+39.1%** · 🔴 **Maior baixa:** Cameron Burgess (80) **-44.4%**
 
@@ -46,11 +51,11 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Virgil van Dijk (91)** subiu **+39.1%** em 24h, a **487k coins** (faixa do dia: 354k–549k). Está em linha com a média de 7 dias (+4%). 🔮 O modelo projeta **continuidade da alta** (81% de chance de subir mais).
+- **Virgil van Dijk (91)** subiu **+39.1%** em 24h, a **487k coins** (faixa do dia: 354k–549k). Está em linha com a média de 7 dias (+4%). 🔮 Naquele snapshot, o modelo projetava **continuidade da alta** (81% de chance de subir mais).
 
-- **Alexsandro (86)** subiu **+37.9%** em 24h, a **20k coins** (faixa do dia: 12k–32k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Alexsandro (86)** subiu **+37.9%** em 24h, a **20k coins** (faixa do dia: 12k–32k). Está +13% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Willi Orban (86)** subiu **+36.4%** em 24h, a **36k coins** (faixa do dia: 25k–36k). Está +38% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Willi Orban (86)** subiu **+36.4%** em 24h, a **36k coins** (faixa do dia: 25k–36k). Está +38% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -71,11 +76,11 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Cameron Burgess (80)** caiu **-44.4%** em 24h, a **24k coins** (faixa do dia: 24k–47k). Está -41% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Cameron Burgess (80)** caiu **-44.4%** em 24h, a **24k coins** (faixa do dia: 24k–47k). Está -41% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Pau Torres (96)** caiu **-42.8%** em 24h, a **1.03M coins** (faixa do dia: 1.03M–1.65M). Está -28% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Pau Torres (96)** caiu **-42.8%** em 24h, a **1.03M coins** (faixa do dia: 1.03M–1.65M). Está -28% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Rio Ferdinand (88)** caiu **-38%** em 24h, a **290k coins** (faixa do dia: 290k–466k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Rio Ferdinand (88)** caiu **-38%** em 24h, a **290k coins** (faixa do dia: 290k–466k). Está -13% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -85,16 +90,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (01/06/2026)?**
 Virgil van Dijk (91, Premier League), com +39.1% em 24h, a 487k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Cameron Burgess (80), -44.4% em 24h, a 24k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 86 cartas em alta contra 144 em queda (média 2.12%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 86 cartas em alta contra 144 em queda (média 2.12%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -103,3 +108,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 01/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Zagueiros baratos no EA FC em 01/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-01-pc/)
+- [Momentum de Zagueiros no EA FC em 01/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-01-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

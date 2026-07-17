@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Zagueiro Market"
 pubDatetime: 2026-06-18T22:44:46.000Z
-title: "Zagueiros no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Zagueiros no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Virgil van Dijk (95, Premier League), com +27.7% em 24h, a 2.70M coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Pau Cubarsí (85), -41.1% em 24h, a 58k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Malick Thiaw (86) — 95% de probabilidade de alta, a 38k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 111 cartas em alta contra 140 em queda (média 0.02%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Virgil van Dijk liderou as altas e Pau Cubarsí as baixas em Zagueiros. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Virgil van Dijk** registrou o maior movimento de 24h (+27,7%), enquanto **Pau Cubarsí** marcou o menor (-41,1%). A distância entre os extremos foi de **68,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Zagueiros no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -84,7 +87,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Fabio Cannavaro | 89 | 110k coins | 127k coins | 95% |
 
 
-O modelo projeta alta para Malick Thiaw e Tyrone Mings, ambos com 95% de probabilidade de valorização, além de Dan Burn e Fabio Cannavaro. Naomi Girma, Jacobo Ramón e Iván Córdoba também aparecem na lista de favoritos para compra, sugerindo oportunidades de arbitragem em curto prazo.
+Naquele snapshot, o modelo projetava alta para Malick Thiaw e Tyrone Mings, ambos com 95% de probabilidade de valorização, além de Dan Burn e Fabio Cannavaro. Naomi Girma, Jacobo Ramón e Iván Córdoba também aparecem na lista de favoritos para compra, sugerindo oportunidades de arbitragem em curto prazo.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -113,19 +116,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Virgil van Dijk (95, Premier League), com +27.7% em 24h, a 2.70M coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Pau Cubarsí (85), -41.1% em 24h, a 58k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Malick Thiaw (86) — 95% de probabilidade de alta, a 38k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Malick Thiaw (86) — 95% de probabilidade de alta, a 38k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 111 cartas em alta contra 140 em queda (média 0.02%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**
+Naquele dia, o mercado estava de lado — altas e quedas se equilibram, com 111 cartas em alta contra 140 em queda (média 0.02%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -134,3 +137,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Zagueiros no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Zagueiros no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

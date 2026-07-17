@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Zagueiro Market"
 pubDatetime: 2026-07-11T01:44:05.000Z
-title: "Jogadores baratos de Zagueiros no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
+title: "Zagueiros baratos no EA FC em 10/07 — PS"
 draft: false
 featured: false
 tags:
@@ -9,21 +9,28 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
-faq:
-  - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
-  - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
-    a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
-  - q: "Esses preços são reais?"
-    a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
+description: "Em 10/07/2026 no PS, Sepp van den Berg liderou a seleção de Zagueiros por 12.000 coins. Compare 11 cartas, OVR, preço, 7d e gráfico."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 10/07/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Entre 11 opções, **Willian Pacho** tinha o menor preço (2.000 coins). O maior OVR era de **Sepp van den Berg** (89), por 12.000 coins.
+
+O preço mediano do recorte foi **13.000 coins** e 4 cartas vinham de queda em 7d. 2 opções estavam exatamente no teto de 15.000 coins. OVR é só um filtro inicial; função, atributos, PlayStyles e química precisam ser conferidos antes de montar o time.
+
+![Gráfico de preço em coins para os destaques de Zagueiros baratos no EA FC em 10/07 — PS](/charts/jogadores-baratos-ea-fc-2026-07-10-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam até 15 mil coins** em **10/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Sepp van den Berg (89) por apenas 12k coins.
 
-## 💎 Joias baratas (83+, abaixo de 15k)
+## 💎 Joias baratas (83+, até 15k)
 
 Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
 
@@ -50,15 +57,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Vincent Kompany (88, CB)** da Premier League, a apenas **13k coins**
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, era uma opção relativamente barata naquele recorte.
 
 - **Ahmetcan Kaplan (88, CB)** da Eredivisie, a apenas **14k coins**
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
-- **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
+- **OVR 83+** ajuda a filtrar, mas não garante desempenho: compare atributos, PlayStyles, função tática e química.
+- **Até 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
@@ -68,13 +75,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
+**Qual era o destaque barato do EA FC em 10/07/2026?**
 Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
-**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
-Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
+**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**
+Cartas com rating 83+ que custam até 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. Este arquivo preserva o recorte daquela data; consulte as análises recentes para preços atuais.
 
-**Esses preços são reais?**  
+**Esses preços são reais?**
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
@@ -83,3 +90,12 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 10/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Zagueiros baratos no EA FC em 16/07 — PS](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Zagueiros no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
