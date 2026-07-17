@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:44:20.000Z
+pubDatetime: 2026-07-17T13:44:20.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 12.500 coins no PC."
+    a: "Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Luka Vušković (94) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Renato Veiga (94) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Zagueiros em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 9.932 coins.
-- **Posição mais frequente:** CB, com 11 cartas.
-- **Faixa real:** 2.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 11.140 coins.
+- **Posição mais frequente:** CB, com 10 cartas.
+- **Faixa real:** 2.600 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,35 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Luka Vušković | 94 | CB | — | 12.500 coins | +6.4% |
-| Renato Veiga | 94 | CB | — | 13.000 coins | +8.5% |
-| Luc De Fougerolles | 93 | CB | — | 11.750 coins | +6.4% |
-| Lucas Herrington | 93 | CB | — | 12.500 coins | +6.4% |
-| Kojo Peprah Oppong | 93 | CB | — | 12.750 coins | +6.4% |
-| Virgil van Dijk | 90 | CB | Premier League | 7.300 coins | +1.5% |
-| Mapi León | 89 | CB | Liga F | 2.900 coins | +7.4% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14.500 coins | -7.3% |
-| Vincent Kompany | 88 | CB | Premier League | 13.750 coins | -14.3% |
-| Millie Bright | 87 | CB | Barclays WSL | 3.600 coins | +23.1% |
-| Sara Doorsoun | 84 | CB | GPFBL | 4.700 coins | +2.2% |
+| Renato Veiga | 94 | CB | — | 11.750 coins | +10.6% |
+| Luka Vušković | 94 | CB | — | 11.750 coins | +8.5% |
+| Kojo Peprah Oppong | 93 | CB | — | 11.750 coins | +8.5% |
+| Lucas Herrington | 93 | CB | — | 11.750 coins | +8.5% |
+| Luc De Fougerolles | 93 | CB | — | 12.750 coins | +6.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 7.300 coins | +20.3% |
+| Mapi León | 89 | CB | Liga F | 2.600 coins | -6.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.250 coins | 0% |
+| Ahmetcan Kaplan | 88 | CB | Eredivisie | 14.250 coins | -10.1% |
+| Jamie Carragher | 86 | CB | Premier League | 14.250 coins | -1.7% |
 
 
 ## 📈 Destaques
 
-- **Luka Vušković (94, CB)** da —, a apenas **12.500 coins**
+- **Renato Veiga (94, CB)** da —, a apenas **11.750 coins**
 
-- **Renato Veiga (94, CB)** da —, a apenas **13.000 coins**
+- **Luka Vušković (94, CB)** da —, a apenas **11.750 coins**
 
-- **Luc De Fougerolles (93, CB)** da —, a apenas **11.750 coins**
+- **Kojo Peprah Oppong (93, CB)** da —, a apenas **11.750 coins**
 
-- **Lucas Herrington (93, CB)** da —, a apenas **12.500 coins**
+- **Lucas Herrington (93, CB)** da —, a apenas **11.750 coins**
 
-- **Kojo Peprah Oppong (93, CB)** da —, a apenas **12.750 coins**
+- **Luc De Fougerolles (93, CB)** da —, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Luka Vušković (94, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Renato Veiga (94, CB) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -97,7 +96,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 12.500 coins no PC.
+Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
