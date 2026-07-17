@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:44:07.000Z
+pubDatetime: 2026-07-17T22:44:07.000Z
 title: "Mercado EA FC em 17/07: Zagueiros — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Steph Catley (90, Barclays WSL), com +52.8% em 24h, a 115k coins no Console (PS)."
+    a: "Gianluca Mancini (85, Serie A TIM), com +57.5% em 24h, a 31k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "David Alaba (94), -35.2% em 24h, a 23k coins."
+    a: "Pau Cubarsí (96), -43.8% em 24h, a 39k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 104 cartas em alta contra 120 em queda (média -1.71%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 79 cartas em alta contra 152 em queda (média -4.78%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **em baixa** — predominam as quedas: **104 cartas subiram** e **120 caíram** (80+ acima de 5k coins), variação média de **-1.71%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **em baixa** — predominam as quedas: **79 cartas subiram** e **152 caíram** (80+ acima de 5k coins), variação média de **-4.78%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Steph Catley (90) **+52.8%** · 🔴 **Maior baixa:** David Alaba (94) **-35.2%**
+> 🟢 **Maior alta:** Gianluca Mancini (85) **+57.5%** · 🔴 **Maior baixa:** Pau Cubarsí (96) **-43.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Zagueiros — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **em baix
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 88.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.4% entre as cartas que se moveram; o universo observado reúne 265 cartas.
-- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 34.2% entre as cartas que se moveram; o universo observado reúne 268 cartas.
+- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steph Catley | 90 | Barclays WSL | 115k coins | +52.8% | +173.3% |
-| Iván Córdoba | 87 | Serie A TIM | 22k coins | +45.9% | +45.9% |
-| Bremer | 87 | Serie A TIM | 50k coins | +41.9% | +34.1% |
-| Pierre Kalulu | 91 | Serie A TIM | 82k coins | +38.6% | +64.5% |
-| Andrea Barzagli | 88 | Serie A TIM | 27k coins | +32.9% | +28% |
-| Willi Orban | 86 | Bundesliga | 22k coins | +30.4% | -1.1% |
-| José María Giménez | 87 | LALIGA EA SPORTS | 20k coins | +28.1% | +9.3% |
-| Mariano Troilo | 86 | Serie A TIM | 50k coins | +25.3% | +43.5% |
-| Elba Vergés | 84 | Liga F | 45k coins | +23.3% | +10.4% |
-| Aldana Cometti | 85 | D1 Arkema | 68k coins | +21.6% | +27% |
+| Gianluca Mancini | 85 | Serie A TIM | 31k coins | +57.5% | +88.1% |
+| Malick Thiaw | 86 | Premier League | 45k coins | +37.7% | +3.3% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 84k coins | +36.8% | +66% |
+| Ahmed Hegazi | 87 | Brasileirão | 84k coins | +36.6% | +49.2% |
+| Andrea Barzagli | 88 | Serie A TIM | 27k coins | +29.1% | +27.5% |
+| Ibañez | 86 | ROSHN Saudi League | 67k coins | +26.5% | +87.3% |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 60k coins | +26.3% | +5.3% |
+| Harry Maguire | 83 | Premier League | 130k coins | +26.2% | +106.3% |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 76k coins | +22.6% | +26.7% |
+| Virgil van Dijk | 95 | — | 701k coins | +20.2% | +32.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **em baix
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Steph Catley (90)** subiu **+52.8%** em 24h, a **115k coins** (faixa do dia: 62k–120k). Está +93% acima da média de 7 dias (aquecida).
+- **Gianluca Mancini (85)** subiu **+57.5%** em 24h, a **31k coins** (faixa do dia: 18.250–35k). Está +40% acima da média de 7 dias (aquecida).
 
-- **Iván Córdoba (87)** subiu **+45.9%** em 24h, a **22k coins** (faixa do dia: 13.000–24k). Está +39% acima da média de 7 dias (aquecida).
+- **Malick Thiaw (86)** subiu **+37.7%** em 24h, a **45k coins** (faixa do dia: 34k–54k). Está em linha com a média de 7 dias (+1%).
 
-- **Bremer (87)** subiu **+41.9%** em 24h, a **50k coins** (faixa do dia: 33k–64k). Está +23% acima da média de 7 dias (aquecida).
+- **Willian Pacho (90)** subiu **+36.8%** em 24h, a **84k coins** (faixa do dia: 57k–100k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| David Alaba | 94 | — | 23k coins | -35.2% | -23.3% |
-| Marc Guéhi | 88 | Premier League | 29k coins | -33.6% | -15.5% |
-| Ricardo Carvalho | 89 | Liga Portugal | 48k coins | -29.9% | -68.9% |
-| Roberto Lopes | 95 | — | 44k coins | -29.2% | -22.7% |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 34k coins | -27.5% | -28.6% |
-| Abdukodir Khusanov | 93 | — | 34k coins | -23.3% | -16.1% |
-| Cristina Cubedo | 84 | Liga F | 34k coins | -22.6% | -16.7% |
-| Jürgen Kohler | 90 | Bundesliga | 40k coins | -20% | +12.7% |
-| Santiago Sosa | 93 | — | 24k coins | -20% | +14.3% |
-| Maya Le Tissier | 88 | Barclays WSL | 28k coins | -20% | -26.3% |
+| Pau Cubarsí | 96 | — | 39k coins | -43.8% | -57.4% |
+| Chris Smalling | 87 | ROSHN Saudi League | 28k coins | -40.5% | -30% |
+| Roberto Lopes | 95 | — | 40k coins | -39.2% | -28.2% |
+| Ibañez | 93 | — | 37k coins | -39.2% | +10.6% |
+| Gabriel | 96 | — | 91k coins | -38.6% | -14.4% |
+| Tyrone Mings | 96 | — | 149k coins | -38.5% | -30.2% |
+| Yazan Al Arab | 95 | — | 24k coins | -37.2% | -36.8% |
+| Kieran Tierney | 96 | — | 118k coins | -36% | -23.5% |
+| Marc Guéhi | 88 | Premier League | 31k coins | -35.8% | -5.6% |
+| Iván Córdoba | 88 | Serie A TIM | 76k coins | -33.8% | -9.4% |
 
 
 ### Análise das baixas
 
-- **David Alaba (94)** caiu **-35.2%** em 24h, a **23k coins** (faixa do dia: 23k–52k). Está -30% abaixo da média de 7 dias (descontada).
+- **Pau Cubarsí (96)** caiu **-43.8%** em 24h, a **39k coins** (faixa do dia: 32k–98k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Marc Guéhi (88)** caiu **-33.6%** em 24h, a **29k coins** (faixa do dia: 22k–44k). Está em linha com a média de 7 dias (-1%).
+- **Chris Smalling (87)** caiu **-40.5%** em 24h, a **28k coins** (faixa do dia: 28k–60k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Ricardo Carvalho (89)** caiu **-29.9%** em 24h, a **48k coins** (faixa do dia: 41k–66k). Está -49% abaixo da média de 7 dias (descontada).
+- **Roberto Lopes (95)** caiu **-39.2%** em 24h, a **40k coins** (faixa do dia: 39k–87k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Steph Catley já avançou 52.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gianluca Mancini já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** David Alaba recuou -35.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Pau Cubarsí recuou -43.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-Steph Catley (90, Barclays WSL), com +52.8% em 24h, a 115k coins no Console (PS).
+Gianluca Mancini (85, Serie A TIM), com +57.5% em 24h, a 31k coins no Console (PS).
 
 **E a maior queda do dia?**
-David Alaba (94), -35.2% em 24h, a 23k coins.
+Pau Cubarsí (96), -43.8% em 24h, a 39k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 104 cartas em alta contra 120 em queda (média -1.71%).
+Hoje o mercado está em baixa — predominam as quedas, com 79 cartas em alta contra 152 em queda (média -4.78%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
