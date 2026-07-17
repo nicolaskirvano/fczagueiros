@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:06:46.000Z
+pubDatetime: 2026-07-17T01:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 16/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC."
+    a: "Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 12.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Renato Veiga (94) por apenas 11.750 coins.
+> 💰 **Melhor pechincha:** Renato Veiga (94) por apenas 12.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Zagueiros em 16/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-16-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.410 coins.
-- **Posição mais frequente:** CB, com 10 cartas.
-- **Faixa real:** 1.900 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 7.723 coins.
+- **Posição mais frequente:** CB, com 11 cartas.
+- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,22 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Renato Veiga | 94 | CB | — | 11.750 coins | -2.1% |
+| Renato Veiga | 94 | CB | — | 12.000 coins | 0% |
 | Luka Vušković | 94 | CB | — | 12.000 coins | 0% |
 | Kojo Peprah Oppong | 93 | CB | — | 11.750 coins | 0% |
 | Luc De Fougerolles | 93 | CB | — | 11.750 coins | 0% |
 | Lucas Herrington | 93 | CB | — | 11.750 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 2.700 coins | -10% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13.250 coins | -3.4% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 1.900 coins | +58.3% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.500 coins | +4% |
-| Luka Vušković | 86 | CB | Bundesliga | 14.750 coins | 0% |
+| Mapi León | 89 | CB | Liga F | 2.800 coins | -6.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.500 coins | -7.9% |
+| Marquinhos | 87 | CB | Ligue 1 McDonald's | 1.800 coins | +10% |
+| Millie Bright | 87 | CB | Barclays WSL | 2.800 coins | +16% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.200 coins | -10.7% |
+| Bremer | 85 | CB | Serie A Enilive | 1.600 coins | +18.2% |
 
 
 ## 📈 Destaques
 
-- **Renato Veiga (94, CB)** da —, a apenas **11.750 coins**
+- **Renato Veiga (94, CB)** da —, a apenas **12.000 coins**
 
 - **Luka Vušković (94, CB)** da —, a apenas **12.000 coins**
 
@@ -67,7 +68,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## Como distribuir a banca
 
-- **Defesa:** Renato Veiga (94, CB) por 11.750 coins é a referência de rating deste recorte.
+- **Defesa:** Renato Veiga (94, CB) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -86,7 +87,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC.
+Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 12.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

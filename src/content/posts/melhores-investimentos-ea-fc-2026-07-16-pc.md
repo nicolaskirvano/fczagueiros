@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:06:44.000Z
+pubDatetime: 2026-07-17T01:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 16/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.4% em 24h** e **+54.5% em 7 dias**.
+- A mediana é de **+4.8% em 24h** e **+55.0% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 91 | — | 65k coins | +8.3% | +87.1% | Esticada |
-| Fernando Hierro | 93 | — | 74k coins | +11.2% | +81.7% | Esticada |
-| Abdukodir Khusanov | 93 | — | 60k coins | +24.1% | +81.2% | Esticada |
-| Dayot Upamecano | 95 | — | 92k coins | +6.2% | +67.9% | Esticada |
-| Sol Campbell | 91 | — | 46k coins | +2.8% | +60.9% | Esticada |
-| Vanessa Gilles | 87 | GPFBL | 29k coins | +27% | +58.8% | Esticada |
-| Alessandro Nesta | 92 | — | 78k coins | +23% | +55% | Esticada |
-| Éder Militão | 88 | LALIGA EA SPORTS | 181k coins | +8.6% | +54.5% | Momentum moderado |
-| Marcel Desailly | 93 | — | 93k coins | +9.4% | +52.5% | Momentum moderado |
-| Odilon Kossounou | 93 | — | 18.500 coins | +1.4% | +51% | Momentum moderado |
-| Gustaf Lagerbielke | 91 | — | 30k coins | +15.4% | +50% | Momentum moderado |
-| Rocío Gálvez | 88 | Liga F | 28k coins | +14.4% | +48.8% | Momentum moderado |
-| Elba Vergés | 84 | Liga F | 44k coins | +1.7% | +48.7% | Momentum moderado |
-| Vincent Kompany | 88 | Premier League | 21k coins | +19.5% | +48.4% | Momentum moderado |
-| José María Giménez | 94 | — | 19.000 coins | +4.1% | +48.1% | Momentum moderado |
+| Jürgen Kohler | 91 | — | 65k coins | +4.8% | +87.1% | Esticada |
+| Fernando Hierro | 93 | — | 74k coins | +4.2% | +74.3% | Esticada |
+| Dayot Upamecano | 95 | — | 100k coins | +7.3% | +69.6% | Esticada |
+| Nathan Zézé | 91 | — | 40k coins | +1.9% | +63.3% | Esticada |
+| Sol Campbell | 91 | — | 46k coins | +2.2% | +60% | Esticada |
+| Vincent Kompany | 92 | — | 22k coins | +23.7% | +56.7% | Esticada |
+| Nikola Katić | 90 | — | 140k coins | +18.6% | +55.6% | Momentum moderado |
+| Marcel Desailly | 93 | — | 93k coins | +17% | +55% | Momentum moderado |
+| Caitlin Cosme | 88 | D1 Arkema | 29k coins | +35.3% | +51.3% | Esticada |
+| David Alaba | 87 | LALIGA EA SPORTS | 45k coins | +16.1% | +48.8% | Momentum moderado |
+| Alessandro Nesta | 92 | — | 72k coins | +17.5% | +48% | Momentum moderado |
+| Odilon Kossounou | 93 | — | 18.500 coins | +2.8% | +48% | Momentum moderado |
+| Éder Militão | 88 | LALIGA EA SPORTS | 181k coins | +3.4% | +47.2% | Momentum moderado |
+| Kevin Danso | 93 | — | 19.000 coins | +1.3% | +46.2% | Momentum moderado |
+| José María Giménez | 94 | — | 19.000 coins | +1.3% | +46.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jürgen Kohler (91)** — 65k coins, **+87.1% em 7 dias** (+8.3% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (91)** — 65k coins, **+87.1% em 7 dias** (+4.8% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fernando Hierro (93)** — 74k coins, **+81.7% em 7 dias** (+11.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fernando Hierro (93)** — 74k coins, **+74.3% em 7 dias** (+4.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Abdukodir Khusanov (93)** — 60k coins, **+81.2% em 7 dias** (+24.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dayot Upamecano (95)** — 100k coins, **+69.6% em 7 dias** (+7.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dayot Upamecano (95)** — 92k coins, **+67.9% em 7 dias** (+6.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nathan Zézé (91)** — 40k coins, **+63.3% em 7 dias** (+1.9% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sol Campbell (91)** — 46k coins, **+60.9% em 7 dias** (+2.8% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sol Campbell (91)** — 46k coins, **+60% em 7 dias** (+2.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

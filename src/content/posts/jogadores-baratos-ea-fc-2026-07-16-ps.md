@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:06:36.000Z
+pubDatetime: 2026-07-17T01:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 16/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 10.604 coins.
-- **Posição mais frequente:** CB, com 12 cartas.
-- **Faixa real:** 2.900 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 13 opções:** 11.746 coins.
+- **Posição mais frequente:** CB, com 13 cartas.
+- **Faixa real:** 2.700 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,11 +45,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Kojo Peprah Oppong | 93 | CB | — | 11.750 coins | 0% |
 | Luc De Fougerolles | 93 | CB | — | 11.750 coins | 0% |
 | Lucas Herrington | 93 | CB | — | 11.750 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11.750 coins | -1.9% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.750 coins | -5.5% |
-| Millie Bright | 87 | CB | Barclays WSL | 3.600 coins | -11.6% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.750 coins | 0% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.900 coins | +21.7% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.250 coins | -7.3% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.000 coins | +4% |
+| Vincent Kompany | 88 | CB | Premier League | 14.500 coins | -3.6% |
+| Laura Georges | 87 | CB | D1 Arkema | 12.500 coins | -2% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14.250 coins | +11.3% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.700 coins | +12.5% |
 | Luka Vušković | 86 | CB | Bundesliga | 14.750 coins | -4.8% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
