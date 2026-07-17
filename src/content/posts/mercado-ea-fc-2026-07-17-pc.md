@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:44:17.000Z
+pubDatetime: 2026-07-17T16:44:17.000Z
 title: "Mercado EA FC em 17/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Tara McKeown (89, NWSL), com +59.4% em 24h, a 26k coins no PC."
+    a: "Gianluca Mancini (85, Serie A TIM), com +56.9% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ricardo Carvalho (89), -43.4% em 24h, a 38k coins."
+    a: "Guéla Doué (84), -41.2% em 24h, a 25k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 125 cartas em alta contra 123 em queda (média 1.7%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 130 cartas em alta contra 127 em queda (média 2.11%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **17/07/2026** no PC com mercado **em alta** — predominam as valorizações: **125 cartas subiram** e **123 caíram** (80+ acima de 5k coins), variação média de **1.7%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **17/07/2026** no PC com mercado **em alta** — predominam as valorizações: **130 cartas subiram** e **127 caíram** (80+ acima de 5k coins), variação média de **2.11%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tara McKeown (89) **+59.4%** · 🔴 **Maior baixa:** Ricardo Carvalho (89) **-43.4%**
+> 🟢 **Maior alta:** Gianluca Mancini (85) **+56.9%** · 🔴 **Maior baixa:** Guéla Doué (84) **-41.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Zagueiros — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,65 +35,65 @@ O mercado do **EA FC** abre **17/07/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.4% entre as cartas que se moveram; o universo observado reúne 311 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.6% entre as cartas que se moveram; o universo observado reúne 318 cartas.
+- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tara McKeown | 89 | NWSL | 26k coins | +59.4% | +61.8% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 29k coins | +47.4% | +15% |
-| Steffi Jones | 91 | Icons | 62k coins | +46.4% | +27.5% |
-| Pau Cubarsí | 93 | — | 65k coins | +45.8% | +27.3% |
-| Tsuyoshi Watanabe | 91 | — | 41k coins | +39.5% | +38.3% |
-| Ronald Koeman | 92 | — | 25k coins | +39% | +59.7% |
-| Ibañez | 86 | ROSHN Saudi League | 80k coins | +37.8% | -10.4% |
-| Arthur Theate | 93 | — | 28k coins | +37% | +20.7% |
-| Dávid Hancko | 89 | LALIGA EA SPORTS | 36k coins | +36.1% | +13.1% |
-| Bobby Moore | 93 | — | 66k coins | +35.9% | +70.7% |
+| Gianluca Mancini | 85 | Serie A TIM | 28k coins | +56.9% | +22.8% |
+| Lúcio | 89 | Serie A TIM | 105k coins | +53.3% | +25% |
+| Ahmetcan Kaplan | 88 | Eredivisie | 24k coins | +46.4% | +36.5% |
+| Tara McKeown | 89 | NWSL | 28k coins | +44.9% | +49.3% |
+| Vincent Kompany | 92 | — | 24k coins | +41.7% | +61.9% |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 58k coins | +41.5% | -10.8% |
+| Ko Itakura | 88 | Eredivisie | 30k coins | +40% | +52.6% |
+| Juan David Cabal | 85 | Serie A TIM | 22k coins | +39.1% | +50.8% |
+| Chadi Riad | 96 | — | 725k coins | +38.9% | -19.4% |
+| Carles Puyol | 88 | — | 32k coins | +37.1% | +52.5% |
 
 
 ### Análise das altas
 
-- **Tara McKeown (89)** subiu **+59.4%** em 24h, a **26k coins** (faixa do dia: 14.750–30k). Está +21% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Gianluca Mancini (85)** subiu **+56.9%** em 24h, a **28k coins** (faixa do dia: 14.250–28k). Está +16% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Charlie Cresswell (85)** subiu **+47.4%** em 24h, a **29k coins** (faixa do dia: 18.750–30k). Está +11% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lúcio (89)** subiu **+53.3%** em 24h, a **105k coins** (faixa do dia: 61k–110k). Está +13% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Steffi Jones (91)** subiu **+46.4%** em 24h, a **62k coins** (faixa do dia: 42k–65k). Está +23% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Ahmetcan Kaplan (88)** subiu **+46.4%** em 24h, a **24k coins** (faixa do dia: 14.250–34k). Está em linha com a média de 7 dias (+7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Carvalho | 89 | Liga Portugal | 38k coins | -43.4% | -54.7% |
 | Guéla Doué | 84 | Ligue 1 McDonald's | 25k coins | -41.2% | -1% |
-| Steph Catley | 90 | Barclays WSL | 46k coins | -40.5% | -21% |
-| Pau Torres | 96 | — | 328k coins | -37.5% | +9.3% |
-| Harry Maguire | 83 | Premier League | 119k coins | -37% | +25.3% |
-| Carl Starfelt | 88 | — | 24k coins | -34.7% | -5.8% |
-| Wendie Renard | 91 | D1 Arkema | 40k coins | -34.3% | -14.8% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 54k coins | -33.7% | +0.9% |
-| Illia Zabarnyi | 96 | — | 274k coins | -31.8% | -11.9% |
-| Malang Sarr | 96 | — | 160k coins | -29.4% | +3.4% |
+| Ricardo Carvalho | 89 | Liga Portugal | 37k coins | -37.5% | -55.9% |
+| Laurent Blanc | 88 | Icons | 96k coins | -32.2% | +12.8% |
+| Pau Torres | 96 | — | 341k coins | -30.4% | +54.3% |
+| Willian Pacho | 96 | — | 359k coins | -29.5% | -44.3% |
+| Giorgio Chiellini | 88 | Icons | 66k coins | -29.3% | -26.1% |
+| Marcel Desailly | 88 | Icons | 66k coins | -28.1% | -24.4% |
+| Rocío Gálvez | 88 | Liga F | 24k coins | -27.7% | +17.5% |
+| José Fonte | 85 | Liga Portugal | 50k coins | -27.3% | -11.4% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 20k coins | -25.7% | -9.7% |
 
 
 ### Análise das baixas
 
-- **Ricardo Carvalho (89)** caiu **-43.4%** em 24h, a **38k coins** (faixa do dia: 32k–85k). Está -50% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Guéla Doué (84)** caiu **-41.2%** em 24h, a **25k coins** (faixa do dia: 25k–42k). Está -22% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Guéla Doué (84)** caiu **-41.2%** em 24h, a **25k coins** (faixa do dia: 25k–42k). Está -21% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Ricardo Carvalho (89)** caiu **-37.5%** em 24h, a **37k coins** (faixa do dia: 32k–60k). Está -51% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Steph Catley (90)** caiu **-40.5%** em 24h, a **46k coins** (faixa do dia: 45k–79k). Está -29% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Laurent Blanc (88)** caiu **-32.2%** em 24h, a **96k coins** (faixa do dia: 94k–168k). Está -8% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tara McKeown já avançou 59.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gianluca Mancini já avançou 56.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ricardo Carvalho recuou -43.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Guéla Doué recuou -41.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -115,13 +115,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Tara McKeown (89, NWSL), com +59.4% em 24h, a 26k coins no PC.
+Gianluca Mancini (85, Serie A TIM), com +56.9% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Ricardo Carvalho (89), -43.4% em 24h, a 38k coins.
+Guéla Doué (84), -41.2% em 24h, a 25k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 125 cartas em alta contra 123 em queda (média 1.7%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 130 cartas em alta contra 127 em queda (média 2.11%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

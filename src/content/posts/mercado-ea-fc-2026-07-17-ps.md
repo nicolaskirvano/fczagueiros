@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:44:07.000Z
+pubDatetime: 2026-07-17T16:44:07.000Z
 title: "Mercado EA FC em 17/07: Zagueiros — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Thiago (85, MLS), com +51.9% em 24h, a 29k coins no Console (PS)."
+    a: "Jade Rose (85, Barclays WSL), com +46.5% em 24h, a 37k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Leny Yoro (86), -45.7% em 24h, a 88k coins."
+    a: "Eduardo Quaresma (88), -38% em 24h, a 22k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 149 cartas em alta contra 116 em queda (média 3.15%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 129 cartas em alta contra 113 em queda (média 2.14%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **149 cartas subiram** e **116 caíram** (80+ acima de 5k coins), variação média de **3.15%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **129 cartas subiram** e **113 caíram** (80+ acima de 5k coins), variação média de **2.14%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Thiago (85) **+51.9%** · 🔴 **Maior baixa:** Leny Yoro (86) **-45.7%**
+> 🟢 **Maior alta:** Jade Rose (85) **+46.5%** · 🔴 **Maior baixa:** Eduardo Quaresma (88) **-38%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Zagueiros — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,65 @@ O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.2% entre as cartas que se moveram; o universo observado reúne 308 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 84.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.3% entre as cartas que se moveram; o universo observado reúne 281 cartas.
+- **Concentração:** Liga Portugal aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thiago | 85 | MLS | 29k coins | +51.9% | +80.9% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 61k coins | +51.5% | +27.4% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 49k coins | +43.8% | +51.5% |
-| Ibañez | 93 | — | 60k coins | +42.7% | +62.5% |
-| Craig Halkett | 91 | — | 42k coins | +41.7% | +102.4% |
-| Cristian Romero | 86 | Premier League | 90k coins | +40.6% | +146.6% |
-| Josip Šutalo | 90 | Eredivisie | 58k coins | +40.6% | +86.2% |
-| Ibañez | 86 | ROSHN Saudi League | 74k coins | +35.5% | +91% |
-| David Alaba | 94 | — | 42k coins | +32.3% | +46.7% |
-| Gabriel | 89 | Premier League | 85k coins | +30.7% | +96% |
+| Jade Rose | 85 | Barclays WSL | 37k coins | +46.5% | -23.7% |
+| Gabriel | 89 | Premier League | 113k coins | +38% | +94.5% |
+| Elba Vergés | 84 | Liga F | 47k coins | +32.6% | +14.7% |
+| Iván Córdoba | 87 | Serie A TIM | 22k coins | +27.9% | +23.8% |
+| Tara McKeown | 95 | — | 84k coins | +27% | +14.3% |
+| David Alaba | 94 | — | 40k coins | +25.6% | +39.2% |
+| Ezri Konsa | 96 | — | 167k coins | +22.4% | -21.7% |
+| Paolo Maldini | 95 | — | 1.39M coins | +21.6% | +16.9% |
+| Chadi Riad | 96 | — | 288k coins | +20.2% | -56.1% |
+| Ibañez | 93 | — | 60k coins | +19.4% | +62.9% |
 
 
 ### Análise das altas
 
-- **Thiago (85)** subiu **+51.9%** em 24h, a **29k coins** (faixa do dia: 17.500–38k). Está +47% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Jade Rose (85)** subiu **+46.5%** em 24h, a **37k coins** (faixa do dia: 20k–41k). Está +14% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Marquinhos (88)** subiu **+51.5%** em 24h, a **61k coins** (faixa do dia: 30k–72k). Está +55% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Gabriel (89)** subiu **+38%** em 24h, a **113k coins** (faixa do dia: 59k–114k). Está +73% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Mark McKenzie (90)** subiu **+43.8%** em 24h, a **49k coins** (faixa do dia: 34k–50k). Está +40% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Elba Vergés (84)** subiu **+32.6%** em 24h, a **47k coins** (faixa do dia: 31k–49k). Está +17% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Leny Yoro | 86 | Premier League | 88k coins | -45.7% | +62.4% |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 36k coins | -33.5% | -13.7% |
-| Wilfried Singo | 86 | Trendyol Süper Lig | 35k coins | -31% | -5.6% |
-| Jaydee Canvot | 96 | — | 218k coins | -27.6% | -17.6% |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 36k coins | -27% | -26.3% |
-| William Saliba | 90 | Premier League | 189k coins | -26.3% | -26% |
-| Samson Baidoo | 85 | Ligue 1 McDonald's | 23k coins | -21.3% | -71.1% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 27k coins | -20.6% | -29.9% |
-| Ricardo Carvalho | 89 | Liga Portugal | 52k coins | -19.1% | -59% |
-| Mapi León | 91 | — | 48k coins | -17.2% | 0% |
+| Eduardo Quaresma | 88 | Liga Portugal | 22k coins | -38% | -44.6% |
+| Lukas Klostermann | 88 | Bundesliga | 174k coins | -37.4% | +17.6% |
+| Ingrid Syrstad Engen | 90 | — | 48k coins | -36.8% | +11.1% |
+| Emmanuel Fernandez | 90 | — | 25k coins | -28.6% | 0% |
+| Jaap Stam | 89 | Premier League | 1.40M coins | -28.2% | +7.7% |
+| Wilfried Singo | 86 | Trendyol Süper Lig | 40k coins | -28.2% | 0% |
+| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 38k coins | -27.5% | -26% |
+| Shelina Zadorsky | 87 | Barclays WSL | 20k coins | -26% | -67.1% |
+| António Silva | 87 | Liga Portugal | 20k coins | -23.2% | -57.8% |
+| Ricardo Carvalho | 89 | Liga Portugal | 50k coins | -23.2% | -64.5% |
 
 
 ### Análise das baixas
 
-- **Leny Yoro (86)** caiu **-45.7%** em 24h, a **88k coins** (faixa do dia: 86k–163k). Está em linha com a média de 7 dias (+4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Eduardo Quaresma (88)** caiu **-38%** em 24h, a **22k coins** (faixa do dia: 20k–38k). Está -23% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ismaëlo Ganiou (84)** caiu **-33.5%** em 24h, a **36k coins** (faixa do dia: 32k–54k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lukas Klostermann (88)** caiu **-37.4%** em 24h, a **174k coins** (faixa do dia: 174k–278k). Está -25% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Wilfried Singo (86)** caiu **-31%** em 24h, a **35k coins** (faixa do dia: 34k–49k). Está -10% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Ingrid Syrstad Engen (90)** caiu **-36.8%** em 24h, a **48k coins** (faixa do dia: 26k–48k). Está +67% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Thiago já avançou 51.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jade Rose já avançou 46.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Leny Yoro recuou -45.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Eduardo Quaresma recuou -38%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -115,13 +115,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Thiago (85, MLS), com +51.9% em 24h, a 29k coins no Console (PS).
+Jade Rose (85, Barclays WSL), com +46.5% em 24h, a 37k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Leny Yoro (86), -45.7% em 24h, a 88k coins.
+Eduardo Quaresma (88), -38% em 24h, a 22k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 149 cartas em alta contra 116 em queda (média 3.15%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 129 cartas em alta contra 113 em queda (média 2.14%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
