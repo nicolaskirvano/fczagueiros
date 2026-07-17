@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:24:26.000Z
+pubDatetime: 2026-07-17T19:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Alessandro Bastoni (91, Serie A TIM) lidera, com +77.2% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Alessandro Bastoni (91, Serie A TIM) lidera, com +79.9% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alessandro Bastoni (91) acumula **+77.2% em 7 dias** a 70k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Alessandro Bastoni (91) acumula **+79.9% em 7 dias** a 65k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.2% em 24h** e **+55.4% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.6% em 24h** e **+49.4% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alessandro Bastoni | 91 | Serie A TIM | 70k coins | +17.6% | +77.2% | Esticada |
-| Alessandro Nesta | 92 | — | 80k coins | +1.9% | +74.4% | Esticada |
-| Dayot Upamecano | 93 | — | 80k coins | +24% | +72% | Esticada |
-| Abdukodir Khusanov | 93 | — | 54k coins | +12.6% | +62.1% | Esticada |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 55k coins | +4.8% | +60.6% | Esticada |
-| Dayot Upamecano | 95 | — | 92k coins | +6.4% | +57.9% | Momentum moderado |
-| Éder Militão | 88 | LALIGA EA SPORTS | 200k coins | +2.1% | +57.1% | Momentum moderado |
-| Bremer | 95 | — | 97k coins | +25.4% | +55.4% | Esticada |
-| Emmanuel Fernandez | 90 | — | 41k coins | +8.1% | +54.5% | Momentum moderado |
-| Vincent Kompany | 92 | — | 18.500 coins | +33.3% | +52.4% | Esticada |
-| Juan David Cabal | 85 | Serie A TIM | 21k coins | +39.1% | +50.8% | Esticada |
-| Kalidou Koulibaly | 95 | — | 26k coins | +13.2% | +50% | Momentum moderado |
-| Marcel Desailly | 88 | — | 29k coins | +3.8% | +45.9% | Momentum moderado |
-| Ousmane Diomande | 85 | Liga Portugal | 52k coins | +15.5% | +45.9% | Momentum moderado |
-| Paolo Maldini | 89 | — | 217k coins | +20.6% | +44.7% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 65k coins | +12.6% | +79.9% | Esticada |
+| Éder Militão | 88 | LALIGA EA SPORTS | 200k coins | +3.1% | +55% | Momentum moderado |
+| Emmanuel Fernandez | 90 | — | 48k coins | +8.1% | +54.5% | Momentum moderado |
+| Daley Blind | 86 | LALIGA EA SPORTS | 29k coins | +34.4% | +53.2% | Esticada |
+| Sol Campbell | 91 | — | 35k coins | +9.7% | +52.3% | Momentum moderado |
+| Carles Puyol | 88 | — | 31k coins | +34.8% | +51.9% | Esticada |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 20k coins | +37% | +50% | Esticada |
+| Vitor Reis | 86 | LALIGA EA SPORTS | 27k coins | +28.3% | +49.4% | Esticada |
+| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 191k coins | +10% | +47.7% | Momentum moderado |
+| Mapi León | 91 | — | 65k coins | +23.8% | +44.4% | Esticada |
+| Maksim Paskotši | 84 | 1A Pro League | 47k coins | +14.5% | +43.2% | Momentum moderado |
+| Steffi Jones | 89 | Icons | 28k coins | +35.7% | +40.7% | Esticada |
+| Tara McKeown | 89 | NWSL | 26k coins | +4.4% | +40.3% | Momentum moderado |
+| Çağlar Söyüncü | 93 | — | 18.500 coins | +2.7% | +33.3% | Momentum moderado |
+| Hiroki Ito | 94 | — | 23k coins | +6.7% | +33.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Alessandro Bastoni (91)** — 70k coins, **+77.2% em 7 dias** (+17.6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 65k coins, **+79.9% em 7 dias** (+12.6% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alessandro Nesta (92)** — 80k coins, **+74.4% em 7 dias** (+1.9% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Éder Militão (88)** — 200k coins, **+55% em 7 dias** (+3.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dayot Upamecano (93)** — 80k coins, **+72% em 7 dias** (+24% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Fernandez (90)** — 48k coins, **+54.5% em 7 dias** (+8.1% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Abdukodir Khusanov (93)** — 54k coins, **+62.1% em 7 dias** (+12.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daley Blind (86)** — 29k coins, **+53.2% em 7 dias** (+34.4% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mark McKenzie (90)** — 55k coins, **+60.6% em 7 dias** (+4.8% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sol Campbell (91)** — 35k coins, **+52.3% em 7 dias** (+9.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Alessandro Bastoni (91, Serie A TIM) lidera, com +77.2% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Alessandro Bastoni (91, Serie A TIM) lidera, com +79.9% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
