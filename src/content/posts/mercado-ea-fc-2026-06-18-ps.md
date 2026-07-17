@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+0,1%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado de zagueiros em console apresenta um cenário lateralizado hoje, com um equilíbrio razoável entre 111 altas e 140 quedas registradas nas últimas 24 horas. A variação média ficou quase zerada em 0.02%, indicando que os traders estão aguardando sinais mais claros antes de posicionar grandes volumes.
+As 4 tabelas abaixo preservam **36 registros** de **34 jogadores** observados em 18/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Virgil van Dijk (95) **+27.7%** · 🔴 **Maior baixa:** Pau Cubarsí (85) **-41.1%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de zagueiros em console apresenta um cenário lateralizado hoje, com u
 | Lúcio | 91 | Bundesliga | 290k coins | +16.5% | +11.1% |
 | Sol Campbell | 88 | — | 27k coins | +16.4% | +39.1% |
 
-
-Virgil van Dijk lidera as altas com 27.7% de valorização, atingindo 2.70M coins, seguido de perto por Marc Bartra com 25% e Bobby Moore com 24.2%. Dan Burn e Jamie Carragher também se destacam com saltos acima de 20%, ambos com alta probabilidade de continuação de tendência segundo o modelo.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,13 +61,7 @@ Virgil van Dijk lidera as altas com 27.7% de valorização, atingindo 2.70M coin
 | Leah Williamson | 88 | Barclays WSL | 30k coins | -16.7% | +11.1% |
 | Willi Orban | 86 | Bundesliga | 24k coins | -16.1% | -2.5% |
 
-
-Pau Cubarsí sofreu a maior correção, caindo 41.1% para 58k coins, enquanto Millie Bright e Ibañez registraram quedas expressivas de 28.2% e 27.3%, respectivamente. Outros nomes como Nicolas Seiwald e Edmond Tapsoba também recuaram mais de 20%, refletindo uma venda generalizada em cartas de menor rating ou ligas específicas.
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -86,13 +74,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Dan Burn | 86 | 149k coins | 177k coins | 95% |
 | Fabio Cannavaro | 89 | 110k coins | 127k coins | 95% |
 
-
-Naquele snapshot, o modelo projetava alta para Malick Thiaw e Tyrone Mings, ambos com 95% de probabilidade de valorização, além de Dan Burn e Fabio Cannavaro. Naomi Girma, Jacobo Ramón e Iván Córdoba também aparecem na lista de favoritos para compra, sugerindo oportunidades de arbitragem em curto prazo.
-
-
-## ⚠️ Cartas em risco nas próximas 24h
-
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -105,38 +87,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Jakub Kiwior | 94 | 45k coins | -23.8% |
 | Stine Ballisager | 93 | 34k coins | -24% |
 
+## Como interpretar este arquivo
 
-## 🎯 Conclusão do dia
-Dada a volatilidade mista, o ideal é focar nas compras de ativos com alta probabilidade de retorno, como Mings e Cannavaro, evitando segurar posições em cartas que estão em queda livre como Cubarsí. Recomenda-se comprar nas quedas dos indicados pelo modelo e vender rapidamente as altas já consolidadas de van Dijk e Bartra.
-
-
-## 🔍 Como apuramos os preços
-Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
-Virgil van Dijk (95, Premier League), com +27.7% em 24h, a 2.70M coins no Console (PS).
-
-**E a maior queda do dia?**
-Pau Cubarsí (85), -41.1% em 24h, a 58k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Malick Thiaw (86) — 95% de probabilidade de alta, a 38k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Naquele dia, o mercado estava de lado — altas e quedas se equilibram, com 111 cartas em alta contra 140 em queda (média 0.02%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
-
----
-
-*Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **21k coins** a **2.70M coins**, com mediana de **36k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+0,1%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-4,7%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -146,3 +104,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [Momentum de Zagueiros no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

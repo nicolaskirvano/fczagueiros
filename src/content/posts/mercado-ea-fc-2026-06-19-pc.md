@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-5,5%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O mercado de zagueiros em PC apresenta hoje um cenário de extrema volatilidade e pressão descendente, onde a lógica de venda em massa se impõe sobre a cautela tradicional do trading. Com uma média negativa de -4.15% nas últimas 24 horas e uma proporção desequilibrada de 111 quedas contra apenas 84 altas, o sentimento geral é de desconfiança aguda entre os traders, que liquidam posições rapidamente para evitar perdas maiores. Esse ambiente hostil exige uma análise fria dos dados, pois a narrativa de escassez ou hype momentâneo não se sustenta diante da força da oferta excessiva que domina os servidores. O trader experiente deve observar que, mesmo em um dia de queda generalizada, existem oportunidades pontuais de arbitragem e compra de ativos subvalorizados que possuem alta probabilidade de recuperação futura, diferenciando-se da massa que apenas vende por pânico. Portanto, a estratégia do dia não é fugir do mercado, mas sim navegar com precisão cirúrgica através das anomalias de preço, identificando quais ativos são apenas ajustes técnicos e quais representam oportunidades reais de lucro a médio e longo prazo.
+As 2 tabelas abaixo preservam **20 registros** de **19 jogadores** observados em 19/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Chris Smalling (87) **+51.7%** · 🔴 **Maior baixa:** Naomi Girma (87) **-49.2%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de zagueiros em PC apresenta hoje um cenário de extrema volatilidade 
 | Leah Williamson | 95 | Barclays WSL | 242k coins | +26.4% | +1.2% |
 | Keven Schlotterbeck | 89 | Bundesliga | 35k coins | +25.7% | +94.1% |
 
-
-Entre os poucos ativos em alta, Chris Smalling se destaca com uma impressionante subida de 51.7% em 24 horas, atingindo 55k coins, impulsionado por uma probabilidade de alta futura de 60% que atrai compradores especulativos antecipando um evento ou melhoria de status. Daley Blind também apresenta um movimento robusto de 46.9% em 24 horas, chegando a 24k coins, embora sua probabilidade de alta de apenas 35% sugira que este seja um movimento mais técnico e menos sustentável a longo prazo, ideal para day trading rápido. Adil Demirbağ, um ativo de ligas inferiores com cotação de 84, subiu 39.7% em 24 horas para 40k coins, com uma probabilidade de alta de 28%, indicando uma compra seletiva de traders que buscam diversificação em ativos de baixo custo com potencial de valorização em eventos específicos. Willian Pacho, com uma cotação rara de 96, registrou alta de 39% em 24 horas para um preço exorbitante de 2.88M coins, mas sua probabilidade de alta de 0% alerta para um possível topo de mercado e risco imediato de correção violenta. Elba Vergés sobe 36.4% em 24 horas para 32k coins com 38% de probabilidade de alta, enquanto Willi Orban aumenta 30.3% para 32k coins com apenas 18% de chance de continuar subindo, sugerindo que as altas em ativos de ligas secundárias podem ser mais estáveis. Leny Yoro, um ativo premium da Premier League, subiu 28% em 24 horas para 117k coins com uma forte probabilidade de alta de 65%, indicando interesse institucional em ativos de elite mesmo em dias de crise, e Leah Williamson fecha o seleto grupo com 27.6% de alta para 50k coins, apesar da baixa probabilidade de 18%, refletindo a volatilidade específica do mercado feminino.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,38 +61,14 @@ Entre os poucos ativos em alta, Chris Smalling se destaca com uma impressionante
 | Aymeric Laporte | 94 | — | 119k coins | -38% | -56.5% |
 | Rafael Márquez | 94 | LALIGA EA SPORTS | 1.20M coins | -36.8% | -36.2% |
 
+## Como interpretar este arquivo
 
-O lado das quedas é dominado por quedas severas que refletem uma liquidação agressiva de posições, sendo Naomi Girma a mais afetada com uma queda de -49.2% em 24 horas para 50k coins, embora sua probabilidade de alta de 58% sugira que esta pode ser uma oportunidade de compra de desconto para traders pacientes. Ricardo Carvalho cai -47.6% em 24 horas para 55k coins, mas com uma probabilidade de alta de 69%, este ativo parece estar sendo vendido por pânico irracional, criando um fundo técnico sólido para recuperação. Ezri Konsa, ativo de cotação 96, despencou -46.3% em 24 horas para 438k coins, e sua probabilidade de alta de 0% indica que a venda é estrutural e deve continuar, devendo ser evitado a todo custo. Eric Dier caiu -41.4% em 24 horas para 20k coins, com 46% de probabilidade de alta, o que torna sua decisão de compra dependente da tolerância ao risco do trader, pois pode ser um fundo temporário ou o início de uma tendência de baixa prolongada. Gabriel da Premier League também caiu -41.2% em 24 horas para 101k coins, com 53% de probabilidade de alta, indicando uma correção saudável em um ativo de alta liquidez que deve estabilizar rapidamente. Alessandro Bastoni segue o mesmo padrão de Gabriel com -41.2% para 50k coins, mas com uma probabilidade de alta de 69%, tornando-o um dos ativos mais atraentes para compra de fundo no mercado atual. Yazan Al Arab, com cotação 95, caiu -40.5% para 125k coins com 0% de probabilidade de alta, confirmando a fuga de capitais de ativos raros sem utilidade imediata, e Evan Weir cai -38.9% para 29k coins com 59% de probabilidade de alta, completando o painel de ativos de baixo custo que podem ser alvos de operações de curto prazo.
-
-
-## 🎯 O que fazer hoje
-A estratégia recomendada para hoje é focar na compra de ativos de alta probabilidade de recuperação que sofreram quedas severas por pânico, como Ricardo Carvalho e Alessandro Bastoni, que possuem probabilidades de alta de 69% e preços significativamente reduzidos. Evite completamente ativos como Ezri Konsa e Yazan Al Arab, que não apenas caíram drasticamente como também possuem 0% de probabilidade de alta, indicando que a venda ainda não terminou e o preço pode cair ainda mais. Para operações de day trading rápido, considere comprar Chris Smalling e Leny Yoro, que mostram altas sustentáveis e fortes probabilidades de continuação da tendência, permitindo lucros rápidos com baixo risco de reversão. Tenha cautela extrema com Willian Pacho, pois apesar da alta recente, a probabilidade de 0% de continuação sugere um topo de mercado perigoso que pode resultar em perdas rápidas se mantido por muito tempo. O timing ideal para entrar nas compras de fundo é nas próximas horas, após a estabilização da volatilidade inicial, monitorando de perto os volumes de compra de ativos como Gabriel e Eric Dier para confirmar a reversão. Mantenha uma carteira diversificada entre ativos de baixo custo com alta probabilidade, como Evan Weir, e ativos de elite com fundamentos sólidos, equilibrando risco e retorno em um mercado que pune a indecisão e recompensa a disciplina analítica.
-
-
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
-Chris Smalling (87, ROSHN Saudi League), com +51.7% em 24h, a 55k coins no PC.
-
-**E a maior queda do dia?**
-Naomi Girma (87), -49.2% em 24h, a 50k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 84 cartas em alta contra 111 em queda (média -4.15%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **2.88M coins**, com mediana de **52k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-5,5%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-13,5%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -108,3 +78,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

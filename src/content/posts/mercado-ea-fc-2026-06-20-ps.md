@@ -110,8 +110,8 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 A estratégia do dia deve focar em evitar compras em ativos com quedas acentuadas e baixa probabilidade de alta, como Willian Pacho e Gianluca Mancini, pois o risco de continuidade da queda é elevado e pode resultar em perdas significativas. Traders devem considerar a compra seletiva de ativos com alta probabilidade de alta e que já iniciaram movimentos positivos, como Fabio Cannavaro (89) e Tara McKeown, aproveitando a momentum e a probabilidade de 95% ou alta para maximizar o lucro em curto prazo. É aconselhável segurar ativos como Steffi Jones e Juan Foyth, que demonstram equilíbrio e probabilidade de alta moderada a alta, aguardando possíveis pacotes ou eventos que possam impulsionar seus preços ainda mais. Para os mais conservadores, a观望 (observação) é a melhor atitude diante do saldo negativo de -4.92%, pois o mercado ainda pode apresentar mais quedas antes de estabilizar, e a liquidez pode ser escassa nos pontos de fundo. Em resumo, priorize a venda de ativos fracos com probabilidade de alta abaixo de 40% e a compra seletiva de ativos com probabilidade de 95% que já mostraram sinais de força, mantendo sempre uma gestão rigorosa de risco e stops definidos para proteger o capital contra a volatilidade residual.
 
 
-## 📐 Como o FutQuant le o mercado
-Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
+## 📐 Como o FutQuant lê o mercado
+Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, de várias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
 
 
 ## ❓ Perguntas frequentes
