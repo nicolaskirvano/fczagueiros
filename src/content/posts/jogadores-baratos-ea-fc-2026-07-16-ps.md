@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:44:10.000Z
-title: "Jogadores baratos de Zagueiros no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-17T00:06:36.000Z
+title: "Jogadores baratos EA FC: Zagueiros em 16/07 — Console (PS)"
 draft: false
 featured: false
 tags:
@@ -9,10 +9,10 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,49 +21,64 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Luka Vušković (94) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Renato Veiga (94) por apenas 11.750 coins.
+
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Zagueiros em 16/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 12 opções:** 10.604 coins.
+- **Posição mais frequente:** CB, com 12 cartas.
+- **Faixa real:** 2.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Luka Vušković | 94 | CB | — | 12k coins | — |
-| Renato Veiga | 94 | CB | — | 12k coins | — |
-| Lucas Herrington | 93 | CB | — | 12k coins | — |
-| Kojo Peprah Oppong | 93 | CB | — | 12k coins | — |
-| Luc De Fougerolles | 93 | CB | — | 12k coins | — |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -5.9% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +8.5% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 15k coins | -7.7% |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 12k coins | -48.9% |
-| Millie Bright | 87 | CB | Barclays WSL | 4k coins | +8.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +2% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -10% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3k coins | +42.1% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -7.7% |
-| Jamie Carragher | 86 | CB | Premier League | 12k coins | -35.4% |
+| Renato Veiga | 94 | CB | — | 11.750 coins | 0% |
+| Luka Vušković | 94 | CB | — | 11.750 coins | 0% |
+| Kojo Peprah Oppong | 93 | CB | — | 11.750 coins | 0% |
+| Luc De Fougerolles | 93 | CB | — | 11.750 coins | 0% |
+| Lucas Herrington | 93 | CB | — | 11.750 coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11.750 coins | -1.9% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.750 coins | -5.5% |
+| Millie Bright | 87 | CB | Barclays WSL | 3.600 coins | -11.6% |
+| Laura Georges | 87 | CB | D1 Arkema | 12.750 coins | 0% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.900 coins | +21.7% |
+| Luka Vušković | 86 | CB | Bundesliga | 14.750 coins | -4.8% |
+| Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Luka Vušković (94, CB)** da —, a apenas **12k coins**
+- **Renato Veiga (94, CB)** da —, a apenas **11.750 coins**
 
-- **Renato Veiga (94, CB)** da —, a apenas **12k coins**
+- **Luka Vušković (94, CB)** da —, a apenas **11.750 coins**
 
-- **Lucas Herrington (93, CB)** da —, a apenas **12k coins**
+- **Kojo Peprah Oppong (93, CB)** da —, a apenas **11.750 coins**
 
-- **Kojo Peprah Oppong (93, CB)** da —, a apenas **12k coins**
+- **Luc De Fougerolles (93, CB)** da —, a apenas **11.750 coins**
 
-- **Luc De Fougerolles (93, CB)** da —, a apenas **12k coins**
+- **Lucas Herrington (93, CB)** da —, a apenas **11.750 coins**
+
+
+## Como distribuir a banca
+
+- **Defesa:** Renato Veiga (94, CB) por 11.750 coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## 🧪 De onde vêm estes números
@@ -73,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -87,3 +102,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Zagueiros em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Zagueiros — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
