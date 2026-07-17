@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:44:09.000Z
+pubDatetime: 2026-07-17T17:24:16.000Z
 title: "Investimentos EA FC: Zagueiros em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Dayot Upamecano (93, sem liga) lidera, com +71.9% em 7 dias a 59k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dayot Upamecano (93, sem liga) lidera, com +73.3% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dayot Upamecano (93) acumula **+71.9% em 7 dias** a 59k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Dayot Upamecano (93) acumula **+73.3% em 7 dias** a 58k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.2% em 24h** e **+46.8% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+11.4% em 24h** e **+41.9% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dayot Upamecano | 93 | — | 59k coins | +5.5% | +71.9% | Esticada |
-| Giorgio Chiellini | 92 | — | 38k coins | +9.1% | +69.7% | Esticada |
-| Dávid Hancko | 89 | LALIGA EA SPORTS | 30k coins | +14.2% | +68.1% | Esticada |
-| Steffi Jones | 91 | Icons | 75k coins | +15.4% | +64.8% | Esticada |
-| Ibañez | 93 | — | 60k coins | +19.4% | +62.9% | Esticada |
-| Dan-Axel Zagadou | 85 | Bundesliga | 28k coins | +39.2% | +61.8% | Esticada |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 86k coins | +11.5% | +58.2% | Momentum moderado |
-| Marcel Desailly | 93 | — | 93k coins | +11% | +46.8% | Momentum moderado |
-| Ronald Koeman | 91 | Icons | 124k coins | +11.8% | +45.3% | Momentum moderado |
-| David Alaba | 94 | — | 40k coins | +25.6% | +39.2% | Esticada |
-| Fernando Hierro | 93 | — | 72k coins | +14.5% | +38.5% | Momentum moderado |
-| Ronald Araujo | 94 | — | 190k coins | +19% | +37.9% | Momentum moderado |
-| Nemanja Vidić | 87 | Icons | 116k coins | +7.3% | +34.5% | Momentum moderado |
-| Mapi León | 90 | Liga F | 64k coins | +2.3% | +33.7% | Momentum moderado |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 80k coins | +15.9% | +33.1% | Momentum moderado |
+| Dayot Upamecano | 93 | — | 58k coins | +6.4% | +73.3% | Esticada |
+| Dávid Hancko | 89 | LALIGA EA SPORTS | 30k coins | +15.2% | +68.1% | Esticada |
+| Steffi Jones | 91 | Icons | 74k coins | +15.4% | +64.8% | Esticada |
+| Fernando Hierro | 93 | — | 69k coins | +30.9% | +58.2% | Esticada |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 94k coins | +10.3% | +56.4% | Momentum moderado |
+| Éder Militão | 88 | LALIGA EA SPORTS | 92k coins | +38.7% | +53.2% | Esticada |
+| Marcel Desailly | 93 | — | 100k coins | +10.1% | +50% | Momentum moderado |
+| Ahmetcan Kaplan | 88 | Eredivisie | 20k coins | +15.8% | +41.9% | Momentum moderado |
+| Ronald Araujo | 94 | — | 188k coins | +15.7% | +37.2% | Momentum moderado |
+| Adil Demirbağ | 84 | EFL League One | 47k coins | +18.2% | +35.3% | Momentum moderado |
+| Manuel Akanji | 86 | Serie A TIM | 46k coins | +2.2% | +33.8% | Momentum moderado |
+| Nemanja Vidić | 87 | Icons | 116k coins | +7.4% | +33.3% | Momentum moderado |
+| Laura Georges | 93 | — | 30k coins | +11.4% | +33.3% | Momentum moderado |
+| Gabriel | 96 | — | 150k coins | +7.7% | +32.1% | Momentum moderado |
+| Carles Puyol | 94 | — | 155k coins | +10.2% | +31.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Dayot Upamecano (93)** — 59k coins, **+71.9% em 7 dias** (+5.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dayot Upamecano (93)** — 58k coins, **+73.3% em 7 dias** (+6.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (92)** — 38k coins, **+69.7% em 7 dias** (+9.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dávid Hancko (89)** — 30k coins, **+68.1% em 7 dias** (+15.2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dávid Hancko (89)** — 30k coins, **+68.1% em 7 dias** (+14.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 74k coins, **+64.8% em 7 dias** (+15.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (91)** — 75k coins, **+64.8% em 7 dias** (+15.4% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fernando Hierro (93)** — 69k coins, **+58.2% em 7 dias** (+30.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ibañez (93)** — 60k coins, **+62.9% em 7 dias** (+19.4% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (90)** — 94k coins, **+56.4% em 7 dias** (+10.3% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Dayot Upamecano (93, sem liga) lidera, com +71.9% em 7 dias a 59k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dayot Upamecano (93, sem liga) lidera, com +73.3% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -107,7 +107,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
+> **Link patrocinado:** 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

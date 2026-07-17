@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:44:10.000Z
+pubDatetime: 2026-07-17T17:24:18.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
+    a: "Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 12.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Renato Veiga (94) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Renato Veiga (94) por apenas 12.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Zagueiros em 17/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-17-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 11.369 coins.
-- **Posição mais frequente:** CB, com 8 cartas.
-- **Faixa real:** 2.200 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 10.895 coins.
+- **Posição mais frequente:** CB, com 11 cartas.
+- **Faixa real:** 2.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,35 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Renato Veiga | 94 | CB | — | 12.500 coins | +6.4% |
-| Luka Vušković | 94 | CB | — | 12.750 coins | +8.5% |
-| Mapi León | 89 | CB | Liga F | 2.200 coins | +26.3% |
-| Sepp van den Berg | 89 | CB | Premier League | 13.750 coins | +5.8% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14.000 coins | -14.7% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.250 coins | +2.1% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 13.500 coins | +3.8% |
+| Renato Veiga | 94 | CB | — | 12.750 coins | +8.5% |
+| Luka Vušković | 94 | CB | — | 13.000 coins | +8.5% |
+| Luc De Fougerolles | 93 | CB | — | 12.750 coins | +8.5% |
+| Mapi León | 89 | CB | Liga F | 2.600 coins | +20% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.250 coins | +6% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | +5.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 12.250 coins | 0% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 12.750 coins | 0% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.500 coins | -4.2% |
+| Luka Vušković | 86 | CB | Bundesliga | 14.000 coins | +5.7% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Renato Veiga (94, CB)** da —, a apenas **12.500 coins**
+- **Renato Veiga (94, CB)** da —, a apenas **12.750 coins**
 
-- **Luka Vušković (94, CB)** da —, a apenas **12.750 coins**
+- **Luka Vušković (94, CB)** da —, a apenas **13.000 coins**
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Luc De Fougerolles (93, CB)** da —, a apenas **12.750 coins**
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.750 coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Renato Veiga (94, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Renato Veiga (94, CB) por 12.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -94,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
+Renato Veiga (94, sem liga) aparece como melhor custo-benefício, a 12.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -103,7 +106,7 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
-> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
+> **Link patrocinado:** 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

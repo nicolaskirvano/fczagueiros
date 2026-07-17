@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:44:17.000Z
+pubDatetime: 2026-07-17T17:24:24.000Z
 title: "Mercado EA FC em 17/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Guéla Doué (84), -41.2% em 24h, a 25k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 130 cartas em alta contra 127 em queda (média 2.11%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 126 cartas em alta contra 124 em queda (média 1.66%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **17/07/2026** no PC com mercado **em alta** — predominam as valorizações: **130 cartas subiram** e **127 caíram** (80+ acima de 5k coins), variação média de **2.11%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **17/07/2026** no PC com mercado **em alta** — predominam as valorizações: **126 cartas subiram** e **124 caíram** (80+ acima de 5k coins), variação média de **1.66%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Gianluca Mancini (85) **+56.9%** · 🔴 **Maior baixa:** Guéla Doué (84) **-41.2%**
 
@@ -36,32 +36,36 @@ O mercado do **EA FC** abre **17/07/2026** no PC com mercado **em alta** — pre
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 98.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.6% entre as cartas que se moveram; o universo observado reúne 318 cartas.
-- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
+- **Participação das altas:** 50.4% entre as cartas que se moveram; o universo observado reúne 309 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Mancini | 85 | Serie A TIM | 28k coins | +56.9% | +22.8% |
+| Keven Schlotterbeck | 89 | Bundesliga | 29k coins | +55% | +55% |
+| Tara McKeown | 89 | NWSL | 25k coins | +54.1% | +70.1% |
 | Lúcio | 89 | Serie A TIM | 105k coins | +53.3% | +25% |
-| Ahmetcan Kaplan | 88 | Eredivisie | 24k coins | +46.4% | +36.5% |
-| Tara McKeown | 89 | NWSL | 28k coins | +44.9% | +49.3% |
-| Vincent Kompany | 92 | — | 24k coins | +41.7% | +61.9% |
-| Samson Baidoo | 85 | Ligue 1 McDonald's | 58k coins | +41.5% | -10.8% |
-| Ko Itakura | 88 | Eredivisie | 30k coins | +40% | +52.6% |
-| Juan David Cabal | 85 | Serie A TIM | 22k coins | +39.1% | +50.8% |
-| Chadi Riad | 96 | — | 725k coins | +38.9% | -19.4% |
-| Carles Puyol | 88 | — | 32k coins | +37.1% | +52.5% |
+| Ko Itakura | 88 | Eredivisie | 30k coins | +53.2% | +49.4% |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 57k coins | +40.2% | -11.5% |
+| Juan David Cabal | 85 | Serie A TIM | 21k coins | +39.1% | +50.8% |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 60k coins | +34.8% | 0% |
+| Carles Puyol | 90 | Icons | 798k coins | +33.2% | -13.2% |
+| Ibañez | 86 | ROSHN Saudi League | 70k coins | +33.1% | -18.7% |
 
 
 ### Análise das altas
 
-- **Gianluca Mancini (85)** subiu **+56.9%** em 24h, a **28k coins** (faixa do dia: 14.250–28k). Está +16% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lúcio (89)** subiu **+53.3%** em 24h, a **105k coins** (faixa do dia: 61k–110k). Está +13% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+<!-- projection-note:v1 -->
+> **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ahmetcan Kaplan (88)** subiu **+46.4%** em 24h, a **24k coins** (faixa do dia: 14.250–34k). Está em linha com a média de 7 dias (+7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Gianluca Mancini (85)** subiu **+56.9%** em 24h, a **28k coins** (faixa do dia: 14.250–28k). Está +16% acima da média de 7 dias (aquecida).
+
+- **Keven Schlotterbeck (89)** subiu **+55%** em 24h, a **29k coins** (faixa do dia: 18.000–35k). Está +25% acima da média de 7 dias (aquecida).
+
+- **Tara McKeown (89)** subiu **+54.1%** em 24h, a **25k coins** (faixa do dia: 14.750–30k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -69,24 +73,24 @@ O mercado do **EA FC** abre **17/07/2026** no PC com mercado **em alta** — pre
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Guéla Doué | 84 | Ligue 1 McDonald's | 25k coins | -41.2% | -1% |
-| Ricardo Carvalho | 89 | Liga Portugal | 37k coins | -37.5% | -55.9% |
-| Laurent Blanc | 88 | Icons | 96k coins | -32.2% | +12.8% |
-| Pau Torres | 96 | — | 341k coins | -30.4% | +54.3% |
-| Willian Pacho | 96 | — | 359k coins | -29.5% | -44.3% |
-| Giorgio Chiellini | 88 | Icons | 66k coins | -29.3% | -26.1% |
-| Marcel Desailly | 88 | Icons | 66k coins | -28.1% | -24.4% |
+| Ricardo Carvalho | 89 | Liga Portugal | 37k coins | -37.4% | -55.9% |
+| Pau Torres | 96 | — | 340k coins | -30.4% | +54.3% |
+| Willian Pacho | 96 | — | 440k coins | -29.5% | -44.3% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 21k coins | -29.2% | -13% |
+| Giorgio Chiellini | 88 | Icons | 66k coins | -28.9% | -24.9% |
+| Marcel Desailly | 88 | Icons | 66k coins | -27.7% | -24% |
 | Rocío Gálvez | 88 | Liga F | 24k coins | -27.7% | +17.5% |
-| José Fonte | 85 | Liga Portugal | 50k coins | -27.3% | -11.4% |
-| Eric Dier | 86 | Ligue 1 McDonald's | 20k coins | -25.7% | -9.7% |
+| Vincent Kompany | 88 | Premier League | 21k coins | -27.5% | -6.3% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 56k coins | -27% | +31.8% |
 
 
 ### Análise das baixas
 
-- **Guéla Doué (84)** caiu **-41.2%** em 24h, a **25k coins** (faixa do dia: 25k–42k). Está -22% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Guéla Doué (84)** caiu **-41.2%** em 24h, a **25k coins** (faixa do dia: 25k–42k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Ricardo Carvalho (89)** caiu **-37.5%** em 24h, a **37k coins** (faixa do dia: 32k–60k). Está -51% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Ricardo Carvalho (89)** caiu **-37.4%** em 24h, a **37k coins** (faixa do dia: 32k–60k). Está -51% abaixo da média de 7 dias (descontada).
 
-- **Laurent Blanc (88)** caiu **-32.2%** em 24h, a **96k coins** (faixa do dia: 94k–168k). Está -8% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Pau Torres (96)** caiu **-30.4%** em 24h, a **340k coins** (faixa do dia: 300k–485k). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
@@ -114,20 +118,20 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
+**Qual foi a maior alta do EA FC hoje (17/07/2026)?**
 Gianluca Mancini (85, Serie A TIM), com +56.9% em 24h, a 28k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Guéla Doué (84), -41.2% em 24h, a 25k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 130 cartas em alta contra 127 em queda (média 2.11%).
+**Como está o mercado do EA FC hoje?**
+Hoje o mercado está em alta — predominam as valorizações, com 126 cartas em alta contra 124 em queda (média 1.66%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
-> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
+> **Link patrocinado:** 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 
