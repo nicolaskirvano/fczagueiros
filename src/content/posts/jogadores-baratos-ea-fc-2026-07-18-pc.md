@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:44:19.000Z
+pubDatetime: 2026-07-18T19:44:20.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 18/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 11.882 coins.
-- **Posição mais frequente:** CB, com 14 cartas.
-- **Faixa real:** 2.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 13.889 coins.
+- **Posição mais frequente:** CB, com 9 cartas.
+- **Faixa real:** 12.750 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 13.000 coins | -14.7% |
-| Diney | 94 | CB | — | 13.000 coins | -1.9% |
-| Renato Veiga | 94 | CB | — | 14.250 coins | +11.5% |
-| Luka Vušković | 94 | CB | — | 14.500 coins | +5.7% |
-| Kojo Peprah Oppong | 93 | CB | — | 13.000 coins | +5.7% |
-| Lucas Herrington | 93 | CB | — | 14.000 coins | +7.7% |
-| Luc De Fougerolles | 93 | CB | — | 14.750 coins | +5.8% |
-| Mapi León | 89 | CB | Liga F | 3.600 coins | +16.1% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11.250 coins | -5.7% |
-| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | +29.8% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 14.250 coins | +11.8% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.000 coins | 0% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 2.000 coins | +15.8% |
-| Jamie Carragher | 86 | CB | Premier League | 12.750 coins | +10.6% |
+| Lisandro Martínez | 95 | CB | — | 13.000 coins | -11.1% |
+| Diney | 94 | CB | — | 13.250 coins | -1.9% |
+| Renato Veiga | 94 | CB | — | 14.250 coins | +5.3% |
+| Luka Vušković | 94 | CB | — | 14.750 coins | +7.1% |
+| Lucas Herrington | 93 | CB | — | 14.000 coins | +1.8% |
+| Luc De Fougerolles | 93 | CB | — | 14.250 coins | +1.8% |
+| Kojo Peprah Oppong | 93 | CB | — | 14.750 coins | 0% |
+| Vincent Kompany | 92 | CB | — | 14.000 coins | -2.7% |
+| Jamie Carragher | 86 | CB | Premier League | 12.750 coins | +2% |
 
 
 ## 📈 Destaques
 
 - **Lisandro Martínez (95, CB)** da —, a apenas **13.000 coins**
 
-- **Diney (94, CB)** da —, a apenas **13.000 coins**
+- **Diney (94, CB)** da —, a apenas **13.250 coins**
 
 - **Renato Veiga (94, CB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Luka Vušković (94, CB)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Luka Vušković (94, CB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Kojo Peprah Oppong (93, CB)** da —, a apenas **13.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Lucas Herrington (93, CB)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
