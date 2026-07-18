@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:44:09.000Z
+pubDatetime: 2026-07-18T16:44:08.000Z
 title: "Investimentos EA FC: Zagueiros em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Sol Campbell (91, sem liga) lidera, com +86% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jürgen Kohler (91, sem liga) lidera, com +86% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sol Campbell (91) acumula **+86% em 7 dias** a 40k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jürgen Kohler (91) acumula **+86% em 7 dias** a 44k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.7% em 24h** e **+47.2% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.4% em 24h** e **+42.4% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sol Campbell | 91 | — | 40k coins | +2.6% | +86% | Esticada |
-| Josip Šutalo | 90 | Eredivisie | 65k coins | +19.7% | +85.4% | Esticada |
-| Jürgen Kohler | 91 | — | 50k coins | +1% | +78.2% | Esticada |
-| Tara McKeown | 89 | NWSL | 26k coins | +31.6% | +55.2% | Esticada |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 51k coins | +1.9% | +54.4% | Momentum moderado |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 50k coins | +1.5% | +51.5% | Momentum moderado |
-| Dan-Axel Zagadou | 85 | Bundesliga | 28k coins | +1.8% | +49.3% | Momentum moderado |
-| Sergi Domínguez | 92 | — | 26k coins | +7.1% | +47.2% | Momentum moderado |
-| Leah Williamson | 88 | Barclays WSL | 60k coins | +27.3% | +43.2% | Esticada |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 34k coins | +22.3% | +42.3% | Esticada |
-| Mapi León | 90 | Liga F | 74k coins | +7% | +42.3% | Momentum moderado |
-| Éder Militão | 86 | LALIGA EA SPORTS | 62k coins | +28.7% | +42.1% | Esticada |
-| Glódís Perla Viggósdóttir | 86 | GPFBL | 84k coins | +7.7% | +38% | Momentum moderado |
-| Youri Baas | 84 | Eredivisie | 44k coins | +10.6% | +34.1% | Momentum moderado |
-| Edmond Tapsoba | 86 | Bundesliga | 21k coins | +13.7% | +33.9% | Momentum moderado |
+| Jürgen Kohler | 91 | — | 44k coins | +2.6% | +86% | Esticada |
+| Vincent Kompany | 91 | Premier League | 45k coins | +8.4% | +68.2% | Esticada |
+| Vanessa Gilles | 87 | GPFBL | 22k coins | +24.3% | +55.4% | Esticada |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 50k coins | +2% | +52.7% | Momentum moderado |
+| Mapi León | 90 | Liga F | 39k coins | +5.3% | +47.4% | Momentum moderado |
+| Tara McKeown | 89 | NWSL | 24k coins | +22.5% | +46.3% | Esticada |
+| Annaïg Butel | 86 | D1 Arkema | 24k coins | +23.7% | +42.4% | Esticada |
+| Mapi León | 91 | — | 68k coins | +7.9% | +42.4% | Momentum moderado |
+| Ronald Araujo | 94 | — | 191k coins | +6.1% | +38.4% | Momentum moderado |
+| Glódís Perla Viggósdóttir | 86 | GPFBL | 84k coins | +15.2% | +38% | Momentum moderado |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 49k coins | +3.2% | +31.5% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 18.750 coins | +5.4% | +30% | Momentum moderado |
+| Ahmed Hegazi | 87 | Brasileirão | 74k coins | +22.8% | +30% | Esticada |
+| Youri Baas | 84 | Eredivisie | 42k coins | +31.1% | +28.3% | Esticada |
+| José María Giménez | 87 | LALIGA EA SPORTS | 23k coins | +21.1% | +27.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Sol Campbell (91)** — 40k coins, **+86% em 7 dias** (+2.6% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (91)** — 44k coins, **+86% em 7 dias** (+2.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Josip Šutalo (90)** — 65k coins, **+85.4% em 7 dias** (+19.7% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vincent Kompany (91)** — 45k coins, **+68.2% em 7 dias** (+8.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jürgen Kohler (91)** — 50k coins, **+78.2% em 7 dias** (+1% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vanessa Gilles (87)** — 22k coins, **+55.4% em 7 dias** (+24.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tara McKeown (89)** — 26k coins, **+55.2% em 7 dias** (+31.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 50k coins, **+52.7% em 7 dias** (+2% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Willian Pacho (90)** — 51k coins, **+54.4% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 39k coins, **+47.4% em 7 dias** (+5.3% em 24h). Preço -28% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Sol Campbell (91, sem liga) lidera, com +86% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jürgen Kohler (91, sem liga) lidera, com +86% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

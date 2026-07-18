@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:44:19.000Z
+pubDatetime: 2026-07-18T16:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Wendie Renard (91, D1 Arkema) lidera, com +86.3% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jerdy Schouten (94, sem liga) lidera, com +79.3% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wendie Renard (91) acumula **+86.3% em 7 dias** a 48k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jerdy Schouten (94) acumula **+79.3% em 7 dias** a 37k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.7% em 24h** e **+69.8% em 7 dias**.
-- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.0% em 24h** e **+61.0% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wendie Renard | 91 | D1 Arkema | 48k coins | +18.8% | +86.3% | Esticada |
-| Manuel Akanji | 91 | — | 42k coins | +6.7% | +81.8% | Esticada |
-| Daley Blind | 86 | LALIGA EA SPORTS | 32k coins | +3.2% | +78.1% | Esticada |
-| Ingrid Syrstad Engen | 90 | — | 45k coins | +5.9% | +74.8% | Esticada |
-| Alessandro Bastoni | 91 | Serie A TIM | 60k coins | +4.2% | +71.2% | Esticada |
-| Issa Diop | 95 | — | 168k coins | +26.2% | +70.8% | Esticada |
-| Tsuyoshi Watanabe | 91 | — | 42k coins | +2.4% | +70% | Esticada |
-| Chibuike Nwaiwu | 90 | — | 45k coins | +13.2% | +69.8% | Esticada |
-| Steffi Jones | 89 | Icons | 32k coins | +17.9% | +63% | Esticada |
-| Craig Halkett | 91 | — | 42k coins | +19.9% | +61% | Esticada |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 50k coins | +1.5% | +57.5% | Momentum moderado |
-| Vincent Kompany | 91 | Premier League | 65k coins | +4.8% | +42.1% | Momentum moderado |
-| Pierre Kalulu | 91 | Serie A TIM | 76k coins | +20.6% | +39.4% | Esticada |
-| Josip Šutalo | 90 | Eredivisie | 51k coins | +2.9% | +38.1% | Momentum moderado |
-| Vanessa Gilles | 94 | — | 32k coins | +26.5% | +35.8% | Esticada |
+| Jerdy Schouten | 94 | — | 37k coins | +35.2% | +79.3% | Esticada |
+| Issa Diop | 95 | — | 168k coins | +31% | +76% | Esticada |
+| Iván Córdoba | 88 | Serie A TIM | 96k coins | +2.1% | +72.6% | Esticada |
+| Tsuyoshi Watanabe | 91 | — | 42k coins | +6.9% | +70% | Esticada |
+| Chibuike Nwaiwu | 90 | — | 45k coins | +11.8% | +69.8% | Esticada |
+| Steph Catley | 90 | Barclays WSL | 75k coins | +38.6% | +69% | Esticada |
+| Mapi León | 91 | — | 75k coins | +5.6% | +66.7% | Esticada |
+| Emmanuel Fernandez | 90 | — | 42k coins | +13.1% | +61% | Esticada |
+| Steffi Jones | 89 | Icons | 32k coins | +14.3% | +58% | Momentum moderado |
+| Manuel Akanji | 86 | Serie A TIM | 54k coins | +2.9% | +52.9% | Momentum moderado |
+| Jürgen Kohler | 90 | Bundesliga | 44k coins | +18.2% | +45.8% | Momentum moderado |
+| Josip Šutalo | 90 | Eredivisie | 54k coins | +12% | +45.6% | Momentum moderado |
+| Sergi Domínguez | 92 | — | 27k coins | +24.7% | +43.2% | Esticada |
+| Vincent Kompany | 91 | Premier League | 65k coins | +4.8% | +41.3% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 48k coins | +5.6% | +39.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Wendie Renard (91)** — 48k coins, **+86.3% em 7 dias** (+18.8% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jerdy Schouten (94)** — 37k coins, **+79.3% em 7 dias** (+35.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Akanji (91)** — 42k coins, **+81.8% em 7 dias** (+6.7% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Issa Diop (95)** — 168k coins, **+76% em 7 dias** (+31% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daley Blind (86)** — 32k coins, **+78.1% em 7 dias** (+3.2% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Córdoba (88)** — 96k coins, **+72.6% em 7 dias** (+2.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ingrid Syrstad Engen (90)** — 45k coins, **+74.8% em 7 dias** (+5.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tsuyoshi Watanabe (91)** — 42k coins, **+70% em 7 dias** (+6.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alessandro Bastoni (91)** — 60k coins, **+71.2% em 7 dias** (+4.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chibuike Nwaiwu (90)** — 45k coins, **+69.8% em 7 dias** (+11.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Wendie Renard (91, D1 Arkema) lidera, com +86.3% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jerdy Schouten (94, sem liga) lidera, com +79.3% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
