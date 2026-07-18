@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluca Mancini</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ismaëlo Ganiou</text>
-<rect x="285" y="153" width="390" height="28" rx="7" fill="#22c55e"/>
-<text x="685" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iñigo Martínez</text>
-<rect x="285" y="211" width="266" height="28" rx="7" fill="#22c55e"/>
-<text x="561" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willi Orban</text>
-<rect x="285" y="269" width="256" height="28" rx="7" fill="#22c55e"/>
-<text x="551" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="327" width="245" height="28" rx="7" fill="#22c55e"/>
-<text x="540" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dan-Axel Zagadou</text>
-<rect x="285" y="385" width="226" height="28" rx="7" fill="#22c55e"/>
-<text x="521" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Chadi Riad</text>
+<rect x="285" y="153" width="335" height="28" rx="7" fill="#22c55e"/>
+<text x="630" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nemanja Vidić</text>
+<rect x="285" y="211" width="317" height="28" rx="7" fill="#22c55e"/>
+<text x="612" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tara McKeown</text>
+<rect x="285" y="269" width="308" height="28" rx="7" fill="#22c55e"/>
+<text x="603" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cristina Cubedo</text>
+<rect x="285" y="327" width="301" height="28" rx="7" fill="#22c55e"/>
+<text x="596" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Éder Militão</text>
+<rect x="285" y="385" width="280" height="28" rx="7" fill="#22c55e"/>
+<text x="575" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.7%</text>
 </svg>
