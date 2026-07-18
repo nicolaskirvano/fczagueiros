@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:44:18.000Z
+pubDatetime: 2026-07-18T01:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Alessandro Bastoni (91, Serie A TIM) lidera, com +86.1% em 7 dias a 67k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nathan Zézé (91, sem liga) lidera, com +86% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alessandro Bastoni (91) acumula **+86.1% em 7 dias** a 67k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nathan Zézé (91) acumula **+86% em 7 dias** a 40k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.1% em 24h** e **+38.0% em 7 dias**.
+- A mediana é de **+20.0% em 24h** e **+44.0% em 7 dias**.
 - **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alessandro Bastoni | 91 | Serie A TIM | 67k coins | +17.5% | +86.1% | Esticada |
-| Vanessa Gilles | 87 | GPFBL | 34k coins | +15.6% | +76.2% | Esticada |
+| Nathan Zézé | 91 | — | 40k coins | +1.3% | +86% | Esticada |
 | Iván Córdoba | 88 | Serie A TIM | 96k coins | +27.3% | +69% | Esticada |
-| Emmanuel Fernandez | 90 | — | 48k coins | +18.8% | +66.7% | Esticada |
-| Jade Rose | 85 | Barclays WSL | 76k coins | +11.9% | +65.9% | Esticada |
-| Maksim Paskotši | 84 | 1A Pro League | 47k coins | +16% | +43.2% | Momentum moderado |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 60k coins | +25% | +42.9% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 72k coins | +8% | +38% | Momentum moderado |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 200k coins | +17.1% | +34.5% | Momentum moderado |
-| Carles Puyol | 88 | — | 26k coins | +6% | +34.2% | Momentum moderado |
-| Mapi León | 91 | — | 53k coins | +20.6% | +33.3% | Esticada |
-| Jürgen Kohler | 90 | Bundesliga | 40k coins | +15% | +33.1% | Momentum moderado |
-| Carles Puyol | 94 | — | 126k coins | +9.4% | +32.1% | Momentum moderado |
-| Edmond Tapsoba | 86 | Bundesliga | 23k coins | +21% | +30.7% | Esticada |
-| Steph Catley | 90 | Barclays WSL | 77k coins | +20.3% | +29.8% | Esticada |
+| Jürgen Kohler | 90 | Bundesliga | 45k coins | +28.6% | +57.9% | Esticada |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 60k coins | +20% | +55.8% | Esticada |
+| Daley Blind | 86 | LALIGA EA SPORTS | 27k coins | +21.1% | +49.3% | Esticada |
+| Kim Min Jae | 86 | Bundesliga | 64k coins | +25.6% | +47.1% | Esticada |
+| Vincent Kompany | 91 | Premier League | 75k coins | +16.3% | +44.2% | Momentum moderado |
+| Vanessa Gilles | 87 | GPFBL | 29k coins | +18.6% | +44% | Momentum moderado |
+| Maksim Paskotši | 84 | 1A Pro League | 47k coins | +18.1% | +43.2% | Momentum moderado |
+| Ramy Bensebaini | 87 | — | 70k coins | +17.6% | +40% | Momentum moderado |
+| Edmond Tapsoba | 86 | Bundesliga | 25k coins | +30% | +38.7% | Esticada |
+| Vanessa Gilles | 94 | — | 35k coins | +22.8% | +37.3% | Esticada |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 107k coins | +2.9% | +34.6% | Momentum moderado |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 19.750 coins | +30.9% | +30.9% | Esticada |
+| Sergi Domínguez | 92 | — | 25k coins | +5.2% | +30.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Alessandro Bastoni (91)** — 67k coins, **+86.1% em 7 dias** (+17.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nathan Zézé (91)** — 40k coins, **+86% em 7 dias** (+1.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vanessa Gilles (87)** — 34k coins, **+76.2% em 7 dias** (+15.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Córdoba (88)** — 96k coins, **+69% em 7 dias** (+27.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iván Córdoba (88)** — 96k coins, **+69% em 7 dias** (+27.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (90)** — 45k coins, **+57.9% em 7 dias** (+28.6% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emmanuel Fernandez (90)** — 48k coins, **+66.7% em 7 dias** (+18.8% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aymeric Laporte (90)** — 60k coins, **+55.8% em 7 dias** (+20% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jade Rose (85)** — 76k coins, **+65.9% em 7 dias** (+11.9% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daley Blind (86)** — 27k coins, **+49.3% em 7 dias** (+21.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Alessandro Bastoni (91, Serie A TIM) lidera, com +86.1% em 7 dias a 67k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nathan Zézé (91, sem liga) lidera, com +86% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
