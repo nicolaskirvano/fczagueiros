@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:44:20.000Z
+pubDatetime: 2026-07-18T22:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 18/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 13.889 coins.
-- **Posição mais frequente:** CB, com 9 cartas.
-- **Faixa real:** 12.750 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 12.480 coins.
+- **Posição mais frequente:** CB, com 5 cartas.
+- **Faixa real:** 9.400 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,24 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 13.000 coins | -11.1% |
-| Diney | 94 | CB | — | 13.250 coins | -1.9% |
-| Renato Veiga | 94 | CB | — | 14.250 coins | +5.3% |
-| Luka Vušković | 94 | CB | — | 14.750 coins | +7.1% |
-| Lucas Herrington | 93 | CB | — | 14.000 coins | +1.8% |
-| Luc De Fougerolles | 93 | CB | — | 14.250 coins | +1.8% |
-| Kojo Peprah Oppong | 93 | CB | — | 14.750 coins | 0% |
-| Vincent Kompany | 92 | CB | — | 14.000 coins | -2.7% |
-| Jamie Carragher | 86 | CB | Premier League | 12.750 coins | +2% |
+| Lisandro Martínez | 95 | CB | — | 13.000 coins | -15% |
+| Renato Veiga | 94 | CB | — | 14.750 coins | +5.4% |
+| Lucas Herrington | 93 | CB | — | 13.250 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.000 coins | -14.5% |
+| Sara Doorsoun | 84 | CB | GPFBL | 9.400 coins | +56.7% |
 
 
 ## 📈 Destaques
 
 - **Lisandro Martínez (95, CB)** da —, a apenas **13.000 coins**
 
-- **Diney (94, CB)** da —, a apenas **13.250 coins**
+- **Renato Veiga (94, CB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Renato Veiga (94, CB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Lucas Herrington (93, CB)** da —, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Luka Vušković (94, CB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12.000 coins**
 
-- **Lucas Herrington (93, CB)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Sara Doorsoun (84, CB)** da GPFBL, a apenas **9.400 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
