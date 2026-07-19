@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:44:17.000Z
+pubDatetime: 2026-07-19T01:44:16.000Z
 title: "Mercado EA FC em 18/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Wendie Renard (86, D1 Arkema), com +48.4% em 24h, a 24k coins no PC."
+    a: "Wendie Renard (91, D1 Arkema), com +58.3% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Naomi Girma (87), -50% em 24h, a 42k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 99 cartas em alta contra 128 em queda (média 0.02%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 111 cartas em alta contra 117 em queda (média 1.85%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **18/07/2026** no PC: mercado **de lado** — altas e quedas se equilibram. **99 valorizações** contra **128 quedas** entre as cartas relevantes, com média de **0.02%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **18/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **111 valorizações** contra **117 quedas** entre as cartas relevantes, com média de **1.85%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Wendie Renard (86) **+48.4%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
+> 🟢 **Maior alta:** Wendie Renard (91) **+58.3%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Zagueiros — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **18/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.6% entre as cartas que se moveram; o universo observado reúne 293 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.7% entre as cartas que se moveram; o universo observado reúne 297 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Wendie Renard | 91 | D1 Arkema | 48k coins | +58.3% | +63.8% |
+| Dávid Hancko | 89 | LALIGA EA SPORTS | 55k coins | +57.1% | +48.6% |
+| Maxence Lacroix | 87 | Premier League | 127k coins | +53.3% | +34.7% |
+| Harry Maguire | 90 | Premier League | 280k coins | +52.2% | +10.2% |
+| Marc Guéhi | 88 | Premier League | 36k coins | +51% | +40.8% |
 | Wendie Renard | 86 | D1 Arkema | 24k coins | +48.4% | +41.8% |
-| Marc Guéhi | 88 | Premier League | 36k coins | +41.7% | +32% |
-| Maxence Lacroix | 87 | Premier League | 110k coins | +41.2% | +23.1% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 30k coins | +41.2% | +20% |
-| Carl Starfelt | 88 | — | 28k coins | +39.2% | +31% |
-| Virgil van Dijk | 95 | Premier League | 1.80M coins | +36.4% | -2.7% |
-| John Stones | 95 | — | 189k coins | +36.1% | +25% |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 55k coins | +35.8% | -8.3% |
-| Mapi León | 96 | — | 434k coins | +33.1% | +25.8% |
-| Leah Williamson | 88 | Barclays WSL | 104k coins | +32.9% | +46.3% |
+| Laurent Blanc | 88 | Icons | 96k coins | +46.4% | +35.6% |
+| Tara McKeown | 95 | — | 108k coins | +39.7% | +18.5% |
+| Ronald Araujo | 94 | — | 286k coins | +38.9% | +25.4% |
+| Cristian Romero | 86 | Premier League | 110k coins | +37.5% | 0% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Resumo de **18/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Wendie Renard (86)** subiu **+48.4%** em 24h, a **24k coins** (faixa do dia: 15.000–24k). Está +36% acima da média de 7 dias (aquecida).
+- **Wendie Renard (91)** subiu **+58.3%** em 24h, a **48k coins** (faixa do dia: 25k–48k). Está +38% acima da média de 7 dias (aquecida).
 
-- **Marc Guéhi (88)** subiu **+41.7%** em 24h, a **36k coins** (faixa do dia: 15.750–37k). Está +22% acima da média de 7 dias (aquecida).
+- **Dávid Hancko (89)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 32k–65k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Maxence Lacroix (87)** subiu **+41.2%** em 24h, a **110k coins** (faixa do dia: 80k–128k). Está em linha com a média de 7 dias (+1%).
+- **Maxence Lacroix (87)** subiu **+53.3%** em 24h, a **127k coins** (faixa do dia: 80k–128k). Está +16% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,29 +73,29 @@ Resumo de **18/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Naomi Girma | 87 | Barclays WSL | 42k coins | -50% | -24.8% |
-| Pau Torres | 96 | — | 197k coins | -45.7% | -31.3% |
-| Samson Baidoo | 85 | Ligue 1 McDonald's | 34k coins | -42.7% | -41.7% |
-| Malang Sarr | 96 | — | 96k coins | -38.1% | -13.2% |
-| Dayot Upamecano | 96 | — | 23k coins | -37.8% | — |
-| Vanessa Gilles | 94 | — | 22k coins | -35.7% | 0% |
-| Ousmane Diomande | 85 | Liga Portugal | 22k coins | -35.4% | -40.8% |
-| Tyrone Mings | 96 | — | 112k coins | -34.3% | -38.9% |
-| Chadi Riad | 96 | — | 652k coins | -34.3% | -19.9% |
-| Tristan Crama | 86 | EFL Championship | 33k coins | -33.5% | -10.9% |
+| Malang Sarr | 96 | — | 92k coins | -45.6% | -21.6% |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 33k coins | -44.1% | -37.1% |
+| Ramy Bensebaini | 87 | — | 40k coins | -43.2% | -11.7% |
+| Jonathan Tah | 88 | Bundesliga | 34k coins | -32.2% | -28.8% |
+| Glódís Perla Viggósdóttir | 85 | GPFBL | 23k coins | -30.3% | -28.7% |
+| Roberto Lopes | 95 | — | 30k coins | -29.8% | -39.1% |
+| Ladislav Krejčí | 87 | — | 31k coins | -29.1% | -31.5% |
+| Éder Militão | 86 | LALIGA EA SPORTS | 115k coins | -28.1% | -13.5% |
+| Harry Maguire | 83 | Premier League | 149k coins | -28% | -45.2% |
 
 
 ### Análise das baixas
 
 - **Naomi Girma (87)** caiu **-50%** em 24h, a **42k coins** (faixa do dia: 42k–85k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Pau Torres (96)** caiu **-45.7%** em 24h, a **197k coins** (faixa do dia: 194k–370k). Está -38% abaixo da média de 7 dias (descontada).
+- **Malang Sarr (96)** caiu **-45.6%** em 24h, a **92k coins** (faixa do dia: 92k–170k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Samson Baidoo (85)** caiu **-42.7%** em 24h, a **34k coins** (faixa do dia: 34k–60k). Está -29% abaixo da média de 7 dias (descontada).
+- **Samson Baidoo (85)** caiu **-44.1%** em 24h, a **33k coins** (faixa do dia: 32k–58k). Está -30% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Wendie Renard já avançou 48.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Wendie Renard já avançou 58.3% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Naomi Girma recuou -50%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Wendie Renard (86, D1 Arkema), com +48.4% em 24h, a 24k coins no PC.
+Wendie Renard (91, D1 Arkema), com +58.3% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**
 Naomi Girma (87), -50% em 24h, a 42k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 99 cartas em alta contra 128 em queda (média 0.02%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 111 cartas em alta contra 117 em queda (média 1.85%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

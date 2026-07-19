@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wendie Renard</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marc Guéhi</text>
-<rect x="285" y="153" width="414" height="28" rx="7" fill="#22c55e"/>
-<text x="709" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dávid Hancko</text>
+<rect x="285" y="153" width="470" height="28" rx="7" fill="#22c55e"/>
+<text x="765" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maxence Lacroix</text>
-<rect x="285" y="211" width="409" height="28" rx="7" fill="#22c55e"/>
-<text x="704" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charlie Cresswell</text>
-<rect x="285" y="269" width="409" height="28" rx="7" fill="#22c55e"/>
-<text x="704" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carl Starfelt</text>
-<rect x="285" y="327" width="389" height="28" rx="7" fill="#22c55e"/>
-<text x="684" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="385" width="361" height="28" rx="7" fill="#22c55e"/>
-<text x="656" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.4%</text>
+<rect x="285" y="211" width="439" height="28" rx="7" fill="#22c55e"/>
+<text x="734" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Maguire</text>
+<rect x="285" y="269" width="430" height="28" rx="7" fill="#22c55e"/>
+<text x="725" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marc Guéhi</text>
+<rect x="285" y="327" width="420" height="28" rx="7" fill="#22c55e"/>
+<text x="715" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wendie Renard</text>
+<rect x="285" y="385" width="398" height="28" rx="7" fill="#22c55e"/>
+<text x="693" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.4%</text>
 </svg>
