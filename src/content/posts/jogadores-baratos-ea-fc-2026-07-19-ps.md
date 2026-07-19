@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:44:10.000Z
+pubDatetime: 2026-07-19T22:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.717 coins.
+- **Preço médio das 15 opções:** 11.303 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.800 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,20 +40,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 12.500 coins | -3.8% |
-| Diney | 94 | CB | — | 11.500 coins | +2.1% |
-| Renato Veiga | 94 | CB | — | 11.750 coins | -5.5% |
-| Luka Vušković | 94 | CB | — | 13.250 coins | -5.5% |
-| Lucas Herrington | 93 | CB | — | 12.250 coins | -1.9% |
-| Kojo Peprah Oppong | 93 | CB | — | 13.000 coins | -3.7% |
-| Luc De Fougerolles | 93 | CB | — | 13.000 coins | -3.7% |
-| Vincent Kompany | 92 | CB | — | 14.750 coins | -3.1% |
-| Mapi León | 89 | CB | Liga F | 1.700 coins | +46.2% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.750 coins | -1.9% |
-| Millie Bright | 87 | CB | Barclays WSL | 4.300 coins | +7.7% |
-| Laura Georges | 87 | CB | D1 Arkema | 13.750 coins | -5.1% |
-| Luka Vušković | 86 | CB | Bundesliga | 12.750 coins | -13.3% |
-| Sara Doorsoun | 84 | CB | GPFBL | 3.500 coins | +20.7% |
+| Lisandro Martínez | 95 | CB | — | 12.500 coins | -3.9% |
+| Diney | 94 | CB | — | 11.500 coins | -2.1% |
+| Renato Veiga | 94 | CB | — | 12.000 coins | -3.8% |
+| Luka Vušković | 94 | CB | — | 12.750 coins | -1.9% |
+| Kojo Peprah Oppong | 93 | CB | — | 12.250 coins | -3.8% |
+| Luc De Fougerolles | 93 | CB | — | 12.500 coins | -3.8% |
+| Lucas Herrington | 93 | CB | — | 12.500 coins | -3.8% |
+| Virgil van Dijk | 90 | CB | Premier League | 3.500 coins | +8.1% |
+| Mapi León | 89 | CB | Liga F | 1.800 coins | +50% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14.000 coins | +1.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 14.000 coins | -3.4% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14.750 coins | -4.8% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12.500 coins | +10.2% |
+| Luka Vušković | 86 | CB | Bundesliga | 13.000 coins | -8.5% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Diney (94, CB)** da —, a apenas **11.500 coins**
 
-- **Renato Veiga (94, CB)** da —, a apenas **11.750 coins**
+- **Renato Veiga (94, CB)** da —, a apenas **12.000 coins**
 
-- **Luka Vušković (94, CB)** da —, a apenas **13.250 coins**
+- **Luka Vušković (94, CB)** da —, a apenas **12.750 coins**
 
-- **Lucas Herrington (93, CB)** da —, a apenas **12.250 coins**
+- **Kojo Peprah Oppong (93, CB)** da —, a apenas **12.250 coins**
 
 
 ## Como distribuir a banca
