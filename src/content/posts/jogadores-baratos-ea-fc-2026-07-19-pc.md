@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:44:19.000Z
+pubDatetime: 2026-07-20T01:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 19/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 19/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/07/2026)?"
-    a: "Lisandro Martínez (95, sem liga) aparece como melhor custo-benefício, a 12.500 coins no PC."
+    a: "Lisandro Martínez (95, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lisandro Martínez (95) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Lisandro Martínez (95) por apenas 12.250 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Zagueiros em 19/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-19-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 12.308 coins.
-- **Posição mais frequente:** CB, com 12 cartas.
-- **Faixa real:** 4.300 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 10.118 coins.
+- **Posição mais frequente:** CB, com 11 cartas.
+- **Faixa real:** 2.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,36 +40,35 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 12.500 coins | -7.5% |
-| Diney | 94 | CB | — | 11.750 coins | -4.1% |
-| Renato Veiga | 94 | CB | — | 13.750 coins | -3.5% |
-| Luka Vušković | 94 | CB | — | 13.750 coins | -3.4% |
-| Luc De Fougerolles | 93 | CB | — | 13.500 coins | -5.3% |
-| Lucas Herrington | 93 | CB | — | 13.750 coins | -5.3% |
-| Kojo Peprah Oppong | 93 | CB | — | 14.250 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 4.300 coins | +4.8% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13.750 coins | -9.8% |
-| Ko Itakura | 88 | CB | Eredivisie | 14.750 coins | +20% |
-| Jamie Carragher | 86 | CB | Premier League | 11.750 coins | -13% |
-| Sara Doorsoun | 84 | CB | GPFBL | 9.900 coins | +5.3% |
+| Lisandro Martínez | 95 | CB | — | 12.250 coins | -9.4% |
+| Diney | 94 | CB | — | 11.500 coins | -7.8% |
+| Luka Vušković | 94 | CB | — | 13.500 coins | -1.8% |
+| Renato Veiga | 94 | CB | — | 14.250 coins | -3.4% |
+| Kojo Peprah Oppong | 93 | CB | — | 13.250 coins | -5.2% |
+| Lucas Herrington | 93 | CB | — | 13.750 coins | -1.8% |
+| Luc De Fougerolles | 93 | CB | — | 14.000 coins | -5.3% |
+| Virgil van Dijk | 90 | CB | Premier League | 4.200 coins | 0% |
+| Millie Bright | 87 | CB | Barclays WSL | 2.600 coins | +30% |
+| Dayot Upamecano | 85 | CB | Bundesliga | 2.000 coins | +11.1% |
+| Sara Doorsoun | 84 | CB | GPFBL | 10.000 coins | +6.4% |
 
 
 ## 📈 Destaques
 
-- **Lisandro Martínez (95, CB)** da —, a apenas **12.500 coins**
+- **Lisandro Martínez (95, CB)** da —, a apenas **12.250 coins**
 
-- **Diney (94, CB)** da —, a apenas **11.750 coins**
+- **Diney (94, CB)** da —, a apenas **11.500 coins**
 
-- **Renato Veiga (94, CB)** da —, a apenas **13.750 coins**
+- **Luka Vušković (94, CB)** da —, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Luka Vušković (94, CB)** da —, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Renato Veiga (94, CB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Luc De Fougerolles (93, CB)** da —, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Kojo Peprah Oppong (93, CB)** da —, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Lisandro Martínez (95, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Lisandro Martínez (95, CB) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -88,7 +87,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/07/2026)?**  
-Lisandro Martínez (95, sem liga) aparece como melhor custo-benefício, a 12.500 coins no PC.
+Lisandro Martínez (95, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
