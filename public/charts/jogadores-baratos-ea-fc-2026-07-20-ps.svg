@@ -8,18 +8,18 @@
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#38bdf8"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.250</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diney</text>
-<rect x="285" y="153" width="413" height="28" rx="7" fill="#38bdf8"/>
-<text x="708" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.250</text>
+<rect x="285" y="153" width="438" height="28" rx="7" fill="#38bdf8"/>
+<text x="733" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Renato Veiga</text>
-<rect x="285" y="211" width="455" height="28" rx="7" fill="#38bdf8"/>
-<text x="750" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
+<rect x="285" y="211" width="463" height="28" rx="7" fill="#38bdf8"/>
+<text x="758" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.750</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luka Vušković</text>
-<rect x="285" y="269" width="455" height="28" rx="7" fill="#38bdf8"/>
-<text x="750" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luc De Fougerolles</text>
-<rect x="285" y="327" width="429" height="28" rx="7" fill="#38bdf8"/>
-<text x="724" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kojo Peprah Oppong</text>
-<rect x="285" y="385" width="438" height="28" rx="7" fill="#38bdf8"/>
-<text x="733" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
+<rect x="285" y="269" width="472" height="28" rx="7" fill="#38bdf8"/>
+<text x="767" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kojo Peprah Oppong</text>
+<rect x="285" y="327" width="463" height="28" rx="7" fill="#38bdf8"/>
+<text x="758" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.750</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luc De Fougerolles</text>
+<rect x="285" y="385" width="472" height="28" rx="7" fill="#38bdf8"/>
+<text x="767" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
 </svg>
