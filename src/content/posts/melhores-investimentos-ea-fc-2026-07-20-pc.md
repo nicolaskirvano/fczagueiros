@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:44:18.000Z
+pubDatetime: 2026-07-20T13:44:19.000Z
 title: "Investimentos EA FC: Zagueiros em 20/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.5% em 24h** e **+50.9% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.1% em 24h** e **+42.1% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Josip Šutalo | 90 | Eredivisie | 54k coins | +9.2% | +71.2% | Esticada |
-| Leah Williamson | 95 | Barclays WSL | 186k coins | +6.9% | +68.5% | Esticada |
-| Nikola Katić | 90 | — | 142k coins | +5.6% | +64.8% | Esticada |
-| Rocío Gálvez | 88 | Liga F | 32k coins | +32.3% | +62.8% | Esticada |
-| Nathan Zézé | 91 | — | 38k coins | +1.3% | +57% | Momentum moderado |
-| Wendie Renard | 86 | D1 Arkema | 48k coins | +5.6% | +53.2% | Momentum moderado |
-| Sol Campbell | 88 | — | 37k coins | +14.5% | +51.9% | Momentum moderado |
-| Alessandro Bastoni | 91 | Serie A TIM | 80k coins | +26% | +50.9% | Esticada |
-| Giorgio Chiellini | 88 | Icons | 114k coins | +33.7% | +49.4% | Esticada |
-| Sepp van den Berg | 89 | Premier League | 20k coins | +21.2% | +42.9% | Esticada |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 47k coins | +11.2% | +38% | Momentum moderado |
-| Chris Smalling | 87 | ROSHN Saudi League | 69k coins | +37.6% | +31.1% | Esticada |
-| Gabriel | 89 | Premier League | 172k coins | +9.4% | +27.7% | Momentum moderado |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 26k coins | +15.1% | +25.9% | Momentum moderado |
-| Ilario Monterisi | 84 | Serie BKT | 48k coins | +34.5% | +23.2% | Esticada |
+| Josip Šutalo | 90 | Eredivisie | 54k coins | +7% | +71.2% | Esticada |
+| Nikola Katić | 90 | — | 142k coins | +5.6% | +68.5% | Esticada |
+| Leah Williamson | 95 | Barclays WSL | 182k coins | +7.5% | +67.6% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 75k coins | +3.2% | +52.4% | Momentum moderado |
+| Pierre Kalulu | 91 | Serie A TIM | 68k coins | +3.1% | +45.9% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 45k coins | +1.1% | +45.2% | Momentum moderado |
+| Alessandro Nesta | 89 | Icons | 94k coins | +7.1% | +44.4% | Momentum moderado |
+| Sepp van den Berg | 89 | Premier League | 15.000 coins | +22.7% | +42.1% | Esticada |
+| Sergi Domínguez | 92 | — | 27k coins | +28.4% | +40.2% | Esticada |
+| Dante | 88 | Ligue 1 McDonald's | 33k coins | +23.4% | +38.9% | Esticada |
+| Loïc Badé | 88 | Bundesliga | 34k coins | +22% | +38.9% | Esticada |
+| Rocío Gálvez | 88 | Liga F | 32k coins | +35.4% | +38.3% | Esticada |
+| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +2% | +37.3% | Momentum moderado |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +15.6% | +35% | Momentum moderado |
+| Ko Itakura | 88 | Eredivisie | 25k coins | +3.9% | +33.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Josip Šutalo (90)** — 54k coins, **+71.2% em 7 dias** (+9.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Josip Šutalo (90)** — 54k coins, **+71.2% em 7 dias** (+7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leah Williamson (95)** — 186k coins, **+68.5% em 7 dias** (+6.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nikola Katić (90)** — 142k coins, **+68.5% em 7 dias** (+5.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nikola Katić (90)** — 142k coins, **+64.8% em 7 dias** (+5.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leah Williamson (95)** — 182k coins, **+67.6% em 7 dias** (+7.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rocío Gálvez (88)** — 32k coins, **+62.8% em 7 dias** (+32.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 75k coins, **+52.4% em 7 dias** (+3.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nathan Zézé (91)** — 38k coins, **+57% em 7 dias** (+1.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Kalulu (91)** — 68k coins, **+45.9% em 7 dias** (+3.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

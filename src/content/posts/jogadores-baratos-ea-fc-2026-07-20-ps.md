@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:44:10.000Z
+pubDatetime: 2026-07-20T13:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.287 coins.
-- **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.845 coins.
+- **Posição mais frequente:** CB, com 11 cartas.
+- **Faixa real:** 1.800 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 12.500 coins | +8.3% |
-| Diney | 94 | CB | — | 12.500 coins | +2.2% |
-| Luka Vušković | 94 | CB | — | 13.000 coins | 0% |
-| Renato Veiga | 94 | CB | — | 13.250 coins | +3.8% |
-| Luc De Fougerolles | 93 | CB | — | 12.500 coins | -2% |
-| Kojo Peprah Oppong | 93 | CB | — | 12.500 coins | -2% |
-| Lucas Herrington | 93 | CB | — | 13.000 coins | +2% |
-| Sepp van den Berg | 89 | CB | Premier League | 14.500 coins | +7.3% |
-| Millie Bright | 87 | CB | Barclays WSL | 3.400 coins | -12.8% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.250 coins | +2% |
-| Jamie Carragher | 86 | CB | Premier League | 13.000 coins | -10.3% |
-| Dayot Upamecano | 85 | CB | Bundesliga | 2.000 coins | 0% |
-| Éder Militão | 84 | CB | LALIGA EA SPORTS | 1.700 coins | 0% |
-| Robin Le Normand | 83 | CB | LALIGA EA SPORTS | 1.600 coins | 0% |
-| Elena Linari | 83 | CB | Calcio A Femminile | 1.600 coins | 0% |
+| Lisandro Martínez | 95 | CB | — | 12.500 coins | +10.4% |
+| Diney | 94 | CB | — | 12.500 coins | +13% |
+| Luka Vušković | 94 | CB | — | 13.250 coins | +3.8% |
+| Renato Veiga | 94 | CB | — | 14.000 coins | +5.9% |
+| Kojo Peprah Oppong | 93 | CB | — | 13.000 coins | +5.9% |
+| Lucas Herrington | 93 | CB | — | 13.250 coins | +5.9% |
+| Luc De Fougerolles | 93 | CB | — | 13.500 coins | +3.9% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.000 coins | +7.7% |
+| Laura Georges | 87 | CB | D1 Arkema | 13.500 coins | +7.8% |
+| Emily Sonnett | 83 | CB | NWSL | 1.800 coins | +36.4% |
+| Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,11 +59,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Diney (94, CB)** da —, a apenas **12.500 coins**
 
-- **Luka Vušković (94, CB)** da —, a apenas **13.000 coins**
+- **Luka Vušković (94, CB)** da —, a apenas **13.250 coins**
 
-- **Renato Veiga (94, CB)** da —, a apenas **13.250 coins**
+- **Renato Veiga (94, CB)** da —, a apenas **14.000 coins**
 
-- **Luc De Fougerolles (93, CB)** da —, a apenas **12.500 coins**
+- **Kojo Peprah Oppong (93, CB)** da —, a apenas **13.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
