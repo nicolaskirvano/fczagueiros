@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:44:18.000Z
+pubDatetime: 2026-07-21T01:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Andrea Barzagli (88, Serie A TIM) lidera, com +66% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Steffi Jones (91, Icons) lidera, com +83.9% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Andrea Barzagli (88) acumula **+66% em 7 dias** a 40k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Steffi Jones (91) acumula **+83.9% em 7 dias** a 80k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.6% em 24h** e **+27.7% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.9% em 24h** e **+34.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andrea Barzagli | 88 | Serie A TIM | 40k coins | +26.7% | +66% | Esticada |
-| Caitlin Cosme | 88 | D1 Arkema | 20k coins | +20.9% | +52.8% | Esticada |
-| Irene Paredes | 88 | Liga F | 42k coins | +5.8% | +52.8% | Momentum moderado |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 49k coins | +4.2% | +51.5% | Momentum moderado |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 71k coins | +10.6% | +39% | Momentum moderado |
-| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +21.4% | +36% | Esticada |
-| Josip Šutalo | 90 | Eredivisie | 56k coins | +11.6% | +32.1% | Momentum moderado |
-| Luc De Fougerolles | 93 | — | 15.250 coins | +11.1% | +27.7% | Momentum moderado |
+| Steffi Jones | 91 | Icons | 80k coins | +31.1% | +83.9% | Esticada |
+| Andrea Barzagli | 87 | Serie A TIM | 25k coins | +7.3% | +68.9% | Esticada |
+| Tara McKeown | 89 | NWSL | 34k coins | +25.9% | +51.1% | Esticada |
+| Luke Shaw | 86 | Premier League | 50k coins | +25% | +44.9% | Esticada |
+| Iván Córdoba | 87 | Serie A TIM | 32k coins | +27.6% | +41.1% | Esticada |
+| Daley Blind | 86 | LALIGA EA SPORTS | 29k coins | +2.6% | +38.4% | Momentum moderado |
+| Rocío Gálvez | 88 | Liga F | 32k coins | +2.4% | +35.4% | Momentum moderado |
+| Tarik Muharemović | 86 | Serie A TIM | 50k coins | +9.9% | +34.2% | Momentum moderado |
+| Renato Veiga | 94 | — | 15.000 coins | +25.5% | +33.3% | Esticada |
+| Luc De Fougerolles | 93 | — | 15.250 coins | +10.9% | +29.8% | Momentum moderado |
+| Caitlin Cosme | 88 | D1 Arkema | 20k coins | +7.7% | +29.6% | Momentum moderado |
+| Kojo Peprah Oppong | 93 | — | 15.750 coins | +12.7% | +29.2% | Momentum moderado |
+| Juan David Cabal | 85 | Serie A TIM | 18.000 coins | +4.3% | +28.6% | Momentum moderado |
+| Nico Schlotterbeck | 87 | Bundesliga | 60k coins | +8.5% | +28.4% | Momentum moderado |
 | Lucas Herrington | 93 | — | 15.000 coins | +9.1% | +27.7% | Momentum moderado |
-| Leah Williamson | 88 | Barclays WSL | 96k coins | +34.5% | +27.3% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 72k coins | +25% | +26.1% | Esticada |
-| Kojo Peprah Oppong | 93 | — | 15.000 coins | +9.1% | +25% | Momentum moderado |
-| Leah Williamson | 95 | Barclays WSL | 136k coins | +22.3% | +24.5% | Esticada |
-| Alexsandro | 86 | Ligue 1 McDonald's | 32k coins | +23.3% | +24.5% | Esticada |
-| Luka Vušković | 94 | — | 15.750 coins | +7.1% | +22.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Andrea Barzagli (88)** — 40k coins, **+66% em 7 dias** (+26.7% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 80k coins, **+83.9% em 7 dias** (+31.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caitlin Cosme (88)** — 20k coins, **+52.8% em 7 dias** (+20.9% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrea Barzagli (87)** — 25k coins, **+68.9% em 7 dias** (+7.3% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Irene Paredes (88)** — 42k coins, **+52.8% em 7 dias** (+5.8% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tara McKeown (89)** — 34k coins, **+51.1% em 7 dias** (+25.9% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mark McKenzie (90)** — 49k coins, **+51.5% em 7 dias** (+4.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luke Shaw (86)** — 50k coins, **+44.9% em 7 dias** (+25% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Mascherano (90)** — 71k coins, **+39% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Córdoba (87)** — 32k coins, **+41.1% em 7 dias** (+27.6% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Andrea Barzagli (88, Serie A TIM) lidera, com +66% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Steffi Jones (91, Icons) lidera, com +83.9% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Zagueiros em 20/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-20-pc/)
 - [Mercado EA FC em 20/07: Zagueiros — PC](/posts/mercado-ea-fc-2026-07-20-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
