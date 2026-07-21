@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:44:19.000Z
+pubDatetime: 2026-07-21T16:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 21/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 10.429 coins.
-- **Posição mais frequente:** CB, com 7 cartas.
-- **Faixa real:** 4.100 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 7.644 coins.
+- **Posição mais frequente:** CB, com 8 cartas.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,27 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 14.500 coins | +9.6% |
-| Diney | 94 | CB | — | 13.500 coins | +7.8% |
-| Kojo Peprah Oppong | 93 | CB | — | 14.500 coins | +7.1% |
-| Luc De Fougerolles | 93 | CB | — | 14.500 coins | +7.1% |
-| Virgil van Dijk | 90 | CB | Premier League | 7.500 coins | +25.4% |
-| Mapi León | 89 | CB | Liga F | 4.400 coins | +22.9% |
-| Sara Doorsoun | 84 | CB | GPFBL | 4.100 coins | 0% |
+| Lisandro Martínez | 95 | CB | — | 14.500 coins | +7.5% |
+| Diney | 94 | CB | — | 14.000 coins | +3.8% |
+| Renato Veiga | 94 | CB | — | 14.750 coins | +3.5% |
+| Virgil van Dijk | 90 | CB | Premier League | 7.000 coins | +25.4% |
+| Mapi León | 89 | CB | Liga F | 4.200 coins | +25.7% |
+| Millie Bright | 87 | CB | Barclays WSL | 3.500 coins | -3.6% |
+| Dayot Upamecano | 85 | CB | Bundesliga | 1.500 coins | +21.1% |
+| Murillo | 83 | CB | Premier League | 1.700 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Lisandro Martínez (95, CB)** da —, a apenas **14.500 coins**
 
-- **Diney (94, CB)** da —, a apenas **13.500 coins**
+- **Diney (94, CB)** da —, a apenas **14.000 coins**
 
-- **Kojo Peprah Oppong (93, CB)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Renato Veiga (94, CB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Luc De Fougerolles (93, CB)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Mapi León (89, CB)** da Liga F, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca

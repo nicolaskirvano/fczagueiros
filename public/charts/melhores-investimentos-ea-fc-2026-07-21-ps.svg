@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giorgio Chiellini</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
-<rect x="285" y="153" width="294" height="28" rx="7" fill="#22c55e"/>
-<text x="589" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leah Williamson</text>
-<rect x="285" y="211" width="283" height="28" rx="7" fill="#22c55e"/>
-<text x="578" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitor Reis</text>
-<rect x="285" y="269" width="281" height="28" rx="7" fill="#22c55e"/>
-<text x="576" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wendie Renard</text>
-<rect x="285" y="327" width="257" height="28" rx="7" fill="#22c55e"/>
-<text x="552" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iván Córdoba</text>
-<rect x="285" y="385" width="156" height="28" rx="7" fill="#22c55e"/>
-<text x="451" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leah Williamson</text>
+<rect x="285" y="153" width="378" height="28" rx="7" fill="#22c55e"/>
+<text x="673" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
+<rect x="285" y="211" width="351" height="28" rx="7" fill="#22c55e"/>
+<text x="646" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
+<rect x="285" y="269" width="292" height="28" rx="7" fill="#22c55e"/>
+<text x="587" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fabio Cannavaro</text>
+<rect x="285" y="327" width="232" height="28" rx="7" fill="#22c55e"/>
+<text x="527" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abdelhamid Ait Boudlal</text>
+<rect x="285" y="385" width="152" height="28" rx="7" fill="#22c55e"/>
+<text x="447" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.9%</text>
 </svg>
