@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:44:19.000Z
+pubDatetime: 2026-07-21T22:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 21/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.833 coins.
-- **Posição mais frequente:** CB, com 6 cartas.
-- **Faixa real:** 4.600 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 9.750 coins.
+- **Posição mais frequente:** CB, com 5 cartas.
+- **Faixa real:** 4.400 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,24 +41,23 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lisandro Martínez | 95 | CB | — | 12.500 coins | -7.1% |
-| Diney | 94 | CB | — | 12.000 coins | -1.9% |
-| Renato Veiga | 94 | CB | — | 14.250 coins | +8.5% |
-| Virgil van Dijk | 90 | CB | Premier League | 6.900 coins | +4.8% |
-| Mapi León | 89 | CB | Liga F | 4.600 coins | +40% |
-| Ledley King | 86 | CB | Premier League | 14.750 coins | -12.5% |
+| Diney | 94 | CB | — | 10.750 coins | -7.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 6.600 coins | +4.3% |
+| Mapi León | 89 | CB | Liga F | 4.400 coins | +15.4% |
+| Luka Vušković | 86 | CB | Bundesliga | 14.500 coins | -9.4% |
 
 
 ## 📈 Destaques
 
 - **Lisandro Martínez (95, CB)** da —, a apenas **12.500 coins**
 
-- **Diney (94, CB)** da —, a apenas **12.000 coins**
+- **Diney (94, CB)** da —, a apenas **10.750 coins**
 
-- **Renato Veiga (94, CB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **6.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **6.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Luka Vušković (86, CB)** da Bundesliga, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
