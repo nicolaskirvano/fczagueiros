@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:44:16.000Z
+pubDatetime: 2026-07-21T19:44:16.000Z
 title: "Mercado EA FC em 21/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Éder Militão (86, LALIGA EA SPORTS), com +59% em 24h, a 80k coins no PC."
+    a: "Leah Williamson (95, Barclays WSL), com +51.7% em 24h, a 212k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Vincent Kompany (91), -50% em 24h, a 38k coins."
+    a: "Nico Schlotterbeck (87), -46.6% em 24h, a 36k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 125 cartas em alta contra 115 em queda (média 3.58%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 117 cartas em alta contra 130 em queda (média 3.16%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **125 em alta** e **115 em queda**, média de **3.58%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **117 em alta** e **130 em queda**, média de **3.16%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Éder Militão (86) **+59%** · 🔴 **Maior baixa:** Vincent Kompany (91) **-50%**
+> 🟢 **Maior alta:** Leah Williamson (95) **+51.7%** · 🔴 **Maior baixa:** Nico Schlotterbeck (87) **-46.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Zagueiros — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.1% entre as cartas que se moveram; o universo observado reúne 300 cartas.
-- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.4% entre as cartas que se moveram; o universo observado reúne 302 cartas.
+- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Éder Militão | 86 | LALIGA EA SPORTS | 80k coins | +59% | -38.8% |
-| Vanessa Gilles | 94 | — | 33k coins | +55.3% | +20% |
-| Franz Beckenbauer | 94 | — | 410k coins | +53.6% | +25.8% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | +53.2% | +6.9% |
-| Iván Córdoba | 87 | Serie A TIM | 32k coins | +49% | -33.3% |
-| Kevin Mac Allister | 94 | — | 50k coins | +47% | +61.7% |
-| Keven Schlotterbeck | 89 | Bundesliga | 29k coins | +44% | +37.5% |
-| Kim Min Jae | 86 | Bundesliga | 62k coins | +43.7% | +4.2% |
+| Leah Williamson | 95 | Barclays WSL | 212k coins | +51.7% | +43.8% |
+| Kim Min Jae | 86 | Bundesliga | 65k coins | +47.7% | +11.1% |
+| Cristian Romero | 86 | Premier League | 100k coins | +47.1% | +20.5% |
+| Ingrid Syrstad Engen | 90 | — | 65k coins | +44.4% | +106.3% |
 | Marina Hegering | 87 | GPFBL | 42k coins | +43.2% | +42% |
-| Laura Georges | 93 | — | 34k coins | +41.7% | -29.9% |
+| Wendie Renard | 91 | D1 Arkema | 62k coins | +38.5% | +127.5% |
+| Ko Itakura | 88 | Eredivisie | 34k coins | +38% | +24.3% |
+| Cristina Cubedo | 84 | Liga F | 48k coins | +37.7% | 0% |
+| Tara McKeown | 89 | NWSL | 23k coins | +34.7% | +26% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 74k coins | +34.5% | +109.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Éder Militão (86)** subiu **+59%** em 24h, a **80k coins** (faixa do dia: 50k–98k). Está -38% abaixo da média de 7 dias (descontada).
+- **Leah Williamson (95)** subiu **+51.7%** em 24h, a **212k coins** (faixa do dia: 136k–261k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Vanessa Gilles (94)** subiu **+55.3%** em 24h, a **33k coins** (faixa do dia: 21k–34k). Está +11% acima da média de 7 dias (aquecida).
+- **Kim Min Jae (86)** subiu **+47.7%** em 24h, a **65k coins** (faixa do dia: 31k–65k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Franz Beckenbauer (94)** subiu **+53.6%** em 24h, a **410k coins** (faixa do dia: 216k–410k). Está +18% acima da média de 7 dias (aquecida).
+- **Cristian Romero (86)** subiu **+47.1%** em 24h, a **100k coins** (faixa do dia: 56k–100k). Está em linha com a média de 7 dias (+8%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vincent Kompany | 91 | Premier League | 38k coins | -50% | -23.1% |
-| Willian Pacho | 96 | — | 260k coins | -48% | -56.5% |
-| Iván Córdoba | 88 | Serie A TIM | 40k coins | -46.7% | -52.9% |
-| Maximiliano Caufriez | 86 | Ligue 2 BKT | 20k coins | -43.8% | -48% |
-| Chadi Riad | 96 | — | 620k coins | -31.3% | -17.5% |
-| Alessandro Nesta | 88 | — | 27k coins | -29.6% | -17.7% |
-| Sol Campbell | 91 | — | 45k coins | -26.6% | +53% |
-| Gonçalo Inácio | 89 | Liga Portugal | 141k coins | -26.2% | -25.8% |
-| Leny Yoro | 86 | Premier League | 89k coins | -25% | -19.8% |
-| Alessandro Bastoni | 91 | Serie A TIM | 53k coins | -24.3% | -3.6% |
+| Nico Schlotterbeck | 87 | Bundesliga | 36k coins | -46.6% | -29% |
+| Irene Paredes | 88 | Liga F | 31k coins | -43.6% | -33.7% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 51k coins | -39.6% | +26.7% |
+| Sol Campbell | 91 | — | 39k coins | -39.5% | +32.2% |
+| Maximiliano Caufriez | 86 | Ligue 2 BKT | 20k coins | -35.5% | -45.9% |
+| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 33k coins | -34.5% | -34.5% |
+| Glódís Perla Viggósdóttir | 85 | GPFBL | 36k coins | -32.9% | -32.1% |
+| Jürgen Kohler | 90 | Bundesliga | 31k coins | -32.4% | +1.6% |
+| Ahmed Hegazi | 87 | Brasileirão | 85k coins | -28.6% | -14.1% |
+| Rocío Gálvez | 88 | Liga F | 24k coins | -27.7% | -2.1% |
 
 
 ### Análise das baixas
 
-- **Vincent Kompany (91)** caiu **-50%** em 24h, a **38k coins** (faixa do dia: 38k–75k). Está -35% abaixo da média de 7 dias (descontada).
+- **Nico Schlotterbeck (87)** caiu **-46.6%** em 24h, a **36k coins** (faixa do dia: 36k–75k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Willian Pacho (96)** caiu **-48%** em 24h, a **260k coins** (faixa do dia: 248k–397k). Está -40% abaixo da média de 7 dias (descontada).
+- **Irene Paredes (88)** caiu **-43.6%** em 24h, a **31k coins** (faixa do dia: 31k–58k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Iván Córdoba (88)** caiu **-46.7%** em 24h, a **40k coins** (faixa do dia: 38k–120k). Está -48% abaixo da média de 7 dias (descontada).
+- **Aymeric Laporte (90)** caiu **-39.6%** em 24h, a **51k coins** (faixa do dia: 50k–90k). Está -17% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Éder Militão já avançou 59% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Leah Williamson já avançou 51.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vincent Kompany recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nico Schlotterbeck recuou -46.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Éder Militão (86, LALIGA EA SPORTS), com +59% em 24h, a 80k coins no PC.
+Leah Williamson (95, Barclays WSL), com +51.7% em 24h, a 212k coins no PC.
 
 **E a maior queda do dia?**
-Vincent Kompany (91), -50% em 24h, a 38k coins.
+Nico Schlotterbeck (87), -46.6% em 24h, a 36k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 125 cartas em alta contra 115 em queda (média 3.58%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 117 cartas em alta contra 130 em queda (média 3.16%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
