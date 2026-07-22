@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:44:22.000Z
+pubDatetime: 2026-07-22T16:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 22/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 8.878 coins.
-- **Posição mais frequente:** CB, com 9 cartas.
-- **Faixa real:** 2.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 12 opções:** 7.054 coins.
+- **Posição mais frequente:** CB, com 12 cartas.
+- **Faixa real:** 1.900 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 12.250 coins | -14% |
-| Diney | 94 | CB | — | 12.250 coins | -9.3% |
-| Luka Vušković | 94 | CB | — | 14.750 coins | -3.3% |
-| Kojo Peprah Oppong | 93 | CB | — | 14.750 coins | +3.3% |
-| Virgil van Dijk | 90 | CB | Premier League | 7.000 coins | -5.4% |
-| Mapi León | 89 | CB | Liga F | 4.800 coins | +4.7% |
-| Millie Bright | 87 | CB | Barclays WSL | 2.700 coins | +20.8% |
+| Lisandro Martínez | 95 | CB | — | 12.250 coins | -14.3% |
+| Diney | 94 | CB | — | 12.000 coins | -11.1% |
+| Renato Veiga | 94 | CB | — | 14.000 coins | +1.7% |
+| Virgil van Dijk | 90 | CB | Premier League | 7.300 coins | 0% |
+| Mapi León | 89 | CB | Liga F | 5.100 coins | +11.1% |
+| Gabriel | 88 | CB | Premier League | 1.900 coins | +53.8% |
 | Ibrahima Konaté | 86 | CB | — | 3.800 coins | 0% |
+| Ledley King | 86 | CB | Premier League | 12.000 coins | -4.8% |
+| Dayot Upamecano | 85 | CB | Bundesliga | 2.700 coins | +38.9% |
+| Sara Doorsoun | 84 | CB | GPFBL | 4.000 coins | +14.3% |
 | Benjamin Pavard | 84 | CB | Serie A Enilive | 7.600 coins | 0% |
+| Murillo | 83 | CB | Premier League | 2.000 coins | +29.4% |
 
 
 ## 📈 Destaques
 
 - **Lisandro Martínez (95, CB)** da —, a apenas **12.250 coins**
 
-- **Diney (94, CB)** da —, a apenas **12.250 coins**
+- **Diney (94, CB)** da —, a apenas **12.000 coins**
 
-- **Luka Vušković (94, CB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Renato Veiga (94, CB)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Kojo Peprah Oppong (93, CB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.300 coins**
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.000 coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **5.100 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
