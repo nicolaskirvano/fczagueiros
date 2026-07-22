@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:44:19.000Z
+pubDatetime: 2026-07-22T22:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 22/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 5.667 coins.
-- **Posição mais frequente:** CB, com 12 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 8.247 coins.
+- **Posição mais frequente:** CB, com 15 cartas.
+- **Faixa real:** 1.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,31 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 12.000 coins | -7.7% |
-| Diney | 94 | CB | — | 10.750 coins | -4% |
-| Luc De Fougerolles | 93 | CB | — | 14.750 coins | -3.2% |
-| Virgil van Dijk | 90 | CB | Premier League | 7.900 coins | +10.1% |
-| Gabriel | 88 | CB | Premier League | 1.500 coins | +12.5% |
-| Irene Paredes | 88 | CB | Liga F | 1.800 coins | +41.7% |
-| Leah Williamson | 87 | CB | Barclays WSL | 1.500 coins | +52.9% |
-| Millie Bright | 87 | CB | Barclays WSL | 3.200 coins | +55% |
+| Lisandro Martínez | 95 | CB | — | 12.000 coins | 0% |
+| Diney | 94 | CB | — | 11.750 coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 2.500 coins | +1.4% |
+| Mapi León | 89 | CB | Liga F | 6.600 coins | +33.3% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.000 coins | +36.2% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14.000 coins | -4.2% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | -4.8% |
+| Irene Paredes | 88 | CB | Liga F | 1.500 coins | +14.3% |
+| Marquinhos | 87 | CB | Ligue 1 McDonald's | 1.500 coins | +50% |
+| William Saliba | 87 | CB | Premier League | 1.500 coins | +27.3% |
+| Millie Bright | 87 | CB | Barclays WSL | 1.800 coins | +52.4% |
+| Laura Georges | 87 | CB | D1 Arkema | 14.000 coins | -10.6% |
 | Ibrahima Konaté | 86 | CB | — | 3.800 coins | 0% |
-| Éder Militão | 84 | CB | LALIGA EA SPORTS | 1.500 coins | +50% |
-| Benjamin Pavard | 84 | CB | Serie A Enilive | 7.600 coins | 0% |
-| Piero Hincapié | 83 | CB | Premier League | 1.700 coins | +45.5% |
+| Ane Etxezarreta | 86 | CB | Liga F | 11.750 coins | -15% |
+| Luka Vušković | 86 | CB | Bundesliga | 14.000 coins | +1.7% |
 
 
 ## 📈 Destaques
 
 - **Lisandro Martínez (95, CB)** da —, a apenas **12.000 coins**
 
-- **Diney (94, CB)** da —, a apenas **10.750 coins**
+- **Diney (94, CB)** da —, a apenas **11.750 coins**
 
-- **Luc De Fougerolles (93, CB)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **2.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **7.900 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mapi León (89, CB)** da Liga F, a apenas **6.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Gabriel (88, CB)** da Premier League, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
