@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:44:18.000Z
+pubDatetime: 2026-07-22T13:44:20.000Z
 title: "Investimentos EA FC: Zagueiros em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Issa Diop (95, sem liga) lidera, com +77.1% em 7 dias a 170k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Michael Boxall (91, sem liga) lidera, com +83.7% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Issa Diop (95) acumula **+77.1% em 7 dias** a 170k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Michael Boxall (91) acumula **+83.7% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.0% em 24h** e **+23.7% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.1% em 24h** e **+40.0% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LaLiga Hypermotion** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Issa Diop | 95 | — | 170k coins | +3.7% | +77.1% | Esticada |
-| Wendie Renard | 91 | D1 Arkema | 62k coins | +2.5% | +74.8% | Esticada |
-| Craig Halkett | 91 | — | 42k coins | +21.6% | +50% | Esticada |
-| Chibuike Nwaiwu | 90 | — | 56k coins | +31.1% | +48.7% | Esticada |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 46k coins | +14.2% | +48% | Momentum moderado |
-| Ingrid Syrstad Engen | 93 | — | 36k coins | +22.4% | +27.9% | Esticada |
-| Ahmetcan Kaplan | 88 | Eredivisie | 30k coins | +25.8% | +27.1% | Esticada |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 85k coins | +25% | +23.7% | Esticada |
-| Alessandro Nesta | 89 | Icons | 82k coins | +6.5% | +21.5% | Momentum moderado |
-| Jamie Carragher | 89 | — | 26k coins | +8.3% | +20.9% | Momentum moderado |
-| Jan Bednarek | 94 | — | 30k coins | +2.6% | +20% | Entrada a observar |
-| Murillo | 87 | Premier League | 199k coins | +18.5% | +17.1% | Momentum moderado |
-| Luka Vušković | 86 | Bundesliga | 17.250 coins | +15% | +16.9% | Momentum moderado |
-| Carles Puyol | 88 | — | 30k coins | +9.3% | +15.7% | Momentum moderado |
-| Marc Guéhi | 88 | Premier League | 33k coins | +20.9% | +13.7% | Esticada |
+| Michael Boxall | 91 | — | 48k coins | +30.8% | +83.7% | Esticada |
+| Dara O'Shea | 91 | — | 46k coins | +32.9% | +75.5% | Esticada |
+| Nathan Zézé | 91 | — | 49k coins | +10.6% | +67.8% | Esticada |
+| Jawad El Yamiq | 87 | LaLiga Hypermotion | 34k coins | +7% | +62.1% | Esticada |
+| Steffi Jones | 89 | Icons | 36k coins | +2.8% | +56.4% | Momentum moderado |
+| Alessandro Bastoni | 91 | Serie A TIM | 70k coins | +18.5% | +41.7% | Momentum moderado |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 85k coins | +21.4% | +41.7% | Esticada |
+| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 45k coins | +12.3% | +40% | Momentum moderado |
+| Marcel Desailly | 93 | — | 126k coins | +34% | +39% | Esticada |
+| Cristian Romero | 86 | Premier League | 100k coins | +5% | +37.3% | Momentum moderado |
+| Luc De Fougerolles | 93 | — | 15.250 coins | +1.7% | +29.8% | Momentum moderado |
+| Ricardo Carvalho | 89 | Liga Portugal | 90k coins | +25% | +28.6% | Esticada |
+| Chibuike Nwaiwu | 90 | — | 50k coins | +12.1% | +26.7% | Momentum moderado |
+| Fernando Hierro | 93 | — | 83k coins | +8.8% | +23.4% | Momentum moderado |
+| Jamie Carragher | 89 | — | 26k coins | +10.6% | +20.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Issa Diop (95)** — 170k coins, **+77.1% em 7 dias** (+3.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Boxall (91)** — 48k coins, **+83.7% em 7 dias** (+30.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wendie Renard (91)** — 62k coins, **+74.8% em 7 dias** (+2.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dara O'Shea (91)** — 46k coins, **+75.5% em 7 dias** (+32.9% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Craig Halkett (91)** — 42k coins, **+50% em 7 dias** (+21.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nathan Zézé (91)** — 49k coins, **+67.8% em 7 dias** (+10.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Chibuike Nwaiwu (90)** — 56k coins, **+48.7% em 7 dias** (+31.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jawad El Yamiq (87)** — 34k coins, **+62.1% em 7 dias** (+7% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Abdelhamid Ait Boudlal (86)** — 46k coins, **+48% em 7 dias** (+14.2% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (89)** — 36k coins, **+56.4% em 7 dias** (+2.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Issa Diop (95, sem liga) lidera, com +77.1% em 7 dias a 170k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Michael Boxall (91, sem liga) lidera, com +83.7% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
