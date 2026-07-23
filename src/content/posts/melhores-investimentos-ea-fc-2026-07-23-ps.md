@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:44:09.000Z
+pubDatetime: 2026-07-23T19:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Craig Halkett (91, sem liga) lidera, com +66.7% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ousmane Diomande (85, Liga Portugal) lidera, com +73.1% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Craig Halkett (91) acumula **+66.7% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ousmane Diomande (85) acumula **+73.1% em 7 dias** a 44k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.6% em 24h** e **+37.5% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.4% em 24h** e **+34.2% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Craig Halkett | 91 | — | 45k coins | +11.7% | +66.7% | Esticada |
-| Gustaf Lagerbielke | 91 | — | 48k coins | +1.6% | +58.3% | Momentum moderado |
-| Kim Min Jae | 86 | Bundesliga | 56k coins | +30.2% | +46.7% | Esticada |
-| Michael Boxall | 91 | — | 52k coins | +11.9% | +45.9% | Momentum moderado |
-| Mapi León | 91 | — | 75k coins | +33.3% | +42.9% | Esticada |
-| Mapi León | 90 | Liga F | 93k coins | +2.2% | +42% | Momentum moderado |
-| Jürgen Kohler | 91 | — | 41k coins | +18.6% | +40.7% | Momentum moderado |
-| Manuel Akanji | 91 | — | 47k coins | +2.8% | +37.5% | Momentum moderado |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 75k coins | +40% | +33.3% | Esticada |
-| Aldana Cometti | 85 | D1 Arkema | 60k coins | +32.2% | +29.3% | Esticada |
-| Ronald Araujo | 94 | — | 178k coins | +29.1% | +29.1% | Esticada |
-| Emmanuel Fernandez | 90 | — | 54k coins | +9.1% | +27.8% | Momentum moderado |
-| Wendie Renard | 91 | D1 Arkema | 55k coins | +10.6% | +22.2% | Momentum moderado |
-| Jade Rose | 85 | Barclays WSL | 24k coins | +20.6% | +21.8% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 99k coins | +32.9% | +19.3% | Esticada |
+| Ousmane Diomande | 85 | Liga Portugal | 44k coins | +6.5% | +73.1% | Esticada |
+| Mapi León | 91 | — | 72k coins | +33.3% | +60.8% | Esticada |
+| Michael Boxall | 91 | — | 54k coins | +4.8% | +49.3% | Momentum moderado |
+| Franco Baresi | 91 | Icons | 90k coins | +25.1% | +47.4% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 70k coins | +5.6% | +35.1% | Momentum moderado |
+| Andrea Barzagli | 88 | Serie A TIM | 25k coins | +8% | +35% | Momentum moderado |
+| Josip Šutalo | 90 | Eredivisie | 85k coins | +21.4% | +34.9% | Esticada |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 114k coins | +30.8% | +34.2% | Esticada |
+| Steffi Jones | 91 | Icons | 94k coins | +22.6% | +30.7% | Esticada |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 64k coins | +5.6% | +26.7% | Momentum moderado |
+| Malick Thiaw | 86 | Premier League | 50k coins | +22.7% | +26.6% | Esticada |
+| Naomi Girma | 87 | Barclays WSL | 54k coins | +12.5% | +24.5% | Momentum moderado |
+| Guéla Doué | 84 | Ligue 1 McDonald's | 25k coins | +25% | +23.5% | Esticada |
+| Wendie Renard | 91 | D1 Arkema | 55k coins | +22.9% | +22.2% | Esticada |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +2.8% | +19.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Craig Halkett (91)** — 45k coins, **+66.7% em 7 dias** (+11.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Diomande (85)** — 44k coins, **+73.1% em 7 dias** (+6.5% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gustaf Lagerbielke (91)** — 48k coins, **+58.3% em 7 dias** (+1.6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (91)** — 72k coins, **+60.8% em 7 dias** (+33.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kim Min Jae (86)** — 56k coins, **+46.7% em 7 dias** (+30.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Boxall (91)** — 54k coins, **+49.3% em 7 dias** (+4.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Boxall (91)** — 52k coins, **+45.9% em 7 dias** (+11.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franco Baresi (91)** — 90k coins, **+47.4% em 7 dias** (+25.1% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mapi León (91)** — 75k coins, **+42.9% em 7 dias** (+33.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 70k coins, **+35.1% em 7 dias** (+5.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Craig Halkett (91, sem liga) lidera, com +66.7% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ousmane Diomande (85, Liga Portugal) lidera, com +73.1% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

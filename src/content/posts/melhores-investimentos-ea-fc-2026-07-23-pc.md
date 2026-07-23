@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:44:18.000Z
+pubDatetime: 2026-07-23T19:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Wendie Renard (86, D1 Arkema) lidera, com +71.4% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Craig Halkett (91, sem liga) lidera, com +89% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wendie Renard (86) acumula **+71.4% em 7 dias** a 25k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Craig Halkett (91) acumula **+89% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.3% em 24h** e **+46.9% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.3% em 24h** e **+52.6% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wendie Renard | 86 | D1 Arkema | 25k coins | +20% | +71.4% | Esticada |
-| Michael Boxall | 91 | — | 50k coins | +7% | +66.7% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 222k coins | +11% | +58.6% | Momentum moderado |
-| Tsuyoshi Watanabe | 91 | — | 65k coins | +6.6% | +54.8% | Momentum moderado |
-| Steffi Jones | 89 | Icons | 38k coins | +11.9% | +52.5% | Momentum moderado |
-| Mapi León | 90 | Liga F | 75k coins | +6.4% | +50% | Momentum moderado |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 86k coins | +21.2% | +49.5% | Esticada |
-| Chibuike Nwaiwu | 90 | — | 65k coins | +8.3% | +46.9% | Momentum moderado |
-| Nathan Zézé | 91 | — | 60k coins | +12.2% | +46.7% | Momentum moderado |
-| Griedge Mbock | 86 | D1 Arkema | 64k coins | +6.5% | +41.6% | Momentum moderado |
-| Sol Campbell | 91 | — | 61k coins | +2.5% | +37.1% | Momentum moderado |
-| Wendie Renard | 91 | D1 Arkema | 65k coins | +6.6% | +36.8% | Momentum moderado |
-| Ingrid Syrstad Engen | 90 | — | 56k coins | +17.6% | +35.1% | Momentum moderado |
-| Ahmetcan Kaplan | 88 | Eredivisie | 29k coins | +7.4% | +34.9% | Momentum moderado |
-| Lúcio | 89 | Serie A TIM | 120k coins | +34.1% | +33.3% | Esticada |
+| Craig Halkett | 91 | — | 60k coins | +21.2% | +89% | Esticada |
+| Juan David Cabal | 85 | Serie A TIM | 38k coins | +28.6% | +75.9% | Esticada |
+| Steffi Jones | 89 | Icons | 40k coins | +16.3% | +70.2% | Esticada |
+| Gustaf Lagerbielke | 91 | — | 48k coins | +4.7% | +66.7% | Esticada |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 65k coins | +13.6% | +59.6% | Momentum moderado |
+| Dara O'Shea | 91 | — | 42k coins | +13.1% | +58.3% | Momentum moderado |
+| Steph Catley | 90 | Barclays WSL | 95k coins | +4.3% | +57.7% | Momentum moderado |
+| Nathan Zézé | 91 | — | 60k coins | +19% | +52.6% | Momentum moderado |
+| Mapi León | 91 | — | 80k coins | +8.1% | +45.5% | Momentum moderado |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 77k coins | +19.4% | +40% | Momentum moderado |
+| Lúcio | 89 | Serie A TIM | 120k coins | +31.8% | +31.8% | Esticada |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 70k coins | +16.9% | +30.5% | Momentum moderado |
+| Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +10.4% | +28.3% | Momentum moderado |
+| Maximiliano Caufriez | 86 | Ligue 2 BKT | 36k coins | +22% | +28.2% | Esticada |
+| Manuel Akanji | 86 | Serie A TIM | 45k coins | +12.5% | +23.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Wendie Renard (86)** — 25k coins, **+71.4% em 7 dias** (+20% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Craig Halkett (91)** — 60k coins, **+89% em 7 dias** (+21.2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Boxall (91)** — 50k coins, **+66.7% em 7 dias** (+7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan David Cabal (85)** — 38k coins, **+75.9% em 7 dias** (+28.6% em 24h). Preço +70% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franz Beckenbauer (92)** — 222k coins, **+58.6% em 7 dias** (+11% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (89)** — 40k coins, **+70.2% em 7 dias** (+16.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tsuyoshi Watanabe (91)** — 65k coins, **+54.8% em 7 dias** (+6.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gustaf Lagerbielke (91)** — 48k coins, **+66.7% em 7 dias** (+4.7% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (89)** — 38k coins, **+52.5% em 7 dias** (+11.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 65k coins, **+59.6% em 7 dias** (+13.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Wendie Renard (86, D1 Arkema) lidera, com +71.4% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Craig Halkett (91, sem liga) lidera, com +89% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

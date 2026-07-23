@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:44:07.000Z
+pubDatetime: 2026-07-23T19:44:07.000Z
 title: "Mercado EA FC em 23/07: Zagueiros — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Javier Mascherano (90, LALIGA EA SPORTS), com +55.2% em 24h, a 82k coins no Console (PS)."
+    a: "Maxence Lacroix (96, sem liga), com +52.6% em 24h, a 915k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Pau Cubarsí (97), -39.6% em 24h, a 33k coins."
+    a: "Millie Bright (88), -39.3% em 24h, a 36k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 100 cartas em alta contra 163 em queda (média -0.66%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 84 cartas em alta contra 145 em queda (média -0.78%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **23/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **100 valorizações** contra **163 quedas** entre as cartas relevantes, com média de **-0.66%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **23/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **84 valorizações** contra **145 quedas** entre as cartas relevantes, com média de **-0.78%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Javier Mascherano (90) **+55.2%** · 🔴 **Maior baixa:** Pau Cubarsí (97) **-39.6%**
+> 🟢 **Maior alta:** Maxence Lacroix (96) **+52.6%** · 🔴 **Maior baixa:** Millie Bright (88) **-39.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Zagueiros — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **23/07/2026** no Console (PS): mercado **em baixa** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.0% entre as cartas que se moveram; o universo observado reúne 301 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 91.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.7% entre as cartas que se moveram; o universo observado reúne 276 cartas.
+- **Concentração:** D1 Arkema aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 82k coins | +55.2% | +14.6% |
-| Maxence Lacroix | 96 | — | 895k coins | +51.6% | -48.8% |
-| Dejan Lovren | 86 | Hellas Liga | 53k coins | +41.3% | +40.4% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 75k coins | +40% | +33.3% |
-| Mapi León | 91 | — | 75k coins | +33.3% | +42.9% |
-| Pierre Kalulu | 91 | Serie A TIM | 99k coins | +32.9% | +19.3% |
-| Aldana Cometti | 85 | D1 Arkema | 60k coins | +32.2% | +29.3% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 27k coins | +30.6% | -15.3% |
-| Kim Min Jae | 86 | Bundesliga | 56k coins | +30.2% | +46.7% |
-| Ingrid Syrstad Engen | 90 | — | 55k coins | +29.4% | +17% |
+| Maxence Lacroix | 96 | — | 915k coins | +52.6% | -50.5% |
+| Annaïg Butel | 86 | D1 Arkema | 22k coins | +41.5% | -4.2% |
+| Tara McKeown | 89 | NWSL | 22k coins | +40.6% | +4.7% |
+| Éder Militão | 88 | LALIGA EA SPORTS | 54k coins | +35.8% | -21.1% |
+| Gabriel | 89 | Premier League | 60k coins | +34% | -21.2% |
+| Mapi León | 91 | — | 72k coins | +33.3% | +60.8% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 114k coins | +30.8% | +34.2% |
+| Franco Baresi | 91 | Icons | 90k coins | +25.1% | +47.4% |
+| Guéla Doué | 84 | Ligue 1 McDonald's | 25k coins | +25% | +23.5% |
+| Wendie Renard | 91 | D1 Arkema | 55k coins | +22.9% | +22.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **23/07/2026** no Console (PS): mercado **em baixa** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Javier Mascherano (90)** subiu **+55.2%** em 24h, a **82k coins** (faixa do dia: 58k–130k). Está +12% acima da média de 7 dias (aquecida).
+- **Maxence Lacroix (96)** subiu **+52.6%** em 24h, a **915k coins** (faixa do dia: 570k–1.19M). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Maxence Lacroix (96)** subiu **+51.6%** em 24h, a **895k coins** (faixa do dia: 570k–1.19M). Está -45% abaixo da média de 7 dias (descontada).
+- **Annaïg Butel (86)** subiu **+41.5%** em 24h, a **22k coins** (faixa do dia: 14.750–26k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Dejan Lovren (86)** subiu **+41.3%** em 24h, a **53k coins** (faixa do dia: 23k–62k). Está +52% acima da média de 7 dias (aquecida).
+- **Tara McKeown (89)** subiu **+40.6%** em 24h, a **22k coins** (faixa do dia: 15.000–28k). Está em linha com a média de 7 dias (+1%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pau Cubarsí | 97 | — | 33k coins | -39.6% | — |
-| Pau Cubarsí | 96 | — | 27k coins | -34.1% | -66.2% |
-| Fernando Hierro | 93 | — | 32k coins | -32.9% | -48.2% |
-| Tara McKeown | 95 | — | 36k coins | -29.7% | -49.3% |
-| Maximiliano Caufriez | 86 | Ligue 2 BKT | 22k coins | -29.5% | -28.3% |
-| Aymeric Laporte | 99 | — | 898k coins | -29.4% | — |
-| Marcel Desailly | 93 | — | 42k coins | -27.3% | -58.3% |
-| Pau Cubarsí | 93 | — | 20k coins | -26.8% | -52.3% |
-| William Saliba | 90 | Premier League | 190k coins | -25.6% | -38.3% |
-| Murillo | 87 | Premier League | 100k coins | -25.2% | -30.7% |
+| Millie Bright | 88 | Barclays WSL | 36k coins | -39.3% | +4.4% |
+| Rafael Márquez | 94 | LALIGA EA SPORTS | 417k coins | -25.5% | -40.4% |
+| Pubill | 92 | — | 20k coins | -25.2% | -20% |
+| Pau Cubarsí | 93 | — | 21k coins | -22.3% | -49.4% |
+| Franco Baresi | 92 | Icons | 200k coins | -22.3% | -33.9% |
+| Pau Cubarsí | 96 | — | 30k coins | -21.5% | -67.7% |
+| Aymeric Laporte | 99 | — | 920k coins | -21.4% | — |
+| Chris Richards | 96 | — | 36k coins | -20.7% | -67.7% |
+| Franz Beckenbauer | 94 | — | 208k coins | -20.4% | -26.2% |
+| Maxence Lacroix | 87 | Premier League | 105k coins | -19.7% | -20.5% |
 
 
 ### Análise das baixas
 
-- **Pau Cubarsí (97)** caiu **-39.6%** em 24h, a **33k coins** (faixa do dia: 30k–45k). Está -56% abaixo da média de 7 dias (descontada).
+- **Millie Bright (88)** caiu **-39.3%** em 24h, a **36k coins** (faixa do dia: 22k–70k). Está em linha com a média de 7 dias (-3%).
 
-- **Pau Cubarsí (96)** caiu **-34.1%** em 24h, a **27k coins** (faixa do dia: 20k–42k). Está -44% abaixo da média de 7 dias (descontada).
+- **Rafael Márquez (94)** caiu **-25.5%** em 24h, a **417k coins** (faixa do dia: 269k–611k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Fernando Hierro (93)** caiu **-32.9%** em 24h, a **32k coins** (faixa do dia: 25k–47k). Está -37% abaixo da média de 7 dias (descontada).
+- **Pubill (92)** caiu **-25.2%** em 24h, a **20k coins** (faixa do dia: 20k–28k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Javier Mascherano já avançou 55.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Maxence Lacroix já avançou 52.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Pau Cubarsí recuou -39.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Millie Bright recuou -39.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Javier Mascherano (90, LALIGA EA SPORTS), com +55.2% em 24h, a 82k coins no Console (PS).
+Maxence Lacroix (96, sem liga), com +52.6% em 24h, a 915k coins no Console (PS).
 
 **E a maior queda do dia?**
-Pau Cubarsí (97), -39.6% em 24h, a 33k coins.
+Millie Bright (88), -39.3% em 24h, a 36k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 100 cartas em alta contra 163 em queda (média -0.66%).
+Hoje o mercado está em baixa — predominam as quedas, com 84 cartas em alta contra 145 em queda (média -0.78%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
