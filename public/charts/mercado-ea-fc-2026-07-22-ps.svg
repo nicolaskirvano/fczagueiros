@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micky van de Ven</text>
-<rect x="285" y="153" width="437" height="28" rx="7" fill="#22c55e"/>
-<text x="732" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paolo Maldini</text>
-<rect x="285" y="211" width="430" height="28" rx="7" fill="#22c55e"/>
-<text x="725" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tarik Muharemović</text>
-<rect x="285" y="269" width="424" height="28" rx="7" fill="#22c55e"/>
-<text x="719" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dávid Hancko</text>
-<rect x="285" y="327" width="402" height="28" rx="7" fill="#22c55e"/>
-<text x="697" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jürgen Kohler</text>
-<rect x="285" y="385" width="349" height="28" rx="7" fill="#22c55e"/>
-<text x="644" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leny Yoro</text>
+<rect x="285" y="153" width="435" height="28" rx="7" fill="#22c55e"/>
+<text x="730" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marwane Saadane</text>
+<rect x="285" y="211" width="429" height="28" rx="7" fill="#22c55e"/>
+<text x="724" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
+<rect x="285" y="269" width="377" height="28" rx="7" fill="#22c55e"/>
+<text x="672" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Naomi Girma</text>
+<rect x="285" y="327" width="353" height="28" rx="7" fill="#22c55e"/>
+<text x="648" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tara McKeown</text>
+<rect x="285" y="385" width="333" height="28" rx="7" fill="#22c55e"/>
+<text x="628" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.3%</text>
 </svg>
