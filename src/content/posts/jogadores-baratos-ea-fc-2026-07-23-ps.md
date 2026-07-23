@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:44:10.000Z
+pubDatetime: 2026-07-23T22:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.407 coins.
+- **Preço médio das 15 opções:** 13.583 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 5.100 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 11.750 coins | -4.3% |
-| Diney | 94 | CB | — | 11.000 coins | 0% |
-| Renato Veiga | 94 | CB | — | 14.000 coins | -5.1% |
-| Luka Vušković | 94 | CB | — | 14.250 coins | -3.4% |
-| Luc De Fougerolles | 93 | CB | — | 14.000 coins | -6.7% |
-| Lucas Herrington | 93 | CB | — | 14.000 coins | -8.3% |
-| Kojo Peprah Oppong | 93 | CB | — | 14.250 coins | -6.7% |
-| Mapi León | 89 | CB | Liga F | 5.100 coins | -11.1% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 11.500 coins | -11.3% |
-| Carl Starfelt | 88 | CB | — | 12.000 coins | -7% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.500 coins | -3.4% |
-| Sol Campbell | 88 | CB | — | 13.500 coins | +20.9% |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 13.750 coins | -7.7% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.000 coins | -8% |
-| Jawad El Yamiq | 87 | CB | LaLiga Hypermotion | 12.500 coins | +20.7% |
+| Lisandro Martínez | 95 | CB | — | 11.750 coins | 0% |
+| Diney | 94 | CB | — | 11.500 coins | 0% |
+| Luka Vušković | 94 | CB | — | 14.000 coins | -3.4% |
+| Renato Veiga | 94 | CB | — | 14.250 coins | -1.7% |
+| José María Giménez | 94 | CB | — | 14.750 coins | -9.1% |
+| Lucas Herrington | 93 | CB | — | 14.250 coins | -5.1% |
+| Luc De Fougerolles | 93 | CB | — | 14.250 coins | -5.1% |
+| Kojo Peprah Oppong | 93 | CB | — | 14.250 coins | -5% |
+| Vincent Kompany | 92 | CB | — | 14.750 coins | -3.1% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 12.000 coins | +8% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12.250 coins | +2.1% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13.500 coins | 0% |
+| Vincent Kompany | 88 | CB | Premier League | 14.000 coins | +7.8% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 13.750 coins | -3.4% |
+| Vanessa Gilles | 87 | CB | GPFBL | 14.500 coins | +1.8% |
 
 
 ## 📈 Destaques
 
 - **Lisandro Martínez (95, CB)** da —, a apenas **11.750 coins**
 
-- **Diney (94, CB)** da —, a apenas **11.000 coins**
+- **Diney (94, CB)** da —, a apenas **11.500 coins**
 
-- **Renato Veiga (94, CB)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Luka Vušković (94, CB)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Luka Vušković (94, CB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Renato Veiga (94, CB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Luc De Fougerolles (93, CB)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+- **José María Giménez (94, CB)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
