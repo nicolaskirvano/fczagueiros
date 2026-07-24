@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:44:08.000Z
+pubDatetime: 2026-07-24T16:44:09.000Z
 title: "Mercado EA FC em 24/07: Zagueiros — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Giorgio Chiellini (89, Icons), com +58.3% em 24h, a 188k coins no Console (PS)."
+    a: "Nico Schlotterbeck (96, sem liga), com +58.8% em 24h, a 155k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Rafael Márquez (88), -36.8% em 24h, a 36k coins."
+    a: "Franco Baresi (91), -37.9% em 24h, a 69k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 129 cartas em alta contra 128 em queda (média 8.5%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 138 cartas em alta contra 122 em queda (média 9.37%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **129 subiram**, **128 caíram** (80+ e 5k+ coins), média de **8.5%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **138 subiram**, **122 caíram** (80+ e 5k+ coins), média de **9.37%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Giorgio Chiellini (89) **+58.3%** · 🔴 **Maior baixa:** Rafael Márquez (88) **-36.8%**
+> 🟢 **Maior alta:** Nico Schlotterbeck (96) **+58.8%** · 🔴 **Maior baixa:** Franco Baresi (91) **-37.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Zagueiros — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.2% entre as cartas que se moveram; o universo observado reúne 307 cartas.
-- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 96.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.1% entre as cartas que se moveram; o universo observado reúne 301 cartas.
+- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Giorgio Chiellini | 89 | Icons | 188k coins | +58.3% | +66.7% |
-| Lukas Klostermann | 88 | Bundesliga | 181k coins | +58.3% | -7.8% |
-| Ledley King | 86 | Premier League | 26k coins | +55.2% | +44.4% |
-| Caleb Taylor | 84 | EFL Championship | 62k coins | +55% | +79.7% |
-| Tara McKeown | 95 | — | 35k coins | +53.7% | -35.3% |
-| Nicolas Seiwald | 85 | Bundesliga | 35k coins | +52.9% | +60.2% |
-| Rafael Márquez | 94 | LALIGA EA SPORTS | 497k coins | +51.7% | -16.8% |
-| Bremer | 87 | Serie A TIM | 65k coins | +51.1% | +62.6% |
-| Chadi Riad | 96 | — | 375k coins | +48.5% | +30.4% |
-| Pau Cubarsí | 96 | — | 34k coins | +45.7% | -62.8% |
+| Nico Schlotterbeck | 96 | — | 155k coins | +58.8% | -3.1% |
+| Ledley King | 86 | Premier League | 24k coins | +58.5% | +35.5% |
+| Lukas Klostermann | 88 | Bundesliga | 177k coins | +56.5% | -16.7% |
+| Jawad El Yamiq | 87 | LaLiga Hypermotion | 28k coins | +56.3% | +52.1% |
+| Guéla Doué | 84 | Ligue 1 McDonald's | 25k coins | +56.2% | +26.6% |
+| Marquinhos | 88 | Ligue 1 McDonald's | 44k coins | +56.1% | +11.2% |
+| Nico Schlotterbeck | 87 | Bundesliga | 85k coins | +56% | +71.4% |
+| Eduardo Quaresma | 88 | Liga Portugal | 21k coins | +55.6% | -19.2% |
+| Giorgio Chiellini | 89 | Icons | 183k coins | +54.2% | +62.3% |
+| Matthias Ginter | 88 | Bundesliga | 48k coins | +42.7% | +55.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Giorgio Chiellini (89)** subiu **+58.3%** em 24h, a **188k coins** (faixa do dia: 80k–210k). Está +42% acima da média de 7 dias (aquecida).
+- **Nico Schlotterbeck (96)** subiu **+58.8%** em 24h, a **155k coins** (faixa do dia: 140k–210k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Lukas Klostermann (88)** subiu **+58.3%** em 24h, a **181k coins** (faixa do dia: 111k–326k). Está em linha com a média de 7 dias (-0%).
+- **Ledley King (86)** subiu **+58.5%** em 24h, a **24k coins** (faixa do dia: 15.000–35k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Ledley King (86)** subiu **+55.2%** em 24h, a **26k coins** (faixa do dia: 15.000–35k). Está +45% acima da média de 7 dias (aquecida).
+- **Lukas Klostermann (88)** subiu **+56.5%** em 24h, a **177k coins** (faixa do dia: 111k–326k). Está em linha com a média de 7 dias (-2%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rafael Márquez | 88 | LALIGA EA SPORTS | 36k coins | -36.8% | -48.6% |
-| Mapi León | 91 | — | 51k coins | -36.2% | +2.5% |
-| Ahmed Hegazi | 87 | Brasileirão | 30k coins | -34.8% | -62.5% |
-| Wilfried Singo | 86 | Trendyol Süper Lig | 34k coins | -29.5% | -4.1% |
-| Nicolás Otamendi | 86 | Liga Portugal | 34k coins | -28.5% | -52.3% |
-| Ramy Bensebaini | 87 | — | 40k coins | -28% | -3.7% |
-| Micky van de Ven | 87 | Premier League | 460k coins | -23.6% | -54.9% |
-| Bobby Moore | 93 | — | 30k coins | -23.1% | -40.1% |
-| Virgil van Dijk | 97 | — | 639k coins | -20.5% | -57.2% |
-| Franco Baresi | 92 | Icons | 194k coins | -20.3% | -34.6% |
+| Franco Baresi | 91 | Icons | 69k coins | -37.9% | -22.8% |
+| Ramy Bensebaini | 87 | — | 40k coins | -34.2% | -3.1% |
+| Franco Baresi | 92 | Icons | 209k coins | -32% | -40.1% |
+| Tyrone Mings | 96 | — | 74k coins | -29.3% | -59.4% |
+| Jürgen Kohler | 91 | — | 70k coins | -28.9% | +2.6% |
+| Murillo | 87 | Premier League | 78k coins | -28.2% | -43% |
+| Wilfried Singo | 86 | Trendyol Süper Lig | 49k coins | -26.1% | -10.1% |
+| Bremer | 88 | Serie A TIM | 269k coins | -25.3% | -12.7% |
+| Josip Šutalo | 90 | Eredivisie | 60k coins | -25% | -13.7% |
+| Michael Boxall | 91 | — | 40k coins | -25% | +12% |
 
 
 ### Análise das baixas
 
-- **Rafael Márquez (88)** caiu **-36.8%** em 24h, a **36k coins** (faixa do dia: 36k–64k). Está -39% abaixo da média de 7 dias (descontada).
+- **Franco Baresi (91)** caiu **-37.9%** em 24h, a **69k coins** (faixa do dia: 69k–114k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Mapi León (91)** caiu **-36.2%** em 24h, a **51k coins** (faixa do dia: 46k–80k). Está -22% abaixo da média de 7 dias (descontada).
+- **Ramy Bensebaini (87)** caiu **-34.2%** em 24h, a **40k coins** (faixa do dia: 39k–68k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Ahmed Hegazi (87)** caiu **-34.8%** em 24h, a **30k coins** (faixa do dia: 26k–71k). Está -48% abaixo da média de 7 dias (descontada).
+- **Franco Baresi (92)** caiu **-32%** em 24h, a **209k coins** (faixa do dia: 163k–275k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Giorgio Chiellini já avançou 58.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nico Schlotterbeck já avançou 58.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Rafael Márquez recuou -36.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Franco Baresi recuou -37.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Giorgio Chiellini (89, Icons), com +58.3% em 24h, a 188k coins no Console (PS).
+Nico Schlotterbeck (96, sem liga), com +58.8% em 24h, a 155k coins no Console (PS).
 
 **E a maior queda do dia?**
-Rafael Márquez (88), -36.8% em 24h, a 36k coins.
+Franco Baresi (91), -37.9% em 24h, a 69k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 129 cartas em alta contra 128 em queda (média 8.5%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 138 cartas em alta contra 122 em queda (média 9.37%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
