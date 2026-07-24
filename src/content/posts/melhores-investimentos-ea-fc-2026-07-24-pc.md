@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:44:20.000Z
+pubDatetime: 2026-07-24T19:44:19.000Z
 title: "Investimentos EA FC: Zagueiros em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Mapi León (90, Liga F) lidera, com +83.9% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ibañez (86, ROSHN Saudi League) lidera, com +58.9% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mapi León (90) acumula **+83.9% em 7 dias** a 70k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ibañez (86) acumula **+58.9% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+42.9% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.4% em 24h** e **+22.1% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mapi León | 90 | Liga F | 70k coins | +6.7% | +83.9% | Esticada |
-| Giorgio Chiellini | 88 | Icons | 126k coins | +31.2% | +59.5% | Esticada |
-| Nathan Zézé | 91 | — | 58k coins | +6.4% | +46.2% | Momentum moderado |
-| Alessandro Nesta | 88 | — | 55k coins | +34.8% | +46.2% | Esticada |
-| Mapi León | 91 | — | 80k coins | +14.3% | +45.5% | Momentum moderado |
-| Steffi Jones | 89 | Icons | 40k coins | +6% | +42.9% | Momentum moderado |
-| Millie Bright | 88 | Barclays WSL | 100k coins | +25% | +42.9% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 80k coins | +11.8% | +42.9% | Momentum moderado |
-| Laurent Blanc | 88 | Icons | 129k coins | +27.5% | +37.6% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 53k coins | +33.3% | +36.8% | Esticada |
-| Ingrid Syrstad Engen | 90 | — | 56k coins | +7.2% | +32.2% | Momentum moderado |
-| Ilario Monterisi | 84 | Serie BKT | 50k coins | +10.5% | +29.9% | Momentum moderado |
-| Pubill | 92 | — | 40k coins | +20.7% | +27.3% | Esticada |
+| Ibañez | 86 | ROSHN Saudi League | 100k coins | +25.9% | +58.9% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 100k coins | +7% | +49.3% | Momentum moderado |
+| Alessandro Nesta | 88 | — | 42k coins | +25.7% | +44.3% | Esticada |
+| Dara O'Shea | 91 | — | 43k coins | +1.2% | +43.3% | Momentum moderado |
+| Nico Schlotterbeck | 87 | Bundesliga | 78k coins | +3.9% | +32.8% | Momentum moderado |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 21k coins | +12.3% | +32.7% | Momentum moderado |
 | Jürgen Kohler | 91 | — | 75k coins | +7.1% | +25% | Momentum moderado |
-| Sergi Domínguez | 92 | — | 22k coins | +16.7% | +23.1% | Momentum moderado |
+| Sergi Domínguez | 92 | — | 28k coins | +19.6% | +22.1% | Momentum moderado |
+| Ko Itakura | 88 | Eredivisie | 31k coins | +31.6% | +20.2% | Esticada |
+| Giorgio Scalvini | 86 | Serie A TIM | 46k coins | +32.9% | +19.2% | Esticada |
+| Marcel Desailly | 93 | — | 96k coins | +19.4% | +17.9% | Momentum moderado |
+| José María Giménez | 94 | — | 17.750 coins | +16.7% | +16.7% | Momentum moderado |
+| Youri Baas | 84 | Eredivisie | 42k coins | +28.2% | +13.8% | Esticada |
+| Elba Vergés | 84 | Liga F | 45k coins | +39.5% | +13.2% | Esticada |
+| Cristina Cubedo | 84 | Liga F | 47k coins | +13.3% | +10.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mapi León (90)** — 70k coins, **+83.9% em 7 dias** (+6.7% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ibañez (86)** — 100k coins, **+58.9% em 7 dias** (+25.9% em 24h). Preço +68% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (88)** — 126k coins, **+59.5% em 7 dias** (+31.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 100k coins, **+49.3% em 7 dias** (+7% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nathan Zézé (91)** — 58k coins, **+46.2% em 7 dias** (+6.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Nesta (88)** — 42k coins, **+44.3% em 7 dias** (+25.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alessandro Nesta (88)** — 55k coins, **+46.2% em 7 dias** (+34.8% em 24h). Preço +58% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dara O'Shea (91)** — 43k coins, **+43.3% em 7 dias** (+1.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mapi León (91)** — 80k coins, **+45.5% em 7 dias** (+14.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Schlotterbeck (87)** — 78k coins, **+32.8% em 7 dias** (+3.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Mapi León (90, Liga F) lidera, com +83.9% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ibañez (86, ROSHN Saudi League) lidera, com +58.9% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

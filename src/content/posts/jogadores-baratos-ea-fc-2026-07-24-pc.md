@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:44:21.000Z
+pubDatetime: 2026-07-24T19:44:20.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 24/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 10.104 coins.
-- **Posição mais frequente:** CB, com 12 cartas.
-- **Faixa real:** 3.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 9.780 coins.
+- **Posição mais frequente:** CB, com 5 cartas.
+- **Faixa real:** 3.800 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,16 +41,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lisandro Martínez | 95 | CB | — | 12.000 coins | +6.5% |
-| Diney | 94 | CB | — | 11.750 coins | +4.3% |
-| Luka Vušković | 94 | CB | — | 14.000 coins | +1.7% |
-| Renato Veiga | 94 | CB | — | 14.250 coins | -5.1% |
-| Luc De Fougerolles | 93 | CB | — | 14.000 coins | -3.5% |
-| Lucas Herrington | 93 | CB | — | 14.000 coins | 0% |
-| Kojo Peprah Oppong | 93 | CB | — | 14.250 coins | +3.4% |
-| Virgil van Dijk | 90 | CB | Premier League | 6.200 coins | +3.4% |
+| Diney | 94 | CB | — | 11.500 coins | +4.3% |
 | Ibrahima Konaté | 86 | CB | — | 3.800 coins | 0% |
-| Dayot Upamecano | 85 | CB | Bundesliga | 5.000 coins | +56.2% |
-| Sara Doorsoun | 84 | CB | GPFBL | 4.400 coins | +10% |
+| Jamie Carragher | 86 | CB | Premier League | 14.000 coins | -10.9% |
 | Benjamin Pavard | 84 | CB | Serie A Enilive | 7.600 coins | 0% |
 
 
@@ -58,13 +51,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lisandro Martínez (95, CB)** da —, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Diney (94, CB)** da —, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diney (94, CB)** da —, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Luka Vušković (94, CB)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Ibrahima Konaté (86, CB)** da —, a apenas **3.800 coins**
 
-- **Renato Veiga (94, CB)** da —, a apenas **14.250 coins**
+- **Jamie Carragher (86, CB)** da Premier League, a apenas **14.000 coins**
 
-- **Luc De Fougerolles (93, CB)** da —, a apenas **14.000 coins**
+- **Benjamin Pavard (84, CB)** da Serie A Enilive, a apenas **7.600 coins**
 
 
 ## Como distribuir a banca
