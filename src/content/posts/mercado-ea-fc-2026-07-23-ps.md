@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:44:07.000Z
+pubDatetime: 2026-07-24T01:44:07.000Z
 title: "Mercado EA FC em 23/07: Zagueiros — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Éder Militão (86, LALIGA EA SPORTS), com +56.9% em 24h, a 111k coins no Console (PS)."
+    a: "Steffi Jones (89, Icons), com +55.6% em 24h, a 49k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Dean Huijsen (91), -38.9% em 24h, a 271k coins."
+    a: "Ben Davies (84), -48.6% em 24h, a 23k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 98 cartas em alta contra 140 em queda (média 0.63%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 95 cartas em alta contra 144 em queda (média -0.69%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **23/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **98 valorizações** contra **140 quedas** entre as cartas relevantes, com média de **0.63%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **23/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **95 valorizações** contra **144 quedas** entre as cartas relevantes, com média de **-0.69%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Éder Militão (86) **+56.9%** · 🔴 **Maior baixa:** Dean Huijsen (91) **-38.9%**
+> 🟢 **Maior alta:** Steffi Jones (89) **+55.6%** · 🔴 **Maior baixa:** Ben Davies (84) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Zagueiros — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **23/07/2026** no Console (PS): mercado **lateral** — sem direção 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.2% entre as cartas que se moveram; o universo observado reúne 282 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 39.7% entre as cartas que se moveram; o universo observado reúne 286 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Éder Militão | 86 | LALIGA EA SPORTS | 111k coins | +56.9% | +73.8% |
-| Jaap Stam | 91 | Eredivisie | 930k coins | +51.5% | -12.9% |
-| Ezri Konsa | 96 | — | 139k coins | +36.9% | -34.1% |
-| Steph Catley | 90 | Barclays WSL | 113k coins | +34.6% | +18% |
-| José María Giménez | 87 | LALIGA EA SPORTS | 21k coins | +34.4% | +4.9% |
-| Éder Militão | 88 | LALIGA EA SPORTS | 58k coins | +33.3% | -23.1% |
-| Virgil van Dijk | 95 | — | 350k coins | +33.2% | -26.8% |
-| Matthias Ginter | 88 | Bundesliga | 45k coins | +32.6% | +27% |
-| Lúcio | 91 | Bundesliga | 197k coins | +32.2% | -23.3% |
-| Wilfried Singo | 86 | Trendyol Süper Lig | 50k coins | +26.3% | +25.5% |
+| Steffi Jones | 89 | Icons | 49k coins | +55.6% | +63.3% |
+| Jhon Lucumí | 81 | Serie A TIM | 50k coins | +49.3% | +4.7% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 24k coins | +42.3% | -22.3% |
+| José María Giménez | 87 | LALIGA EA SPORTS | 22k coins | +34.4% | +3.6% |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 56k coins | +25.7% | +32.1% |
+| Willi Orban | 86 | Bundesliga | 34k coins | +25.5% | +81.6% |
+| Nemanja Vidić | 89 | Icons | 585k coins | +24.7% | +32.4% |
+| Steffi Jones | 91 | Icons | 90k coins | +23.5% | +44.9% |
+| Ko Itakura | 88 | Eredivisie | 23k coins | +23.4% | -14.1% |
+| Danilho Doekhi | 84 | Bundesliga | 48k coins | +23.4% | +13.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **23/07/2026** no Console (PS): mercado **lateral** — sem direção 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Éder Militão (86)** subiu **+56.9%** em 24h, a **111k coins** (faixa do dia: 85k–121k). Está +68% acima da média de 7 dias (aquecida).
+- **Steffi Jones (89)** subiu **+55.6%** em 24h, a **49k coins** (faixa do dia: 28k–55k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Jaap Stam (91)** subiu **+51.5%** em 24h, a **930k coins** (faixa do dia: 589k–950k). Está em linha com a média de 7 dias (+3%).
+- **Jhon Lucumí (81)** subiu **+49.3%** em 24h, a **50k coins** (faixa do dia: 34k–50k). Está em linha com a média de 7 dias (+6%).
 
-- **Ezri Konsa (96)** subiu **+36.9%** em 24h, a **139k coins** (faixa do dia: 99k–178k). Está em linha com a média de 7 dias (-6%).
+- **Charlie Cresswell (85)** subiu **+42.3%** em 24h, a **24k coins** (faixa do dia: 16.500–32k). Está em linha com a média de 7 dias (-0%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dean Huijsen | 91 | LALIGA EA SPORTS | 271k coins | -38.9% | -64.2% |
-| William Saliba | 90 | Premier League | 130k coins | -32.5% | -52.5% |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 40k coins | -29% | -6.9% |
-| Bremer | 88 | Serie A TIM | 275k coins | -23.6% | -1.8% |
-| Leny Yoro | 86 | Premier League | 84k coins | -23.2% | -42.7% |
-| Pau Cubarsí | 93 | — | 21k coins | -19.4% | -50.6% |
-| Shelina Zadorsky | 87 | Barclays WSL | 21k coins | -19.2% | -15.2% |
-| Jade Rose | 85 | Barclays WSL | 22k coins | -18.9% | -48.7% |
-| Franz Beckenbauer | 93 | Icons | 288k coins | -16.9% | -32% |
-| Harry Maguire | 90 | Premier League | 152k coins | -16.9% | -44.9% |
+| Ben Davies | 84 | Premier League | 23k coins | -48.6% | +2.2% |
+| Dean Huijsen | 91 | LALIGA EA SPORTS | 290k coins | -41.1% | -60.8% |
+| Bremer | 88 | Serie A TIM | 320k coins | -38.3% | -20.7% |
+| Gonçalo Inácio | 89 | Liga Portugal | 36k coins | -37.5% | -63.9% |
+| Franco Baresi | 92 | Icons | 199k coins | -37.4% | -35.8% |
+| Dávid Hancko | 89 | LALIGA EA SPORTS | 22k coins | -36.9% | -28.7% |
+| Cristina Cubedo | 84 | Liga F | 39k coins | -29.1% | +5.4% |
+| Ousmane Diomande | 85 | Liga Portugal | 36k coins | -26.8% | +49.5% |
+| Micky van de Ven | 87 | Premier League | 599k coins | -25% | -32.9% |
+| Wendie Renard | 86 | D1 Arkema | 20k coins | -23.9% | 0% |
 
 
 ### Análise das baixas
 
-- **Dean Huijsen (91)** caiu **-38.9%** em 24h, a **271k coins** (faixa do dia: 210k–575k). Está -58% abaixo da média de 7 dias (descontada).
+- **Ben Davies (84)** caiu **-48.6%** em 24h, a **23k coins** (faixa do dia: 23k–46k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **William Saliba (90)** caiu **-32.5%** em 24h, a **130k coins** (faixa do dia: 114k–200k). Está -40% abaixo da média de 7 dias (descontada).
+- **Dean Huijsen (91)** caiu **-41.1%** em 24h, a **290k coins** (faixa do dia: 210k–544k). Está -54% abaixo da média de 7 dias (descontada).
 
-- **Abdelhamid Ait Boudlal (86)** caiu **-29%** em 24h, a **40k coins** (faixa do dia: 37k–52k). Está -15% abaixo da média de 7 dias (descontada).
+- **Bremer (88)** caiu **-38.3%** em 24h, a **320k coins** (faixa do dia: 222k–360k). Está em linha com a média de 7 dias (+0%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Éder Militão já avançou 56.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Steffi Jones já avançou 55.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Dean Huijsen recuou -38.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ben Davies recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Éder Militão (86, LALIGA EA SPORTS), com +56.9% em 24h, a 111k coins no Console (PS).
+Steffi Jones (89, Icons), com +55.6% em 24h, a 49k coins no Console (PS).
 
 **E a maior queda do dia?**
-Dean Huijsen (91), -38.9% em 24h, a 271k coins.
+Ben Davies (84), -48.6% em 24h, a 23k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 98 cartas em alta contra 140 em queda (média 0.63%).
+Hoje o mercado está em baixa — predominam as quedas, com 95 cartas em alta contra 144 em queda (média -0.69%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
