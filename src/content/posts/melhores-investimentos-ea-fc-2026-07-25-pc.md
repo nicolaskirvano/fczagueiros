@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:44:18.000Z
+pubDatetime: 2026-07-25T19:44:19.000Z
 title: "Investimentos EA FC: Zagueiros em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Jürgen Kohler (90, Bundesliga) lidera, com +55.6% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ramy Bensebaini (87, sem liga) lidera, com +55.4% em 7 dias a 68k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jürgen Kohler (90) acumula **+55.6% em 7 dias** a 70k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Ramy Bensebaini (87) acumula **+55.4% em 7 dias** a 68k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.2% em 24h** e **+19.6% em 7 dias**.
-- **5 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.3% em 24h** e **+20.7% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 90 | Bundesliga | 70k coins | +16.7% | +55.6% | Momentum moderado |
-| Ahmetcan Kaplan | 88 | Eredivisie | 25k coins | +22.6% | +37.3% | Esticada |
-| Tara McKeown | 89 | NWSL | 24k coins | +20.9% | +31.6% | Esticada |
-| Nathan Ngoy | 84 | Ligue 1 McDonald's | 47k coins | +11.8% | +26% | Momentum moderado |
-| Ledley King | 86 | Premier League | 15.500 coins | +15.8% | +22.2% | Momentum moderado |
-| Bremer | 87 | Serie A TIM | 53k coins | +13.4% | +22.2% | Momentum moderado |
-| Craig Halkett | 91 | — | 49k coins | +10.6% | +17.1% | Momentum moderado |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +7.1% | +13.2% | Momentum moderado |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 36k coins | +26.6% | +11.7% | Esticada |
-| Gonçalo Inácio | 89 | Liga Portugal | 153k coins | +2.7% | +9.3% | Entrada a observar |
-| Giorgio Chiellini | 89 | Icons | 131k coins | +20.2% | +9.2% | Esticada |
-| Denis Zakaria | 86 | Ligue 1 McDonald's | 48k coins | +21.2% | +9% | Esticada |
+| Ramy Bensebaini | 87 | — | 68k coins | +3.8% | +55.4% | Momentum moderado |
+| Jürgen Kohler | 90 | Bundesliga | 65k coins | +11.7% | +48.9% | Momentum moderado |
+| José Fonte | 85 | Liga Portugal | 40k coins | +8.2% | +42% | Momentum moderado |
+| Éder Militão | 86 | LALIGA EA SPORTS | 160k coins | +8.1% | +37.9% | Momentum moderado |
+| Nathan Ngoy | 84 | Ligue 1 McDonald's | 46k coins | +16.9% | +24.7% | Momentum moderado |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 50k coins | +13.2% | +21.6% | Momentum moderado |
+| Ahmetcan Kaplan | 88 | Eredivisie | 22k coins | +8.3% | +21.3% | Momentum moderado |
+| Andrea Barzagli | 89 | — | 40k coins | +8.7% | +20.7% | Momentum moderado |
+| Omar Sowunmi | 93 | — | 20k coins | +11.1% | +20% | Momentum moderado |
+| Daniel Ballard | 86 | Premier League | 50k coins | +25% | +19.8% | Esticada |
+| Sergi Domínguez | 92 | — | 28k coins | +29.9% | +11.9% | Esticada |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +8.4% | +9.1% | Momentum moderado |
+| Jan Bednarek | 94 | — | 21k coins | +5.8% | +8.3% | Momentum moderado |
+| Giorgio Chiellini | 89 | Icons | 125k coins | +28% | +7.6% | Esticada |
+| Gonçalo Inácio | 89 | Liga Portugal | 153k coins | +9.3% | +5.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jürgen Kohler (90)** — 70k coins, **+55.6% em 7 dias** (+16.7% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ramy Bensebaini (87)** — 68k coins, **+55.4% em 7 dias** (+3.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ahmetcan Kaplan (88)** — 25k coins, **+37.3% em 7 dias** (+22.6% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (90)** — 65k coins, **+48.9% em 7 dias** (+11.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tara McKeown (89)** — 24k coins, **+31.6% em 7 dias** (+20.9% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **José Fonte (85)** — 40k coins, **+42% em 7 dias** (+8.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nathan Ngoy (84)** — 47k coins, **+26% em 7 dias** (+11.8% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Éder Militão (86)** — 160k coins, **+37.9% em 7 dias** (+8.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ledley King (86)** — 15.500 coins, **+22.2% em 7 dias** (+15.8% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nathan Ngoy (84)** — 46k coins, **+24.7% em 7 dias** (+16.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Jürgen Kohler (90, Bundesliga) lidera, com +55.6% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ramy Bensebaini (87, sem liga) lidera, com +55.4% em 7 dias a 68k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
