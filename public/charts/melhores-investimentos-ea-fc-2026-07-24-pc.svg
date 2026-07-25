@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">José María Giménez</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.3%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Seiwald</text>
-<rect x="285" y="153" width="458" height="28" rx="7" fill="#22c55e"/>
-<text x="753" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.5%</text>
+<rect x="285" y="153" width="432" height="28" rx="7" fill="#22c55e"/>
+<text x="727" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.5%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Laurent Blanc</text>
-<rect x="285" y="211" width="390" height="28" rx="7" fill="#22c55e"/>
-<text x="685" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edmond Tapsoba</text>
-<rect x="285" y="269" width="343" height="28" rx="7" fill="#22c55e"/>
-<text x="638" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
-<rect x="285" y="327" width="288" height="28" rx="7" fill="#22c55e"/>
-<text x="583" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Millie Bright</text>
-<rect x="285" y="385" width="243" height="28" rx="7" fill="#22c55e"/>
-<text x="538" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.1%</text>
+<rect x="285" y="211" width="365" height="28" rx="7" fill="#22c55e"/>
+<text x="660" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolás Otamendi</text>
+<rect x="285" y="269" width="333" height="28" rx="7" fill="#22c55e"/>
+<text x="628" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edmond Tapsoba</text>
+<rect x="285" y="327" width="325" height="28" rx="7" fill="#22c55e"/>
+<text x="620" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
+<rect x="285" y="385" width="310" height="28" rx="7" fill="#22c55e"/>
+<text x="605" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
 </svg>
