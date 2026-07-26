@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:44:09.000Z
+pubDatetime: 2026-07-26T22:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Glódís Perla Viggósdóttir (86, GPFBL) lidera, com +53.9% em 7 dias a 78k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "António Silva (87, Liga Portugal) lidera, com +56.2% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Glódís Perla Viggósdóttir (86) acumula **+53.9% em 7 dias** a 78k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** António Silva (87) acumula **+56.2% em 7 dias** a 20k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.2% em 24h** e **+21.7% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.7% em 24h** e **+31.5% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Glódís Perla Viggósdóttir | 86 | GPFBL | 78k coins | +4.7% | +53.9% | Momentum moderado |
-| António Silva | 87 | Liga Portugal | 24k coins | +2.1% | +53.1% | Momentum moderado |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +2.8% | +33.1% | Momentum moderado |
-| Ousmane Diomande | 85 | Liga Portugal | 42k coins | +37.5% | +32.8% | Esticada |
-| Chibuike Nwaiwu | 87 | — | 40k coins | +28.6% | +28.6% | Esticada |
-| Daley Blind | 86 | LALIGA EA SPORTS | 29k coins | +30.3% | +27.5% | Esticada |
-| Chibuike Nwaiwu | 84 | Trendyol Süper Lig | 42k coins | +2.3% | +26.8% | Momentum moderado |
-| Griedge Mbock | 86 | D1 Arkema | 38k coins | +25.9% | +21.7% | Esticada |
-| José María Giménez | 94 | — | 17.750 coins | +22.6% | +18.8% | Esticada |
-| Çağlar Söyüncü | 93 | — | 16.500 coins | +15.6% | +17.5% | Momentum moderado |
-| Odilon Kossounou | 93 | — | 17.500 coins | +17.5% | +17.5% | Momentum moderado |
-| Tsuyoshi Watanabe | 94 | — | 17.500 coins | +17.2% | +17.2% | Momentum moderado |
-| Ladislav Krejčí | 87 | — | 46k coins | +7.5% | +17% | Momentum moderado |
-| Nicolás Otamendi | 86 | Liga Portugal | 39k coins | +24.4% | +16.2% | Esticada |
-| Davinson Sánchez | 94 | — | 17.500 coins | +15.6% | +15.6% | Momentum moderado |
+| António Silva | 87 | Liga Portugal | 20k coins | +26.6% | +56.2% | Esticada |
+| Ousmane Diomande | 85 | Liga Portugal | 38k coins | +38.5% | +50% | Esticada |
+| Glódís Perla Viggósdóttir | 86 | GPFBL | 74k coins | +7.9% | +48% | Momentum moderado |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 17.750 coins | +14.3% | +38.5% | Momentum moderado |
+| Giorgio Scalvini | 86 | Serie A TIM | 50k coins | +10.6% | +35.8% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 45k coins | +22.5% | +35.4% | Esticada |
+| Nathan Collins | 85 | Premier League | 33k coins | +23.3% | +34.2% | Esticada |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 42k coins | +4.4% | +31.5% | Momentum moderado |
+| Luka Vušković | 94 | — | 16.000 coins | +11.7% | +28.8% | Momentum moderado |
+| Kojo Peprah Oppong | 93 | — | 15.250 coins | +6.6% | +27.5% | Momentum moderado |
+| Luc De Fougerolles | 93 | — | 16.250 coins | +8.3% | +27.5% | Momentum moderado |
+| Lucas Herrington | 93 | — | 16.250 coins | +8.3% | +27.5% | Momentum moderado |
+| Renato Veiga | 94 | — | 16.250 coins | +11.9% | +26.9% | Momentum moderado |
+| Steffi Jones | 89 | Icons | 40k coins | +1.1% | +23.6% | Entrada a observar |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 47k coins | +12.5% | +23.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Glódís Perla Viggósdóttir (86)** — 78k coins, **+53.9% em 7 dias** (+4.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **António Silva (87)** — 20k coins, **+56.2% em 7 dias** (+26.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **António Silva (87)** — 24k coins, **+53.1% em 7 dias** (+2.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Diomande (85)** — 38k coins, **+50% em 7 dias** (+38.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Simakan (86)** — 50k coins, **+33.1% em 7 dias** (+2.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Glódís Perla Viggósdóttir (86)** — 74k coins, **+48% em 7 dias** (+7.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ousmane Diomande (85)** — 42k coins, **+32.8% em 7 dias** (+37.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (88)** — 17.750 coins, **+38.5% em 7 dias** (+14.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Chibuike Nwaiwu (87)** — 40k coins, **+28.6% em 7 dias** (+28.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Scalvini (86)** — 50k coins, **+35.8% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Glódís Perla Viggósdóttir (86, GPFBL) lidera, com +53.9% em 7 dias a 78k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+António Silva (87, Liga Portugal) lidera, com +56.2% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

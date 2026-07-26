@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:44:21.000Z
+pubDatetime: 2026-07-26T22:44:21.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.103 coins.
+- **Preço médio das 15 opções:** 11.377 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 3.800 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Miles Robinson | 95 | CB | — | 11.750 coins | +2.2% |
+| Miles Robinson | 95 | CB | — | 11.750 coins | 0% |
 | Nnamdi Collins | 95 | CB | — | 11.750 coins | 0% |
-| Isaak Touré | 95 | CB | — | 12.000 coins | -9.3% |
-| Lisandro Martínez | 95 | CB | — | 14.000 coins | +11.5% |
+| Isaak Touré | 95 | CB | — | 12.500 coins | -1.9% |
+| Lisandro Martínez | 95 | CB | — | 14.250 coins | +13.5% |
+| Caleb Taylor | 92 | CB | — | 14.750 coins | -14.5% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 14.000 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 9.000 coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 9.400 coins | +5.9% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 3.800 coins | +8.8% |
-| Sepp van den Berg | 89 | CB | Premier League | 11.250 coins | +13.3% |
-| Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| Mapi León | 89 | CB | Liga F | 3.500 coins | 0% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11.250 coins | 0% |
+| Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 11.000 coins | -10.2% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Nnamdi Collins (95, CB)** da —, a apenas **11.750 coins**
 
-- **Isaak Touré (95, CB)** da —, a apenas **12.000 coins**
+- **Isaak Touré (95, CB)** da —, a apenas **12.500 coins**
 
-- **Lisandro Martínez (95, CB)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Lisandro Martínez (95, CB)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caleb Taylor (92, CB)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
