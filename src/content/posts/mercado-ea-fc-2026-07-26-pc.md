@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:44:19.000Z
+pubDatetime: 2026-07-26T19:44:18.000Z
 title: "Mercado EA FC em 26/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Illia Zabarnyi (96, sem liga), com +52.8% em 24h, a 187k coins no PC."
+    a: "Nikola Katić (90, sem liga), com +55.2% em 24h, a 107k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Craig Halkett (91), -46.2% em 24h, a 27k coins."
+    a: "Fabio Cannavaro (89), -48.1% em 24h, a 68k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 93 cartas em alta contra 124 em queda (média 1.28%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 103 cartas em alta contra 87 em queda (média 4.28%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **26/07/2026** (PC): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **93 em alta** e **124 em queda**, média de **1.28%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **26/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **103 em alta** e **87 em queda**, média de **4.28%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Illia Zabarnyi (96) **+52.8%** · 🔴 **Maior baixa:** Craig Halkett (91) **-46.2%**
+> 🟢 **Maior alta:** Nikola Katić (90) **+55.2%** · 🔴 **Maior baixa:** Fabio Cannavaro (89) **-48.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Zagueiros — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **26/07/2026** (PC): mercado **lateral** — sem direção clara. En
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 299 cartas.
-- **Concentração:** Eredivisie aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.2% entre as cartas que se moveram; o universo observado reúne 269 cartas.
+- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Illia Zabarnyi | 96 | — | 187k coins | +52.8% | -44.2% |
-| Arseniy Batagov | 94 | — | 32k coins | +51.2% | +6.6% |
-| Pau Cubarsí | 99 | — | 589k coins | +46.7% | — |
-| Josip Šutalo | 90 | Eredivisie | 50k coins | +43.9% | +1% |
-| Éder Militão | 88 | LALIGA EA SPORTS | 96k coins | +42.5% | -34.9% |
-| Sol Campbell | 88 | — | 24k coins | +41.4% | -17.5% |
-| Tim Ream | 85 | MLS | 79k coins | +39.8% | -21% |
-| Ahmed Hegazi | 87 | Brasileirão | 103k coins | +37.2% | +135.2% |
-| Maya Le Tissier | 88 | Barclays WSL | 104k coins | +36.7% | +20% |
+| Nikola Katić | 90 | — | 107k coins | +55.2% | -36.6% |
+| Bobby Moore | 93 | — | 44k coins | +52.9% | +8.3% |
+| Laurent Blanc | 88 | Icons | 175k coins | +45.2% | +66.7% |
+| José Fonte | 85 | Liga Portugal | 54k coins | +37.1% | +17.8% |
+| Ronald Araujo | 94 | — | 299k coins | +36.2% | +13.1% |
+| Alessandro Bastoni | 91 | Serie A TIM | 64k coins | +36% | -4.3% |
 | Jaap Stam | 91 | Eredivisie | 1.50M coins | +35.7% | 0% |
+| Jan Bednarek | 84 | Liga Portugal | 44k coins | +35.7% | +9.4% |
+| Ahmed Hegazi | 87 | Brasileirão | 97k coins | +34.5% | +118.7% |
+| Maria Méndez | 93 | — | 20k coins | +31.7% | -4.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **26/07/2026** (PC): mercado **lateral** — sem direção clara. En
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Illia Zabarnyi (96)** subiu **+52.8%** em 24h, a **187k coins** (faixa do dia: 108k–200k). Está -23% abaixo da média de 7 dias (descontada).
+- **Nikola Katić (90)** subiu **+55.2%** em 24h, a **107k coins** (faixa do dia: 40k–111k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Arseniy Batagov (94)** subiu **+51.2%** em 24h, a **32k coins** (faixa do dia: 18.750–34k). Está +15% acima da média de 7 dias (aquecida).
+- **Bobby Moore (93)** subiu **+52.9%** em 24h, a **44k coins** (faixa do dia: 22k–67k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Pau Cubarsí (99)** subiu **+46.7%** em 24h, a **589k coins** (faixa do dia: 435k–689k). Está em linha com a média de 7 dias (-7%).
+- **Laurent Blanc (88)** subiu **+45.2%** em 24h, a **175k coins** (faixa do dia: 79k–180k). Está +46% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Craig Halkett | 91 | — | 27k coins | -46.2% | -36.3% |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 26k coins | -44.1% | +25% |
-| Keven Schlotterbeck | 89 | Bundesliga | 32k coins | -40.2% | -24.7% |
-| Jonathan Tah | 95 | — | 115k coins | -39.3% | -19.5% |
-| Vanessa Gilles | 94 | — | 20k coins | -38.6% | -20.4% |
-| Emmanuel Fernandez | 90 | — | 23k coins | -38.4% | -38.4% |
-| William Saliba | 94 | Premier League | 200k coins | -36.7% | -61% |
-| Marina Hegering | 87 | GPFBL | 27k coins | -35.5% | +9% |
-| Virgil van Dijk | 95 | Premier League | 529k coins | -35.5% | -60.8% |
-| Willian Pacho | 96 | — | 80k coins | -32.9% | -80.4% |
+| Fabio Cannavaro | 89 | Icons | 68k coins | -48.1% | -44.3% |
+| Chibuike Nwaiwu | 87 | — | 38k coins | -40.4% | -2% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 41k coins | -35.4% | -11.1% |
+| Virgil van Dijk | 95 | Premier League | 1.35M coins | -34.6% | -61.1% |
+| Vincent Kompany | 91 | Premier League | 32k coins | -34.3% | -48% |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 22k coins | -32% | -53.2% |
+| Jerdy Schouten | 94 | — | 20k coins | -31% | -12.1% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 30k coins | -30.5% | -53.5% |
+| Éder Militão | 86 | LALIGA EA SPORTS | 113k coins | -29.4% | -23.6% |
+| William Saliba | 95 | — | 245k coins | -27.5% | -47% |
 
 
 ### Análise das baixas
 
-- **Craig Halkett (91)** caiu **-46.2%** em 24h, a **27k coins** (faixa do dia: 27k–40k). Está -41% abaixo da média de 7 dias (descontada).
+- **Fabio Cannavaro (89)** caiu **-48.1%** em 24h, a **68k coins** (faixa do dia: 68k–120k). Está -56% abaixo da média de 7 dias (descontada).
 
-- **Lotte Wubben-Moy (85)** caiu **-44.1%** em 24h, a **26k coins** (faixa do dia: 21k–38k). Está -31% abaixo da média de 7 dias (descontada).
+- **Chibuike Nwaiwu (87)** caiu **-40.4%** em 24h, a **38k coins** (faixa do dia: 37k–65k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Keven Schlotterbeck (89)** caiu **-40.2%** em 24h, a **32k coins** (faixa do dia: 12.250–35k). Está +41% acima da média de 7 dias (aquecida).
+- **Mark McKenzie (90)** caiu **-35.4%** em 24h, a **41k coins** (faixa do dia: 26k–65k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Illia Zabarnyi já avançou 52.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nikola Katić já avançou 55.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Craig Halkett recuou -46.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Fabio Cannavaro recuou -48.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Illia Zabarnyi (96, sem liga), com +52.8% em 24h, a 187k coins no PC.
+Nikola Katić (90, sem liga), com +55.2% em 24h, a 107k coins no PC.
 
 **E a maior queda do dia?**
-Craig Halkett (91), -46.2% em 24h, a 27k coins.
+Fabio Cannavaro (89), -48.1% em 24h, a 68k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 93 cartas em alta contra 124 em queda (média 1.28%).
+Hoje o mercado está em alta — predominam as valorizações, com 103 cartas em alta contra 87 em queda (média 4.28%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

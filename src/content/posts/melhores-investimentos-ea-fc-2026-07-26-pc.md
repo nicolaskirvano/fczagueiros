@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:44:20.000Z
+pubDatetime: 2026-07-26T19:44:19.000Z
 title: "Investimentos EA FC: Zagueiros em 26/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Ibañez (86, ROSHN Saudi League) lidera, com +86.1% em 7 dias a 74k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Aldana Cometti (85, D1 Arkema) lidera, com +60% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ibañez (86) acumula **+86.1% em 7 dias** a 74k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Aldana Cometti (85) acumula **+60% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 26/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-26-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.1% em 24h** e **+20.0% em 7 dias**.
+- A mediana é de **+8.7% em 24h** e **+20.0% em 7 dias**.
 - **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ibañez | 86 | ROSHN Saudi League | 74k coins | +1.9% | +86.1% | Esticada |
-| Shelina Zadorsky | 87 | Barclays WSL | 94k coins | +14.6% | +58% | Momentum moderado |
-| Ane Etxezarreta | 86 | Liga F | 27k coins | +12% | +57.7% | Momentum moderado |
-| Matthias Ginter | 88 | Bundesliga | 101k coins | +2.5% | +44.3% | Momentum moderado |
-| Nathan Ngoy | 84 | Ligue 1 McDonald's | 48k coins | +1.1% | +23.4% | Entrada a observar |
-| Giorgio Scalvini | 86 | Serie A TIM | 48k coins | +6.7% | +22.6% | Momentum moderado |
-| José María Giménez | 87 | LALIGA EA SPORTS | 29k coins | +12% | +21% | Momentum moderado |
-| Andrea Barzagli | 89 | — | 45k coins | +7.1% | +20% | Momentum moderado |
-| Maya Le Tissier | 88 | Barclays WSL | 104k coins | +36.7% | +20% | Esticada |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 42k coins | +3.7% | +18.3% | Entrada a observar |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 77k coins | +5.3% | +15.3% | Momentum moderado |
-| Ladislav Krejčí | 87 | — | 55k coins | +31% | +15.2% | Esticada |
-| Ingrid Syrstad Engen | 86 | D1 Arkema | 49k coins | +10.6% | +12.6% | Momentum moderado |
-| Nobel Mendy | 84 | LALIGA EA SPORTS | 50k coins | +7% | +11.1% | Momentum moderado |
-| Tara McKeown | 95 | — | 100k coins | +9.9% | +11.1% | Momentum moderado |
+| Aldana Cometti | 85 | D1 Arkema | 70k coins | +2.2% | +60% | Esticada |
+| Naomi Girma | 87 | Barclays WSL | 82k coins | +8.5% | +53.7% | Momentum moderado |
+| Ane Etxezarreta | 86 | Liga F | 24k coins | +8.7% | +49.3% | Momentum moderado |
+| Shelina Zadorsky | 87 | Barclays WSL | 84k coins | +9.4% | +47.1% | Momentum moderado |
+| Matthias Ginter | 88 | Bundesliga | 94k coins | +1.6% | +34.3% | Momentum moderado |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 72k coins | +8.7% | +29.3% | Momentum moderado |
+| Giorgio Scalvini | 86 | Serie A TIM | 46k coins | +20.3% | +22.6% | Esticada |
+| Andrea Barzagli | 89 | — | 41k coins | +7.7% | +20% | Momentum moderado |
+| Luc De Fougerolles | 93 | — | 16.250 coins | +8.5% | +18.5% | Momentum moderado |
+| Lucas Herrington | 93 | — | 16.000 coins | +14.3% | +18.5% | Momentum moderado |
+| José Fonte | 85 | Liga Portugal | 54k coins | +37.1% | +17.8% | Esticada |
+| Renato Veiga | 94 | — | 16.000 coins | +12.3% | +16.4% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 48k coins | +5.6% | +15.9% | Momentum moderado |
+| Marcel Desailly | 93 | — | 80k coins | +2.5% | +15% | Entrada a observar |
+| Çağlar Söyüncü | 93 | — | 17.250 coins | +10.8% | +12.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ibañez (86)** — 74k coins, **+86.1% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aldana Cometti (85)** — 70k coins, **+60% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Shelina Zadorsky (87)** — 94k coins, **+58% em 7 dias** (+14.6% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Naomi Girma (87)** — 82k coins, **+53.7% em 7 dias** (+8.5% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ane Etxezarreta (86)** — 27k coins, **+57.7% em 7 dias** (+12% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ane Etxezarreta (86)** — 24k coins, **+49.3% em 7 dias** (+8.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matthias Ginter (88)** — 101k coins, **+44.3% em 7 dias** (+2.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Shelina Zadorsky (87)** — 84k coins, **+47.1% em 7 dias** (+9.4% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nathan Ngoy (84)** — 48k coins, **+23.4% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matthias Ginter (88)** — 94k coins, **+34.3% em 7 dias** (+1.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Ibañez (86, ROSHN Saudi League) lidera, com +86.1% em 7 dias a 74k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Aldana Cometti (85, D1 Arkema) lidera, com +60% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
