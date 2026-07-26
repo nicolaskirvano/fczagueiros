@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:44:21.000Z
+pubDatetime: 2026-07-26T16:44:21.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 13.233 coins.
+- **Preço médio das 15 opções:** 13.267 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 11.750 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.750 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Nnamdi Collins | 95 | CB | — | 11.750 coins | -2.1% |
-| Miles Robinson | 95 | CB | — | 11.750 coins | 0% |
-| Lisandro Martínez | 95 | CB | — | 12.500 coins | +2.1% |
-| Kalidou Koulibaly | 95 | CB | — | 14.000 coins | -8.3% |
-| Diney | 94 | CB | — | 12.000 coins | +4.3% |
-| Jakub Kiwior | 94 | CB | — | 12.500 coins | -7.4% |
-| Manuel Akanji | 94 | CB | — | 13.500 coins | -5.3% |
-| Renato Veiga | 94 | CB | — | 13.750 coins | -1.8% |
-| Tsuyoshi Watanabe | 94 | CB | — | 13.750 coins | -8.3% |
-| Davinson Sánchez | 94 | CB | — | 14.000 coins | 0% |
-| David Alaba | 94 | CB | — | 14.500 coins | -3.2% |
-| José María Giménez | 94 | CB | — | 14.500 coins | 0% |
-| Abdukodir Khusanov | 93 | CB | — | 13.250 coins | -8.4% |
-| Kojo Peprah Oppong | 93 | CB | — | 13.250 coins | -3.6% |
-| Kevin Danso | 93 | CB | — | 13.500 coins | -3.6% |
+| Nnamdi Collins | 95 | CB | — | 11.750 coins | +2.2% |
+| Miles Robinson | 95 | CB | — | 11.750 coins | +2.2% |
+| Isaak Touré | 95 | CB | — | 12.500 coins | -7.1% |
+| Lisandro Martínez | 95 | CB | — | 13.250 coins | +4.2% |
+| Kalidou Koulibaly | 95 | CB | — | 13.500 coins | -3.4% |
+| Diney | 94 | CB | — | 12.000 coins | 0% |
+| Manuel Akanji | 94 | CB | — | 13.250 coins | -3.4% |
+| Luka Vušković | 94 | CB | — | 13.500 coins | +1.8% |
+| José María Giménez | 94 | CB | — | 14.000 coins | -3.6% |
+| Renato Veiga | 94 | CB | — | 14.250 coins | +1.8% |
+| Tsuyoshi Watanabe | 94 | CB | — | 14.250 coins | -8.3% |
+| Lucas Herrington | 93 | CB | — | 13.500 coins | -1.8% |
+| Odilon Kossounou | 93 | CB | — | 13.500 coins | -1.8% |
+| Çağlar Söyüncü | 93 | CB | — | 14.000 coins | 0% |
+| Maria Méndez | 93 | CB | — | 14.000 coins | -5.1% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Miles Robinson (95, CB)** da —, a apenas **11.750 coins**
 
-- **Lisandro Martínez (95, CB)** da —, a apenas **12.500 coins**
+- **Isaak Touré (95, CB)** da —, a apenas **12.500 coins**
 
-- **Kalidou Koulibaly (95, CB)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lisandro Martínez (95, CB)** da —, a apenas **13.250 coins**
 
-- **Diney (94, CB)** da —, a apenas **12.000 coins**
+- **Kalidou Koulibaly (95, CB)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
