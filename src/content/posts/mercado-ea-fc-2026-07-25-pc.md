@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:44:17.000Z
+pubDatetime: 2026-07-26T01:44:17.000Z
 title: "Mercado EA FC em 25/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Michael Boxall (91, sem liga), com +56.3% em 24h, a 42k coins no PC."
+    a: "Javier Mascherano (90, LALIGA EA SPORTS), com +59.3% em 24h, a 94k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Manuel Akanji (91), -45.8% em 24h, a 26k coins."
+    a: "Manuel Akanji (91), -49.5% em 24h, a 24k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 88 cartas em alta contra 145 em queda (média -1.48%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 102 cartas em alta contra 132 em queda (média -0.93%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **88 subiram** e **145 caíram**, com variação média de **-1.48%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **102 subiram** e **132 caíram**, com variação média de **-0.93%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Michael Boxall (91) **+56.3%** · 🔴 **Maior baixa:** Manuel Akanji (91) **-45.8%**
+> 🟢 **Maior alta:** Javier Mascherano (90) **+59.3%** · 🔴 **Maior baixa:** Manuel Akanji (91) **-49.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Zagueiros — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.8% entre as cartas que se moveram; o universo observado reúne 301 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.6% entre as cartas que se moveram; o universo observado reúne 301 cartas.
+- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Michael Boxall | 91 | — | 42k coins | +56.3% | +32.9% |
-| Wilfried Singo | 86 | Trendyol Süper Lig | 52k coins | +47.1% | +49.3% |
-| Bremer | 95 | — | 77k coins | +46.8% | -23.8% |
-| Iván Córdoba | 87 | Serie A TIM | 20k coins | +46.4% | +3.8% |
-| Sergi Domínguez | 92 | — | 27k coins | +45.3% | +11.2% |
-| Willi Orban | 86 | Bundesliga | 46k coins | +45% | +171% |
-| Yazan Al Arab | 95 | — | 34k coins | +36% | +7.1% |
-| Pau Cubarsí | 97 | — | 48k coins | +34.3% | -26.2% |
-| Carles Puyol | 94 | — | 100k coins | +33.3% | +1% |
-| Éder Militão | 88 | LALIGA EA SPORTS | 185k coins | +32.1% | +3.9% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 94k coins | +59.3% | +35.3% |
+| Michael Boxall | 91 | — | 38k coins | +58.8% | +10% |
+| Siebe Van der Heyden | 80 | 1A Pro League | 48k coins | +49.6% | +8.6% |
+| Willi Orban | 86 | Bundesliga | 44k coins | +47.9% | +179.7% |
+| Franz Beckenbauer | 92 | Icons | 169k coins | +40.8% | +20.7% |
+| Éder Militão | 88 | LALIGA EA SPORTS | 185k coins | +39.1% | +3.9% |
+| Aymeric Laporte | 97 | — | 140k coins | +35.7% | -30.1% |
+| Eric García | 99 | — | 400k coins | +35.6% | — |
+| Virgil van Dijk | 95 | Premier League | 850k coins | +35.2% | -52.7% |
+| Nico Schlotterbeck | 87 | Bundesliga | 71k coins | +35.2% | +15% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Michael Boxall (91)** subiu **+56.3%** em 24h, a **42k coins** (faixa do dia: 13.750–46k). Está em linha com a média de 7 dias (+4%).
+- **Javier Mascherano (90)** subiu **+59.3%** em 24h, a **94k coins** (faixa do dia: 49k–100k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Wilfried Singo (86)** subiu **+47.1%** em 24h, a **52k coins** (faixa do dia: 35k–55k). Está +16% acima da média de 7 dias (aquecida).
+- **Michael Boxall (91)** subiu **+58.8%** em 24h, a **38k coins** (faixa do dia: 13.750–46k). Está em linha com a média de 7 dias (-6%).
 
-- **Bremer (95)** subiu **+46.8%** em 24h, a **77k coins** (faixa do dia: 50k–98k). Está -12% abaixo da média de 7 dias (descontada).
+- **Siebe Van der Heyden (80)** subiu **+49.6%** em 24h, a **48k coins** (faixa do dia: 32k–48k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Manuel Akanji | 91 | — | 26k coins | -45.8% | -38.8% |
-| Alessandro Nesta | 92 | — | 33k coins | -45.1% | -38.6% |
-| Chadi Riad | 96 | — | 217k coins | -44.4% | -74.6% |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 45k coins | -41.4% | -33.9% |
-| Mapi León | 90 | Liga F | 40k coins | -36.8% | -23.6% |
-| Giorgio Chiellini | 89 | Icons | 86k coins | -36.2% | -20.8% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 22k coins | -36% | -45.6% |
-| Craig Halkett | 91 | — | 30k coins | -35.7% | -23.2% |
-| Murillo | 87 | Premier League | 81k coins | -35.2% | -55% |
-| Virgil van Dijk | 91 | Premier League | 725k coins | -34.1% | -26.4% |
+| Manuel Akanji | 91 | — | 24k coins | -49.5% | -42.9% |
+| Nico Schlotterbeck | 87 | Bundesliga | 29k coins | -47.3% | -57% |
+| Illia Zabarnyi | 96 | — | 119k coins | -46.3% | -56.8% |
+| Nathan Zézé | 91 | — | 23k coins | -46.2% | -43.1% |
+| Murillo | 87 | Premier League | 81k coins | -46% | -55% |
+| Mapi León | 90 | Liga F | 40k coins | -39% | -26.8% |
+| Andrea Barzagli | 89 | — | 28k coins | -39% | -22.7% |
+| Paolo Maldini | 89 | — | 74k coins | -38.3% | -62.8% |
+| Jaap Stam | 87 | Premier League | 350k coins | -36.7% | -59.4% |
+| Paolo Maldini | 97 | — | 1.35M coins | -35.3% | -62.3% |
 
 
 ### Análise das baixas
 
-- **Manuel Akanji (91)** caiu **-45.8%** em 24h, a **26k coins** (faixa do dia: 20k–50k). Está -40% abaixo da média de 7 dias (descontada).
+- **Manuel Akanji (91)** caiu **-49.5%** em 24h, a **24k coins** (faixa do dia: 20k–48k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Alessandro Nesta (92)** caiu **-45.1%** em 24h, a **33k coins** (faixa do dia: 33k–60k). Está -37% abaixo da média de 7 dias (descontada).
+- **Nico Schlotterbeck (87)** caiu **-47.3%** em 24h, a **29k coins** (faixa do dia: 11.000–34k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Chadi Riad (96)** caiu **-44.4%** em 24h, a **217k coins** (faixa do dia: 137k–849k). Está -65% abaixo da média de 7 dias (descontada).
+- **Illia Zabarnyi (96)** caiu **-46.3%** em 24h, a **119k coins** (faixa do dia: 108k–280k). Está -54% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Michael Boxall já avançou 56.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Javier Mascherano já avançou 59.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Manuel Akanji recuou -45.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Manuel Akanji recuou -49.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Michael Boxall (91, sem liga), com +56.3% em 24h, a 42k coins no PC.
+Javier Mascherano (90, LALIGA EA SPORTS), com +59.3% em 24h, a 94k coins no PC.
 
 **E a maior queda do dia?**
-Manuel Akanji (91), -45.8% em 24h, a 26k coins.
+Manuel Akanji (91), -49.5% em 24h, a 24k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 88 cartas em alta contra 145 em queda (média -1.48%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 102 cartas em alta contra 132 em queda (média -0.93%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
