@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Diomande</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Mascherano</text>
-<rect x="285" y="153" width="343" height="28" rx="7" fill="#22c55e"/>
-<text x="638" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nemanja Vidić</text>
-<rect x="285" y="211" width="339" height="28" rx="7" fill="#22c55e"/>
-<text x="634" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Seiwald</text>
-<rect x="285" y="269" width="257" height="28" rx="7" fill="#22c55e"/>
-<text x="552" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cristina Cubedo</text>
-<rect x="285" y="327" width="223" height="28" rx="7" fill="#22c55e"/>
-<text x="518" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Chibuike Nwaiwu</text>
-<rect x="285" y="385" width="219" height="28" rx="7" fill="#22c55e"/>
-<text x="514" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giorgio Chiellini</text>
+<rect x="285" y="153" width="358" height="28" rx="7" fill="#22c55e"/>
+<text x="653" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Mascherano</text>
+<rect x="285" y="211" width="349" height="28" rx="7" fill="#22c55e"/>
+<text x="644" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aldana Cometti</text>
+<rect x="285" y="269" width="293" height="28" rx="7" fill="#22c55e"/>
+<text x="588" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youri Baas</text>
+<rect x="285" y="327" width="288" height="28" rx="7" fill="#22c55e"/>
+<text x="583" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniel Ballard</text>
+<rect x="285" y="385" width="280" height="28" rx="7" fill="#22c55e"/>
+<text x="575" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.0%</text>
 </svg>
