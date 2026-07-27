@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:44:18.000Z
+pubDatetime: 2026-07-27T19:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Ousmane Diomande (85, Liga Portugal) lidera, com +81% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pau Cubarsí (85, LALIGA EA SPORTS) lidera, com +75.4% em 7 dias a 110k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ousmane Diomande (85) acumula **+81% em 7 dias** a 64k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Pau Cubarsí (85) acumula **+75.4% em 7 dias** a 110k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.2% em 24h** e **+29.0% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.0% em 24h** e **+43.8% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ousmane Diomande | 85 | Liga Portugal | 64k coins | +7.3% | +81% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 82k coins | +1.2% | +59.6% | Momentum moderado |
-| Tristan Crama | 86 | EFL Championship | 49k coins | +26.3% | +57.6% | Esticada |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 54k coins | +25.3% | +54.5% | Esticada |
-| Maxence Lacroix | 87 | Premier League | 137k coins | +14.2% | +35.6% | Momentum moderado |
-| Nicolas Seiwald | 85 | Bundesliga | 28k coins | +37.2% | +35.4% | Esticada |
-| Wendie Renard | 86 | D1 Arkema | 18.250 coins | +10% | +32.8% | Momentum moderado |
-| Marcel Desailly | 93 | — | 79k coins | +1.3% | +29% | Momentum moderado |
-| Youri Baas | 84 | Eredivisie | 43k coins | +16.6% | +25.8% | Momentum moderado |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 50k coins | +22.2% | +25.3% | Esticada |
-| Adil Demirbağ | 84 | EFL League One | 42k coins | +3% | +23.4% | Entrada a observar |
-| Wilfried Singo | 86 | Trendyol Süper Lig | 47k coins | +3.2% | +20% | Entrada a observar |
-| Millie Bright | 88 | Barclays WSL | 99k coins | +18.9% | +18.1% | Momentum moderado |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +19% | +17.6% | Momentum moderado |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 42k coins | +4.9% | +16.4% | Entrada a observar |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 110k coins | +31.8% | +75.4% | Esticada |
+| Annaïg Butel | 86 | D1 Arkema | 30k coins | +19% | +65.3% | Esticada |
+| Ane Etxezarreta | 86 | Liga F | 25k coins | +5.3% | +58.7% | Momentum moderado |
+| Éder Militão | 86 | LALIGA EA SPORTS | 118k coins | +8% | +53.5% | Momentum moderado |
+| José María Giménez | 87 | LALIGA EA SPORTS | 20k coins | +1.1% | +47.7% | Momentum moderado |
+| Ramy Bensebaini | 87 | — | 80k coins | +33.3% | +44.1% | Esticada |
+| Ladislav Krejčí | 87 | — | 40k coins | +30.4% | +43.8% | Esticada |
+| Edmond Tapsoba | 86 | Bundesliga | 23k coins | +1.1% | +43.8% | Momentum moderado |
+| Maxence Lacroix | 87 | Premier League | 160k coins | +14.2% | +35.6% | Momentum moderado |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 50k coins | +26.6% | +28.2% | Esticada |
+| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 50k coins | +32% | +25.3% | Esticada |
+| Luc De Fougerolles | 93 | — | 18.000 coins | +6.2% | +21.1% | Momentum moderado |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +6.2% | +19.7% | Momentum moderado |
+| Kojo Peprah Oppong | 93 | — | 18.500 coins | +6.2% | +19.3% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 16.250 coins | +4.5% | +19% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Ousmane Diomande (85)** — 64k coins, **+81% em 7 dias** (+7.3% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pau Cubarsí (85)** — 110k coins, **+75.4% em 7 dias** (+31.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Schlotterbeck (87)** — 82k coins, **+59.6% em 7 dias** (+1.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Annaïg Butel (86)** — 30k coins, **+65.3% em 7 dias** (+19% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tristan Crama (86)** — 49k coins, **+57.6% em 7 dias** (+26.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ane Etxezarreta (86)** — 25k coins, **+58.7% em 7 dias** (+5.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ismaëlo Ganiou (84)** — 54k coins, **+54.5% em 7 dias** (+25.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Éder Militão (86)** — 118k coins, **+53.5% em 7 dias** (+8% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maxence Lacroix (87)** — 137k coins, **+35.6% em 7 dias** (+14.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **José María Giménez (87)** — 20k coins, **+47.7% em 7 dias** (+1.1% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Ousmane Diomande (85, Liga Portugal) lidera, com +81% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pau Cubarsí (85, LALIGA EA SPORTS) lidera, com +75.4% em 7 dias a 110k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
