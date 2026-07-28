@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:44:08.000Z
+pubDatetime: 2026-07-28T01:44:07.000Z
 title: "Mercado EA FC em 27/07: Zagueiros — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Maximiliano Caufriez (86, Ligue 2 BKT), com +57.9% em 24h, a 28k coins no Console (PS)."
+    a: "Willian Pacho (90, Ligue 1 McDonald's), com +56.8% em 24h, a 29k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Marina Hegering (87), -43% em 24h, a 22k coins."
+    a: "Iván Córdoba (88), -43.5% em 24h, a 80k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 138 cartas em alta contra 77 em queda (média 6.56%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 151 cartas em alta contra 90 em queda (média 7.51%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **27/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **138 cartas subiram** e **77 caíram** (80+ acima de 5k coins), variação média de **6.56%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **27/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **151 cartas subiram** e **90 caíram** (80+ acima de 5k coins), variação média de **7.51%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Maximiliano Caufriez (86) **+57.9%** · 🔴 **Maior baixa:** Marina Hegering (87) **-43%**
+> 🟢 **Maior alta:** Willian Pacho (90) **+56.8%** · 🔴 **Maior baixa:** Iván Córdoba (88) **-43.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Zagueiros — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **27/07/2026** no Console (PS) com clima **comprador
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 64.2% entre as cartas que se moveram; o universo observado reúne 270 cartas.
+- **Amplitude do dia:** 100.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 62.7% entre as cartas que se moveram; o universo observado reúne 292 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Maximiliano Caufriez | 86 | Ligue 2 BKT | 28k coins | +57.9% | 0% |
-| Nikola Katić | 90 | — | 171k coins | +52.7% | +94.3% |
-| Sergi Domínguez | 92 | — | 22k coins | +50.7% | +5.1% |
-| Kevin Mac Allister | 94 | — | 22k coins | +50% | +9.1% |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 41k coins | +48.4% | +46.6% |
-| Samson Baidoo | 85 | Ligue 1 McDonald's | 28k coins | +48.1% | -2.5% |
-| Caleb Taylor | 92 | — | 20k coins | +42.9% | -2.2% |
-| Bobby Moore | 93 | — | 49k coins | +42% | +43.1% |
-| Marcos Senesi | 88 | Premier League | 22k coins | +41.1% | -1.2% |
-| Stine Ballisager | 93 | — | 23k coins | +37.1% | +14.3% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 29k coins | +56.8% | -56.1% |
+| Irene Paredes | 88 | Liga F | 47k coins | +54.3% | +36.7% |
+| Dara O'Shea | 91 | — | 30k coins | +52.9% | -21.8% |
+| Nikola Katić | 90 | — | 164k coins | +46.4% | +89.6% |
+| Ousmane Diomande | 85 | Liga Portugal | 50k coins | +45.3% | +73% |
+| Jakob Glesnes | 93 | — | 25k coins | +44.8% | +15.5% |
+| Shelina Zadorsky | 87 | Barclays WSL | 25k coins | +40.7% | -30.9% |
+| Milan Škriniar | 93 | — | 27k coins | +39% | +24.4% |
+| Omar Sowunmi | 93 | — | 25k coins | +38.6% | +15.5% |
+| Éder Militão | 88 | LALIGA EA SPORTS | 88k coins | +38.5% | +40.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **27/07/2026** no Console (PS) com clima **comprador
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Maximiliano Caufriez (86)** subiu **+57.9%** em 24h, a **28k coins** (faixa do dia: 17.000–40k). Está +9% acima da média de 7 dias (aquecida).
+- **Willian Pacho (90)** subiu **+56.8%** em 24h, a **29k coins** (faixa do dia: 16.000–78k). Está -52% abaixo da média de 7 dias (descontada).
 
-- **Nikola Katić (90)** subiu **+52.7%** em 24h, a **171k coins** (faixa do dia: 95k–201k). Está +58% acima da média de 7 dias (aquecida).
+- **Irene Paredes (88)** subiu **+54.3%** em 24h, a **47k coins** (faixa do dia: 34k–74k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Sergi Domínguez (92)** subiu **+50.7%** em 24h, a **22k coins** (faixa do dia: 14.000–28k). Está em linha com a média de 7 dias (+5%).
+- **Dara O'Shea (91)** subiu **+52.9%** em 24h, a **30k coins** (faixa do dia: 19.500–36k). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marina Hegering | 87 | GPFBL | 22k coins | -43% | -6.2% |
-| Tara McKeown | 89 | NWSL | 24k coins | -38.6% | +7.8% |
-| Marquinhos | 96 | — | 151k coins | -32.7% | -51% |
-| Dean Huijsen | 91 | LALIGA EA SPORTS | 38k coins | -31.1% | -94.2% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 46k coins | -29.6% | +47% |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 24k coins | -29% | -62.3% |
-| Dejan Lovren | 86 | Hellas Liga | 32k coins | -28.8% | -24.4% |
-| Paolo Maldini | 89 | — | 40k coins | -26.2% | -53.1% |
-| Fabio Cannavaro | 89 | Icons | 95k coins | -24.8% | +13% |
-| Dan Burn | 86 | Premier League | 249k coins | -24.6% | +12.8% |
+| Iván Córdoba | 88 | Serie A TIM | 80k coins | -43.5% | -63.6% |
+| Craig Halkett | 91 | — | 27k coins | -40.8% | -35.9% |
+| Nico Schlotterbeck | 87 | Bundesliga | 49k coins | -40% | +10% |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 44k coins | -37.6% | +31.3% |
+| Josip Šutalo | 90 | Eredivisie | 45k coins | -33.8% | -39.6% |
+| Paolo Maldini | 89 | — | 43k coins | -33.7% | -55.5% |
+| Dean Huijsen | 91 | LALIGA EA SPORTS | 38k coins | -31.1% | -94.1% |
+| Marcos Senesi | 88 | Premier League | 20k coins | -30.5% | +2.5% |
+| Tim Ream | 85 | MLS | 44k coins | -27.3% | -32.3% |
+| Paolo Maldini | 93 | Icons | 661k coins | -27.3% | -49.1% |
 
 
 ### Análise das baixas
 
-- **Marina Hegering (87)** caiu **-43%** em 24h, a **22k coins** (faixa do dia: 21k–40k). Está -30% abaixo da média de 7 dias (descontada).
+- **Iván Córdoba (88)** caiu **-43.5%** em 24h, a **80k coins** (faixa do dia: 33k–80k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Tara McKeown (89)** caiu **-38.6%** em 24h, a **24k coins** (faixa do dia: 20k–40k). Está em linha com a média de 7 dias (-0%).
+- **Craig Halkett (91)** caiu **-40.8%** em 24h, a **27k coins** (faixa do dia: 20k–46k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Marquinhos (96)** caiu **-32.7%** em 24h, a **151k coins** (faixa do dia: 130k–264k). Está -25% abaixo da média de 7 dias (descontada).
+- **Nico Schlotterbeck (87)** caiu **-40%** em 24h, a **49k coins** (faixa do dia: 45k–85k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Maximiliano Caufriez já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Willian Pacho já avançou 56.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marina Hegering recuou -43%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Iván Córdoba recuou -43.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Maximiliano Caufriez (86, Ligue 2 BKT), com +57.9% em 24h, a 28k coins no Console (PS).
+Willian Pacho (90, Ligue 1 McDonald's), com +56.8% em 24h, a 29k coins no Console (PS).
 
 **E a maior queda do dia?**
-Marina Hegering (87), -43% em 24h, a 22k coins.
+Iván Córdoba (88), -43.5% em 24h, a 80k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 138 cartas em alta contra 77 em queda (média 6.56%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 151 cartas em alta contra 90 em queda (média 7.51%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
