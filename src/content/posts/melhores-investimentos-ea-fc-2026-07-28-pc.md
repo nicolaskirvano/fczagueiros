@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T16:44:18.000Z
+pubDatetime: 2026-07-28T19:44:19.000Z
 title: "Investimentos EA FC: Zagueiros em 28/07 — PC"
 draft: false
 featured: true
