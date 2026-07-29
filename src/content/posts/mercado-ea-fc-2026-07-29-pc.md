@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:44:17.000Z
+pubDatetime: 2026-07-29T19:44:17.000Z
 title: "Mercado EA FC em 29/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Nathan Ngoy (84, Ligue 1 McDonald's), com +27.1% em 24h, a 44k coins no PC."
+    a: "Virgil van Dijk (95, Premier League), com +58.9% em 24h, a 1.02M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Steffi Jones (89), -31.2% em 24h, a 28k coins."
+    a: "Pau Torres (96), -50% em 24h, a 70k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 81 cartas em alta contra 64 em queda (média 1.71%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 122 cartas em alta contra 102 em queda (média 4.8%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **81 subiram**, **64 caíram** (80+ e 5k+ coins), média de **1.71%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **122 subiram**, **102 caíram** (80+ e 5k+ coins), média de **4.8%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nathan Ngoy (84) **+27.1%** · 🔴 **Maior baixa:** Steffi Jones (89) **-31.2%**
+> 🟢 **Maior alta:** Virgil van Dijk (95) **+58.9%** · 🔴 **Maior baixa:** Pau Torres (96) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Zagueiros — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 58.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 55.9% entre as cartas que se moveram; o universo observado reúne 215 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 290 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nathan Ngoy | 84 | Ligue 1 McDonald's | 44k coins | +27.1% | -6.3% |
-| Paolo Maldini | 94 | Icons | 50k coins | +21.7% | -96.7% |
-| Kalidou Koulibaly | 92 | — | 22k coins | +18.8% | +16.1% |
-| Annaïg Butel | 86 | D1 Arkema | 30k coins | +16.7% | +7.2% |
-| Pau Cubarsí | 97 | — | 62k coins | +16.7% | +72.7% |
-| Rebeca Bernal | 84 | NWSL | 56k coins | +14.9% | -18.8% |
-| Nico Schlotterbeck | 96 | — | 20k coins | +14.3% | -86.2% |
-| Adil Demirbağ | 84 | EFL League One | 52k coins | +13.2% | +19.8% |
-| Olwethu Makhanya | 92 | — | 21k coins | +13.2% | +19.4% |
-| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +13% | +13% |
+| Virgil van Dijk | 95 | Premier League | 1.02M coins | +58.9% | -7.3% |
+| Craig Halkett | 91 | — | 52k coins | +53.7% | -13.9% |
+| Paolo Maldini | 95 | — | 1.50M coins | +50.8% | +75% |
+| Arthur Theate | 93 | — | 21k coins | +49.3% | +25% |
+| Virgil van Dijk | 91 | Premier League | 1.07M coins | +48.3% | -10.3% |
+| Sherida Spitse | 85 | Nederland Vrouwen Liga | 80k coins | +45.5% | 0% |
+| Irene Paredes | 88 | Liga F | 52k coins | +41.4% | +73% |
+| Ronald Koeman | 92 | — | 21k coins | +39.3% | +25% |
+| Griedge Mbock | 86 | D1 Arkema | 54k coins | +37.9% | 0% |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 22k coins | +37.7% | +29.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nathan Ngoy (84)** subiu **+27.1%** em 24h, a **44k coins** (faixa do dia: 44k–44k). Está em linha com a média de 7 dias (-2%).
+- **Virgil van Dijk (95)** subiu **+58.9%** em 24h, a **1.02M coins** (faixa do dia: 642k–1.02M). Está +22% acima da média de 7 dias (aquecida).
 
-- **Paolo Maldini (94)** subiu **+21.7%** em 24h, a **50k coins** (faixa do dia: 40k–50k). Está -91% abaixo da média de 7 dias (descontada).
+- **Craig Halkett (91)** subiu **+53.7%** em 24h, a **52k coins** (faixa do dia: 30k–70k). Está +29% acima da média de 7 dias (aquecida).
 
-- **Kalidou Koulibaly (92)** subiu **+18.8%** em 24h, a **22k coins** (faixa do dia: 22k–28k). Está em linha com a média de 7 dias (-5%).
+- **Paolo Maldini (95)** subiu **+50.8%** em 24h, a **1.50M coins** (faixa do dia: 995k–1.50M). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steffi Jones | 89 | Icons | 28k coins | -31.2% | -18.5% |
-| Leny Yoro | 86 | Premier League | 115k coins | -25% | +1.1% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 30k coins | -15% | +45.1% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 26k coins | -15% | +14.6% |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 40k coins | -13.9% | -15.3% |
-| William Saliba | 95 | — | 250k coins | -13.8% | -30.4% |
-| Nicolás Otamendi | 86 | Liga Portugal | 84k coins | -13.8% | +9.7% |
-| Ingrid Syrstad Engen | 93 | — | 38k coins | -12.5% | +12.4% |
-| José Fonte | 85 | Liga Portugal | 48k coins | -12.4% | +17.9% |
-| Willian Pacho | 96 | — | 128k coins | -11.7% | -56.9% |
+| Pau Torres | 96 | — | 70k coins | -50% | -63.4% |
+| Dara O'Shea | 91 | — | 24k coins | -49.5% | -42.9% |
+| António Silva | 87 | Liga Portugal | 41k coins | -48.8% | +64% |
+| Jamie Carragher | 92 | — | 32k coins | -46.2% | +27.3% |
+| Jaap Stam | 96 | — | 1.65M coins | -45% | +23.1% |
+| Ezri Konsa | 96 | — | 64k coins | -44.9% | -48% |
+| Marwane Saadane | 83 | Brasileirão | 45k coins | -44.4% | -37.5% |
+| Alessandro Bastoni | 91 | Serie A TIM | 48k coins | -44.1% | -31.7% |
+| Chibuike Nwaiwu | 87 | — | 44k coins | -31.5% | +34.8% |
+| Marcel Desailly | 93 | — | 76k coins | -30.7% | -49.2% |
 
 
 ### Análise das baixas
 
-- **Steffi Jones (89)** caiu **-31.2%** em 24h, a **28k coins** (faixa do dia: 28k–28k). Está em linha com a média de 7 dias (+6%).
+- **Pau Torres (96)** caiu **-50%** em 24h, a **70k coins** (faixa do dia: 70k–147k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Leny Yoro (86)** caiu **-25%** em 24h, a **115k coins** (faixa do dia: 90k–120k). Está +22% acima da média de 7 dias (aquecida).
+- **Dara O'Shea (91)** caiu **-49.5%** em 24h, a **24k coins** (faixa do dia: 22k–48k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Dan-Axel Zagadou (85)** caiu **-15%** em 24h, a **30k coins** (faixa do dia: 30k–35k). Está em linha com a média de 7 dias (-6%).
+- **António Silva (87)** caiu **-48.8%** em 24h, a **41k coins** (faixa do dia: 27k–62k). Está +27% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nathan Ngoy já avançou 27.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Virgil van Dijk já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Steffi Jones recuou -31.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Pau Torres recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Nathan Ngoy (84, Ligue 1 McDonald's), com +27.1% em 24h, a 44k coins no PC.
+Virgil van Dijk (95, Premier League), com +58.9% em 24h, a 1.02M coins no PC.
 
 **E a maior queda do dia?**
-Steffi Jones (89), -31.2% em 24h, a 28k coins.
+Pau Torres (96), -50% em 24h, a 70k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 81 cartas em alta contra 64 em queda (média 1.71%).
+Hoje o mercado está em alta — predominam as valorizações, com 122 cartas em alta contra 102 em queda (média 4.8%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
