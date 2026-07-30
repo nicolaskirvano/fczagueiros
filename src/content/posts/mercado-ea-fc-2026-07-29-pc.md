@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:44:17.000Z
+pubDatetime: 2026-07-30T01:44:17.000Z
 title: "Mercado EA FC em 29/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Dara O'Shea (91), -49.5% em 24h, a 24k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 132 cartas em alta contra 93 em queda (média 6.7%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 135 cartas em alta contra 101 em queda (média 4.89%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **132 subiram**, **93 caíram** (80+ e 5k+ coins), média de **6.7%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **135 subiram**, **101 caíram** (80+ e 5k+ coins), média de **4.89%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Virgil van Dijk (95) **+58.9%** · 🔴 **Maior baixa:** Dara O'Shea (91) **-49.5%**
 
@@ -36,7 +36,7 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 108.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.7% entre as cartas que se moveram; o universo observado reúne 295 cartas.
+- **Participação das altas:** 57.2% entre as cartas que se moveram; o universo observado reúne 311 cartas.
 - **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
@@ -44,15 +44,15 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Virgil van Dijk | 95 | Premier League | 1.02M coins | +58.9% | -7.9% |
-| Gabriel | 96 | — | 75k coins | +58% | -10.2% |
-| Rocío Gálvez | 85 | Liga F | 30k coins | +57.9% | +51.9% |
-| Glódís Perla Viggósdóttir | 85 | GPFBL | 25k coins | +57.1% | +8.6% |
-| Ledley King | 86 | Premier League | 20k coins | +53.8% | +8.1% |
+| Glódís Perla Viggósdóttir | 85 | GPFBL | 21k coins | +57.1% | +8.6% |
+| Rocío Gálvez | 85 | Liga F | 29k coins | +55.3% | +51.3% |
+| Ledley King | 86 | Premier League | 20k coins | +53.8% | -7% |
 | Paolo Maldini | 95 | — | 1.50M coins | +50.8% | +15.9% |
-| David Alaba | 87 | LALIGA EA SPORTS | 26k coins | +50% | -22.2% |
 | Virgil van Dijk | 91 | Premier League | 1.07M coins | +48.3% | -10.3% |
-| Laurent Blanc | 88 | Icons | 151k coins | +47.7% | +58.8% |
-| Murillo | 87 | Premier League | 205k coins | +45.1% | +6.1% |
+| Ronald Araujo | 94 | — | 355k coins | +43.3% | +30.3% |
+| Gabriel | 89 | Premier League | 72k coins | +40.8% | -19.4% |
+| Vincent Kompany | 92 | — | 21k coins | +40.6% | +30.4% |
+| Gabriel | 96 | — | 74k coins | +40% | -21.3% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Virgil van Dijk (95)** subiu **+58.9%** em 24h, a **1.02M coins** (faixa do dia: 642k–1.02M). Está +21% acima da média de 7 dias (aquecida).
+- **Virgil van Dijk (95)** subiu **+58.9%** em 24h, a **1.02M coins** (faixa do dia: 642k–1.02M). Está +22% acima da média de 7 dias (aquecida).
 
-- **Gabriel (96)** subiu **+58%** em 24h, a **75k coins** (faixa do dia: 50k–85k). Está em linha com a média de 7 dias (+5%).
+- **Glódís Perla Viggósdóttir (85)** subiu **+57.1%** em 24h, a **21k coins** (faixa do dia: 14.000–27k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Rocío Gálvez (85)** subiu **+57.9%** em 24h, a **30k coins** (faixa do dia: 19.000–30k). Está +62% acima da média de 7 dias (aquecida).
+- **Rocío Gálvez (85)** subiu **+55.3%** em 24h, a **29k coins** (faixa do dia: 19.000–30k). Está +56% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -73,24 +73,24 @@ Hoje (**29/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Dara O'Shea | 91 | — | 24k coins | -49.5% | -42.9% |
-| Gustaf Lagerbielke | 91 | — | 25k coins | -44.6% | -46.6% |
-| Alessandro Bastoni | 91 | Serie A TIM | 46k coins | -44.1% | -31.2% |
+| Jamie Carragher | 92 | — | 65k coins | -48.8% | +14.7% |
+| Andrea Barzagli | 89 | — | 32k coins | -46.2% | +7.5% |
+| Ezri Konsa | 96 | — | 64k coins | -46.2% | -49.2% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 45k coins | -45% | -34% |
+| Mapi León | 90 | Liga F | 50k coins | -41.2% | -34.2% |
 | Eric Dier | 86 | Ligue 1 McDonald's | 21k coins | -40.7% | -22.4% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 45k coins | -40% | -29.7% |
-| Ezri Konsa | 96 | — | 70k coins | -37.3% | -40.3% |
-| Malang Sarr | 96 | — | 44k coins | -34.9% | -38% |
-| Ezri Konsa | 96 | — | 82k coins | -34.5% | -57.8% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 34k coins | -34.3% | +1.5% |
-| Siebe Van der Heyden | 80 | 1A Pro League | 34k coins | -27.9% | -21.7% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 45k coins | -40% | -15.1% |
+| Gustaf Lagerbielke | 91 | — | 27k coins | -39.7% | -43.4% |
+| Nico Schlotterbeck | 87 | Bundesliga | 20k coins | -38.1% | -53.3% |
 
 
 ### Análise das baixas
 
-- **Dara O'Shea (91)** caiu **-49.5%** em 24h, a **24k coins** (faixa do dia: 22k–48k). Está -33% abaixo da média de 7 dias (descontada).
+- **Dara O'Shea (91)** caiu **-49.5%** em 24h, a **24k coins** (faixa do dia: 22k–48k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Gustaf Lagerbielke (91)** caiu **-44.6%** em 24h, a **25k coins** (faixa do dia: 19.000–46k). Está -34% abaixo da média de 7 dias (descontada).
+- **Jamie Carragher (92)** caiu **-48.8%** em 24h, a **65k coins** (faixa do dia: 20k–65k). Está +85% acima da média de 7 dias (aquecida).
 
-- **Alessandro Bastoni (91)** caiu **-44.1%** em 24h, a **46k coins** (faixa do dia: 45k–76k). Está -37% abaixo da média de 7 dias (descontada).
+- **Andrea Barzagli (89)** caiu **-46.2%** em 24h, a **32k coins** (faixa do dia: 22k–60k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Virgil van Dijk (95, Premier League), com +58.9% em 24h, a 1.02M coins no PC.
 Dara O'Shea (91), -49.5% em 24h, a 24k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 132 cartas em alta contra 93 em queda (média 6.7%).
+Hoje o mercado está em alta — predominam as valorizações, com 135 cartas em alta contra 101 em queda (média 4.89%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

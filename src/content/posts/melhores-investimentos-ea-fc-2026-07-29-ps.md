@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:44:09.000Z
+pubDatetime: 2026-07-30T01:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 29/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Samson Baidoo (85, Ligue 1 McDonald's) lidera, com +86.2% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Diney (94, sem liga) lidera, com +82.2% em 7 dias a 19.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Samson Baidoo (85) acumula **+86.2% em 7 dias** a 44k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Diney (94) acumula **+82.2% em 7 dias** a 19.500 coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 29/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-29-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.4% em 24h** e **+50.0% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.7% em 24h** e **+50.0% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Samson Baidoo | 85 | Ligue 1 McDonald's | 44k coins | +1.2% | +86.2% | Esticada |
-| Pau Cubarsí | 97 | — | 72k coins | +1.4% | +80.6% | Esticada |
-| Diney | 94 | — | 21k coins | +25.8% | +80.4% | Esticada |
-| Lisandro Martínez | 95 | — | 21k coins | +29.2% | +78.7% | Esticada |
-| Dayot Upamecano | 96 | — | 23k coins | +13.3% | +54.1% | Momentum moderado |
-| Kojo Peprah Oppong | 93 | — | 22k coins | +26.1% | +52.6% | Esticada |
-| Ilario Monterisi | 84 | Serie BKT | 40k coins | +20.4% | +52.1% | Esticada |
-| Dan-Axel Zagadou | 85 | Bundesliga | 23k coins | +37.8% | +50% | Esticada |
-| Luka Vušković | 94 | — | 22k coins | +26.1% | +50% | Esticada |
-| Irene Paredes | 88 | Liga F | 65k coins | +9.7% | +45.7% | Momentum moderado |
-| Wendie Renard | 86 | D1 Arkema | 55k coins | +6.8% | +43.8% | Momentum moderado |
-| Roberto Lopes | 95 | — | 37k coins | +2% | +43.5% | Momentum moderado |
-| Kevin Danso | 93 | — | 22k coins | +27.4% | +43.1% | Esticada |
-| Tsuyoshi Watanabe | 94 | — | 23k coins | +25.7% | +43.1% | Esticada |
-| Youri Baas | 84 | Eredivisie | 60k coins | +4.3% | +42% | Momentum moderado |
+| Diney | 94 | — | 19.500 coins | +24.2% | +82.2% | Esticada |
+| Matthias Ginter | 88 | Bundesliga | 47k coins | +13.1% | +81% | Esticada |
+| Lisandro Martínez | 95 | — | 20k coins | +26.2% | +78.3% | Esticada |
+| Lucas Herrington | 93 | — | 22k coins | +29.4% | +57.1% | Esticada |
+| Renato Veiga | 94 | — | 20k coins | +30.3% | +53.6% | Esticada |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 43k coins | +15% | +51.7% | Momentum moderado |
+| Dayot Upamecano | 96 | — | 24k coins | +10.8% | +50.8% | Momentum moderado |
+| Dan Burn | 86 | Premier League | 231k coins | +7.4% | +50% | Momentum moderado |
+| Luc De Fougerolles | 93 | — | 21k coins | +21.7% | +50% | Esticada |
+| Luka Vušković | 94 | — | 21k coins | +23.2% | +49.1% | Esticada |
+| Kojo Peprah Oppong | 93 | — | 22k coins | +23.2% | +49.1% | Esticada |
+| Pubill | 92 | — | 35k coins | +36.3% | +47.9% | Esticada |
+| Fabio Cannavaro | 89 | Icons | 155k coins | +11.5% | +47.6% | Momentum moderado |
+| Roberto Lopes | 95 | — | 40k coins | +5.3% | +46.8% | Momentum moderado |
+| Nicolas Seiwald | 85 | Bundesliga | 25k coins | +1% | +46.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Samson Baidoo (85)** — 44k coins, **+86.2% em 7 dias** (+1.2% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diney (94)** — 19.500 coins, **+82.2% em 7 dias** (+24.2% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pau Cubarsí (97)** — 72k coins, **+80.6% em 7 dias** (+1.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matthias Ginter (88)** — 47k coins, **+81% em 7 dias** (+13.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diney (94)** — 21k coins, **+80.4% em 7 dias** (+25.8% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lisandro Martínez (95)** — 20k coins, **+78.3% em 7 dias** (+26.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lisandro Martínez (95)** — 21k coins, **+78.7% em 7 dias** (+29.2% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucas Herrington (93)** — 22k coins, **+57.1% em 7 dias** (+29.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dayot Upamecano (96)** — 23k coins, **+54.1% em 7 dias** (+13.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Renato Veiga (94)** — 20k coins, **+53.6% em 7 dias** (+30.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Samson Baidoo (85, Ligue 1 McDonald's) lidera, com +86.2% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Diney (94, sem liga) lidera, com +82.2% em 7 dias a 19.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
