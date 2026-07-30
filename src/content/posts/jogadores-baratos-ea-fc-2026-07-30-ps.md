@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:44:10.000Z
+pubDatetime: 2026-07-30T19:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 30/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (30/07/2026)?"
-    a: "Nnamdi Collins (95, sem liga) aparece como melhor custo-benefício, a 13.500 coins no Console (PS)."
+    a: "Wendie Renard (91, D1 Arkema) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **30/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Nnamdi Collins (95) por apenas 13.500 coins.
+> 💰 **Melhor pechincha:** Wendie Renard (91) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Zagueiros em 30/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-30-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.623 coins.
+- **Preço médio das 15 opções:** 12.027 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 6.400 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 8.400 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,39 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Nnamdi Collins | 95 | CB | — | 13.500 coins | +10.6% |
-| Miles Robinson | 95 | CB | — | 13.500 coins | +6.4% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
+| Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.500 coins | -4.2% |
-| Virgil van Dijk | 90 | CB | Premier League | 8.700 coins | -3% |
-| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | -4.2% |
+| Virgil van Dijk | 90 | CB | Premier League | 8.400 coins | -15% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 6.400 coins | +28% |
+| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 13.750 coins | +24% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | +9.1% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | +24.4% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.000 coins | +10.9% |
-| Sol Campbell | 88 | CB | — | 14.000 coins | +3.7% |
-| Loïc Badé | 88 | CB | Bundesliga | 14.750 coins | +26% |
+| Sol Campbell | 88 | CB | — | 14.000 coins | +12.9% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14.250 coins | +22.4% |
 
 
 ## 📈 Destaques
 
-- **Nnamdi Collins (95, CB)** da —, a apenas **13.500 coins**
-
-- **Miles Robinson (95, CB)** da —, a apenas **13.500 coins**
-
 - **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **8.400 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Nnamdi Collins (95, CB) por 13.500 coins é a referência de rating deste recorte.
+- **Defesa:** Wendie Renard (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -91,7 +91,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (30/07/2026)?**  
-Nnamdi Collins (95, sem liga) aparece como melhor custo-benefício, a 13.500 coins no Console (PS).
+Wendie Renard (91, D1 Arkema) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:44:19.000Z
+pubDatetime: 2026-07-30T19:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.027 coins.
+- **Preço médio das 15 opções:** 10.347 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.800 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 9.900 coins | +15.3% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | -2.1% |
+| Virgil van Dijk | 90 | CB | Premier League | 10.000 coins | +5.4% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 6.000 coins | +7.1% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13.750 coins | -3.6% |
-| Gabriel | 88 | CB | Premier League | 1.800 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2.200 coins | 0% |
-| Laura Georges | 87 | CB | D1 Arkema | 11.750 coins | -2.1% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14.250 coins | +29.5% |
+| Carles Puyol | 88 | CB | — | 14.750 coins | 0% |
+| Laura Georges | 87 | CB | D1 Arkema | 12.750 coins | 0% |
+| Ibrahima Konaté | 86 | CB | — | 3.800 coins | 0% |
+| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 3.800 coins | 0% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 4.600 coins | +9.3% |
+| Jamie Carragher | 86 | CB | Premier League | 14.750 coins | -4.5% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **10.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca

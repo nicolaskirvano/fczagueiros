@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paolo Maldini</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Milan Škriniar</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sepp van den Berg</text>
-<rect x="285" y="153" width="461" height="28" rx="7" fill="#22c55e"/>
-<text x="756" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willian Pacho</text>
-<rect x="285" y="211" width="409" height="28" rx="7" fill="#22c55e"/>
-<text x="704" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willian Pacho</text>
+<rect x="285" y="153" width="456" height="28" rx="7" fill="#22c55e"/>
+<text x="751" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ahmed Hegazi</text>
+<rect x="285" y="211" width="438" height="28" rx="7" fill="#22c55e"/>
+<text x="733" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniel Munie</text>
-<rect x="285" y="269" width="409" height="28" rx="7" fill="#22c55e"/>
-<text x="704" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dara O&#x27;Shea</text>
-<rect x="285" y="327" width="380" height="28" rx="7" fill="#22c55e"/>
-<text x="675" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daley Blind</text>
-<rect x="285" y="385" width="359" height="28" rx="7" fill="#22c55e"/>
-<text x="654" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.9%</text>
+<rect x="285" y="269" width="407" height="28" rx="7" fill="#22c55e"/>
+<text x="702" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daley Blind</text>
+<rect x="285" y="327" width="338" height="28" rx="7" fill="#22c55e"/>
+<text x="633" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Siebe Van der Heyden</text>
+<rect x="285" y="385" width="315" height="28" rx="7" fill="#22c55e"/>
+<text x="610" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.7%</text>
 </svg>
