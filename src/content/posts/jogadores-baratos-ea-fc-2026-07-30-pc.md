@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:44:20.000Z
+pubDatetime: 2026-07-30T16:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.660 coins.
+- **Preço médio das 15 opções:** 10.027 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.000 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 9.100 coins | +16.5% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 9.900 coins | +15.3% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 5.400 coins | -12.7% |
+| Mapi León | 89 | CB | Liga F | 6.000 coins | +7.1% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.750 coins | -3.6% |
+| Gabriel | 88 | CB | Premier League | 1.800 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Loïc Badé | 88 | CB | Bundesliga | 14.250 coins | 0% |
-| Jonathan Tah | 87 | CB | Bundesliga | 1.500 coins | +14.3% |
-| Alessandro Bastoni | 87 | CB | Serie A Enilive | 1.600 coins | +33.3% |
-| Leah Williamson | 87 | CB | Barclays WSL | 1.700 coins | -7.7% |
-| Millie Bright | 87 | CB | Barclays WSL | 5.100 coins | -2.1% |
+| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2.200 coins | 0% |
+| Laura Georges | 87 | CB | D1 Arkema | 11.750 coins | -2.1% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14.250 coins | +29.5% |
 
 
 ## 📈 Destaques
@@ -65,9 +65,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9.100 coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9.900 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
