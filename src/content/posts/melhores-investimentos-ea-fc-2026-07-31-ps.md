@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:44:09.000Z
+pubDatetime: 2026-07-31T22:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Daley Blind (86, LALIGA EA SPORTS) lidera, com +88.2% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Bobby Moore (93, sem liga) lidera, com +81.4% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Daley Blind (86) acumula **+88.2% em 7 dias** a 38k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Bobby Moore (93) acumula **+81.4% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.1% em 24h** e **+61.3% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+13.6% em 24h** e **+59.6% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Daley Blind | 86 | LALIGA EA SPORTS | 38k coins | +26.8% | +88.2% | Esticada |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 49k coins | +10.9% | +86.7% | Esticada |
-| Diney | 94 | — | 21k coins | +2.6% | +70.2% | Esticada |
-| Ousmane Diomande | 85 | Liga Portugal | 38k coins | +1.3% | +69.7% | Esticada |
-| Lisandro Martínez | 95 | — | 19.250 coins | +3.8% | +68.8% | Esticada |
-| Pau Cubarsí | 93 | — | 35k coins | +8.8% | +64.9% | Esticada |
-| Bremer | 95 | — | 83k coins | +4.6% | +62.5% | Esticada |
-| Roberto Lopes | 95 | — | 50k coins | +25% | +61.3% | Esticada |
-| Luc De Fougerolles | 93 | — | 21k coins | +3.7% | +55.6% | Momentum moderado |
-| Miles Robinson | 95 | — | 17.500 coins | +6.1% | +55.6% | Momentum moderado |
-| Kojo Peprah Oppong | 93 | — | 21k coins | +8.8% | +55.4% | Momentum moderado |
-| Lucas Herrington | 93 | — | 20k coins | +6.2% | +50.9% | Momentum moderado |
-| Renato Veiga | 94 | — | 21k coins | +3.7% | +49.1% | Momentum moderado |
-| Luka Vušković | 94 | — | 21k coins | +6.2% | +49.1% | Momentum moderado |
-| Vincent Kompany | 92 | — | 20k coins | +1.2% | +44.1% | Momentum moderado |
+| Bobby Moore | 93 | — | 55k coins | +8.3% | +81.4% | Esticada |
+| Eric García | 96 | — | 141k coins | +10.3% | +73% | Esticada |
+| Mapi León | 90 | Liga F | 90k coins | +28.6% | +66.7% | Esticada |
+| Nemanja Vidić | 87 | Icons | 120k coins | +16.3% | +64.6% | Esticada |
+| Iván Córdoba | 87 | Serie A TIM | 23k coins | +13.4% | +63.2% | Esticada |
+| Dayot Upamecano | 93 | — | 22k coins | +12% | +60% | Esticada |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 35k coins | +22.2% | +59.7% | Esticada |
+| Diney | 94 | — | 18.750 coins | +2.7% | +59.6% | Momentum moderado |
+| Lisandro Martínez | 95 | — | 18.250 coins | +2.7% | +58.3% | Momentum moderado |
+| Aymeric Laporte | 97 | — | 220k coins | +5.3% | +57.5% | Momentum moderado |
+| Millie Bright | 88 | Barclays WSL | 40k coins | +35.8% | +56.5% | Esticada |
+| Deja Davis | 92 | — | 21k coins | +40% | +55.6% | Esticada |
+| Santiago Sosa | 93 | — | 22k coins | +13.6% | +53.8% | Momentum moderado |
+| Daley Blind | 86 | LALIGA EA SPORTS | 35k coins | +16.7% | +50.5% | Momentum moderado |
+| Jamie Carragher | 92 | — | 26k coins | +25% | +47.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Daley Blind (86)** — 38k coins, **+88.2% em 7 dias** (+26.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bobby Moore (93)** — 55k coins, **+81.4% em 7 dias** (+8.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Bartra (87)** — 49k coins, **+86.7% em 7 dias** (+10.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric García (96)** — 141k coins, **+73% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diney (94)** — 21k coins, **+70.2% em 7 dias** (+2.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 90k coins, **+66.7% em 7 dias** (+28.6% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ousmane Diomande (85)** — 38k coins, **+69.7% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nemanja Vidić (87)** — 120k coins, **+64.6% em 7 dias** (+16.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lisandro Martínez (95)** — 19.250 coins, **+68.8% em 7 dias** (+3.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Córdoba (87)** — 23k coins, **+63.2% em 7 dias** (+13.4% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Daley Blind (86, LALIGA EA SPORTS) lidera, com +88.2% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Bobby Moore (93, sem liga) lidera, com +81.4% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

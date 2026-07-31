@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:44:19.000Z
+pubDatetime: 2026-07-31T22:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.857 coins.
+- **Preço médio das 15 opções:** 10.773 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,15 +46,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 5.000 coins | +14% |
 | Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
+| Jamie Carragher | 89 | CB | — | 11.250 coins | +4.1% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Vincent Kompany | 88 | CB | Premier League | 14.000 coins | -15% |
-| William Saliba | 87 | CB | Premier League | 2.000 coins | +25% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.000 coins | +2.1% |
-| Ibrahima Konaté | 86 | CB | Premier League | 1.600 coins | +13.3% |
+| Vincent Kompany | 88 | CB | Premier League | 14.500 coins | -8.3% |
+| Millie Bright | 87 | CB | Barclays WSL | 8.100 coins | -10% |
+| Laura Georges | 87 | CB | D1 Arkema | 12.000 coins | -5.9% |
+| Ibrahima Konaté | 86 | CB | Premier League | 2.500 coins | +14.3% |
 
 
 ## 📈 Destaques
