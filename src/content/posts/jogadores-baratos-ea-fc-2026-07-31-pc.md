@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:44:21.000Z
+pubDatetime: 2026-07-31T13:44:19.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.263 coins.
+- **Preço médio das 15 opções:** 10.357 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 1.600 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.400 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 9.400 coins | -3.1% |
+| Virgil van Dijk | 90 | CB | Premier League | 9.400 coins | +1% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
+| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11.250 coins | -11.8% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11.500 coins | +11.1% |
+| Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
+| Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Marquinhos | 87 | CB | Ligue 1 McDonald's | 1.600 coins | 0% |
-| Millie Bright | 87 | CB | Barclays WSL | 4.100 coins | -11.5% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.500 coins | -2% |
+| Laura Georges | 87 | CB | D1 Arkema | 14.250 coins | -5.9% |
+| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 3.400 coins | +20% |
 | Ibrahima Konaté | 86 | CB | — | 3.800 coins | 0% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 5.300 coins | +35% |
 
 
 ## 📈 Destaques

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:44:18.000Z
+pubDatetime: 2026-07-31T13:44:17.000Z
 title: "Mercado EA FC em 31/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Kevin Mac Allister (94, sem liga), com +59.2% em 24h, a 48k coins no PC."
+    a: "Gonçalo Inácio (89, Liga Portugal), com +60% em 24h, a 200k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Marwane Saadane (83), -46.1% em 24h, a 24k coins."
+    a: "Alessandro Nesta (88), -47.6% em 24h, a 30k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 93 cartas em alta contra 139 em queda (média -1.43%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 84 cartas em alta contra 134 em queda (média -0.22%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **31/07/2026** (PC): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **93 em alta** e **139 em queda**, média de **-1.43%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **31/07/2026** (PC): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **84 em alta** e **134 em queda**, média de **-0.22%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Kevin Mac Allister (94) **+59.2%** · 🔴 **Maior baixa:** Marwane Saadane (83) **-46.1%**
+> 🟢 **Maior alta:** Gonçalo Inácio (89) **+60%** · 🔴 **Maior baixa:** Alessandro Nesta (88) **-47.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Zagueiros — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **31/07/2026** (PC): dia **indefinido** — sem tendência dominante
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.1% entre as cartas que se moveram; o universo observado reúne 306 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.5% entre as cartas que se moveram; o universo observado reúne 289 cartas.
+- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kevin Mac Allister | 94 | — | 48k coins | +59.2% | +32.6% |
-| Micky van de Ven | 90 | Premier League | 1.90M coins | +58.3% | -5% |
-| Sherida Spitse | 85 | Nederland Vrouwen Liga | 72k coins | +51.6% | -10% |
-| Steffi Jones | 89 | Icons | 40k coins | +50.9% | +10.3% |
-| Aymeric Laporte | 97 | — | 222k coins | +49.7% | +72.4% |
-| Alessandro Nesta | 89 | Icons | 116k coins | +49.4% | +69.9% |
-| Gonçalo Inácio | 89 | Liga Portugal | 200k coins | +48.1% | +37.9% |
-| Arseniy Batagov | 94 | — | 32k coins | +44.4% | +18.2% |
-| Ahmetcan Kaplan | 88 | Eredivisie | 35k coins | +42.9% | +34.6% |
-| Wendie Renard | 86 | D1 Arkema | 22k coins | +42.6% | -2.2% |
+| Gonçalo Inácio | 89 | Liga Portugal | 200k coins | +60% | +37.9% |
+| Jonathan Tah | 88 | Bundesliga | 58k coins | +57% | +77.3% |
+| Sherida Spitse | 85 | Nederland Vrouwen Liga | 68k coins | +50.5% | -12.5% |
+| Paolo Maldini | 97 | — | 2M coins | +50.2% | +5.3% |
+| Çağlar Söyüncü | 93 | — | 30k coins | +50% | +84.6% |
+| Micky van de Ven | 90 | Premier League | 1.90M coins | +46.2% | +2.7% |
+| Harry Maguire | 83 | Premier League | 75k coins | +42.5% | +25.7% |
+| Dan Burn | 86 | Premier League | 150k coins | +40.2% | +16.3% |
+| Ledley King | 86 | Premier League | 23k coins | +39.4% | +17.9% |
+| Nicolas Seiwald | 85 | Bundesliga | 26k coins | +38.5% | -24.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **31/07/2026** (PC): dia **indefinido** — sem tendência dominante
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kevin Mac Allister (94)** subiu **+59.2%** em 24h, a **48k coins** (faixa do dia: 22k–50k). Está +31% acima da média de 7 dias (aquecida).
+- **Gonçalo Inácio (89)** subiu **+60%** em 24h, a **200k coins** (faixa do dia: 117k–200k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Micky van de Ven (90)** subiu **+58.3%** em 24h, a **1.90M coins** (faixa do dia: 1.25M–1.90M). Está -13% abaixo da média de 7 dias (descontada).
+- **Jonathan Tah (88)** subiu **+57%** em 24h, a **58k coins** (faixa do dia: 26k–65k). Está +52% acima da média de 7 dias (aquecida).
 
-- **Sherida Spitse (85)** subiu **+51.6%** em 24h, a **72k coins** (faixa do dia: 44k–78k). Está +13% acima da média de 7 dias (aquecida).
+- **Sherida Spitse (85)** subiu **+50.5%** em 24h, a **68k coins** (faixa do dia: 44k–78k). Está em linha com a média de 7 dias (+7%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marwane Saadane | 83 | Brasileirão | 24k coins | -46.1% | -19.2% |
-| Alessandro Nesta | 88 | — | 29k coins | -45.3% | -24.7% |
-| Virgil van Dijk | 95 | Premier League | 582k coins | -42.9% | -16.7% |
+| Alessandro Nesta | 88 | — | 30k coins | -47.6% | -21.3% |
+| Gabriel | 89 | Premier League | 45k coins | -46.1% | -35.8% |
+| Marwane Saadane | 83 | Brasileirão | 24k coins | -46.1% | -18.5% |
+| Vanessa Diehm | 86 | GPFBL | 48k coins | -46% | -39% |
+| Chadi Riad | 96 | — | 219k coins | -45.4% | -47.5% |
+| Virgil van Dijk | 95 | Premier League | 582k coins | -42.9% | -16.6% |
 | Micky van de Ven | 87 | Premier League | 1.40M coins | -41.7% | -11.3% |
-| Jaydee Canvot | 96 | — | 76k coins | -38.5% | -53.5% |
-| Gustaf Lagerbielke | 91 | — | 30k coins | -36.7% | -30.8% |
-| Issa Diop | 95 | — | 87k coins | -36.5% | -23% |
-| David Alaba | 87 | LALIGA EA SPORTS | 29k coins | -34.6% | +4.5% |
-| William Saliba | 95 | — | 354k coins | -34.5% | -29.3% |
-| William Saliba | 94 | Premier League | 293k coins | -34.5% | -44.1% |
+| Roberto Lopes | 95 | — | 29k coins | -39.6% | -1.7% |
+| Virgil van Dijk | 92 | — | 450k coins | -37.5% | -28.5% |
+| William Saliba | 95 | — | 255k coins | -36.2% | -32.9% |
 
 
 ### Análise das baixas
 
+- **Alessandro Nesta (88)** caiu **-47.6%** em 24h, a **30k coins** (faixa do dia: 18.000–60k). Está -21% abaixo da média de 7 dias (descontada).
+
+- **Gabriel (89)** caiu **-46.1%** em 24h, a **45k coins** (faixa do dia: 45k–130k). Está -38% abaixo da média de 7 dias (descontada).
+
 - **Marwane Saadane (83)** caiu **-46.1%** em 24h, a **24k coins** (faixa do dia: 24k–45k). Está -33% abaixo da média de 7 dias (descontada).
-
-- **Alessandro Nesta (88)** caiu **-45.3%** em 24h, a **29k coins** (faixa do dia: 18.000–60k). Está -23% abaixo da média de 7 dias (descontada).
-
-- **Virgil van Dijk (95)** caiu **-42.9%** em 24h, a **582k coins** (faixa do dia: 582k–1.02M). Está -28% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kevin Mac Allister já avançou 59.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gonçalo Inácio já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marwane Saadane recuou -46.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alessandro Nesta recuou -47.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Kevin Mac Allister (94, sem liga), com +59.2% em 24h, a 48k coins no PC.
+Gonçalo Inácio (89, Liga Portugal), com +60% em 24h, a 200k coins no PC.
 
 **E a maior queda do dia?**
-Marwane Saadane (83), -46.1% em 24h, a 24k coins.
+Alessandro Nesta (88), -47.6% em 24h, a 30k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 93 cartas em alta contra 139 em queda (média -1.43%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 84 cartas em alta contra 134 em queda (média -0.22%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
