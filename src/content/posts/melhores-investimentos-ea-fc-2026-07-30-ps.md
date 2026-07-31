@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:44:09.000Z
+pubDatetime: 2026-07-31T01:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Maxence Lacroix (87, Premier League) lidera, com +88.9% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pau Cubarsí (97, sem liga) lidera, com +88.5% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Maxence Lacroix (87) acumula **+88.9% em 7 dias** a 160k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Pau Cubarsí (97) acumula **+88.5% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.9% em 24h** e **+52.0% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+17.2% em 24h** e **+65.0% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Maxence Lacroix | 87 | Premier League | 160k coins | +39.3% | +88.9% | Esticada |
-| Iván Córdoba | 88 | Serie A TIM | 58k coins | +3.3% | +81% | Esticada |
-| Dayot Upamecano | 96 | — | 22k coins | +12.9% | +72.1% | Esticada |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 29k coins | +24.7% | +68.1% | Esticada |
-| Dan Burn | 86 | Premier League | 230k coins | +14.9% | +59.4% | Momentum moderado |
-| Pau Cubarsí | 93 | — | 36k coins | +17.1% | +57.5% | Momentum moderado |
-| Tara McKeown | 95 | — | 50k coins | +32.5% | +55.6% | Esticada |
-| Dejan Lovren | 86 | Hellas Liga | 85k coins | +3.3% | +52% | Momentum moderado |
-| Chris Smalling | 87 | ROSHN Saudi League | 44k coins | +11.1% | +51.5% | Momentum moderado |
-| Pau Cubarsí | 96 | — | 45k coins | +6% | +47.5% | Momentum moderado |
-| Aymeric Laporte | 97 | — | 179k coins | +7.6% | +47.2% | Momentum moderado |
-| Adil Demirbağ | 84 | EFL League One | 55k coins | +15.2% | +41.9% | Momentum moderado |
-| Cristina Cubedo | 84 | Liga F | 55k coins | +22.9% | +41% | Esticada |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 65k coins | +22.6% | +37.6% | Esticada |
-| Ledley King | 86 | Premier League | 21k coins | +10% | +37.5% | Momentum moderado |
+| Pau Cubarsí | 97 | — | 60k coins | +13.9% | +88.5% | Esticada |
+| Marcel Desailly | 93 | — | 96k coins | +29.3% | +81.9% | Esticada |
+| Maxence Lacroix | 87 | Premier League | 178k coins | +21.9% | +72.8% | Esticada |
+| Ben Davies | 84 | Premier League | 60k coins | +28% | +71.2% | Esticada |
+| Pau Cubarsí | 93 | — | 38k coins | +31.1% | +69.6% | Esticada |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 29k coins | +2.7% | +68.1% | Esticada |
+| Dan Burn | 86 | Premier League | 240k coins | +11.1% | +66.7% | Esticada |
+| Dejan Lovren | 86 | Hellas Liga | 85k coins | +13.3% | +65% | Esticada |
+| Bobby Moore | 93 | — | 54k coins | +13.7% | +58.8% | Momentum moderado |
+| Elba Vergés | 84 | Liga F | 62k coins | +25% | +56.2% | Esticada |
+| Ingrid Syrstad Engen | 93 | — | 33k coins | +17.2% | +47.8% | Momentum moderado |
+| Eric García | 96 | — | 148k coins | +22.1% | +45.5% | Esticada |
+| Adil Demirbağ | 84 | EFL League One | 55k coins | +5.8% | +41.9% | Momentum moderado |
+| Kevin Mac Allister | 94 | — | 32k coins | +28.3% | +38% | Esticada |
+| Giorgio Scalvini | 86 | Serie A TIM | 55k coins | +10% | +36.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Maxence Lacroix (87)** — 160k coins, **+88.9% em 7 dias** (+39.3% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pau Cubarsí (97)** — 60k coins, **+88.5% em 7 dias** (+13.9% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iván Córdoba (88)** — 58k coins, **+81% em 7 dias** (+3.3% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcel Desailly (93)** — 96k coins, **+81.9% em 7 dias** (+29.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dayot Upamecano (96)** — 22k coins, **+72.1% em 7 dias** (+12.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maxence Lacroix (87)** — 178k coins, **+72.8% em 7 dias** (+21.9% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lotte Wubben-Moy (85)** — 29k coins, **+68.1% em 7 dias** (+24.7% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ben Davies (84)** — 60k coins, **+71.2% em 7 dias** (+28% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan Burn (86)** — 230k coins, **+59.4% em 7 dias** (+14.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pau Cubarsí (93)** — 38k coins, **+69.6% em 7 dias** (+31.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Maxence Lacroix (87, Premier League) lidera, com +88.9% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pau Cubarsí (97, sem liga) lidera, com +88.5% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

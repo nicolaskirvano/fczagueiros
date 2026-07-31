@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pau Cubarsí</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gonçalo Inácio</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pubill</text>
-<rect x="285" y="153" width="448" height="28" rx="7" fill="#22c55e"/>
-<text x="743" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Diomande</text>
-<rect x="285" y="211" width="432" height="28" rx="7" fill="#22c55e"/>
-<text x="727" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marquinhos</text>
-<rect x="285" y="269" width="379" height="28" rx="7" fill="#22c55e"/>
-<text x="674" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jan Bednarek</text>
-<rect x="285" y="327" width="349" height="28" rx="7" fill="#22c55e"/>
-<text x="644" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rocío Gálvez</text>
-<rect x="285" y="385" width="321" height="28" rx="7" fill="#22c55e"/>
-<text x="616" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Diomande</text>
+<rect x="285" y="153" width="454" height="28" rx="7" fill="#22c55e"/>
+<text x="749" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
+<rect x="285" y="211" width="450" height="28" rx="7" fill="#22c55e"/>
+<text x="745" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tara McKeown</text>
+<rect x="285" y="269" width="393" height="28" rx="7" fill="#22c55e"/>
+<text x="688" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aymeric Laporte</text>
+<rect x="285" y="327" width="320" height="28" rx="7" fill="#22c55e"/>
+<text x="615" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vanessa Gilles</text>
+<rect x="285" y="385" width="294" height="28" rx="7" fill="#22c55e"/>
+<text x="589" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.6%</text>
 </svg>
