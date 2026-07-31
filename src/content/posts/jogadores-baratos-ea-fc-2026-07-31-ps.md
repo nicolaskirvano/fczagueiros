@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:44:10.000Z
+pubDatetime: 2026-07-31T19:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.303 coins.
+- **Preço médio das 15 opções:** 11.047 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 3.800 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.700 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,32 +42,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Dean Huijsen | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
+| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.250 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 11.250 coins | -13.5% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 13.750 coins | +16.4% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Sol Campbell | 88 | CB | — | 11.750 coins | +13.3% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 13.750 coins | -4.9% |
-| Ibrahima Konaté | 86 | CB | — | 3.800 coins | 0% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13.000 coins | -9.4% |
+| Loïc Badé | 88 | CB | Bundesliga | 13.500 coins | +19.6% |
+| António Silva | 87 | CB | Liga Portugal | 11.000 coins | -3.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 14.000 coins | -3.4% |
+| Ibrahima Konaté | 86 | CB | Premier League | 1.700 coins | +15.4% |
 
 
 ## 📈 Destaques
 
-- **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins**
 
 - **Dean Huijsen (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins**
+
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
