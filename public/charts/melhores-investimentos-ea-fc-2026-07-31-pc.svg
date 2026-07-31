@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jade Rose</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carles Puyol</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Mascherano</text>
-<rect x="285" y="153" width="467" height="28" rx="7" fill="#22c55e"/>
-<text x="762" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eduardo Quaresma</text>
-<rect x="285" y="211" width="439" height="28" rx="7" fill="#22c55e"/>
-<text x="734" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fernando Hierro</text>
-<rect x="285" y="269" width="264" height="28" rx="7" fill="#22c55e"/>
-<text x="559" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dayot Upamecano</text>
-<rect x="285" y="327" width="238" height="28" rx="7" fill="#22c55e"/>
-<text x="533" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luc De Fougerolles</text>
-<rect x="285" y="385" width="232" height="28" rx="7" fill="#22c55e"/>
-<text x="527" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Sosa</text>
+<rect x="285" y="153" width="438" height="28" rx="7" fill="#22c55e"/>
+<text x="733" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcel Desailly</text>
+<rect x="285" y="211" width="349" height="28" rx="7" fill="#22c55e"/>
+<text x="644" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessandro Nesta</text>
+<rect x="285" y="269" width="270" height="28" rx="7" fill="#22c55e"/>
+<text x="565" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maria Méndez</text>
+<rect x="285" y="327" width="247" height="28" rx="7" fill="#22c55e"/>
+<text x="542" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leah Williamson</text>
+<rect x="285" y="385" width="230" height="28" rx="7" fill="#22c55e"/>
+<text x="525" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.3%</text>
 </svg>
