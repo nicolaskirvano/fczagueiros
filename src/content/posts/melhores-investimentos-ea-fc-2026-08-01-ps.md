@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:44:10.000Z
+pubDatetime: 2026-08-01T13:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Santiago Sosa (93, sem liga) lidera, com +84.6% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Javier Mascherano (88, LALIGA EA SPORTS) lidera, com +84% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Santiago Sosa (93) acumula **+84.6% em 7 dias** a 27k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Javier Mascherano (88) acumula **+84% em 7 dias** a 23k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+28.6% em 24h** e **+55.9% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+25.0% em 24h** e **+57.9% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Santiago Sosa | 93 | — | 27k coins | +33.3% | +84.6% | Esticada |
-| Jonathan Tah | 95 | — | 80k coins | +27.3% | +68.8% | Esticada |
-| Deja Davis | 92 | — | 22k coins | +38.7% | +62.3% | Esticada |
-| Davinson Sánchez | 92 | — | 27k coins | +38.9% | +61.3% | Esticada |
-| Wendie Renard | 86 | D1 Arkema | 22k coins | +24.7% | +59.6% | Esticada |
-| Jakub Kiwior | 94 | — | 22k coins | +35.4% | +57.1% | Esticada |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 45k coins | +2.7% | +56.9% | Momentum moderado |
-| Maria Méndez | 93 | — | 23k coins | +31.4% | +55.9% | Esticada |
-| Marcel Desailly | 88 | — | 17.000 coins | +11.1% | +53.8% | Momentum moderado |
-| Aymeric Laporte | 97 | — | 246k coins | +1.4% | +53.6% | Momentum moderado |
-| Evan Ndicka | 92 | — | 22k coins | +28.9% | +53.1% | Esticada |
-| Willian Pacho | 96 | — | 184k coins | +7.3% | +52.6% | Momentum moderado |
-| Leah Williamson | 95 | Barclays WSL | 110k coins | +18.2% | +52% | Momentum moderado |
-| Nico Schlotterbeck | 96 | — | 22k coins | +33.8% | +51.7% | Esticada |
-| Maya Le Tissier | 95 | — | 22k coins | +28.6% | +50% | Esticada |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 23k coins | +13.6% | +84% | Esticada |
+| Eric García | 96 | — | 179k coins | +20.8% | +76.5% | Esticada |
+| Ronald Araujo | 94 | — | 229k coins | +4.3% | +75.2% | Esticada |
+| Deja Davis | 92 | — | 22k coins | +33.3% | +66% | Esticada |
+| Bremer | 87 | Serie A TIM | 55k coins | +29.1% | +58.7% | Esticada |
+| Maria Méndez | 93 | — | 23k coins | +29.6% | +58.6% | Esticada |
+| Jonathan Tah | 95 | — | 110k coins | +18.1% | +58.6% | Momentum moderado |
+| Jakub Kiwior | 94 | — | 22k coins | +36.4% | +57.9% | Esticada |
+| Davinson Sánchez | 92 | — | 27k coins | +33.3% | +54.8% | Esticada |
+| Annaïg Butel | 86 | D1 Arkema | 37k coins | +25% | +53.1% | Esticada |
+| Diney | 94 | — | 18.250 coins | +14.1% | +52.1% | Momentum moderado |
+| Tōko Koga | 93 | — | 22k coins | +24.3% | +50% | Esticada |
+| Evan Ndicka | 92 | — | 24k coins | +35.2% | +50% | Esticada |
+| Aymeric Laporte | 97 | — | 222k coins | +2.9% | +50% | Momentum moderado |
+| Maya Le Tissier | 95 | — | 24k coins | +33.3% | +48.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Santiago Sosa (93)** — 27k coins, **+84.6% em 7 dias** (+33.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (88)** — 23k coins, **+84% em 7 dias** (+13.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jonathan Tah (95)** — 80k coins, **+68.8% em 7 dias** (+27.3% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric García (96)** — 179k coins, **+76.5% em 7 dias** (+20.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Deja Davis (92)** — 22k coins, **+62.3% em 7 dias** (+38.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ronald Araujo (94)** — 229k coins, **+75.2% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Davinson Sánchez (92)** — 27k coins, **+61.3% em 7 dias** (+38.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Deja Davis (92)** — 22k coins, **+66% em 7 dias** (+33.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wendie Renard (86)** — 22k coins, **+59.6% em 7 dias** (+24.7% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bremer (87)** — 55k coins, **+58.7% em 7 dias** (+29.1% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Santiago Sosa (93, sem liga) lidera, com +84.6% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Javier Mascherano (88, LALIGA EA SPORTS) lidera, com +84% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

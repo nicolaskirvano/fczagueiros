@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:44:11.000Z
+pubDatetime: 2026-08-01T13:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.753 coins.
+- **Preço médio das 15 opções:** 11.540 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 2.200 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Dean Huijsen | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | +6.5% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 5.100 coins | +40.5% |
-| Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| Mapi León | 89 | CB | Liga F | 5.600 coins | +11.4% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 13.750 coins | 0% |
+| Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.500 coins | +12.5% |
+| Jamie Carragher | 89 | CB | — | 14.500 coins | -1.7% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Vincent Kompany | 88 | CB | Premier League | 13.250 coins | -10.2% |
-| Sol Campbell | 88 | CB | — | 13.500 coins | +4.4% |
-| William Saliba | 87 | CB | Premier League | 2.200 coins | +26.7% |
+| Sol Campbell | 88 | CB | — | 13.500 coins | -11.8% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 13.500 coins | 0% |
 
 
 ## 📈 Destaques
