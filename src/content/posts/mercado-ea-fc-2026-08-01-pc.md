@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:44:17.000Z
+pubDatetime: 2026-08-01T16:44:16.000Z
 title: "Mercado EA FC em 01/08: Zagueiros — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
     a: "Glódís Perla Viggósdóttir (86, GPFBL), com +58.9% em 24h, a 60k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "António Silva (87), -47% em 24h, a 24k coins."
+    a: "Franco Baresi (91), -49.7% em 24h, a 94k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 129 cartas em alta contra 98 em queda (média 5.04%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 131 cartas em alta contra 104 em queda (média 3.49%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **01/08/2026** no PC com mercado **em alta** — predominam as valorizações: **129 cartas subiram** e **98 caíram** (80+ acima de 5k coins), variação média de **5.04%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **01/08/2026** no PC com mercado **em alta** — predominam as valorizações: **131 cartas subiram** e **104 caíram** (80+ acima de 5k coins), variação média de **3.49%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Glódís Perla Viggósdóttir (86) **+58.9%** · 🔴 **Maior baixa:** António Silva (87) **-47%**
+> 🟢 **Maior alta:** Glódís Perla Viggósdóttir (86) **+58.9%** · 🔴 **Maior baixa:** Franco Baresi (91) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Zagueiros — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.8% entre as cartas que se moveram; o universo observado reúne 299 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.7% entre as cartas que se moveram; o universo observado reúne 312 cartas.
+- **Concentração:** GPFBL aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Glódís Perla Viggósdóttir | 86 | GPFBL | 60k coins | +58.9% | +0.8% |
-| Harry Maguire | 83 | Premier League | 149k coins | +56% | +148.3% |
-| Jerdy Schouten | 94 | — | 38k coins | +54.2% | +23.3% |
-| Sergi Domínguez | 92 | — | 32k coins | +53.7% | +11.5% |
-| Jaap Stam | 96 | — | 1.85M coins | +53% | +52.9% |
-| Mohamed Simakan | 93 | — | 38k coins | +51.7% | +42.1% |
-| Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +47.4% | +67.5% |
-| Harry Maguire | 97 | — | 83k coins | +42.9% | -2.3% |
+| Chris Smalling | 87 | ROSHN Saudi League | 64k coins | +54.3% | +75.3% |
+| Jaap Stam | 96 | — | 1.96M coins | +53% | +52.9% |
+| Jürgen Kohler | 89 | Bundesliga | 21k coins | +52.7% | +71.4% |
+| Harry Maguire | 97 | — | 88k coins | +51.3% | +5.9% |
+| Eric García | 96 | — | 260k coins | +50.3% | +42.1% |
+| David Alaba | 87 | LALIGA EA SPORTS | 45k coins | +45.2% | +66.7% |
+| Gianluca Mancini | 85 | Serie A TIM | 22k coins | +44.7% | +50% |
+| Glódís Perla Viggósdóttir | 85 | GPFBL | 28k coins | +42.9% | +129.2% |
 | Willi Orban | 86 | Bundesliga | 50k coins | +41.8% | +90.5% |
-| Marc Guéhi | 88 | Premier League | 28k coins | +40% | -8.2% |
 
 
 ### Análise das altas
@@ -63,41 +63,41 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **em alta** — pre
 
 - **Glódís Perla Viggósdóttir (86)** subiu **+58.9%** em 24h, a **60k coins** (faixa do dia: 38k–60k). Está em linha com a média de 7 dias (+6%).
 
-- **Harry Maguire (83)** subiu **+56%** em 24h, a **149k coins** (faixa do dia: 40k–149k). Está +43% acima da média de 7 dias (aquecida).
+- **Chris Smalling (87)** subiu **+54.3%** em 24h, a **64k coins** (faixa do dia: 44k–70k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Jerdy Schouten (94)** subiu **+54.2%** em 24h, a **38k coins** (faixa do dia: 15.250–40k). Está +40% acima da média de 7 dias (aquecida).
+- **Jaap Stam (96)** subiu **+53%** em 24h, a **1.96M coins** (faixa do dia: 1.23M–1.99M). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| António Silva | 87 | Liga Portugal | 24k coins | -47% | 0% |
-| Chadi Riad | 96 | — | 122k coins | -44.3% | -59.3% |
+| Franco Baresi | 91 | Icons | 94k coins | -49.7% | +30.7% |
+| António Silva | 87 | Liga Portugal | 22k coins | -49.2% | -5.2% |
+| Ibañez | 93 | — | 26k coins | -45.6% | +18% |
+| Franz Beckenbauer | 92 | Icons | 145k coins | -41.9% | +1.4% |
+| Laura Georges | 93 | — | 38k coins | -41.1% | -43.2% |
 | Gonçalo Inácio | 89 | Liga Portugal | 118k coins | -41% | -22.9% |
-| Éder Militão | 88 | LALIGA EA SPORTS | 84k coins | -38.8% | -39.3% |
-| Bobby Moore | 93 | — | 32k coins | -37.9% | +6.7% |
-| Carles Puyol | 95 | — | 20k coins | -37.9% | -7.4% |
-| Micky van de Ven | 90 | Premier League | 1.20M coins | -37.4% | -69.6% |
-| Craig Halkett | 91 | — | 26k coins | -35.7% | -44.9% |
-| Lucas Beraldo | 96 | — | 32k coins | -32.5% | -21.5% |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 38k coins | -30.9% | +5.6% |
+| Micky van de Ven | 90 | Premier League | 1.19M coins | -37.4% | -70.2% |
+| Carles Puyol | 95 | — | 28k coins | -36.2% | -11% |
+| Paolo Maldini | 97 | — | 1.49M coins | -34.7% | +11.3% |
+| Craig Halkett | 91 | — | 20k coins | -34.6% | -28.8% |
 
 
 ### Análise das baixas
 
-- **António Silva (87)** caiu **-47%** em 24h, a **24k coins** (faixa do dia: 24k–49k). Está -35% abaixo da média de 7 dias (descontada).
+- **Franco Baresi (91)** caiu **-49.7%** em 24h, a **94k coins** (faixa do dia: 69k–186k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Chadi Riad (96)** caiu **-44.3%** em 24h, a **122k coins** (faixa do dia: 122k–450k). Está -63% abaixo da média de 7 dias (descontada).
+- **António Silva (87)** caiu **-49.2%** em 24h, a **22k coins** (faixa do dia: 22k–45k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Gonçalo Inácio (89)** caiu **-41%** em 24h, a **118k coins** (faixa do dia: 118k–200k). Está -28% abaixo da média de 7 dias (descontada).
+- **Ibañez (93)** caiu **-45.6%** em 24h, a **26k coins** (faixa do dia: 22k–55k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Glódís Perla Viggósdóttir já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** António Silva recuou -47%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Franco Baresi recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -122,10 +122,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Glódís Perla Viggósdóttir (86, GPFBL), com +58.9% em 24h, a 60k coins no PC.
 
 **E a maior queda do dia?**
-António Silva (87), -47% em 24h, a 24k coins.
+Franco Baresi (91), -49.7% em 24h, a 94k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 129 cartas em alta contra 98 em queda (média 5.04%).
+Hoje o mercado está em alta — predominam as valorizações, com 131 cartas em alta contra 104 em queda (média 3.49%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
