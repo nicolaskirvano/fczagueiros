@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:44:07.000Z
+pubDatetime: 2026-08-01T01:44:07.000Z
 title: "Mercado EA FC em 31/07: Zagueiros — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Jan Bednarek (94, sem liga), com +57.4% em 24h, a 22k coins no Console (PS)."
+    a: "Éder Militão (86, LALIGA EA SPORTS), com +58.7% em 24h, a 119k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Nicolás Otamendi (86), -36.6% em 24h, a 33k coins."
+    a: "Rio Ferdinand (88), -34.9% em 24h, a 330k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 112 cartas em alta contra 110 em queda (média 2.23%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 112 cartas em alta contra 110 em queda (média 1.6%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **31/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **112 em alta** e **110 em queda**, média de **2.23%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **31/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **112 em alta** e **110 em queda**, média de **1.6%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jan Bednarek (94) **+57.4%** · 🔴 **Maior baixa:** Nicolás Otamendi (86) **-36.6%**
+> 🟢 **Maior alta:** Éder Militão (86) **+58.7%** · 🔴 **Maior baixa:** Rio Ferdinand (88) **-34.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Zagueiros — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **31/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.5% entre as cartas que se moveram; o universo observado reúne 279 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 93.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.5% entre as cartas que se moveram; o universo observado reúne 283 cartas.
+- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jan Bednarek | 94 | — | 22k coins | +57.4% | +50.7% |
-| Yazan Al Arab | 95 | — | 31k coins | +53.8% | +66.7% |
-| Tsuyoshi Watanabe | 91 | — | 36k coins | +52.1% | -27% |
-| Andrea Barzagli | 89 | — | 36k coins | +49% | +22.6% |
-| Nico Schlotterbeck | 87 | Bundesliga | 70k coins | +46.3% | -6.7% |
-| Maximiliano Caufriez | 86 | Ligue 2 BKT | 27k coins | +44.9% | +2% |
-| Mykola Matviienko | 84 | Ukrayina Liha | 196k coins | +44.1% | +13.3% |
-| Davinson Sánchez | 92 | — | 22k coins | +41.1% | +39.2% |
-| Kevin Mac Allister | 94 | — | 37k coins | +40.4% | +65.5% |
-| Jakub Kiwior | 94 | — | 22k coins | +36.5% | +43.3% |
+| Éder Militão | 86 | LALIGA EA SPORTS | 119k coins | +58.7% | +6.2% |
+| Maximiliano Caufriez | 86 | Ligue 2 BKT | 27k coins | +58% | +13.5% |
+| Paolo Maldini | 94 | Icons | 30k coins | +55.8% | -60.5% |
+| Mykola Matviienko | 84 | Ukrayina Liha | 126k coins | +55.6% | +13.3% |
+| Micky van de Ven | 87 | Premier League | 775k coins | +54.5% | +102.4% |
+| Gonçalo Inácio | 89 | Liga Portugal | 96k coins | +54.3% | — |
+| Harry Maguire | 97 | — | 87k coins | +52.7% | -9.2% |
+| Glódís Perla Viggósdóttir | 86 | GPFBL | 88k coins | +52.6% | +156.5% |
+| Deja Davis | 92 | — | 22k coins | +45.8% | +59.3% |
+| Nico Schlotterbeck | 96 | — | 22k coins | +43.3% | +43.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **31/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jan Bednarek (94)** subiu **+57.4%** em 24h, a **22k coins** (faixa do dia: 16.750–27k). Está +9% acima da média de 7 dias (aquecida).
+- **Éder Militão (86)** subiu **+58.7%** em 24h, a **119k coins** (faixa do dia: 46k–119k). Está +71% acima da média de 7 dias (aquecida).
 
-- **Yazan Al Arab (95)** subiu **+53.8%** em 24h, a **31k coins** (faixa do dia: 16.250–34k). Está +46% acima da média de 7 dias (aquecida).
+- **Maximiliano Caufriez (86)** subiu **+58%** em 24h, a **27k coins** (faixa do dia: 15.750–39k). Está em linha com a média de 7 dias (-3%).
 
-- **Tsuyoshi Watanabe (91)** subiu **+52.1%** em 24h, a **36k coins** (faixa do dia: 19.750–42k). Está em linha com a média de 7 dias (+6%).
+- **Paolo Maldini (94)** subiu **+55.8%** em 24h, a **30k coins** (faixa do dia: 19.750–32k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicolás Otamendi | 86 | Liga Portugal | 33k coins | -36.6% | -8.7% |
-| Anton Krivotsyuk | 83 | K League 1 | 56k coins | -35.8% | -23.1% |
-| Franz Beckenbauer | 94 | — | 290k coins | -32.3% | +22.4% |
-| Tara McKeown | 95 | — | 34k coins | -32.2% | +12.5% |
-| Naomi Girma | 87 | Barclays WSL | 54k coins | -31.7% | +21.9% |
-| Josip Šutalo | 90 | Eredivisie | 42k coins | -31.7% | -31.2% |
-| Paolo Maldini | 93 | Icons | 479k coins | -29% | +2% |
-| Ronald Koeman | 91 | Icons | 90k coins | -28.8% | +72.9% |
-| Mapi León | 96 | — | 30k coins | -24.3% | -68.4% |
-| Franz Beckenbauer | 92 | Icons | 129k coins | -24% | -6.4% |
+| Rio Ferdinand | 88 | Icons | 330k coins | -34.9% | -41.9% |
+| Ahmed Hegazi | 87 | Brasileirão | 28k coins | -34.3% | +10.8% |
+| Alessandro Nesta | 88 | — | 25k coins | -34.3% | +32.7% |
+| Pubill | 92 | — | 22k coins | -34.1% | +21.4% |
+| Carles Puyol | 95 | — | 21k coins | -33.3% | -16% |
+| Naomi Girma | 87 | Barclays WSL | 57k coins | -32.1% | +21.3% |
+| Lucas Beraldo | 96 | — | 25k coins | -28.1% | -25.2% |
+| Marquinhos | 96 | — | 108k coins | -27.2% | -50.5% |
+| Mapi León | 96 | — | 29k coins | -27% | -65.6% |
+| Kieran Tierney | 96 | — | 60k coins | -25% | -10% |
 
 
 ### Análise das baixas
 
-- **Nicolás Otamendi (86)** caiu **-36.6%** em 24h, a **33k coins** (faixa do dia: 31k–90k). Está -46% abaixo da média de 7 dias (descontada).
+- **Rio Ferdinand (88)** caiu **-34.9%** em 24h, a **330k coins** (faixa do dia: 246k–436k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Anton Krivotsyuk (83)** caiu **-35.8%** em 24h, a **56k coins** (faixa do dia: 56k–90k). Está -32% abaixo da média de 7 dias (descontada).
+- **Ahmed Hegazi (87)** caiu **-34.3%** em 24h, a **28k coins** (faixa do dia: 28k–124k). Está -60% abaixo da média de 7 dias (descontada).
 
-- **Franz Beckenbauer (94)** caiu **-32.3%** em 24h, a **290k coins** (faixa do dia: 254k–460k). Está em linha com a média de 7 dias (-4%).
+- **Alessandro Nesta (88)** caiu **-34.3%** em 24h, a **25k coins** (faixa do dia: 16.000–26k). Está +38% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jan Bednarek já avançou 57.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Éder Militão já avançou 58.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nicolás Otamendi recuou -36.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rio Ferdinand recuou -34.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Jan Bednarek (94, sem liga), com +57.4% em 24h, a 22k coins no Console (PS).
+Éder Militão (86, LALIGA EA SPORTS), com +58.7% em 24h, a 119k coins no Console (PS).
 
 **E a maior queda do dia?**
-Nicolás Otamendi (86), -36.6% em 24h, a 33k coins.
+Rio Ferdinand (88), -34.9% em 24h, a 330k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 112 cartas em alta contra 110 em queda (média 2.23%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 112 cartas em alta contra 110 em queda (média 1.6%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

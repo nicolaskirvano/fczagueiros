@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:44:17.000Z
+pubDatetime: 2026-08-01T01:44:16.000Z
 title: "Mercado EA FC em 31/07: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Nicolas Seiwald (85, Bundesliga), com +57.1% em 24h, a 22k coins no PC."
+    a: "William Saliba (94, Premier League), com +55.3% em 24h, a 495k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Carles Puyol (94), -48.1% em 24h, a 70k coins."
+    a: "Gabriel (89), -49.6% em 24h, a 62k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 92 cartas em alta contra 109 em queda (média -0.57%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 100 cartas em alta contra 107 em queda (média 1.83%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **31/07/2026** (PC): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **92 em alta** e **109 em queda**, média de **-0.57%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **31/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **100 em alta** e **107 em queda**, média de **1.83%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nicolas Seiwald (85) **+57.1%** · 🔴 **Maior baixa:** Carles Puyol (94) **-48.1%**
+> 🟢 **Maior alta:** William Saliba (94) **+55.3%** · 🔴 **Maior baixa:** Gabriel (89) **-49.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Zagueiros — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **31/07/2026** (PC): dia **indefinido** — sem tendência dominante
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.8% entre as cartas que se moveram; o universo observado reúne 267 cartas.
-- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.3% entre as cartas que se moveram; o universo observado reúne 285 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicolas Seiwald | 85 | Bundesliga | 22k coins | +57.1% | -26.1% |
-| Stine Ballisager | 93 | — | 24k coins | +46.1% | +77.4% |
-| Mapi León | 91 | — | 74k coins | +46.1% | -6.9% |
-| Pau Torres | 96 | — | 88k coins | +41.5% | -23.3% |
+| William Saliba | 94 | Premier League | 495k coins | +55.3% | +29.2% |
+| Chris Richards | 96 | — | 42k coins | +52.9% | +95% |
+| Jerdy Schouten | 94 | — | 40k coins | +52.4% | +33.3% |
+| Sol Campbell | 91 | — | 20k coins | +49% | -54.1% |
+| Paolo Maldini | 94 | Icons | 32k coins | +48.9% | -71.3% |
+| Micky van de Ven | 84 | Premier League | 380k coins | +47.8% | +0.2% |
+| Kalidou Koulibaly | 92 | — | 25k coins | +42.9% | +14.9% |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 57k coins | +41.4% | -2.3% |
 | Charlie Cresswell | 85 | Ligue 1 McDonald's | 30k coins | +41.2% | +34.8% |
-| Giorgio Chiellini | 88 | Icons | 100k coins | +40.9% | +31.2% |
-| Ledley King | 86 | Premier League | 24k coins | +38.2% | +38.2% |
-| William Saliba | 94 | Premier League | 550k coins | +38.2% | +36.5% |
-| Bremer | 87 | Serie A TIM | 60k coins | +36% | +17.8% |
-| Nemanja Vidić | 98 | — | 370k coins | +35.1% | +15.5% |
+| Harry Maguire | 83 | Premier League | 140k coins | +38.6% | +180% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **31/07/2026** (PC): dia **indefinido** — sem tendência dominante
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nicolas Seiwald (85)** subiu **+57.1%** em 24h, a **22k coins** (faixa do dia: 17.500–30k). Está -11% abaixo da média de 7 dias (descontada).
+- **William Saliba (94)** subiu **+55.3%** em 24h, a **495k coins** (faixa do dia: 293k–550k). Está +47% acima da média de 7 dias (aquecida).
 
-- **Stine Ballisager (93)** subiu **+46.1%** em 24h, a **24k coins** (faixa do dia: 16.250–37k). Está em linha com a média de 7 dias (+5%).
+- **Chris Richards (96)** subiu **+52.9%** em 24h, a **42k coins** (faixa do dia: 29k–78k). Está em linha com a média de 7 dias (+3%).
 
-- **Mapi León (91)** subiu **+46.1%** em 24h, a **74k coins** (faixa do dia: 50k–86k). Está em linha com a média de 7 dias (+2%).
+- **Jerdy Schouten (94)** subiu **+52.4%** em 24h, a **40k coins** (faixa do dia: 15.250–40k). Está +51% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carles Puyol | 94 | — | 70k coins | -48.1% | -35.8% |
-| Lukas Klostermann | 88 | Bundesliga | 110k coins | -45% | -9.1% |
-| Ibañez | 86 | ROSHN Saudi League | 27k coins | -41.5% | -69.4% |
-| Maxence Lacroix | 96 | — | 631k coins | -38.9% | -74% |
-| Carles Puyol | 95 | — | 25k coins | -34.3% | -8% |
+| Gabriel | 89 | Premier League | 62k coins | -49.6% | -9.6% |
+| Gabriel | 96 | — | 70k coins | -42.7% | -4.1% |
+| Ibañez | 86 | ROSHN Saudi League | 27k coins | -41% | -69.3% |
+| Jonathan Tah | 95 | — | 103k coins | -34.8% | -35.6% |
+| Vanessa Gilles | 94 | — | 22k coins | -33.8% | -14% |
+| Nemanja Vidić | 87 | Icons | 155k coins | -32.8% | -22.2% |
+| Lukas Klostermann | 88 | Bundesliga | 110k coins | -32.1% | -9.1% |
+| Laurent Blanc | 88 | Icons | 122k coins | -31.7% | -5.4% |
 | Virgil Ghiță | 80 | Serie B | 32k coins | -31.6% | -9.7% |
-| António Silva | 87 | Liga Portugal | 40k coins | -30% | -9% |
-| Keven Schlotterbeck | 89 | Bundesliga | 22k coins | -28.6% | -18.1% |
-| Marquinhos | 96 | — | 174k coins | -28.6% | -12.1% |
-| Shelina Zadorsky | 87 | Barclays WSL | 68k coins | -28.3% | +1.5% |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 40k coins | -30% | -20.8% |
 
 
 ### Análise das baixas
 
-- **Carles Puyol (94)** caiu **-48.1%** em 24h, a **70k coins** (faixa do dia: 70k–150k). Está -37% abaixo da média de 7 dias (descontada).
+- **Gabriel (89)** caiu **-49.6%** em 24h, a **62k coins** (faixa do dia: 45k–130k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Lukas Klostermann (88)** caiu **-45%** em 24h, a **110k coins** (faixa do dia: 110k–200k). Está -14% abaixo da média de 7 dias (descontada).
+- **Gabriel (96)** caiu **-42.7%** em 24h, a **70k coins** (faixa do dia: 48k–128k). Está em linha com a média de 7 dias (+2%).
 
-- **Ibañez (86)** caiu **-41.5%** em 24h, a **27k coins** (faixa do dia: 25k–47k). Está -56% abaixo da média de 7 dias (descontada).
+- **Ibañez (86)** caiu **-41%** em 24h, a **27k coins** (faixa do dia: 25k–45k). Está -56% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nicolas Seiwald já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** William Saliba já avançou 55.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Carles Puyol recuou -48.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gabriel recuou -49.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Nicolas Seiwald (85, Bundesliga), com +57.1% em 24h, a 22k coins no PC.
+William Saliba (94, Premier League), com +55.3% em 24h, a 495k coins no PC.
 
 **E a maior queda do dia?**
-Carles Puyol (94), -48.1% em 24h, a 70k coins.
+Gabriel (89), -49.6% em 24h, a 62k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 92 cartas em alta contra 109 em queda (média -0.57%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 100 cartas em alta contra 107 em queda (média 1.83%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

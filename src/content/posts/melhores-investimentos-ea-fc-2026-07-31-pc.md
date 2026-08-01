@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:44:18.000Z
+pubDatetime: 2026-08-01T01:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Annaïg Butel (86, D1 Arkema) lidera, com +87% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Annaïg Butel (86, D1 Arkema) lidera, com +89.5% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Annaïg Butel (86) acumula **+87% em 7 dias** a 36k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Annaïg Butel (86) acumula **+89.5% em 7 dias** a 36k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.3% em 24h** e **+43.4% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+23.0% em 24h** e **+49.3% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Annaïg Butel | 86 | D1 Arkema | 36k coins | +21% | +87% | Esticada |
-| Guéla Doué | 84 | Ligue 1 McDonald's | 35k coins | +19.7% | +68.7% | Esticada |
-| Chris Smalling | 87 | ROSHN Saudi League | 64k coins | +17.3% | +68.6% | Esticada |
-| Maria Méndez | 93 | — | 26k coins | +4.5% | +53.3% | Momentum moderado |
-| Diney | 94 | — | 18.250 coins | +1.4% | +52.1% | Momentum moderado |
-| Lisandro Martínez | 95 | — | 18.750 coins | +1.4% | +49% | Momentum moderado |
-| Irene Paredes | 88 | Liga F | 56k coins | +3.6% | +45% | Momentum moderado |
-| Deja Davis | 92 | — | 19.000 coins | +16.9% | +43.4% | Momentum moderado |
-| Renato Veiga | 94 | — | 22k coins | +1.3% | +42.9% | Momentum moderado |
-| Luka Vušković | 94 | — | 22k coins | +1.3% | +40.4% | Momentum moderado |
-| Ledley King | 86 | Premier League | 24k coins | +38.2% | +38.2% | Esticada |
-| Jakub Kiwior | 94 | — | 19.000 coins | +24.6% | +33.3% | Esticada |
-| Jan Bednarek | 94 | — | 26k coins | +5.3% | +33.3% | Momentum moderado |
-| Leah Williamson | 88 | Barclays WSL | 98k coins | +14.5% | +31.3% | Momentum moderado |
-| Lucas Herrington | 93 | — | 19.500 coins | +2.7% | +30.5% | Momentum moderado |
+| Annaïg Butel | 86 | D1 Arkema | 36k coins | +21% | +89.5% | Esticada |
+| Maria Méndez | 93 | — | 24k coins | +35.1% | +66.7% | Esticada |
+| Pau Cubarsí | 93 | — | 55k coins | +25% | +64.9% | Esticada |
+| Chris Smalling | 87 | ROSHN Saudi League | 64k coins | +17.3% | +63.3% | Esticada |
+| Nico Schlotterbeck | 87 | Bundesliga | 70k coins | +28% | +52.4% | Esticada |
+| Diney | 94 | — | 17.000 coins | +5.9% | +50% | Momentum moderado |
+| Stine Ballisager | 93 | — | 32k coins | +38.5% | +50% | Esticada |
+| Luke Shaw | 86 | Premier League | 50k coins | +10.5% | +49.3% | Momentum moderado |
+| Lisandro Martínez | 95 | — | 18.000 coins | +4.3% | +46.9% | Momentum moderado |
+| David Alaba | 87 | LALIGA EA SPORTS | 42k coins | +29.6% | +45.8% | Esticada |
+| Jakub Kiwior | 94 | — | 19.750 coins | +30% | +44.4% | Esticada |
+| Jawad El Yamiq | 87 | LaLiga Hypermotion | 18.750 coins | +23% | +44.2% | Esticada |
+| Deja Davis | 92 | — | 18.500 coins | +29.3% | +41.5% | Esticada |
+| Ledley King | 86 | Premier League | 24k coins | +3.2% | +38.6% | Momentum moderado |
+| Jan Bednarek | 94 | — | 30k coins | +13.2% | +37.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Annaïg Butel (86)** — 36k coins, **+87% em 7 dias** (+21% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Annaïg Butel (86)** — 36k coins, **+89.5% em 7 dias** (+21% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Guéla Doué (84)** — 35k coins, **+68.7% em 7 dias** (+19.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maria Méndez (93)** — 24k coins, **+66.7% em 7 dias** (+35.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Chris Smalling (87)** — 64k coins, **+68.6% em 7 dias** (+17.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pau Cubarsí (93)** — 55k coins, **+64.9% em 7 dias** (+25% em 24h). Preço +69% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maria Méndez (93)** — 26k coins, **+53.3% em 7 dias** (+4.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chris Smalling (87)** — 64k coins, **+63.3% em 7 dias** (+17.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diney (94)** — 18.250 coins, **+52.1% em 7 dias** (+1.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Schlotterbeck (87)** — 70k coins, **+52.4% em 7 dias** (+28% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Annaïg Butel (86, D1 Arkema) lidera, com +87% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Annaïg Butel (86, D1 Arkema) lidera, com +89.5% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
