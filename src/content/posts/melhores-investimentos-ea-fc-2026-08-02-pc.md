@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:44:18.000Z
+pubDatetime: 2026-08-02T19:44:19.000Z
 title: "Investimentos EA FC: Zagueiros em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Chris Smalling (87, ROSHN Saudi League) lidera, com +81.8% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rafael Márquez (88, LALIGA EA SPORTS) lidera, com +88.2% em 7 dias a 88k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Chris Smalling (87) acumula **+81.8% em 7 dias** a 70k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rafael Márquez (88) acumula **+88.2% em 7 dias** a 88k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.1% em 24h** e **+52.9% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.6% em 24h** e **+64.2% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chris Smalling | 87 | ROSHN Saudi League | 70k coins | +3.7% | +81.8% | Esticada |
-| Nemanja Vidić | 87 | Icons | 198k coins | +20.4% | +77.9% | Esticada |
-| Giorgio Chiellini | 89 | Icons | 159k coins | +23.3% | +71.9% | Esticada |
-| Pau Cubarsí | 97 | — | 70k coins | +34.9% | +70% | Esticada |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 55k coins | +27.2% | +69.2% | Esticada |
-| Alessandro Nesta | 92 | — | 85k coins | +1.2% | +65% | Esticada |
-| Maxence Lacroix | 87 | Premier League | 160k coins | +3.2% | +60% | Esticada |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 38k coins | +38.1% | +52.9% | Esticada |
-| Jacobo Ramón | 94 | — | 19.000 coins | +10.1% | +52.6% | Momentum moderado |
-| Ibañez | 93 | — | 32k coins | +21% | +49.4% | Esticada |
-| Lucas Herrington | 93 | — | 20k coins | +3.9% | +48.1% | Momentum moderado |
-| Dayot Upamecano | 96 | — | 22k coins | +7.2% | +45.9% | Momentum moderado |
-| Luka Vušković | 94 | — | 20k coins | +2.6% | +45.5% | Momentum moderado |
-| Dara O'Shea | 91 | — | 29k coins | +16% | +45% | Momentum moderado |
-| Éder Militão | 88 | LALIGA EA SPORTS | 164k coins | +1.2% | +43.9% | Momentum moderado |
+| Rafael Márquez | 88 | LALIGA EA SPORTS | 88k coins | +9.4% | +88.2% | Esticada |
+| Marcos Senesi | 88 | Premier League | 48k coins | +5.4% | +79.8% | Esticada |
+| Maria Méndez | 93 | — | 22k coins | +23.3% | +76.7% | Esticada |
+| Rocío Gálvez | 88 | Liga F | 20k coins | +16.3% | +76.3% | Esticada |
+| Lisandro Martínez | 95 | — | 22k coins | +1.2% | +68.8% | Esticada |
+| Diney | 94 | — | 20k coins | +3.9% | +66.7% | Esticada |
+| Sol Campbell | 86 | Icons | 100k coins | +11.3% | +66.2% | Esticada |
+| Nathan Zézé | 91 | — | 55k coins | +22.2% | +64.2% | Esticada |
+| Nico Schlotterbeck | 96 | — | 23k coins | +13.6% | +63.9% | Esticada |
+| Kevin Mac Allister | 94 | — | 45k coins | +36.6% | +61.5% | Esticada |
+| Sergi Domínguez | 92 | — | 31k coins | +17.4% | +60% | Esticada |
+| Jonathan Tah | 95 | — | 170k coins | +5.6% | +58.9% | Momentum moderado |
+| Harry Maguire | 97 | — | 100k coins | +19.6% | +56% | Momentum moderado |
+| Manuel Akanji | 94 | — | 22k coins | +8.8% | +55.4% | Momentum moderado |
+| Dayot Upamecano | 93 | — | 28k coins | +26.9% | +53.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Chris Smalling (87)** — 70k coins, **+81.8% em 7 dias** (+3.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rafael Márquez (88)** — 88k coins, **+88.2% em 7 dias** (+9.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nemanja Vidić (87)** — 198k coins, **+77.9% em 7 dias** (+20.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcos Senesi (88)** — 48k coins, **+79.8% em 7 dias** (+5.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (89)** — 159k coins, **+71.9% em 7 dias** (+23.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maria Méndez (93)** — 22k coins, **+76.7% em 7 dias** (+23.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pau Cubarsí (97)** — 70k coins, **+70% em 7 dias** (+34.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rocío Gálvez (88)** — 20k coins, **+76.3% em 7 dias** (+16.3% em 24h). Preço -31% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Bartra (87)** — 55k coins, **+69.2% em 7 dias** (+27.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lisandro Martínez (95)** — 22k coins, **+68.8% em 7 dias** (+1.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Chris Smalling (87, ROSHN Saudi League) lidera, com +81.8% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rafael Márquez (88, LALIGA EA SPORTS) lidera, com +88.2% em 7 dias a 88k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:44:17.000Z
+pubDatetime: 2026-08-02T19:44:18.000Z
 title: "Mercado EA FC em 02/08: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Malang Sarr (96, sem liga), com +54.1% em 24h, a 42k coins no PC."
+    a: "Emmanuel Fernandez (90, sem liga), com +55.2% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Steffi Jones (89), -46.2% em 24h, a 22k coins."
+    a: "Malang Sarr (96), -50% em 24h, a 44k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 104 cartas em alta contra 110 em queda (média 2.08%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 106 cartas em alta contra 93 em queda (média 3.74%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas subiu. **104 valorizações** contra **110 quedas** entre as cartas relevantes, com média de **2.08%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas subiu. **106 valorizações** contra **93 quedas** entre as cartas relevantes, com média de **3.74%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Malang Sarr (96) **+54.1%** · 🔴 **Maior baixa:** Steffi Jones (89) **-46.2%**
+> 🟢 **Maior alta:** Emmanuel Fernandez (90) **+55.2%** · 🔴 **Maior baixa:** Malang Sarr (96) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Zagueiros — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 299 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.3% entre as cartas que se moveram; o universo observado reúne 287 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Malang Sarr | 96 | — | 42k coins | +54.1% | -43.2% |
-| Benjamin Pavard | 88 | Ligue 1 McDonald's | 22k coins | +51.7% | +37.5% |
-| Emmanuel Fernandez | 90 | — | 26k coins | +49.2% | +45.7% |
-| Dayot Upamecano | 93 | — | 30k coins | +48.8% | +54.4% |
-| Nathan Collins | 85 | Premier League | 33k coins | +41.9% | -2.9% |
-| Ko Itakura | 88 | Eredivisie | 42k coins | +41.7% | +157.6% |
-| Milan Škriniar | 93 | — | 45k coins | +40.6% | +95.7% |
-| Juan David Cabal | 85 | Serie A TIM | 33k coins | +39.8% | +191.5% |
-| Illia Zabarnyi | 96 | — | 68k coins | +39% | -64.7% |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 38k coins | +38.1% | +52.9% |
+| Emmanuel Fernandez | 90 | — | 28k coins | +55.2% | +48.8% |
+| Paolo Maldini | 89 | — | 90k coins | +54.9% | +18.2% |
+| Pau Torres | 96 | — | 84k coins | +53.2% | -32% |
+| Tyrone Mings | 96 | — | 54k coins | +47.1% | -27.5% |
+| Nathan Collins | 85 | Premier League | 33k coins | +45.1% | -2.9% |
+| Irene Paredes | 96 | — | 95k coins | +42.9% | +48.4% |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 34k coins | +38.1% | +42.2% |
+| Illia Zabarnyi | 96 | — | 60k coins | +36.7% | -68.8% |
+| Kevin Mac Allister | 94 | — | 45k coins | +36.6% | +61.5% |
+| Kayla Sharples | 92 | — | 30k coins | +36.4% | +33.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Malang Sarr (96)** subiu **+54.1%** em 24h, a **42k coins** (faixa do dia: 25k–89k). Está -33% abaixo da média de 7 dias (descontada).
+- **Emmanuel Fernandez (90)** subiu **+55.2%** em 24h, a **28k coins** (faixa do dia: 22k–49k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Benjamin Pavard (88)** subiu **+51.7%** em 24h, a **22k coins** (faixa do dia: 16.500–22k). Está +10% acima da média de 7 dias (aquecida).
+- **Paolo Maldini (89)** subiu **+54.9%** em 24h, a **90k coins** (faixa do dia: 44k–104k). Está em linha com a média de 7 dias (-1%).
 
-- **Emmanuel Fernandez (90)** subiu **+49.2%** em 24h, a **26k coins** (faixa do dia: 22k–49k). Está -17% abaixo da média de 7 dias (descontada).
+- **Pau Torres (96)** subiu **+53.2%** em 24h, a **84k coins** (faixa do dia: 56k–150k). Está -26% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steffi Jones | 89 | Icons | 22k coins | -46.2% | +43.3% |
+| Malang Sarr | 96 | — | 44k coins | -50% | -40.2% |
+| Carles Puyol | 94 | — | 68k coins | -47.7% | -32.5% |
 | Ben Davies | 84 | Premier League | 20k coins | -45.3% | -37.4% |
-| Iván Córdoba | 87 | Serie A TIM | 20k coins | -42.4% | -24.5% |
-| Carles Puyol | 94 | — | 76k coins | -41.5% | -24.5% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 40k coins | -38.5% | -31% |
-| Annaïg Butel | 86 | D1 Arkema | 22k coins | -37.5% | +87.5% |
-| Marcel Desailly | 88 | — | 22k coins | -36.6% | -31.6% |
-| Vanessa Diehm | 86 | GPFBL | 35k coins | -35.2% | -30.9% |
-| Murillo | 87 | Premier League | 123k coins | -34.9% | +23% |
-| Josip Šutalo | 90 | Eredivisie | 48k coins | -31.9% | -2% |
+| Ousmane Diomande | 85 | Liga Portugal | 30k coins | -44.1% | -57.9% |
+| Tsuyoshi Watanabe | 91 | — | 28k coins | -41.7% | +69% |
+| Maxence Lacroix | 96 | — | 780k coins | -38.4% | -44.6% |
+| Glódís Perla Viggósdóttir | 85 | GPFBL | 26k coins | -36.1% | -1.9% |
+| Eduardo Quaresma | 88 | Liga Portugal | 34k coins | -33.3% | +106.9% |
+| Laura Georges | 93 | — | 23k coins | -32.4% | +25% |
+| Jaydee Canvot | 96 | — | 88k coins | -31.7% | -66.6% |
 
 
 ### Análise das baixas
 
-- **Steffi Jones (89)** caiu **-46.2%** em 24h, a **22k coins** (faixa do dia: 22k–40k). Está -27% abaixo da média de 7 dias (descontada).
+- **Malang Sarr (96)** caiu **-50%** em 24h, a **44k coins** (faixa do dia: 40k–89k). Está -29% abaixo da média de 7 dias (descontada).
+
+- **Carles Puyol (94)** caiu **-47.7%** em 24h, a **68k coins** (faixa do dia: 68k–129k). Está -40% abaixo da média de 7 dias (descontada).
 
 - **Ben Davies (84)** caiu **-45.3%** em 24h, a **20k coins** (faixa do dia: 20k–38k). Está -35% abaixo da média de 7 dias (descontada).
-
-- **Iván Córdoba (87)** caiu **-42.4%** em 24h, a **20k coins** (faixa do dia: 20k–35k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Malang Sarr já avançou 54.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Emmanuel Fernandez já avançou 55.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Steffi Jones recuou -46.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Malang Sarr recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Malang Sarr (96, sem liga), com +54.1% em 24h, a 42k coins no PC.
+Emmanuel Fernandez (90, sem liga), com +55.2% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**
-Steffi Jones (89), -46.2% em 24h, a 22k coins.
+Malang Sarr (96), -50% em 24h, a 44k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 104 cartas em alta contra 110 em queda (média 2.08%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 106 cartas em alta contra 93 em queda (média 3.74%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
