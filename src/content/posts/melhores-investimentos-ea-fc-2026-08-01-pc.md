@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:44:18.000Z
+pubDatetime: 2026-08-02T01:44:19.000Z
 title: "Investimentos EA FC: Zagueiros em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Rafael Márquez (88, LALIGA EA SPORTS) lidera, com +83.7% em 7 dias a 109k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Kojo Peprah Oppong (93, sem liga) lidera, com +78.6% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rafael Márquez (88) acumula **+83.7% em 7 dias** a 109k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Kojo Peprah Oppong (93) acumula **+78.6% em 7 dias** a 26k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.1% em 24h** e **+74.4% em 7 dias**.
+- A mediana é de **+14.3% em 24h** e **+63.9% em 7 dias**.
 - **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **ROSHN Saudi League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rafael Márquez | 88 | LALIGA EA SPORTS | 109k coins | +3% | +83.7% | Esticada |
-| Kojo Peprah Oppong | 93 | — | 25k coins | +34.2% | +82.1% | Esticada |
-| Arseniy Batagov | 94 | — | 41k coins | +8.6% | +81.3% | Esticada |
-| Roberto Lopes | 95 | — | 48k coins | +10.5% | +81% | Esticada |
-| Leah Williamson | 95 | Barclays WSL | 204k coins | +8.9% | +79.3% | Esticada |
-| Vanessa Gilles | 87 | GPFBL | 25k coins | +36.5% | +77.2% | Esticada |
-| José Fonte | 85 | Liga Portugal | 68k coins | +39% | +74.8% | Esticada |
-| Jakob Glesnes | 93 | — | 39k coins | +21.7% | +74.4% | Esticada |
-| Vincent Kompany | 92 | — | 25k coins | +15.5% | +73.2% | Esticada |
-| Carles Puyol | 89 | Icons | 112k coins | +10.5% | +71.9% | Esticada |
-| Diney | 94 | — | 19.500 coins | +8.2% | +68.1% | Esticada |
-| Renato Veiga | 94 | — | 24k coins | +17.5% | +64.9% | Esticada |
-| Lucas Herrington | 93 | — | 22k coins | +14.1% | +61.8% | Esticada |
-| Thiago | 85 | MLS | 28k coins | +3.6% | +58.3% | Momentum moderado |
-| Nico Schlotterbeck | 96 | — | 22k coins | +23.1% | +57.4% | Esticada |
+| Kojo Peprah Oppong | 93 | — | 26k coins | +28.2% | +78.6% | Esticada |
+| Arseniy Batagov | 94 | — | 41k coins | +16.2% | +77.4% | Esticada |
+| Chris Smalling | 87 | ROSHN Saudi League | 66k coins | +3.1% | +72.7% | Esticada |
+| Dayot Upamecano | 93 | — | 28k coins | +8.3% | +68.8% | Esticada |
+| Jakob Glesnes | 93 | — | 38k coins | +16.3% | +66.7% | Esticada |
+| Jan Bednarek | 94 | — | 32k coins | +16.7% | +66.7% | Esticada |
+| Irene Paredes | 88 | Liga F | 60k coins | +15.4% | +66.7% | Esticada |
+| Leah Williamson | 95 | Barclays WSL | 196k coins | +4.7% | +63.9% | Esticada |
+| Diney | 94 | — | 19.750 coins | +13.2% | +63.8% | Esticada |
+| Roberto Lopes | 95 | — | 46k coins | +21.2% | +62.9% | Esticada |
+| Deja Davis | 92 | — | 21k coins | +12.2% | +62.7% | Esticada |
+| Lisandro Martínez | 95 | — | 20k coins | +16.2% | +61.2% | Esticada |
+| Carles Puyol | 89 | Icons | 104k coins | +2.9% | +60% | Esticada |
+| Lucas Herrington | 93 | — | 24k coins | +14.3% | +60% | Esticada |
+| Luc De Fougerolles | 93 | — | 19.750 coins | +6.5% | +54.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Rafael Márquez (88)** — 109k coins, **+83.7% em 7 dias** (+3% em 24h). Preço +64% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kojo Peprah Oppong (93)** — 26k coins, **+78.6% em 7 dias** (+28.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kojo Peprah Oppong (93)** — 25k coins, **+82.1% em 7 dias** (+34.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Arseniy Batagov (94)** — 41k coins, **+77.4% em 7 dias** (+16.2% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Arseniy Batagov (94)** — 41k coins, **+81.3% em 7 dias** (+8.6% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chris Smalling (87)** — 66k coins, **+72.7% em 7 dias** (+3.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roberto Lopes (95)** — 48k coins, **+81% em 7 dias** (+10.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dayot Upamecano (93)** — 28k coins, **+68.8% em 7 dias** (+8.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leah Williamson (95)** — 204k coins, **+79.3% em 7 dias** (+8.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jakob Glesnes (93)** — 38k coins, **+66.7% em 7 dias** (+16.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Rafael Márquez (88, LALIGA EA SPORTS) lidera, com +83.7% em 7 dias a 109k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Kojo Peprah Oppong (93, sem liga) lidera, com +78.6% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
