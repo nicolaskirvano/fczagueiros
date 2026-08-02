@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:32:21.000Z
+pubDatetime: 2026-08-02T10:44:17.000Z
 title: "Mercado EA FC em 02/08: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Sepp van den Berg (89, Premier League), com +58.6% em 24h, a 22k coins no PC."
+    a: "Roberto Lopes (95, sem liga), com +59.4% em 24h, a 37k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Griedge Mbock (86), -46.7% em 24h, a 40k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 130 cartas em alta contra 90 em queda (média 4.58%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 133 cartas em alta contra 89 em queda (média 4.46%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas subiu. **130 valorizações** contra **90 quedas** entre as cartas relevantes, com média de **4.58%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas subiu. **133 valorizações** contra **89 quedas** entre as cartas relevantes, com média de **4.46%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Sepp van den Berg (89) **+58.6%** · 🔴 **Maior baixa:** Griedge Mbock (86) **-46.7%**
+> 🟢 **Maior alta:** Roberto Lopes (95) **+59.4%** · 🔴 **Maior baixa:** Griedge Mbock (86) **-46.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Zagueiros — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.1% entre as cartas que se moveram; o universo observado reúne 317 cartas.
+- **Amplitude do dia:** 106.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 59.9% entre as cartas que se moveram; o universo observado reúne 318 cartas.
 - **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | Premier League | 22k coins | +58.6% | +70.4% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 42k coins | +53.2% | +77.1% |
+| Roberto Lopes | 95 | — | 37k coins | +59.4% | +45.7% |
+| Rocío Gálvez | 85 | Liga F | 22k coins | +58.5% | +139.5% |
 | Daley Blind | 86 | LALIGA EA SPORTS | 35k coins | +52.2% | +89.2% |
 | Chadi Riad | 96 | — | 212k coins | +51% | -69.1% |
-| Jakob Glesnes | 93 | — | 39k coins | +51% | +74.4% |
-| Kieran Tierney | 96 | — | 64k coins | +46.4% | +1.4% |
-| Chibuike Nwaiwu | 87 | — | 65k coins | +44.4% | 0% |
-| Vincent Kompany | 92 | — | 24k coins | +40.8% | +78.6% |
+| Marquinhos | 96 | — | 175k coins | +43.4% | -10.7% |
+| Kieran Tierney | 96 | — | 69k coins | +42.3% | -1.4% |
+| Nathan Collins | 85 | Premier League | 33k coins | +41.9% | -2.9% |
 | Daniel Munie | 84 | MLS | 45k coins | +37.7% | -0.6% |
-| Andrea Barzagli | 89 | — | 48k coins | +34.5% | +103.1% |
+| Vincent Kompany | 92 | — | 24k coins | +35.2% | +68.4% |
+| Marwane Saadane | 83 | Brasileirão | 40k coins | +33.3% | +33.3% |
 
 
 ### Análise das altas
@@ -61,9 +61,9 @@ Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Sepp van den Berg (89)** subiu **+58.6%** em 24h, a **22k coins** (faixa do dia: 11.250–24k). Está +44% acima da média de 7 dias (aquecida).
+- **Roberto Lopes (95)** subiu **+59.4%** em 24h, a **37k coins** (faixa do dia: 22k–54k). Está em linha com a média de 7 dias (+3%).
 
-- **Dan-Axel Zagadou (85)** subiu **+53.2%** em 24h, a **42k coins** (faixa do dia: 10.750–42k). Está +46% acima da média de 7 dias (aquecida).
+- **Rocío Gálvez (85)** subiu **+58.5%** em 24h, a **22k coins** (faixa do dia: 15.000–30k). Está +10% acima da média de 7 dias (aquecida).
 
 - **Daley Blind (86)** subiu **+52.2%** em 24h, a **35k coins** (faixa do dia: 15.250–35k). Está +64% acima da média de 7 dias (aquecida).
 
@@ -77,11 +77,11 @@ Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 | Lúcio | 89 | Serie A TIM | 51k coins | -37.8% | -42.7% |
 | Tyrone Mings | 96 | — | 30k coins | -37.8% | -57.3% |
 | Annaïg Butel | 86 | D1 Arkema | 22k coins | -37.5% | +87.5% |
-| Carles Puyol | 94 | — | 95k coins | -36.7% | -5% |
+| Sol Campbell | 88 | — | 37k coins | -37.5% | -24.7% |
+| Thiago | 85 | MLS | 30k coins | -35% | -23.5% |
 | Alidu Seidu | 89 | Ligue 1 McDonald's | 39k coins | -32% | -48.3% |
-| Alessandro Nesta | 88 | — | 32k coins | -31.6% | +51% |
-| Ezri Konsa | 96 | — | 58k coins | -30.7% | -17.9% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 52k coins | -30.5% | -9.5% |
+| Alessandro Nesta | 88 | — | 36k coins | -31.6% | +51% |
+| Ko Itakura | 88 | Eredivisie | 24k coins | -30.9% | -3% |
 
 
 ### Análise das baixas
@@ -95,7 +95,7 @@ Resumo de **02/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Sepp van den Berg já avançou 58.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Roberto Lopes já avançou 59.4% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Griedge Mbock recuou -46.7%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Sepp van den Berg (89, Premier League), com +58.6% em 24h, a 22k coins no PC.
+Roberto Lopes (95, sem liga), com +59.4% em 24h, a 37k coins no PC.
 
 **E a maior queda do dia?**
 Griedge Mbock (86), -46.7% em 24h, a 40k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 130 cartas em alta contra 90 em queda (média 4.58%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 133 cartas em alta contra 89 em queda (média 4.46%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

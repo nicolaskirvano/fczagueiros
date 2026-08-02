@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:32:13.000Z
+pubDatetime: 2026-08-02T10:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.4% em 24h** e **+64.3% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.0% em 24h** e **+64.3% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Leah Williamson | 95 | Barclays WSL | 110k coins | +31.8% | +89.5% | Esticada |
-| Dan-Axel Zagadou | 85 | Bundesliga | 27k coins | +22% | +85% | Esticada |
-| Sergi Domínguez | 92 | — | 25k coins | +9.9% | +78.6% | Esticada |
+| Kalidou Koulibaly | 92 | — | 30k coins | +26.6% | +83.1% | Esticada |
+| Sergi Domínguez | 92 | — | 25k coins | +13.6% | +78.6% | Esticada |
 | Eric García | 96 | — | 190k coins | +2.2% | +75.9% | Esticada |
-| Bobby Moore | 93 | — | 48k coins | +17.8% | +74.5% | Esticada |
-| Alessandro Nesta | 92 | — | 60k coins | +38.3% | +71.1% | Esticada |
-| Milan Škriniar | 93 | — | 30k coins | +18.4% | +65.7% | Esticada |
+| Milan Škriniar | 93 | — | 34k coins | +20% | +71.4% | Esticada |
+| Alessandro Nesta | 92 | — | 60k coins | +35.4% | +71.1% | Esticada |
+| Jamie Carragher | 92 | — | 22k coins | +30.3% | +70.7% | Esticada |
 | Alessandro Nesta | 88 | — | 23k coins | +22.7% | +64.3% | Esticada |
 | Vanessa Gilles | 94 | — | 29k coins | +19.4% | +62.5% | Esticada |
 | Giorgio Chiellini | 89 | Icons | 239k coins | +38.2% | +61.5% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 24k coins | +19.5% | +55.9% | Momentum moderado |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 50k coins | +11.1% | +53.8% | Momentum moderado |
-| Kalidou Koulibaly | 92 | — | 30k coins | +6.4% | +53.8% | Momentum moderado |
+| Nico Schlotterbeck | 87 | Bundesliga | 24k coins | +30.6% | +59.3% | Esticada |
 | Dan Burn | 86 | Premier League | 230k coins | +2.2% | +53.3% | Momentum moderado |
-| Stine Ballisager | 93 | — | 26k coins | +8.5% | +52.2% | Momentum moderado |
+| Diney | 94 | — | 18.250 coins | +1.4% | +52.1% | Momentum moderado |
+| Arseniy Batagov | 94 | — | 26k coins | +4.9% | +50.7% | Momentum moderado |
+| Stine Ballisager | 93 | — | 26k coins | +8.5% | +50% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Leah Williamson (95)** — 110k coins, **+89.5% em 7 dias** (+31.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan-Axel Zagadou (85)** — 27k coins, **+85% em 7 dias** (+22% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kalidou Koulibaly (92)** — 30k coins, **+83.1% em 7 dias** (+26.6% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sergi Domínguez (92)** — 25k coins, **+78.6% em 7 dias** (+9.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sergi Domínguez (92)** — 25k coins, **+78.6% em 7 dias** (+13.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Eric García (96)** — 190k coins, **+75.9% em 7 dias** (+2.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bobby Moore (93)** — 48k coins, **+74.5% em 7 dias** (+17.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Milan Škriniar (93)** — 34k coins, **+71.4% em 7 dias** (+20% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
