@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:44:19.000Z
+pubDatetime: 2026-08-03T13:44:18.000Z
 title: "Investimentos EA FC: Zagueiros em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Dayot Upamecano (93, sem liga) lidera, com +80.5% em 7 dias a 34k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ibañez (93, sem liga) lidera, com +82.7% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dayot Upamecano (93) acumula **+80.5% em 7 dias** a 34k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ibañez (93) acumula **+82.7% em 7 dias** a 46k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+60.0% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.6% em 24h** e **+54.1% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dayot Upamecano | 93 | — | 34k coins | +39% | +80.5% | Esticada |
-| Jan Bednarek | 94 | — | 32k coins | +38.1% | +72.6% | Esticada |
-| Harry Maguire | 97 | — | 129k coins | +18.3% | +72% | Esticada |
-| Leah Williamson | 88 | Barclays WSL | 106k coins | +10% | +71.9% | Esticada |
-| Jade Rose | 85 | Barclays WSL | 100k coins | +4.7% | +71.6% | Esticada |
-| Ibañez | 93 | — | 50k coins | +7.6% | +67.3% | Esticada |
-| Alessandro Nesta | 89 | Icons | 96k coins | +22.5% | +61.5% | Esticada |
-| Santiago Sosa | 93 | — | 42k coins | +24.8% | +60% | Esticada |
-| Giorgio Chiellini | 89 | Icons | 168k coins | +6.9% | +58.9% | Momentum moderado |
-| Luc De Fougerolles | 93 | — | 24k coins | +26.6% | +58.7% | Esticada |
+| Ibañez | 93 | — | 46k coins | +31% | +82.7% | Esticada |
+| Dayot Upamecano | 93 | — | 31k coins | +36% | +72.2% | Esticada |
+| Jade Rose | 85 | Barclays WSL | 98k coins | +11.8% | +71.6% | Esticada |
+| Harry Maguire | 97 | — | 130k coins | +13.6% | +66.7% | Esticada |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 64k coins | +17.3% | +62.3% | Esticada |
+| Dara O'Shea | 91 | — | 42k coins | +18.1% | +59.3% | Momentum moderado |
+| Luc De Fougerolles | 93 | — | 24k coins | +28.2% | +58.7% | Esticada |
 | Renato Veiga | 94 | — | 24k coins | +17.5% | +54.1% | Momentum moderado |
-| Omar Sowunmi | 93 | — | 30k coins | +8.2% | +48.8% | Momentum moderado |
-| Nico Schlotterbeck | 96 | — | 27k coins | +9.1% | +45.5% | Momentum moderado |
-| Lisandro Martínez | 95 | — | 20k coins | +9.6% | +42.9% | Momentum moderado |
-| Luka Vušković | 94 | — | 22k coins | +9.8% | +42.9% | Momentum moderado |
+| Diney | 94 | — | 21k coins | +11.1% | +45.5% | Momentum moderado |
+| Lisandro Martínez | 95 | — | 21k coins | +12.5% | +44.6% | Momentum moderado |
+| Jakub Kiwior | 94 | — | 22k coins | +12.8% | +44.3% | Momentum moderado |
+| Sherida Spitse | 85 | Nederland Vrouwen Liga | 70k coins | +2.9% | +43.6% | Momentum moderado |
+| Deja Davis | 92 | — | 21k coins | +13.2% | +43.3% | Momentum moderado |
+| Maria Méndez | 93 | — | 24k coins | +5.8% | +42.9% | Momentum moderado |
+| Issa Diop | 95 | — | 199k coins | +35.4% | +42.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Dayot Upamecano (93)** — 34k coins, **+80.5% em 7 dias** (+39% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ibañez (93)** — 46k coins, **+82.7% em 7 dias** (+31% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jan Bednarek (94)** — 32k coins, **+72.6% em 7 dias** (+38.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dayot Upamecano (93)** — 31k coins, **+72.2% em 7 dias** (+36% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Maguire (97)** — 129k coins, **+72% em 7 dias** (+18.3% em 24h). Preço +67% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jade Rose (85)** — 98k coins, **+71.6% em 7 dias** (+11.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leah Williamson (88)** — 106k coins, **+71.9% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Maguire (97)** — 130k coins, **+66.7% em 7 dias** (+13.6% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jade Rose (85)** — 100k coins, **+71.6% em 7 dias** (+4.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc Bartra (87)** — 64k coins, **+62.3% em 7 dias** (+17.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Dayot Upamecano (93, sem liga) lidera, com +80.5% em 7 dias a 34k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ibañez (93, sem liga) lidera, com +82.7% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
