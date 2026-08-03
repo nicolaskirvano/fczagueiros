@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ko Itakura</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan Tah</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vanessa Gilles</text>
-<rect x="285" y="153" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Sosa</text>
-<rect x="285" y="211" width="411" height="28" rx="7" fill="#22c55e"/>
-<text x="706" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
-<rect x="285" y="269" width="398" height="28" rx="7" fill="#22c55e"/>
-<text x="693" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin Mac Allister</text>
-<rect x="285" y="327" width="372" height="28" rx="7" fill="#22c55e"/>
-<text x="667" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Thiago</text>
-<rect x="285" y="385" width="357" height="28" rx="7" fill="#22c55e"/>
-<text x="652" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charlie Cresswell</text>
+<rect x="285" y="153" width="477" height="28" rx="7" fill="#22c55e"/>
+<text x="772" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
+<rect x="285" y="211" width="423" height="28" rx="7" fill="#22c55e"/>
+<text x="718" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Sosa</text>
+<rect x="285" y="269" width="412" height="28" rx="7" fill="#22c55e"/>
+<text x="707" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leah Williamson</text>
+<rect x="285" y="327" width="400" height="28" rx="7" fill="#22c55e"/>
+<text x="695" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Mascherano</text>
+<rect x="285" y="385" width="372" height="28" rx="7" fill="#22c55e"/>
+<text x="667" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.5%</text>
 </svg>
