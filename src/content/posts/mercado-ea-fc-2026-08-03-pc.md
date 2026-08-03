@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:33:22.000Z
+pubDatetime: 2026-08-03T10:44:17.000Z
 title: "Mercado EA FC em 03/08: Zagueiros — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Nicolás Otamendi (86), -49.7% em 24h, a 37k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 140 cartas em alta contra 89 em queda (média 4.78%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 140 cartas em alta contra 89 em queda (média 4.84%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **140 subiram**, **89 caíram** (80+ e 5k+ coins), média de **4.78%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **140 subiram**, **89 caíram** (80+ e 5k+ coins), média de **4.84%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Rio Ferdinand (88) **+56.2%** · 🔴 **Maior baixa:** Nicolás Otamendi (86) **-49.7%**
 
@@ -45,14 +45,14 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 | --- | --- | --- | --- | --- | --- |
 | Rio Ferdinand | 88 | Icons | 700k coins | +56.2% | +57.7% |
 | Griedge Mbock | 86 | D1 Arkema | 62k coins | +56.2% | +20.2% |
-| Marcel Desailly | 88 | Icons | 151k coins | +55% | +90.2% |
 | Javier Mascherano | 88 | LALIGA EA SPORTS | 28k coins | +54.2% | +44.2% |
 | Fabio Cannavaro | 89 | Icons | 140k coins | +51.6% | -42.2% |
-| Glódís Perla Viggósdóttir | 85 | GPFBL | 42k coins | +50.9% | +67.7% |
-| Steffi Jones | 89 | Icons | 60k coins | +50% | +300% |
+| Marcel Desailly | 88 | Icons | 147k coins | +51% | +83% |
+| Glódís Perla Viggósdóttir | 85 | GPFBL | 40k coins | +50.9% | +67.7% |
 | Caleb Taylor | 92 | — | 38k coins | +50% | +87.5% |
+| Steffi Jones | 89 | Icons | 60k coins | +50% | +300% |
 | Ko Itakura | 88 | Eredivisie | 33k coins | +42.7% | +136.2% |
-| Jan Bednarek | 94 | — | 35k coins | +41.9% | +77.4% |
+| Ilario Monterisi | 84 | Serie BKT | 49k coins | +40.7% | +23.1% |
 
 
 ### Análise das altas
@@ -65,7 +65,7 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 - **Griedge Mbock (86)** subiu **+56.2%** em 24h, a **62k coins** (faixa do dia: 40k–74k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Marcel Desailly (88)** subiu **+55%** em 24h, a **151k coins** (faixa do dia: 83k–180k). Está +51% acima da média de 7 dias (aquecida).
+- **Javier Mascherano (88)** subiu **+54.2%** em 24h, a **28k coins** (faixa do dia: 18.000–30k). Está +31% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -73,22 +73,22 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Nicolás Otamendi | 86 | Liga Portugal | 37k coins | -49.7% | -60.6% |
-| Lúcio | 89 | Serie A TIM | 26k coins | -46.1% | -65.6% |
+| Lúcio | 89 | Serie A TIM | 25k coins | -48% | -66.9% |
 | Lotte Wubben-Moy | 85 | Barclays WSL | 31k coins | -42.7% | -1.6% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 23k coins | -40.6% | -51.3% |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 23k coins | -40.6% | -50% |
 | Marcos Senesi | 88 | Premier League | 36k coins | -39.5% | +37.6% |
+| Tsuyoshi Watanabe | 91 | — | 28k coins | -37.6% | -46.8% |
 | Kevin Mac Allister | 94 | — | 25k coins | -35.7% | -17.5% |
-| Tsuyoshi Watanabe | 91 | — | 28k coins | -35.5% | -45% |
 | Chris Richards | 96 | — | 46k coins | -33% | -6.6% |
-| Franz Beckenbauer | 92 | Icons | 131k coins | -32.5% | -17.7% |
 | Lukas Klostermann | 88 | Bundesliga | 145k coins | -26% | +19.8% |
+| Franz Beckenbauer | 92 | Icons | 131k coins | -25% | -17.7% |
 
 
 ### Análise das baixas
 
 - **Nicolás Otamendi (86)** caiu **-49.7%** em 24h, a **37k coins** (faixa do dia: 37k–100k). Está -50% abaixo da média de 7 dias (descontada).
 
-- **Lúcio (89)** caiu **-46.1%** em 24h, a **26k coins** (faixa do dia: 14.500–94k). Está -64% abaixo da média de 7 dias (descontada).
+- **Lúcio (89)** caiu **-48%** em 24h, a **25k coins** (faixa do dia: 14.500–94k). Está -65% abaixo da média de 7 dias (descontada).
 
 - **Lotte Wubben-Moy (85)** caiu **-42.7%** em 24h, a **31k coins** (faixa do dia: 31k–54k). Está em linha com a média de 7 dias (-2%).
 
@@ -115,7 +115,7 @@ Rio Ferdinand (88, Icons), com +56.2% em 24h, a 700k coins no PC.
 Nicolás Otamendi (86), -49.7% em 24h, a 37k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 140 cartas em alta contra 89 em queda (média 4.78%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 140 cartas em alta contra 89 em queda (média 4.84%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

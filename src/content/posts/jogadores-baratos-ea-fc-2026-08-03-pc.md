@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:33:25.000Z
+pubDatetime: 2026-08-03T10:44:20.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.970 coins.
+- **Preço médio das 15 opções:** 10.973 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 6.100 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 6.000 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Eduardo Quaresma | 96 | CB | — | 12.500 coins | +4.2% |
 | Miles Robinson | 95 | CB | — | 12.250 coins | +2.1% |
-| Nnamdi Collins | 95 | CB | — | 12.750 coins | +10.6% |
-| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
+| Nnamdi Collins | 95 | CB | — | 13.500 coins | +10.6% |
+| Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
 | Pierre Kalulu | 91 | CB | Serie A TIM | 11.500 coins | 0% |
+| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Vincent Kompany | 91 | CB | Premier League | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.000 coins | 0% |
-| Virgil van Dijk | 90 | CB | Premier League | 6.100 coins | +5.2% |
-| Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Aymeric Laporte | 90 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Virgil van Dijk | 90 | CB | Premier League | 6.100 coins | +7% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 6.200 coins | +1.7% |
+| Aymeric Laporte | 90 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
+| Mapi León | 89 | CB | Liga F | 6.000 coins | +1.7% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Miles Robinson (95, CB)** da —, a apenas **12.250 coins**
 
-- **Nnamdi Collins (95, CB)** da —, a apenas **12.750 coins**
+- **Nnamdi Collins (95, CB)** da —, a apenas **13.500 coins**
 
-- **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins**
+- **Alessandro Bastoni (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins**
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins**
 
 
 ## Como distribuir a banca
