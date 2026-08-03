@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:44:11.000Z
+pubDatetime: 2026-08-03T19:44:11.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.267 coins.
+- **Preço médio das 15 opções:** 11.817 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 5.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,15 +46,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Pierre Kalulu | 91 | CB | Serie A TIM | 11.500 coins | 0% |
 | Dean Huijsen | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.250 coins | -2.1% |
-| Virgil van Dijk | 90 | CB | Premier League | 5.000 coins | +19% |
+| Lúcio | 91 | CB | Bundesliga | 12.000 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.500 coins | +2% |
+| Aymeric Laporte | 90 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Aymeric Laporte | 90 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.500 coins | +6.7% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | +8.2% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.250 coins | +17.8% |
+| Tara McKeown | 89 | CB | NWSL | 14.250 coins | +33.3% |
 
 
 ## 📈 Destaques
