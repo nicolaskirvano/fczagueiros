@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:44:16.000Z
+pubDatetime: 2026-08-04T13:44:17.000Z
 title: "Mercado EA FC em 04/08: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Harry Maguire (83, Premier League), com +52% em 24h, a 112k coins no PC."
+    a: "Emre Can (96, sem liga), com +59.5% em 24h, a 25k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mapi León (90), -42.3% em 24h, a 60k coins."
+    a: "Marc Bartra (87), -35.7% em 24h, a 42k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 84 cartas em alta contra 81 em queda (média 2.98%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 51 cartas em alta contra 62 em queda (média 1.32%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **04/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **84 subiram** e **81 caíram**, com variação média de **2.98%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **04/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **51 subiram** e **62 caíram**, com variação média de **1.32%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Harry Maguire (83) **+52%** · 🔴 **Maior baixa:** Mapi León (90) **-42.3%**
+> 🟢 **Maior alta:** Emre Can (96) **+59.5%** · 🔴 **Maior baixa:** Marc Bartra (87) **-35.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Zagueiros — PC](/charts/mercado-ea-fc-2026-08-04-pc.svg)
 
@@ -35,24 +35,24 @@ Em **04/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.9% entre as cartas que se moveram; o universo observado reúne 249 cartas.
-- **Concentração:** Bundesliga aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 95.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.1% entre as cartas que se moveram; o universo observado reúne 163 cartas.
+- **Concentração:** Liga Portugal aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Maguire | 83 | Premier League | 112k coins | +52% | 0% |
-| Andrea Barzagli | 87 | Serie A TIM | 22k coins | +50.9% | +95.5% |
-| Milan Škriniar | 93 | — | 45k coins | +50% | +119.5% |
-| Philipp Sander | 83 | Bundesliga | 40k coins | +48.1% | 0% |
-| Marcel Desailly | 88 | — | 34k coins | +34.6% | +84.5% |
-| Illia Zabarnyi | 96 | — | 162k coins | +33% | -27.3% |
-| Wilfried Singo | 86 | Trendyol Süper Lig | 55k coins | +31% | +34.1% |
-| Lotte Wubben-Moy | 85 | Barclays WSL | 40k coins | +28% | +26% |
-| Maya Le Tissier | 95 | — | 25k coins | +26.1% | +30.3% |
-| Jonathan Tah | 95 | — | 161k coins | +23.8% | +90.5% |
+| Emre Can | 96 | — | 25k coins | +59.5% | — |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 60k coins | +51.9% | 0% |
+| Paolo Maldini | 89 | — | 86k coins | +25% | +1% |
+| Alessandro Nesta | 88 | — | 48k coins | +23.5% | +59.5% |
+| Eduardo Quaresma | 88 | Liga Portugal | 20k coins | +23.1% | -53.2% |
+| Maximiliano Caufriez | 86 | Ligue 2 BKT | 39k coins | +14.8% | +29.2% |
+| Adil Demirbağ | 84 | EFL League One | 55k coins | +11.1% | +20.9% |
+| Ahmed Hegazi | 87 | Brasileirão | 120k coins | +11.1% | +11.1% |
+| Chibuike Nwaiwu | 90 | — | 36k coins | +9% | -4% |
+| Dan-Axel Zagadou | 85 | Bundesliga | 25k coins | +9% | -22.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **04/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Harry Maguire (83)** subiu **+52%** em 24h, a **112k coins** (faixa do dia: 96k–190k). Está -10% abaixo da média de 7 dias (descontada).
+- **Emre Can (96)** subiu **+59.5%** em 24h, a **25k coins** (faixa do dia: 17.750–28k). Está em linha com a média de 7 dias (+2%).
 
-- **Andrea Barzagli (87)** subiu **+50.9%** em 24h, a **22k coins** (faixa do dia: 14.250–29k). Está +22% acima da média de 7 dias (aquecida).
+- **Ismaëlo Ganiou (84)** subiu **+51.9%** em 24h, a **60k coins** (faixa do dia: 40k–60k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Milan Škriniar (93)** subiu **+50%** em 24h, a **45k coins** (faixa do dia: 27k–45k). Está +44% acima da média de 7 dias (aquecida).
+- **Paolo Maldini (89)** subiu **+25%** em 24h, a **86k coins** (faixa do dia: 57k–190k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 90 | Liga F | 60k coins | -42.3% | -47.1% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 27k coins | -35.9% | -22.1% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | -35.7% | +19.4% |
-| Steffi Jones | 89 | Icons | 40k coins | -32.9% | +168.3% |
-| Andrea Barzagli | 89 | — | 30k coins | -31.2% | -44.3% |
-| Gustaf Lagerbielke | 91 | — | 21k coins | -27.5% | -54.7% |
-| Paolo Maldini | 89 | — | 119k coins | -26.7% | +11.1% |
-| Carles Puyol | 90 | Icons | 36k coins | -26.5% | -95% |
-| Ko Itakura | 88 | Eredivisie | 22k coins | -23.8% | +43.1% |
-| Jürgen Kohler | 91 | — | 56k coins | -22.1% | +58% |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | -35.7% | +23% |
+| Steffi Jones | 89 | Icons | 40k coins | -32.9% | +0.6% |
+| Andrea Barzagli | 89 | — | 30k coins | -31% | -50% |
+| Maxence Lacroix | 96 | — | 755k coins | -30.1% | -20% |
+| Jürgen Kohler | 91 | — | 46k coins | -27.7% | +13.3% |
+| José Fonte | 85 | Liga Portugal | 50k coins | -27.3% | -7.3% |
+| Willian Pacho | 95 | — | 87k coins | -21.6% | -16.3% |
+| Mapi León | 90 | Liga F | 60k coins | -21.4% | -28.8% |
+| Ibañez | 86 | ROSHN Saudi League | 82k coins | -18% | +79.2% |
+| William Saliba | 95 | — | 320k coins | -17.9% | -3% |
 
 
 ### Análise das baixas
 
-- **Mapi León (90)** caiu **-42.3%** em 24h, a **60k coins** (faixa do dia: 37k–85k). Está -11% abaixo da média de 7 dias (descontada).
-
-- **Dan-Axel Zagadou (85)** caiu **-35.9%** em 24h, a **27k coins** (faixa do dia: 15.000–42k). Está em linha com a média de 7 dias (-7%).
-
 - **Marc Bartra (87)** caiu **-35.7%** em 24h, a **42k coins** (faixa do dia: 40k–64k). Está -12% abaixo da média de 7 dias (descontada).
+
+- **Steffi Jones (89)** caiu **-32.9%** em 24h, a **40k coins** (faixa do dia: 22k–60k). Está +17% acima da média de 7 dias (aquecida).
+
+- **Andrea Barzagli (89)** caiu **-31%** em 24h, a **30k coins** (faixa do dia: 25k–55k). Está -26% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Harry Maguire já avançou 52% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Emre Can já avançou 59.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mapi León recuou -42.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marc Bartra recuou -35.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Harry Maguire (83, Premier League), com +52% em 24h, a 112k coins no PC.
+Emre Can (96, sem liga), com +59.5% em 24h, a 25k coins no PC.
 
 **E a maior queda do dia?**
-Mapi León (90), -42.3% em 24h, a 60k coins.
+Marc Bartra (87), -35.7% em 24h, a 42k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 84 cartas em alta contra 81 em queda (média 2.98%).
+Hoje o mercado está lateral — sem direção clara, com 51 cartas em alta contra 62 em queda (média 1.32%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
