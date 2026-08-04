@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T19:44:17.000Z
+pubDatetime: 2026-08-04T22:44:16.000Z
 title: "Mercado EA FC em 04/08: Zagueiros — PC"
 draft: false
 featured: true
