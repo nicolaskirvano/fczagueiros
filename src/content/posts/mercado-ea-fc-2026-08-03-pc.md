@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:44:17.000Z
+pubDatetime: 2026-08-04T01:44:16.000Z
 title: "Mercado EA FC em 03/08: Zagueiros — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Nicolas Seiwald (85, Bundesliga), com +54.4% em 24h, a 34k coins no PC."
+    a: "Nicolas Seiwald (85, Bundesliga), com +57% em 24h, a 34k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Jaap Stam (91), -49% em 24h, a 40k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 105 cartas em alta contra 110 em queda (média 2.73%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 112 cartas em alta contra 94 em queda (média 2.65%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **105 subiram**, **110 caíram** (80+ e 5k+ coins), média de **2.73%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **112 subiram**, **94 caíram** (80+ e 5k+ coins), média de **2.65%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nicolas Seiwald (85) **+54.4%** · 🔴 **Maior baixa:** Jaap Stam (91) **-49%**
+> 🟢 **Maior alta:** Nicolas Seiwald (85) **+57%** · 🔴 **Maior baixa:** Jaap Stam (91) **-49%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Zagueiros — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 305 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.4% entre as cartas que se moveram; o universo observado reúne 293 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicolas Seiwald | 85 | Bundesliga | 34k coins | +54.4% | +31.1% |
-| Kevin Mac Allister | 94 | — | 45k coins | +53.8% | +50% |
-| Leah Williamson | 95 | Barclays WSL | 190k coins | +50.8% | +8% |
-| Tsuyoshi Watanabe | 91 | — | 28k coins | +48.6% | -28.4% |
-| Milan Škriniar | 93 | — | 44k coins | +41.1% | +113.4% |
-| Alessandro Nesta | 92 | — | 77k coins | +37.2% | +18.6% |
-| Vanessa Diehm | 86 | GPFBL | 48k coins | +36.9% | +2.7% |
-| Daley Blind | 86 | LALIGA EA SPORTS | 26k coins | +35.1% | +15.6% |
-| Bobby Moore | 93 | — | 55k coins | +35% | +32.5% |
-| Sherida Spitse | 85 | Nederland Vrouwen Liga | 70k coins | +34.6% | -1.4% |
+| Nicolas Seiwald | 85 | Bundesliga | 34k coins | +57% | +31.1% |
+| Tyrone Mings | 96 | — | 50k coins | +53.6% | +5.5% |
+| Harry Maguire | 83 | Premier League | 100k coins | +46.2% | — |
+| Milan Škriniar | 93 | — | 42k coins | +45.8% | +118.8% |
+| Santiago Sosa | 93 | — | 40k coins | +41.1% | +99% |
+| Alessandro Nesta | 92 | — | 75k coins | +40% | +13.2% |
+| Vanessa Diehm | 86 | GPFBL | 48k coins | +36.9% | +2.1% |
+| Caleb Taylor | 92 | — | 30k coins | +35.6% | +20.8% |
+| Paolo Maldini | 92 | Icons | 242k coins | +34.4% | +12.6% |
+| Sherida Spitse | 85 | Nederland Vrouwen Liga | 68k coins | +30.8% | -1.4% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nicolas Seiwald (85)** subiu **+54.4%** em 24h, a **34k coins** (faixa do dia: 10.750–36k). Está +48% acima da média de 7 dias (aquecida).
+- **Nicolas Seiwald (85)** subiu **+57%** em 24h, a **34k coins** (faixa do dia: 10.750–36k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Kevin Mac Allister (94)** subiu **+53.8%** em 24h, a **45k coins** (faixa do dia: 22k–45k). Está +8% acima da média de 7 dias (aquecida).
+- **Tyrone Mings (96)** subiu **+53.6%** em 24h, a **50k coins** (faixa do dia: 26k–121k). Está em linha com a média de 7 dias (-6%).
 
-- **Leah Williamson (95)** subiu **+50.8%** em 24h, a **190k coins** (faixa do dia: 118k–214k). Está em linha com a média de 7 dias (+6%).
+- **Harry Maguire (83)** subiu **+46.2%** em 24h, a **100k coins** (faixa do dia: 96k–190k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaap Stam | 91 | Eredivisie | 40k coins | -49% | -97.4% |
-| Gianluca Mancini | 85 | Serie A TIM | 21k coins | -44% | -39.1% |
-| Giorgio Chiellini | 89 | Icons | 44k coins | -42.8% | -25.7% |
-| José María Giménez | 87 | LALIGA EA SPORTS | 27k coins | -37.3% | -33.3% |
-| Sol Campbell | 91 | — | 22k coins | -37% | -13% |
-| Franco Baresi | 91 | Icons | 69k coins | -33.7% | 0% |
-| Mapi León | 90 | Liga F | 58k coins | -31.5% | -17.9% |
-| Cristian Romero | 86 | Premier League | 70k coins | -29.6% | -25.5% |
-| Éder Militão | 88 | LALIGA EA SPORTS | 119k coins | -29.5% | -42.1% |
-| Virgil van Dijk | 90 | Premier League | 1.67M coins | -27.4% | -19.8% |
+| Jaap Stam | 91 | Eredivisie | 40k coins | -49% | -97.8% |
+| Marwane Saadane | 83 | Brasileirão | 26k coins | -35.8% | +4% |
+| Gabriel | 89 | Premier League | 85k coins | -34.6% | +65% |
+| Mapi León | 90 | Liga F | 57k coins | -32.1% | -18.6% |
+| Paolo Maldini | 89 | — | 70k coins | -31.6% | -55.7% |
+| Franco Baresi | 91 | Icons | 69k coins | -29.2% | 0% |
+| Virgil van Dijk | 90 | Premier League | 1.67M coins | -27.4% | -12.1% |
+| Fabio Cannavaro | 89 | Icons | 113k coins | -27.3% | -53.2% |
+| Chibuike Nwaiwu | 90 | — | 26k coins | -27.1% | -32.3% |
+| Carles Puyol | 90 | Icons | 36k coins | -26.5% | -96% |
 
 
 ### Análise das baixas
 
 - **Jaap Stam (91)** caiu **-49%** em 24h, a **40k coins** (faixa do dia: 40k–78k). Está -95% abaixo da média de 7 dias (descontada).
 
-- **Gianluca Mancini (85)** caiu **-44%** em 24h, a **21k coins** (faixa do dia: 17.000–25k). Está -14% abaixo da média de 7 dias (descontada).
+- **Marwane Saadane (83)** caiu **-35.8%** em 24h, a **26k coins** (faixa do dia: 25k–41k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Giorgio Chiellini (89)** caiu **-42.8%** em 24h, a **44k coins** (faixa do dia: 36k–170k). Está -63% abaixo da média de 7 dias (descontada).
+- **Gabriel (89)** caiu **-34.6%** em 24h, a **85k coins** (faixa do dia: 30k–130k). Está em linha com a média de 7 dias (+6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nicolas Seiwald já avançou 54.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nicolas Seiwald já avançou 57% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Jaap Stam recuou -49%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Nicolas Seiwald (85, Bundesliga), com +54.4% em 24h, a 34k coins no PC.
+Nicolas Seiwald (85, Bundesliga), com +57% em 24h, a 34k coins no PC.
 
 **E a maior queda do dia?**
 Jaap Stam (91), -49% em 24h, a 40k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 105 cartas em alta contra 110 em queda (média 2.73%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 112 cartas em alta contra 94 em queda (média 2.65%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

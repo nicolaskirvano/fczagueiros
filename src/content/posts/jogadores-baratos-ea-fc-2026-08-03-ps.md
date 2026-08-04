@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:44:10.000Z
+pubDatetime: 2026-08-04T01:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.583 coins.
+- **Preço médio das 15 opções:** 11.187 coins.
 - **Posição mais frequente:** CB, com 15 cartas.
-- **Faixa real:** 11.250 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.800 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,33 +41,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Vincent Kompany | 91 | CB | Premier League | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | -2.1% |
 | Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Pierre Kalulu | 91 | CB | Serie A TIM | 11.500 coins | 0% |
 | Dean Huijsen | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
-| Lúcio | 91 | CB | Bundesliga | 12.500 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.000 coins | 0% |
 | Aymeric Laporte | 90 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
-| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Harry Maguire | 90 | CB | Premier League | 11.750 coins | +1.4% |
-| Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
+| Virgil van Dijk | 89 | CB | Premier League | 3.800 coins | -5% |
 | Dávid Hancko | 89 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.750 coins | +8.9% |
+| Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.750 coins | +13.3% |
+| Tara McKeown | 89 | CB | NWSL | 14.000 coins | -3.2% |
 
 
 ## 📈 Destaques
 
 - **Vincent Kompany (91, CB)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins**
-
 - **Alessandro Bastoni (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins**
 
 - **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins**
+
+- **Pierre Kalulu (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

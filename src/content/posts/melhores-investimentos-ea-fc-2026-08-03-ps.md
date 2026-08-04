@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:44:09.000Z
+pubDatetime: 2026-08-04T01:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Chibuike Nwaiwu (90, sem liga) lidera, com +77.6% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Glódís Perla Viggósdóttir (86, GPFBL) lidera, com +83.2% em 7 dias a 109k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Chibuike Nwaiwu (90) acumula **+77.6% em 7 dias** a 30k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Glódís Perla Viggósdóttir (86) acumula **+83.2% em 7 dias** a 109k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Zagueiros em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.0% em 24h** e **+50.0% em 7 dias**.
+- A mediana é de **+9.4% em 24h** e **+54.7% em 7 dias**.
 - **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **GPFBL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chibuike Nwaiwu | 90 | — | 30k coins | +31.1% | +77.6% | Esticada |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 25k coins | +29% | +60% | Esticada |
-| Eric García | 96 | — | 219k coins | +33.3% | +59.4% | Esticada |
-| Harry Maguire | 97 | — | 130k coins | +6.4% | +54.7% | Momentum moderado |
-| Diney | 94 | — | 22k coins | +4.7% | +52.5% | Momentum moderado |
-| Jakub Kiwior | 94 | — | 26k coins | +7.1% | +51.4% | Momentum moderado |
-| Deja Davis | 92 | — | 27k coins | +9.4% | +50% | Momentum moderado |
-| Lisandro Martínez | 95 | — | 22k coins | +2.3% | +50% | Momentum moderado |
-| Tara McKeown | 95 | — | 60k coins | +13.2% | +50% | Momentum moderado |
-| Glódís Perla Viggósdóttir | 86 | GPFBL | 84k coins | +14.3% | +50% | Momentum moderado |
-| Renato Veiga | 94 | — | 22k coins | +3.3% | +47.6% | Momentum moderado |
-| Rocío Gálvez | 88 | Liga F | 30k coins | +22.6% | +47.1% | Esticada |
-| Kojo Peprah Oppong | 93 | — | 23k coins | +4.5% | +46% | Momentum moderado |
-| Luka Vušković | 94 | — | 23k coins | +4.5% | +46% | Momentum moderado |
-| Nico Schlotterbeck | 96 | — | 26k coins | +8% | +45.9% | Momentum moderado |
+| Glódís Perla Viggósdóttir | 86 | GPFBL | 109k coins | +2.8% | +83.2% | Esticada |
+| Manuel Akanji | 91 | — | 35k coins | +13.4% | +80% | Esticada |
+| Gianluca Mancini | 85 | Serie A TIM | 34k coins | +17.6% | +75% | Esticada |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 22k coins | +24.6% | +68.6% | Esticada |
+| Caleb Taylor | 92 | — | 28k coins | +9.2% | +58.7% | Momentum moderado |
+| Harry Maguire | 97 | — | 136k coins | +7.1% | +57.9% | Momentum moderado |
+| Leah Williamson | 95 | Barclays WSL | 149k coins | +13.6% | +55.4% | Momentum moderado |
+| Chibuike Nwaiwu | 90 | — | 29k coins | +9.4% | +54.7% | Momentum moderado |
+| Jakub Kiwior | 94 | — | 26k coins | +8.2% | +51.4% | Momentum moderado |
+| Diney | 94 | — | 21k coins | +6% | +50.8% | Momentum moderado |
+| Deja Davis | 92 | — | 27k coins | +11.5% | +46.6% | Momentum moderado |
+| Jakob Glesnes | 93 | — | 29k coins | +9.4% | +45% | Momentum moderado |
+| Luka Vušković | 94 | — | 23k coins | +4.6% | +44.4% | Momentum moderado |
+| Lisandro Martínez | 95 | — | 22k coins | +3.5% | +44.3% | Momentum moderado |
+| Luka Vušković | 94 | — | 26k coins | +10.4% | +43.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Chibuike Nwaiwu (90)** — 30k coins, **+77.6% em 7 dias** (+31.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Glódís Perla Viggósdóttir (86)** — 109k coins, **+83.2% em 7 dias** (+2.8% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Mascherano (88)** — 25k coins, **+60% em 7 dias** (+29% em 24h). Preço -72% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Manuel Akanji (91)** — 35k coins, **+80% em 7 dias** (+13.4% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric García (96)** — 219k coins, **+59.4% em 7 dias** (+33.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Mancini (85)** — 34k coins, **+75% em 7 dias** (+17.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Maguire (97)** — 130k coins, **+54.7% em 7 dias** (+6.4% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Pavard (88)** — 22k coins, **+68.6% em 7 dias** (+24.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diney (94)** — 22k coins, **+52.5% em 7 dias** (+4.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caleb Taylor (92)** — 28k coins, **+58.7% em 7 dias** (+9.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Chibuike Nwaiwu (90, sem liga) lidera, com +77.6% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Glódís Perla Viggósdóttir (86, GPFBL) lidera, com +83.2% em 7 dias a 109k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
