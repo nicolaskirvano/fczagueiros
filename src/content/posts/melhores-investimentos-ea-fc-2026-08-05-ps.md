@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T22:44:09.000Z
+pubDatetime: 2026-08-06T01:44:09.000Z
 title: "Investimentos EA FC: Zagueiros em 05/08 — Console (PS)"
 draft: false
 featured: true
