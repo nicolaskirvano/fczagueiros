@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T19:44:13.000Z
+pubDatetime: 2026-08-06T22:44:10.000Z
 title: "Jogadores baratos EA FC: Zagueiros em 06/08 — Console (PS)"
 draft: false
 featured: false
