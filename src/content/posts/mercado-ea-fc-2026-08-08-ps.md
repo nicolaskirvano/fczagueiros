@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:44:08.000Z
+pubDatetime: 2026-08-08T13:44:07.000Z
 title: "Mercado EA FC em 08/08: Zagueiros — Console (PS)"
 draft: false
 featured: true
